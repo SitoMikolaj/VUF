@@ -1,0 +1,101 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 147  130  118 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #13" = 60
+	"Christian #2" = 40
+	"Anton #0" = 40
+	"Moritz #1" = 20
+	"Adolf #0" = 20
+	"Anton Günther #0" = 20
+	"Christoph #0" = 20
+	"Dietrich #0" = 20
+	"Friedrich August #0" = 20
+	"Georg #0" = 20
+	"Gerhard #0" = 20
+	"Wilhelm #0" = 20
+	"Johann #13 Friedrich" = 15
+	"Adalbert #0" = 2
+	"Albrecht #0" = 2
+	"Alexander #0" = 2
+	"Barnabas #0" = 2
+	"Burkhard #0" = 2
+	"Eckbert #0" = 2
+	"Erwin #0" = 2
+	"Fabian #0" = 2
+	"Gottschalk #0" = 2
+	"Gregor #0" = 2
+	"Hagan #0" = 2
+	"Hartwin #0" = 2
+	"Herbert #0" = 2
+	"Jeremias #0" = 2
+	"Joseph #0" = 2
+	"Julius #0" = 2
+	"Kuno #0" = 2
+	"Kurt #0" = 2
+	"Markus #0" = 2
+	"Niklas #0" = 2
+	"Reinhard #0" = 2
+	"Siegfried #0" = 2
+	"Thomas #0" = 2
+	"Valentin #0" = 2
+	"Viktor #0" = 2
+	"Wenzel #0" = 2
+	"Wilfried #0" = 2
+	
+	"Linda #0" = -1
+	"Odilie #0" = -1
+	"Petra #0" = -1
+}
+
+leader_names = { 
+	Becker Behrmann Brockstede Büsing Eilers Engel
+	Franz Harms Hinrichs Kleen Lammers Luchte Meyer
+	Munderloh Prüß Renke Roth Schmitt Stolle
+}
+
+ship_names = {
+	"Graf Christian" "Graf Anton Günther"
+	Elsfleth Hude Hatten Wardenburg Edewecht
+	Zwischenahn Weifelstede Rastede
+}
+
+army_names = {
+	"Armee Fürstliche" "Armee Herzoglichen" "Armee von Söldnern" "Milizarmee" "Armee von $PROVINCE$"
+}
+
+fleet_names = {
+	"Herzoglichen Flotte" "$PROVINCE$ Flotte"
+}

@@ -1,0 +1,278 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -2
+technology_group = western
+primary_culture = irish
+religion = catholic
+capital = 374	# Waterford
+
+
+1375.1.1 = {
+	monarch = {
+		name = "Art"
+		dynasty = "Mac Murchadha Caomhánach"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1397.1.1 = {
+	heir = {
+		name = "Donnchadh"
+		monarch_name = "Donnchadh"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1397.1.1
+		death_date = 1478.1.1 
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1417.1.1 = {
+	monarch = {
+		name = "Donnchadh"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1397.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1458.1.1 = {
+	heir = {
+		name = "Murchad"
+		monarch_name = "Murchad IV"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1458.1.1
+		death_date = 1512.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1478.1.1 = {
+	monarch = {
+		name = "Murchad IV"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1458.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1498.1.1 = {
+	heir = {
+		name = "Art"
+		monarch_name = "Art III"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1498.1.1
+		death_date = 1517.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+		
+1512.1.1 = {
+	monarch = {
+		name = "Art III"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1498.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1512.1.1 = {
+	heir = {
+		name = "Gearóid"
+		monarch_name = "Gearóid I"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1492.1.1
+		death_date = 1523.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1517.1.1 = {
+	monarch = {
+		name = "Gearóid I"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1492.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1517.1.1 = {
+	heir = {
+		name = "Muiris"
+		monarch_name = "Muiris I"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1497.1.1
+		death_date = 1531.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1523.1.1 = {
+	monarch = {
+		name = "Muiris I"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1497.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1523.1.1 = {
+	heir = {
+		name = "Muireadhach"
+		monarch_name = "Muireadhach II"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1511.1.1
+		death_date = 1547.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1531.1.1 = {
+	monarch = {
+		name = "Muireadhach II"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1511.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1531.1.1 = {
+	heir = {
+		name = "Cathaoir"
+		monarch_name = "Cathaoir II"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1527.1.1
+		death_date = 1554.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1547.1.1 = {
+	monarch = {
+		name = "Cathaoir II"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1527.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1547.1.1 = {
+	heir = {
+		name = "Murchadh"
+		monarch_name = "Murchadh V"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1527.1.1
+		death_date = 1557.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1554.1.1 = {
+	monarch = {
+		name = "Murchadh V"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1527.1.1
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1554.1.1 = {
+	heir = {
+		name = "Criomhthann"
+		monarch_name = "Criomhthann I"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1537.1.1
+		death_date = 1595.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+		
+1557.1.1 = {
+	monarch = {
+		name = "Criomhthann I"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1537.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1575.1.1 = {
+	heir = {
+		name = "Dónal"
+		monarch_name = "Donal IX"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1575.1.1
+		death_date = 1632.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1595.1.1 = {
+	monarch = {
+		name = "Dónal IX"
+		dynasty = "Mac Murchadha Caomhánach"
+		birth_date = 1575.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1617.1.1 = { government = administrative_monarchy }
+
+1707.1.1 = { government = constitutional_monarchy }

@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 201  28  54 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+}
+
+monarch_names = {
+	"Kertarajasa #0" = 20 
+	"Jayawardhana #0" = 20
+	"Raden Wijaya #0" = 20
+	"Jayanegara #0" = 20
+	"Tribhuwana #0" = 20 
+	"Wijayottungadewi #0" = 20
+	"Rajasanagara #0" = 20
+	"Girindrawardhana #0" = 20
+	"Girishawardhana #0" = 20
+	"Singhawikramawardhana #0" = 20
+	"Wijayatunggadewi #0" = 10	
+	"Prajinaparamita #0" = 10
+	"Rajadewi #0" = 10
+	"Maharajasa #0" = 10
+	"Kertabumi #0" = 20
+	"Kertawijaya #0" = 20
+	"Rajasawardhana #0" = 20
+	"Suraprabhawa #0" = 20
+	"Wikramawardhana #0" = 20
+	"Hayam Wuruk #1" = 15
+	"Kalagamet #1" = 15
+	"Raden Wijaya #1" = 15
+	"Suhita #0" = -15
+	"Sri Gitarja #1" = -10
+	"Kertawardhana #0" = 10
+	"Raden Sotor #0" = 10
+	"Raden Sumirat #0" = 10
+	"Singhawardhana #0" = 10
+	"Bhre Wirabhumi	#0" = 5
+	"Suraghawardhana #0" = 10
+	"Bhre Kahuripan #0" = 5
+	"Bhre Singapura #0" = 5
+	"Bhre Mataran #0" = 5
+	"Bhre Pamotan #0" = 5
+	"Dyah Duhita #0" = 5	
+}
+
+leader_names = {
+	Hamengku
+	Agung
+	Slamet
+	Budi
+	Harto
+	Karno
+	Wani
+	Mas
+	Kencono
+	Ratri
+	Brawijaya  
+	Djajadiningrat Djojopoespito Dyah
+	Ernalia 
+	Hayam
+	Jayanegara Jayawardhana
+	Karsumaatmaja Kertawijaya Kertanegara Kertarajasa
+	Mollema 
+	Nasution Nitisastro 
+	Prawiranega Purbacaraka Pitaloka
+	Rajasawardhana Rajasanagara Raden
+	Subadio Sumual 
+	Tribhuwana
+	Wikramawardhana Wijayottungadewi Wuruk Wijaya
+}
+
+ship_names = {
+	Sunda Citraresmi Singasari Jayakatwang
+	"Kidung Sunda" "Gajah Mada" Daha Wengker Pajang Janggala 
+	Nâgarakertâgama "Maha patih" Lasem Blambangan Lumajang 
+	Brantas Gresik Surabaya Tuban Surakarta Yogyakarta Semarang Salatiga
+	"Gunung Merbabu" Sragen Sukoharjo Wonosari
+	"Gunung Lawu" Delanggu Cepu Purwodarli
+	Ngawi Grobogan Boja Amgarawa
+Pendet Legong Baris Topeng Barong
+	Kecak Batur Catur Bratan Pohen Lesong
+	Sangyang Batukaru Patas Musi Mesehe
+	Agong Seraya Merbuk Sanglang Kelatakan
+}
+
+army_names = {
+	"Tentara Kesultanan" "Tentara Kerajaan" "Tentara Bersenjata" "Tentara $PROVINCE$"  
+}
+
+fleet_names = {
+	"Tentara Laut Kesultanan" "Tentara Laut Kerajaan" "Tentara Laut $PROVINCE$"  
+}

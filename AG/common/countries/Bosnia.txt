@@ -1,0 +1,114 @@
+#Country Name: Please see filename
+
+graphical_culture = easterngfx
+
+color = { 240  167  130 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Stjepan Tvrtko #1" = 20
+	"Stjepan Ostoja #0" = 20
+	"Stjepan Ostojic #0" = 20
+	"Stjepan Tomas #0" = 20
+	"Stjepan Tomasevic #0" = 20
+	"Radivoj #0" = 15
+	"Shimun #0" = 15
+	"Djuradj #5" = 10
+	"Tvrtko #0" = 10
+	"Matija #0" = 10
+	"Stjepan #2" = 5
+	"Aleksandar #0" = 2
+	"Andrija #0" = 2
+	"Antonije #0" = 2
+	"Bogdan #0" = 2
+	"Bojan #0" = 2
+	"Borislav #0" = 2
+	"Danijel #0" = 2
+	"Darko #0" = 2
+	"Dubravko #0" = 2
+	"Goran #0" = 2
+	"Grgur #0" = 2
+	"Ivan #0" = 2
+	"Jadranko #0" = 2
+	"Josip #0" = 2
+	"Ljubomir #0" = 2
+	"Marijan #0" = 2
+	"Meho #0" = 2
+	"Mihajlo #0" = 2
+	"Nikola #0" = 2
+	"Obrad #0" = 2
+	"Pavle #0" = 2
+	"Petar #0" = 2
+	"Srecko #0" = 2
+	"Teodor #0" = 2
+	"Vasilije #0" = 2
+	"Viktor #0" = 2
+	"Vuk #0" = 2
+	"Zoran #0" = 2
+	"Zvonomir #0" = 2
+	
+	"Abida #0" = -1
+	"Besima #0" = -1
+	"Mahira #0" = -1
+}
+
+leader_names = {
+	Babonic Balsic Branivojevic 
+	Dragisic
+	Gradascevic 
+	Hrvatinic
+	Isakovic
+	Kosaca Kotromanic
+	Nelipic
+	Pavlovic
+	Radinovic 
+	Sankovic Santic Sokolovic Subic
+	Tvrtkovic
+	Vukasin Vukcic Vukovic 
+}
+
+ship_names = {
+	Bosna Bosni
+	Dalmacija
+	"Gazi Husrev-beg"
+	"Kotromanici" "Kulin ban"
+	Miljacka
+	Sarajevo "Stjepan II"
+	"Tvrtko I"
+}
+
+army_names = {
+	"Armija Bosne" "Armija Kraljevski" "Armija Rex Ramae" "Armija Banat" "Armija Sanjak" "Armija $PROVINCE$" 
+}
+
+fleet_names = {
+	"Flota Kraljevski" "Flota Bosne" "Flota $PROVINCE$" 
+}

@@ -1,0 +1,96 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255 127 127 }
+
+historical_idea_groups = {	
+	diplomatic_ideas
+	economic_ideas
+	defensive_ideas
+	influence_ideas
+	offensive_ideas
+	trade_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Engelbert #3" = 10
+	"Meinhard #6" = 10
+	"Heinrich #6" = 10
+	"Albrecht #4" = 10
+	"Johann #2" = 10
+	"Ludwig #0" = 10
+	"Leonhard #0" = 10
+
+	"Ferdinand #0" = 10
+	"Friedrich #0" = 10
+	"Karl #0" = 10
+	"Wilhelm #0" = 10
+	"Leopold #0" = 10
+	"Cristoph #0" = 10
+	"Alexander #0" = 10
+	"Christian #0" = 10
+	"Gerhard #0" = 10
+	"Michael #0" = 10
+	"Siegfried #0" = 10
+	"Wolfgang #0" = 10
+	
+	"Ida #0" = -1
+	"Karolina #0" = -1
+	"Albina #0" = -1
+}
+
+ship_names = { 
+	"Capriva" "Cormons" "Cronberg" 
+	"Doberdò" "Dolegna" 
+	"Farra" "Fogliano"  "Frommer" 
+	"Gorica" "Gradisca" "Grado" 
+	"Lantieri" 
+	"Mariano" "Medea" "Michelstaedter" "Monfalcone" "Moraro" "Mossa" 
+	"Oslavia" "Otwin" 
+	"Petzenstein" "Piazza" 
+	"Reggio" "Ritter" "Romans" "Ronchi" 
+	"Sagrado" "San Canzian" "San Floriano" "San Lorenzo" "San Pier" "San Rocco" "San'Ignazio" "Santa Croce" "Santo Spirito" "Savogna" "Staranzano" 
+	"Turriaco" "Villesse" "Vita Loll" "di Gorizia" "di Graben" 
+}
+
+leader_names = { 
+	"Capriva" "Cormons" "Cronberg" 
+	"Doberdò" "Dolegna" 
+	"Farra" "Fogliano"  "Frommer" 
+	"Gorica" "Gradisca" "Grado" 
+	"Lantieri" 
+	"Mariano" "Medea" "Michelstaedter" "Monfalcone" "Moraro" "Mossa" 
+	"Oslavia" "Otwin" 
+	"Petzenstein" "Piazza" 
+	"Reggio" "Ritter" "Romans" "Ronchi" 
+	"Sagrado" "San Canzian" "San Floriano" "San Lorenzo" "San Pier" "San Rocco" "San'Ignazio" "Santa Croce" "Santo Spirito" "Savogna" "Staranzano" 
+	"Turriaco" "Villesse" "Vita Loll" "di Gorizia" "di Graben" 
+}
+
+army_names = {
+	"Armee Fürstliche" "Armee von $PROVINCE$"
+}
+
+fleet_names = {
+	"$PROVINCE$ Flotte"
+}

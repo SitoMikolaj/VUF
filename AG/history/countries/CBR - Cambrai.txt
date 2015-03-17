@@ -1,0 +1,137 @@
+government = theocratic_government
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = wallonian
+capital = 1743	# Cambrai
+
+
+1349.1.1 = {
+	monarch = {
+		name = "Pierre IV"
+		birth_date = 1290.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1368.12.13 = {
+	monarch = {
+		name = "Robert II"
+		birth_date = 1342.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1371.5.30 = {
+	monarch = {
+		name = "Gérard III"
+		birth_date = 1310.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1378.6.18 = {
+	monarch = {
+		name = "Jean IV"
+		birth_date = 1320.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1389.1.12 = {
+	monarch = {
+		name = "André I"
+		birth_date = 1330.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1396.1.1 = {
+	monarch = {
+		name = "Pierre V"
+		birth_date = 1351.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1411.6.6 = {
+	monarch = {
+		name = "Jean V"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1438.1.1 = {
+	monarch = {
+		name = "Jean VI de Bourgogne"
+		birth_date = 1410.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1480.4.27 = {
+	monarch = {
+		name = "Henri I"
+		birth_date = 1440.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1502.10.7 = {
+	monarch = {
+		name = "Jacques I"
+		birth_date = 1436.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1516.8.15 = {
+	monarch = {
+		name = "Guillaume III"
+		birth_date = 1498.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1519.1.1 = {
+	monarch = {
+		name = "Robert II"
+		birth_date = 1500.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1556.8.31 = {
+	monarch = {
+		name = "Maximilien I"
+		birth_date = 1520.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

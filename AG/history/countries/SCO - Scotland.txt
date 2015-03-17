@@ -1,0 +1,1065 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 3
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -3
+primary_culture = scottish
+religion = catholic
+technology_group = western
+capital = 248 # Edinburgh
+
+1371.2.22 = {
+	monarch = {
+		name = "Robert II"
+		dynasty = "Stuart"
+		birth_date = 1316.3.2
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1371.2.22 = {
+	heir = {
+		name = "John"
+		monarch_name = "Robert III"
+		dynasty = "Stuart"
+		birth_date = 1340.1.1
+		death_date = 1406.4.4
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1390.4.19 = {
+	monarch = {
+		name = "Robert III"
+		dynasty = "Stuart"
+		birth_date = 1340.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1390.4.19 = {
+	heir = {
+		name = "David"
+		monarch_name = "David III"
+		dynasty = "Stuart"
+		birth_date = 1378.10.24
+		death_date = 1402.3.26
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1400.12.24 = { leader = { name = "Archibald Douglas"	type = general	rank = 1	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1424.8.17 } }
+
+1402.3.26 = {
+	heir = {
+		name = "James"
+		monarch_name = "James I"
+		dynasty = "Stuart"
+		birth_date = 1394.12.10
+		death_date = 1437.2.21
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1406.4.4 = {
+	monarch = {
+		name = "(Guardian Robert)"
+		dynasty = "Stewart"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1406.4.4 = {
+	heir = {
+		name = "James"
+		monarch_name = "James I"
+		dynasty = "Stuart"
+		birth_date = 1394.12.10
+		death_date = 1437.2.21
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1420.9.3 = {
+	monarch = {
+		name = "(Guardian Murdoch)"
+		dynasty = "Stewart"
+		birth_date = 1362.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1420.9.3 = {
+	heir = {
+		name = "James"
+		monarch_name = "James I"
+		dynasty = "Stuart"
+		birth_date = 1394.12.10
+		death_date = 1437.2.21
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1424.5.2 = {
+	monarch = {
+		name = "James I"
+		dynasty = "Stuart"
+		birth_date = 1394.12.10
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1430.10.16 = {
+	heir = {	
+		name = "Alexander"
+		monarch_name = "Alexander IV"
+		dynasty = "Stuart"
+		birth_date = 1430.10.16
+		death_date = 1430.12.30
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1430.12.30 = {
+	heir = {	
+		name = "James"
+		monarch_name = "James II"
+		dynasty = "Stuart"
+		birth_date = 1430.10.16
+		death_date = 1460.8.3
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1437.2.21 = {
+	monarch = {
+		name = "(Guardian Archibald)"
+		dynasty = "Douglas"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1437.2.21 = {
+	heir = {	
+		name = "James"
+		monarch_name = "James II"
+		dynasty = "Stuart"
+		birth_date = 1430.10.16
+		death_date = 1460.8.3
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1439.6.26 = {
+	monarch = {
+		name = "(Guardian William)"
+		dynasty = "Crichton"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1439.6.26 = {
+	heir = {	
+		name = "James"
+		monarch_name = "James II"
+		dynasty = "Stuart"
+		birth_date = 1430.10.16
+		death_date = 1460.8.3
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1445.1.1 = {
+	monarch = {
+		name = "(Guardian William)"
+		dynasty = "Douglas"
+		birth_date = 1425.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1445.1.1 = {
+	heir = {	
+		name = "James"
+		monarch_name = "James II"
+		dynasty = "Stuart"
+		birth_date = 1430.10.16
+		death_date = 1460.8.3
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1449.10.16 = {
+	#decision = use_highland_charge
+	monarch = {
+		name = "James II"
+		dynasty = "Stuart"
+		birth_date = 1430.10.16
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1451.7.10 = {
+	heir = {
+		name = "James"
+		monarch_name = "James III"
+		dynasty = "Stuart"
+		birth_date = 1451.7.10
+		death_date = 1488.6.11
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1460.8.3 = {
+	monarch = {
+		name = "(Guardian Mary)"
+		dynasty = "of Guelders"
+		birth_date = 1434.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1460.8.3 = {
+	heir = {
+		name = "James"
+		monarch_name = "James III"
+		dynasty = "Stuart"
+		birth_date = 1451.7.10
+		death_date = 1488.6.11
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1463.12.1 = {
+	monarch = {
+		name = "(Guardian James)"
+		dynasty = "Kennedy"
+		birth_date = 1408.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1463.12.1 = {
+	heir = {
+		name = "James"
+		monarch_name = "James III"
+		dynasty = "Stuart"
+		birth_date = 1451.7.10
+		death_date = 1488.6.11
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1466.1.1 = {
+	monarch = {
+		name = "(Guardian Robert)"
+		dynasty = "Boyd"
+		birth_date = 1410.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1466.1.1 = {
+	heir = {
+		name = "James"
+		monarch_name = "James III"
+		dynasty = "Stuart"
+		birth_date = 1451.7.10
+		death_date = 1488.6.11
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1469.7.10 = {
+	monarch = {
+		name = "James III"
+		dynasty = "Stuart"
+		birth_date = 1451.7.10
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}
+
+1473.3.17 = {
+	heir = {
+		name = "James"
+		monarch_name = "James IV"
+		dynasty = "Stuart"
+		birth_date = 1473.3.17
+		death_date = 1513.9.9
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+		leader = { name = "James IV"		type = general	rank = 0	fire = 1	shock = 3	manuever = 2	siege = 0 }
+	}
+}
+	
+1488.6.12 = {
+	monarch = {
+		name = "(Guardian Patrick)"
+		dynasty = "Hepburn"
+		birth_date = 1440.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1488.6.12 = {
+	heir = {
+		name = "James"
+		monarch_name = "James IV"
+		dynasty = "Stuart"
+		birth_date = 1473.3.17
+		death_date = 1513.9.9
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+		leader = { name = "James IV"		type = general	rank = 0	fire = 1	shock = 3	manuever = 2	siege = 0 }
+	}
+}
+
+1489.6.12 = {
+	monarch = {
+		name = "(Guardian Alexander)"
+		dynasty = "Hume"
+		birth_date = 1440.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1489.6.12 = {
+	heir = {
+		name = "James"
+		monarch_name = "James IV"
+		dynasty = "Stuart"
+		birth_date = 1473.3.17
+		death_date = 1513.9.9
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+		leader = { name = "James IV"		type = general	rank = 0	fire = 1	shock = 3	manuever = 2	siege = 0 }
+	}
+}
+
+1494.3.17 = {
+	monarch = {
+		name = "James IV"
+		dynasty = "Stuart"
+		birth_date = 1473.3.17
+		adm = 3
+		dip = 4
+		mil = 1
+		leader = { name = "James IV"		type = general	rank = 0	fire = 1	shock = 3	manuever = 2	siege = 0 }
+	}
+}
+
+1507.2.21 = {
+	heir = {	
+		name = "James"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1507.2.21
+		death_date = 1508.2.27
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1509.10.20 = {
+	heir = {	
+		name = "Arthur"
+		monarch_name = "Arthur I"
+		dynasty = "Stuart"
+		birth_date = 1509.10.20
+		death_date = 1510.7.14
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1512.4.10 = {
+	heir = {
+		name = "James"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1513.9.10 = {
+	monarch = {
+		name = "(Guardian Margaret)"
+		dynasty = "Tudor"
+		birth_date = 1489.11.28
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1513.9.10 = {
+	heir = {
+		name = "James"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1514.9.10 = {
+	monarch = {
+		name = "(Guardian Robert)"
+		dynasty = "Maxwell"
+		birth_date = 1493.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1514.9.10 = {
+	heir = {
+		name = "James"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1515.1.1 = {
+	monarch = {
+		name = "(Guardian John)"
+		dynasty = "Stewart"
+		birth_date = 1481.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1515.1.1 = {
+	heir = {
+		name = "James"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1524.1.1 = {
+	monarch = {
+		name = "(Guardian Archibald)"
+		dynasty = "Douglas"
+		birth_date = 1489.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1524.1.1 = {
+	heir = {
+		name = "James"
+		monarch_name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		death_date = 1542.12.14
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1528.4.10 = {
+	monarch = {
+		name = "James V"
+		dynasty = "Stuart"
+		birth_date = 1512.4.10
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1540.5.22 = {
+	heir = {	
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1540.5.22
+		death_date = 1541.4.12
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1542.12.8 = {
+	heir = {
+		name = "Mary"
+		monarch_name = "Mary I"
+		dynasty = "Stuart"
+		birth_date = 1542.12.8
+		death_date = 1587.2.8
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1542.12.15 = {
+	monarch = {
+		name = "(Guardian James)"
+		dynasty = "Hamilton"
+		birth_date = 1516.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1542.12.15 = {
+	heir = {
+		name = "Mary"
+		monarch_name = "Mary I"
+		dynasty = "Stuart"
+		birth_date = 1542.12.8
+		death_date = 1587.2.8
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1546.1.1 = { leader = {	name = "James Hamilton"     	type = general	rank = 1	fire = 1	shock = 2	manuever = 3	siege = 0	death_date = 1569.1.1 } }
+
+1550.1.1 = { leader = {	name = "Malcolm"               	type = general	rank = 1	fire = 2	shock = 4	manuever = 2	siege = 0	death_date = 1595.1.1 } }
+
+1554.1.1 = {
+	monarch = {
+		name = "(Guardian Mary)"
+		dynasty = "de Guise"
+		birth_date = 1515.11.22
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1554.1.1 = {
+	heir = {
+		name = "Mary"
+		monarch_name = "Mary I"
+		dynasty = "Stuart"
+		birth_date = 1542.12.8
+		death_date = 1587.2.8
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1560.6.11 = { religion = reformed }
+
+1560.6.11 = {
+	monarch = {
+		name = "Mary I"
+		dynasty = "Stuart"
+		birth_date = 1542.12.8
+		adm = 2
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}
+
+1566.6.19 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1567.7.15 = { government = despotic_monarchy	religion = reformed }
+
+1567.7.15 = {
+	monarch = {
+		name = "(Guardian James)"
+		dynasty = "Stewart"
+		birth_date = 1531.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1567.7.15 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1570.1.23 = {
+	monarch = {
+		name = "(Guardian Matthew)"
+		dynasty = "Stewart"
+		birth_date = 1516.9.21
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1570.1.23 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1571.9.4 = {
+	monarch = {
+		name = "(Guardian John)"
+		dynasty = "Erskine"
+		birth_date = 1520.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1571.9.4 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1572.10.28 = {
+	monarch = {
+		name = "(Guardian James)"
+		dynasty = "Douglas"
+		birth_date = 1516.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1572.10.28 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1581.6.19 = {
+	monarch = {
+		name = "(Guardian Esmé)"
+		dynasty = "Stewart"
+		birth_date = 1542.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1581.6.19 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1583.5.26 = {
+	monarch = {
+		name = "James VI"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+1594.2.19 = {
+	heir = {
+		name = "Henry Frederick"
+		monarch_name = "Henry I"
+		dynasty = "Stuart"
+		birth_date = 1594.2.19
+		death_date = 1612.11.6
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1612.11.6 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "Stuart"
+		birth_date = 1600.11.19
+		death_date = 1649.1.30
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+#1616.1.1 = { decision = school_establishment_act }
+
+1625.3.28 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "Stuart"
+		birth_date = 1600.11.19
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1630.1.1 = { leader = {	name = "James Hamilton"		type = general	rank = 1	fire = 1	shock = 1	manuever = 2	siege = 0	death_date = 1649.3.9 } }
+
+1630.5.29 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles II"
+		dynasty = "Stuart"
+		birth_date = 1630.5.29
+		death_date = 1685.2.6
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1635.1.1 = { leader = {	name = "Alexander Leslie"	type = general	rank = 1	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1651.8.1 } }
+
+1644.1.1 = { leader = {	name = "David Leslie"		type = general	rank = 2	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1650.1.1 } }
+
+1649.1.30 = {
+	monarch = {
+		name = "(Guardian Alexander)"
+		dynasty = "Leslie"
+		adm = 4
+		dip = 3
+		mil = 5
+		regent = yes
+	}
+}
+
+1660.4.24 = {
+	monarch = {
+		name = "Charles II"
+		dynasty = "Stuart"
+		birth_date = 1630.5.29
+		adm = 3
+		dip = 2
+		mil = 0
+		leader = { name = "Charles II"		type = general	rank = 0	fire = 2	shock = 5	manuever = 2	siege = 0 }
+	}
+}
+
+1660.4.24 = {
+	heir = {
+		name = "James"
+		monarch_name = "James VII"
+		dynasty = "Stuart"
+		birth_date = 1633.10.14
+		death_date = 1701.9.16
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1678.1.1 = { leader = {	name = "John Graham"                	type = general	rank = 0	fire = 1	shock = 3	manuever = 3	siege = 0	death_date = 1689.1.1 } }
+
+1685.2.6 = {
+	monarch = {
+		name = "James VII"
+		dynasty = "Stuart"
+		birth_date = 1633.10.14
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1685.2.6 = {
+	heir = {
+		name = "Mary"
+		monarch_name = "Mary II"
+		dynasty = "Stuart"
+		birth_date = 1662.4.30
+		death_date = 1694.12.28
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+1688.2.15 = {
+	monarch = {
+		name = "Mary II"
+		dynasty = "Stuart"
+		birth_date = 1662.4.30
+		adm = 2
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}
+
+1694.1.1 = { leader = {	name = "James Fitzjames"               	type = general	rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1723.1.1 } }
+
+1694.12.28 = {
+	monarch = {
+		name = "William III"
+		dynasty = "van Oranje"
+		birth_date = 1650.11.4
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1701.9.7 = {
+	monarch = {
+		name = "James VIII"
+		dynasty = "Stuart"
+		birth_date = 1688.6.20
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1702.3.8 = {
+	monarch = {
+		name = "Anne I"
+		dynasty = "Stuart"
+		birth_date = 1665.2.6		
+		adm = 3
+		dip = 5
+		mil = 4
+		female = yes
+	}
+}
+
+1702.3.8 = {
+	heir = {
+		name = "Sophia"
+		monarch_name = "Sophia I"
+		dynasty = "von Wittelsbach"
+		birth_date = 1630.10.14
+		death_date = 1714.6.8
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+1714.6.8 = {
+	heir = {
+		name = "George Louis"
+		monarch_name = "George I"
+		dynasty = "von Hannover"
+		birth_date = 1660.5.28
+		death_date = 1727.6.11
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}

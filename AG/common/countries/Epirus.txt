@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 230  228  214 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Thomas #2" = 20
+	"Michael #2" = 20
+	"Nikephoros #2" = 20
+	"Nicholas #1" = 10
+	"Giovanni #1" = 10
+	"Theodore #1" = 5
+	"Maria #1" = -5
+	"Simeon #1" = 5
+	"Agapios #0" = 2
+	"Akakios #0" = 2
+	"Alexandros #0" = 2
+	"Anargyros #0" = 2
+	"Anastasios #0" = 2
+	"Andreas #0" = 2
+	"Angelos #0" = 2
+	"Aniketos #0" = 2
+	"Apostolos #0" = 2
+	"Argyros #0" = 2
+	"Athanasios #0" = 2
+	"Charalampos #0" = 2
+	"Chrysanthos #0" = 2
+	"Demetrios #0" = 2
+	"Dimosthenes #0" = 2
+	"Dionysios #0" = 2
+	"Dorotheos #0" = 2
+	"Eleftherios #0" = 2
+	"Elias #0" = 2
+	"Emmanouil #0" = 2
+	"Evangelos #0" = 2
+	"Georgios #0" = 2
+	"Gregorios #0" = 2
+	"Ioannes #0" = 2
+	"Konstantinos #0" = 2
+	"Pavlos #0" = 2
+	"Petros #0" = 2
+	"Philippos #0" = 2
+	"Photios #0" = 2
+	"Stephanos #0" = 2
+	"Theophylaktos #0" = 2
+	"Vasilis #0" = 2
+	"Vlasis #0" = 2
+	
+	"Sibylla #0" = -1
+	"Xenia #0" = -1
+}	
+
+leader_names = { 
+	Angelus Asan
+	Branas	
+	Cantacuzene Comnenus 
+	Ducas
+	Mavros 
+	Notaras
+	Palaeologus Phocas
+	Raoul
+	Spagnoli Sphrantzes
+	Tocco
+	Zaccaria
+}
+
+ship_names = {
+	"Agios Kyprianos" Areopoli
+	Elika
+	Geronlimenas Gytheio
+	Kardamyli Kokkala Kotronas
+	Skoutari
+	Vathia
+	"Bishti i Palles"
+	"Gjiri i Drinit" "Gjiri i Rondonit"
+	Jube
+	"Kalaja e Turres" "Kepi i Rodonit" Kyrekuq
+	Shengjin Shetaj
+	Velipoje
+}
+
+army_names = {
+	"Ipiros Stratos" "Despótês Stratos" "$PROVINCE$ Stratos"
+}
+
+fleet_names = {
+	"Ipiros Naftikó" "Despótês Naftikón" "Ionio Naftikó" "$PROVINCE$ Naftiko"
+}

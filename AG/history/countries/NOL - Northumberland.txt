@@ -1,0 +1,298 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 3
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = -2
+#serfdom_freesubjects = -2
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 246	# Newcastle
+
+1377.1.1 = {
+	monarch = {
+		name = "Henry I"
+		dynasty = "Percy"
+		birth_date = 1341.11.10
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1405.1.1 = {
+	monarch = {
+		name = "Henry IV"
+		dynasty = "of Lancaster"
+		birth_date = 1366.4.15
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1416.1.1 = {
+	monarch = {
+		name = "Henry II"
+		dynasty = "Percy"
+		birth_date = 1393.2.3
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1421.7.25 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry III"
+		dynasty = "Percy"
+		birth_date = 1421.7.25
+		death_date = 1461.3.29
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1455.1.1 = {
+	monarch = {
+		name = "Henry III"
+		dynasty = "Percy"
+		birth_date = 1421.7.25
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1455.1.1 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry IV"
+		dynasty = "Percy"
+		birth_date = 1449.1.1
+		death_date = 1489.4.28
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+# confiscation du titre
+1461.3.29 = {
+	monarch = {
+		name = "John"
+		dynasty = "Neville"
+		birth_date = 1431.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+} 
+
+1461.3.29 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry IV"
+		dynasty = "Percy"
+		birth_date = 1449.1.1
+		death_date = 1489.4.28
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1470.3.1 = {
+	monarch = {
+		name = "Henry IV"
+		dynasty = "Percy"
+		birth_date = 1449.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1478.1.14 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry V"
+		dynasty = "Percy"
+		birth_date = 1478.1.14
+		death_date = 1527.5.19
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1489.4.28 = {
+	monarch = {
+		name = "Henry V"
+		dynasty = "Percy"
+		birth_date = 1478.1.14
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1502.1.1 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry VI"
+		dynasty = "Percy"
+		birth_date = 1502.1.1
+		death_date = 1537.6.29
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1527.5.19 = {
+	monarch = {
+		name = "Henry VI"
+		dynasty = "Percy"
+		birth_date = 1502.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1528.6.10 = {
+	heir = {
+		name = "Thomas"
+		monarch_name = "Thomas I"
+		dynasty = "Percy"
+		birth_date = 1528.6.10
+		death_date = 1572.8.22
+		claim = 75
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1537.6.29 = {
+	monarch = {
+		name = "Thomas I"
+		dynasty = "Percy"
+		birth_date = 1528.6.10
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1537.6.29 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry VII"
+		dynasty = "Percy"
+		birth_date = 1532.1.1
+		death_date = 1585.6.21
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1572.8.22 = {
+	monarch = {
+		name = "Henry VII"
+		dynasty = "Percy"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1572.8.22 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry VII"
+		dynasty = "Percy"
+		birth_date = 1564.4.27
+		death_date = 1632.11.5
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1585.6.21 = {
+	monarch = {
+		name = "Henry VIII"
+		dynasty = "Percy"
+		birth_date = 1564.4.27
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1602.9.29 = {
+	heir = {
+		name = "Algernon"
+		monarch_name = "Algernon I"
+		dynasty = "Percy"
+		birth_date = 1602.9.29
+		death_date = 1668.10.13
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1632.11.5 = {
+	monarch = {
+		name = "Algernon I"
+		dynasty = "Percy"
+		birth_date = 1602.9.29
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1644.7.4 = {
+	heir = {
+		name = "Josceline"
+		monarch_name = "Josceline I"
+		dynasty = "Percy"
+		birth_date = 1644.7.4
+		death_date = 1670.5.31
+		claim = 90
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1668.10.13 = {
+	monarch = {
+		name = "Josceline I"
+		dynasty = "Percy"
+		birth_date = 1644.7.4
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

@@ -1,0 +1,17 @@
+name = "Guerre des clans Oda-Takeda"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1574.1.1 = {
+	add_attacker = ODA
+	add_defender = TKD
+}
+
+1582.3.11 = {
+	rem_attacker = ODA
+	rem_defender = TKD
+}

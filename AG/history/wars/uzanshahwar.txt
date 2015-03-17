@@ -1,0 +1,21 @@
+name = "Guerre d'Uzan Shah"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+#Jahan Shah est tué par les Akkonyoulu et Abu Sa'id refuse de faire la paix avec eux
+
+1467.11.11 = {
+	add_attacker = AKK
+	add_defender = TIM
+} 
+
+1469.8.27 = {
+	rem_attacker = AKK
+	rem_defender = TIM
+} 
+
+#Abu Sa'id est capturé puis exécuté par Uzan Shah

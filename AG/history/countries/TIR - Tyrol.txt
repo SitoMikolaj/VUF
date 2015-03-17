@@ -1,0 +1,245 @@
+government = feudal_county
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+technology_group = western
+religion = catholic
+primary_culture = austrian
+capital = 73	# Innsbruck
+
+1365.7.27 = {
+	monarch = {
+		name = "Leopold III"
+		dynasty = "von Habsburg"
+		birth_date = 1351.11.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1370.1.1 = {
+	heir = {
+		name = "Wilhelm"
+		monarch_name = "Wilhelm I"
+		dynasty = "von Habsburg"
+		birth_date = 1370.1.1
+		death_date = 1406.6.15
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1386.7.10 = {
+	monarch = {
+		name = "Wilhelm I"
+		dynasty = "von Habsburg"
+		birth_date = 1370.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1386.7.10 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich IV"
+		dynasty = "von Habsburg"
+		birth_date = 1382.1.1
+		death_date = 1439.6.25
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1406.6.15 = {
+	monarch = {
+		name = "Friedrich IV"
+		dynasty = "von Habsburg"
+		birth_date = 1382.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1427.10.26 = {
+	heir = {
+		name = "Sigismund"
+		monarch_name = "Sigismund I"
+		dynasty = "von Habsburg"
+		birth_date = 1427.10.26
+		death_date = 1496.3.4
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1439.6.25 = {
+	monarch = {
+		name = "Sigismund I"
+		dynasty = "von Habsburg"
+		birth_date = 1427.10.26
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+# Unification avec l'autriche de 1490  jusqu'en 1564, car Sigismond a abdiqué sous une révolte générale
+# Ferdinand I lègue à son second fils le comté de Tyrol
+
+1564.7.25 = {
+	monarch = {
+		name = "Ferdinand II"
+		dynasty = "von Habsburg"
+		birth_date = 1529.6.14
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+# Seconde unification de 1595 jusqu'en 1602
+# Rodolphe II lègue à son frère le comté de Tyrol
+
+1602.1.1 = {
+	monarch = {
+		name = "Maximilian III"
+		dynasty = "von Habsburg"		
+		birth_date = 1558.10.12
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1602.1.1 = {
+	heir = {
+		name = "Leopold"
+		monarch_name = "Leopold V"
+		dynasty = "von Habsburg"
+		birth_date = 1586.10.9
+		death_date = 1632.9.13
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1618.11.2  = {
+	monarch = {
+		name = "Leopold V"
+		dynasty = "von Habsburg"
+		birth_date = 1586.10.9		
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1628.5.17 = {
+	heir = {
+		name = "Ferdinand Karl"		
+		monarch_name = "Ferdinand Karl"
+		dynasty = "von Habsburg"
+		birth_date = 1628.5.17
+		death_date = 1662.12.30
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+1632.9.14 = {
+	monarch = {
+		name = "(Regent Claude)"
+		dynasty = "de'Medicis"		
+		birth_date = 1604.6.4
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1632.9.14 = {
+	heir = {
+		name = "Ferdinand Karl"		
+		monarch_name = "Ferdinand Karl"
+		dynasty = "von Habsburg"
+		birth_date = 1628.5.17
+		death_date = 1662.12.30
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+1646.5.17 = {
+	monarch = {
+		name = "Ferdinand Karl"
+		dynasty = "von Habsburg"		
+		birth_date = 1628.5.17
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+1646.5.17 = {
+	heir = {
+		name = "Sigismund Francis"
+		monarch_name = "Sigismund Francis"
+		dynasty = "von Habsburg"
+		birth_date = 1630.11.27
+		death_date = 1665.6.25
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1662.12.30 = {
+	monarch = {
+		name = "Sigismund Francis"
+		dynasty = "von Habsburg"
+		birth_date = 1630.11.27
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1662.12.30 = {
+	heir = {
+		name = "Leopold"
+		monarch_name = "Leopold I"
+		dynasty = "von Habsburg"
+		birth_date = 1640.6.9
+		death_date = 1705.5.5
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+# Fusion définitive avec l'Autriche

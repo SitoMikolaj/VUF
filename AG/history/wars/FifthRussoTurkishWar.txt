@@ -1,0 +1,87 @@
+name = "Cinquième guerre russo-turque"
+war_goal = {
+	type = take_capital_liberation
+	casus_belli = cb_liberation
+	tag = TUR
+}
+
+1806.11.1 = {
+	add_attacker = RUS
+	add_defender = TUR
+	add_defender = WAL
+	add_defender = MOL
+}
+
+1807.5.11 = {
+	battle = {
+		name = "Dardanelles"
+		location = 1320
+		attacker = {
+			commander =	"Dmitry Senyavin" 
+			heavy_ship = 7
+			light_ship = 3
+			losses = 10	# percent
+			country = RUS
+		}
+		defender = {
+			commander =	"Kapudan Pasha Seyit-Ali"
+			heavy_ship = 8
+			light_ship = 6
+			galley = 55
+			losses = 60	# percent
+			country = TUR
+		}
+		result = win
+	}
+}
+
+1807.6.18 = {
+	battle = {
+		name = "Arpachai"
+		location = 422
+		attacker = {
+			commander = "Comte Gudovich"
+			infantry = 7000
+			losses = 5	# percent
+			country = RUS
+		}
+		defender = {
+			commander =	"Yusuf Pasha"
+			infantry = 2000
+			losses = 25	# percent
+			country = TUR
+		}
+		result = win
+	}
+}
+
+1807.6.29 = {
+	battle = {
+		name = "Mont Athos"
+		location = 1319
+		attacker = {
+			commander =	"Dmitry Senyavin" 
+			heavy_ship = 7
+			light_ship = 3
+			losses = 5	# percent
+			country = RUS
+		}
+		defender = {
+			commander =	"Kapudan Pasha Seyit-Ali"
+			heavy_ship = 10
+			light_ship = 8
+			transport = 2
+			losses = 60	# percent
+			country = TUR
+		}
+		result = win
+	}
+}
+
+# Traité de Bucarest
+1812.5.28 = {
+	rem_attacker = RUS
+	rem_defender = TUR
+	rem_defender = WAL
+	rem_defender = MOL
+}

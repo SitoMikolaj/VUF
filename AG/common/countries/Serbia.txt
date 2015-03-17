@@ -1,0 +1,118 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 166  72  57 }
+
+revolutionary_colors = { 13  0  5 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Stefan #2" = 60
+	"Lazar #1" = 20
+	"Djorde #0" = 20
+	"Djuradj #0" = 20
+	"Milosh #0" = 20
+	"Djordje #0" = 20
+	"Alexa #0" = 15
+	"Grgur #0" = 15
+	"Petrija #0" = 15
+	"Todor #0" = 15
+	"Aleksandar #0" = 10
+	"Mihailo #0" = 10
+	"Milan #0" = 10
+	"Bogdan #0" = 2
+	"Branko #0" = 2
+	"Bratislav #0" = 2
+	"Darko #0" = 2
+	"Dragan #0" = 2
+	"Dubravko #0" = 2
+	"Dusan #0" = 2
+	"Filip #0" = 2
+	"Goran #0" = 2
+	"Ivan #0" = 2
+	"Josif #0" = 2
+	"Konstantin #0" = 2
+	"Luka #0" = 2
+	"Marko #0" = 2
+	"Mateja #0" = 2
+	"Miroslav #0" = 2
+	"Mladen #0" = 2
+	"Nebojsa #0" = 2
+	"Nemanja #0" = 2
+	"Nenad #0" = 2
+	"Nikola #0" = 2
+	"Pedrag #0" = 2
+	"Stanko #0" = 2
+	"Toma #0" = 2
+	"Vinko #0" = 2
+	"Vjekoslav #0" = 2
+	"Zdravko #0" = 2
+	"Zvonimir #0" = 2
+	
+	"Branka #0" = -1
+	"Jagoda #0" = -1
+	"Mirna #0" = -1
+}
+
+leader_names = {
+	Bojovic Brankovic Berislavic
+	Drascovic
+	Gingic
+	Hracovec
+	Janjevo
+	Lazarevic
+	Marcovic
+	Obilic
+	Pertrovic Postek Putnik
+	Skopje
+}
+
+ship_names = {
+	Raska
+	Bosnia
+	Duklja
+	Zahumlje
+	Travunia
+	Pagania
+	"Stefan Nemanja"
+	"Stefan Prvovencani"
+	"Stefan Dusan"
+	Milutin
+}
+
+army_names = {
+	"Vojska Carski" "Vojska Knez" "Vojska Srbije" "Garda Carski" "Vojska Vlastela" "Vojska $PROVINCE$" 
+}
+
+fleet_names = {
+	"Brodovlje Carski" "Brodovlje Srbije" "Brodovlje $PROVINCE$"
+}

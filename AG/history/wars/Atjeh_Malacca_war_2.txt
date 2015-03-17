@@ -1,0 +1,17 @@
+name = "La seconde guerre d'Atjeh"
+
+#casus_belli
+war_goal = {
+	type = take_border
+	casus_belli = cb_border_war
+}
+
+1540.1.1 = {
+	add_attacker = ATJ
+	add_defender = MLC
+}
+
+1612.12.31 = {
+	rem_attacker = ATJ
+	rem_defender = MLC
+}

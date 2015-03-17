@@ -1,0 +1,12 @@
+bookmark =
+{
+	name = "CAMPAGNE_RUSSIE_NAME"
+	desc = "CAMPAGNE_RUSSIE_DESC"
+	date = 1812.6.21
+	
+	country = FRA
+	country = RUS
+	country = GBR
+	country = PRU
+	country = USA
+}

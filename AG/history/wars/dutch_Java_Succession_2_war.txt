@@ -1,0 +1,17 @@
+name = "Seconde guerre de succession de Java"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1719.7.1 = {
+	add_attacker = NED
+	add_defender = MTR
+}
+
+1723.10.1 = {
+	rem_attacker = NED
+	rem_defender = MTR
+}

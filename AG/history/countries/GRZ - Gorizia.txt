@@ -1,0 +1,92 @@
+government = feudal_county
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = austrian
+capital = 1769	# Gorice
+
+1338.1.1 = {
+	monarch = {
+		name = "Meinhard VI"
+		dynasty = "von Görz"
+		birth_date = 1376.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1376.1.1 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich VI"
+		dynasty = "von Görz"
+		birth_date = 1376.1.1
+		death_date = 1454.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1385.1.1 = {
+	monarch = {
+		name = "Heinrich VI"
+		dynasty = "von Görz"
+		birth_date = 1376.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1433.1.1 = {
+	heir = {
+		name = "Johann"
+		monarch_name = "Johann II"
+		dynasty = "von Görz"
+		birth_date = 1433.1.1
+		death_date = 1462.5.22
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1454.1.1 = {
+	monarch = {
+		name = "Johann II"
+		dynasty = "von Görz"
+		birth_date = 1433.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1454.1.1 = {
+	heir = {
+		name = "Leonhard"
+		monarch_name = "Leonhard I"
+		dynasty = "von Görz"
+		birth_date = 1440.1.1
+		death_date = 1500.4.12
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1462.1.1 = {
+	monarch = {
+		name = "Leonhard I"
+		dynasty = "von Görz"
+		birth_date = 1440.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

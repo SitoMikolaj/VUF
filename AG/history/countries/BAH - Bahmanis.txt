@@ -1,0 +1,385 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = shiite
+primary_culture = kannada
+capital = 1948	# Gulbarga
+
+
+1397.1.1 = {
+	monarch = {
+		name = "Tâj ud-Dîn Fîrûz"
+		dynasty = "Bahman"
+		DIP = 3
+		ADM = 4
+		MIL = 4
+	leader = {	name = "Tâj ud-Dîn Fîrûz"	type = general	rank = 0	fire = 3	shock = 3	manuever = 2	siege = 0 }
+	}
+}
+
+1397.1.1 = {
+	heir = {
+		name = "'Ahmâd"
+		monarch_name = "'Ahmâd Shâh I Wâlî"
+		dynasty = "Bahman"
+		birth_date = 1370.1.1
+		death_date = 1436.4.17
+		claim = 95
+		ADM = 4
+		DIP = 4
+		MIL = 3
+	}
+}
+
+
+ 
+
+1422.1.1 = {
+	monarch = {
+		name = "'Ahmâd Shâh I Wâlî"
+		dynasty = "Bahman"
+		DIP = 2
+		ADM = 2
+		MIL = 2
+	}
+}
+
+1422.1.1 = {
+	heir = {
+		name = "'Alâ' ud-Dîn 'Ahmâd"
+		monarch_name = "'Alâ' ud-Dîn 'Ahmâd Shâh II"
+		dynasty = "Bahman"
+		birth_date = 1410.1.1
+		death_Date = 1458.5.6
+		claim = 95
+		ADM = 4
+		DIP = 4
+		MIL = 5
+	}
+}
+
+1436.4.17 = {
+	monarch = {
+		name = "'Alâ' ud-Dîn 'Ahmâd Shâh II"
+		dynasty = "Bahman"
+		DIP = 4
+		ADM = 4
+		MIL = 5
+	}
+}
+
+1436.4.17 = {
+	heir = {
+		name = "'Alâ' ud-Dîn 'Ahmâd Humâyûn"
+		monarch_name = "'Alâ' ud-Dîn 'Ahmâd Humâyûn Shâh"
+		dynasty = "Bahman"
+		birth_date = 1410.1.1
+		death_Date = 1461.9.4
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1458.5.6 = {
+	monarch = {
+		name = "'Alâ' ud-Dîn Humâyûn Shâh"
+		dynasty = "Bahman"
+		DIP = 3
+		ADM = 3
+		MIL = 4
+	}
+}
+
+1458.5.6 = {
+	heir = {
+		name = "'Ahmâd"
+		monarch_name = "'Ahmâd Shâh III"
+		dynasty = "Bahman"
+		birth_date = 1440.1.1
+		death_date = 1463.7.30
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1461.9.4 = {
+	monarch = {
+		name = "'Ahmâd Shâh III"
+		dynasty = "Bahman"
+		DIP = 0
+		ADM = 0
+		MIL = 0
+	}
+}
+
+1461.9.4 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad Shâh III"
+		dynasty = "Bahman"
+		birth_date = 1440.1.1
+		death_date = 1482.3.26
+		claim = 95
+		DIP = 4
+		ADM = 4
+		MIL = 2
+	}
+}
+
+1463.7.30 = {
+	monarch = {
+		name = "Muhammad Shâh III"
+		dynasty = "Bahman"
+		DIP = 4
+		ADM = 4
+		MIL = 5
+	}
+}
+
+1463.7.30 = {
+	heir = {
+		name = "Mahmûd"
+		monarch_name = "Mahmûd Shâh II"
+		dynasty = "Bahman"
+		birth_date = 1450.1.1
+		death_date = 1518.12.18
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1482.3.26 = {
+	monarch = {
+		name = "Mahmûd Shâh II"
+		dynasty = "Bahman"
+		DIP = 3
+		ADM = 4
+		MIL = 3
+	}
+}
+
+1489.1.1 = {
+	monarch = {
+		name = "Qâsim I" 
+		dynasty = "Bârid Shâhî"
+		DIP = 3
+		ADM = 4
+		MIL = 3
+	}
+}
+
+1489.1.1 = {
+	heir = {
+		name = "Amîr"
+		monarch_name = "Amîr I"
+		dynasty = "Bârid Shâhî"
+		birth_date = 1489.1.1
+		death_date = 1542.1.1
+		claim = 95
+		DIP = 2
+		ADM = 4
+		MIL = 2
+	}
+}
+
+1490.1.1 = {
+	heir = {
+		name = "'Ahmâd"
+		monarch_name = "'Ahmâd Shâh III"
+		dynasty = "Bahman"
+		birth_date = 1490.1.1
+		death_date = 1521.1.1
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1504.1.1 = {
+	monarch = {
+		name = "Amîr I"
+		dynasty = "Bârid Shâhî"
+		DIP = 2
+		ADM = 4
+		MIL = 2
+	}
+}
+
+1504.1.1 = {
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî"
+		dynasty = "Bârid Shâhî"
+		birth_date = 1504.1.1
+		death_date = 1580.1.1
+		claim = 95
+		DIP = 1
+		ADM = 1
+		MIL = 3
+	}
+}
+
+1542.1.1 = {
+	monarch = {
+		name = "'Alî"
+		dynasty = "Bârid Shâhî"
+		DIP = 1
+		ADM = 1
+		MIL = 3
+	}
+}
+
+1542.1.1 = {
+	heir = {
+		name = "Ibrâhîm"
+		monarch_name = "Ibrâhîm"
+		dynasty = "Bârid Shâhî"
+		birth_date = 1542.1.1
+		death_date = 1587.1.1
+		claim = 95
+		DIP = 0
+		ADM = 0
+		MIL = 2
+	}
+}
+
+1580.1.1 = {
+	monarch = {
+		name = "Ibrâhîm"
+		dynasty = "Bârid Shâhî"
+		DIP = 0
+		ADM = 0
+		MIL = 2
+	}
+}
+
+1580.1.1 = {
+	heir = {
+		name = "Qâsim"
+		monarch_name = "Qâsim II"
+		dynasty = "Bârid Shâhî"
+		birth_date = 1548.1.1
+		death_date = 1591.1.1
+		claim = 95
+		DIP = 0
+		ADM = 0
+		MIL = 0
+	}
+}
+
+1587.1.1 = {
+	monarch = {
+		name = "Qâsim II"
+		dynasty = "Bârid Shâhî"
+		DIP = 0
+		ADM = 0
+		MIL = 0
+	}
+}
+
+1587.1.1 = {
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî II"
+		dynasty = "Bârid Shâhî"
+		birth_date = 1587.1.1
+		death_date = 1591.8.1
+		claim = 95
+		DIP = 2
+		ADM = 0
+		MIL = 0
+	}
+}
+
+#Qasims infant son
+
+1591.1.1 = {
+	monarch = {
+		name = "'Alî II"
+		dynasty = "Bârid Shâhî"
+		DIP = 2
+		ADM = 0
+		MIL = 0
+	}
+}
+
+1591.1.1 = {
+	heir = {
+		name = "Amîr"
+		monarch_name = "Amîr II"
+		dynasty = "Bârid Shâhî"
+		birth_date = 1560.1.1
+		death_date = 1601.1.1
+		claim = 55
+		DIP = 0
+		ADM = 0
+		MIL = 0
+	}
+}
+
+1591.8.1 = {
+	monarch = {
+		name = "Amîr II"
+		dynasty = "Bârid Shâhî"
+		DIP = 0
+		ADM = 0
+		MIL = 0
+	}
+}
+
+1591.8.1 = {
+	heir = {
+		name = "Mîrzâ 'Alî"
+		monarch_name = "Mîrzâ 'Alî"
+		dynasty = "Bârid Shâhî"
+		birth_date = 1570.1.1
+		death_date = 1609.1.1
+		claim = 55
+		DIP = 2
+		ADM = 1
+		MIL = 2
+	}
+}
+
+1601.1.1 = {
+	monarch = {
+		name = "Mîrzâ 'Alî"
+		dynasty = "Bârid Shâhî"
+		DIP = 2
+		ADM = 1
+		MIL = 2
+	}
+}
+
+1601.1.1 = {
+	heir = {
+		name = "Amîr"
+		monarch_name = "Amîr III"
+		dynasty = "Bârid Shâhî"
+		birth_date = 1580.1.1
+		death_date = 1619.1.1
+		claim = 95
+		DIP = 1
+		ADM = 2
+		MIL = 3
+	}
+}
+
+1609.1.1 = {
+	monarch = {
+		name = "Amîr III"
+		dynasty = "Bârid Shâhî"
+		DIP = 1
+		ADM = 2
+		MIL = 3
+	}
+}
+
+#Annexed by Bijapur 1619.

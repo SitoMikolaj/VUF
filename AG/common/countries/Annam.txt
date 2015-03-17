@@ -1,0 +1,84 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 186  14  92 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Thai Tong #0" = 20
+	"Duc Trung #0" = 20
+	"Van-Lang #0" = 20
+	"Hoang Du #0" = 20
+	"Kim #0" = 20
+	"Hoang #0" = 20
+	"Phuc #0" = 20
+	"Phuc-Lan #0" = 20
+	"Phuc-Tan #0" = 20
+	"Phuc-Tran #0" = 20
+	"Phuc-Chu #0" = 20
+	"Phuc-Khoat #0" = 20
+	"Phuc-Thuan #0" = 20
+	"Phuc-Anh #0" = 20
+	"Van-Hue #0" = 20
+	"Quang-Toan #0" = 20
+	"Vi Muc De #0" = 20
+	"Hien Tong #0" = 20
+	"Thanh Tong #0" = 20
+	"Nahn Tong #0" = 20
+	"Thai To #1" = 20
+	"Hau Tran #1" = 20
+	"Chan-Tong #0" = 20
+	"Minh-Tri #0" = 20
+	"Kim Anh #0" = -1
+	"Thuy Tram #0" = -1
+	"Bich Ngoc #0" = -1
+	"Phuong Nga #0" = -1
+	"Thanh Thao #0" = -1
+}
+
+leader_names = {
+	Tran Ho Lê Ly Ngo Mac Trinh Nguyen Huynh Phan Pham Vu Dang Bui Do Duong
+	Banh Cao Chau Chu Chung Diep Dam Dao Dinh Doan Giang Ha Han Kieu Kim
+	La Lac Lam Lieu Luc Luong Luu Ma Mach Mai Nghiem Pho Phung Quach Quang
+	Quyen Ta Thach Thai Thi Thuy Tieu To Ton Trang Trieu Truong Van Vinh Vuong
+}
+
+ship_names = {
+	"Chiang-Mai" "Do Thu" "Kuan-yin" "T'an Minh" "T'an Lung" "T'an Bao" "Tai'Li" "Thanh Hoa" "Nan Chao" "Nam Pung"
+	"Tran Canh" "Tran Hoang" "Tran Khâm" "Tran Thuyên"
+	"Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Lê"
+	"Tran Phu" "Tran Kính" "Tran Hien" "Tran Ngung"
+	"Tran An" "Thái Tông" "Thánh Tông" "Nhân Tông"
+	"Anh Tông" "Minh Tông" "Hien Tông" "Du Tông"
+	"Nghe Tông" "Due Tông" "Thuan Tông"
+}
+
+army_names = {
+	"Quân Doi dân An Nán" "Quân Doi Comat" "Quân Doi Hué" "Quân Doi Trung Ky" "Quân Doi Nam Bo" "Quân Doi Dông Kinh" "Quân Doi Giao Chi" "Quân Doi $PROVINCE$"
+}
+
+fleet_names = {
+	"Hai Quân dân An Nán" "Hai Quân Da Nang" "Hai Quân Sông Mê Kông" "Hai Quân Sông Lon" "Hai Quân Sông Cuu Long" "Hai Quân Biên Dông" "Hai Quân Vinh Bac Bo" 
+}

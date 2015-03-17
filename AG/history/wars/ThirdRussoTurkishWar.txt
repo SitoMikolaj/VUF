@@ -1,0 +1,203 @@
+name = "Troisième guerre russo-turque"
+#casus_belli = cb_conquest type = take_capital_conquest
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 286 # Azow
+}
+
+1768.9.25 = {
+	add_attacker = TUR
+	add_attacker = CRI
+	add_attacker = GAZ
+	add_attacker = MOL
+	add_defender = RUS
+	add_defender = GRE
+	add_defender = IME
+	add_defender = KAK
+	add_defender = ZAZ
+}
+
+1770.4.20 = {
+	battle = {
+		name = "Azpindza"
+		location = 2204
+		attacker = {
+			commander = "Gola Pasha"
+			infantry = 40000
+			losses = 60
+			country = TUR
+		}
+		defender = {
+			commander = "Erekle II"
+			infantry = 7000
+			losses = 2
+			country = KAK
+		}
+		result = loss
+	}
+}
+
+1770.5.28 = {
+	battle = {
+		name = "Nauplie"
+		location = 1319
+		attacker = {
+			commander = "Ali Pasha"
+			heavy_ship = 10
+			losses = 10
+			country = TUR
+		}
+		defender = {
+			commander = "John Elphonstone"
+			heavy_ship = 3
+			light_ship = 2
+			losses = 2
+			country = RUS
+		}
+		result = loss
+	}
+}
+
+1770.7.6 = {
+	battle = {
+		name = "Tchesmé"
+		location = 1319
+		attacker = {
+			commander = "Hüsamüddin Pacha"
+			heavy_ship = 16 
+			light_ship = 6
+			galley = 13
+			losses = 90
+			country = TUR
+		}
+		defender = {
+			commander = "Alexeï Orlov"
+			heavy_ship = 9
+			light_ship = 3
+			losses = 20
+			country = RUS
+		}
+		result = loss
+	}
+}
+
+1770.7.7 = {
+	battle = {
+		name = "Larga"
+		location = 282
+		attacker = {
+			commander = "Kaplan Girey"
+			infantry = 15000
+			cavalry = 65000
+			artillery = 33
+			losses = 10
+			country = TUR
+		}
+		defender = {
+			commander = "Pyotr Roumyantsev"
+			infantry = 38000
+			artillery = 115
+			losses = 1
+			country = RUS
+		}
+		result = loss
+	}
+}
+
+1770.8.1 = {
+	battle = {
+		name = "Kagul"
+		location = 1756
+		attacker = {
+			commander = "Ivazzade Halil Pacha"
+			infantry = 75000
+			cavalry = 80000
+			losses = 20
+			country = TUR
+		}
+		defender = {
+			commander = "Pyotr Roumyantsev"
+			infantry = 42000
+			artillery = 118
+			losses = 3
+			country = RUS
+		}
+		result = loss
+	}
+}
+
+1772.11.6 = {
+	battle = {
+		name = "Patras"
+		location = 1312
+		attacker = {
+			commander = "Ali Pacha"
+			heavy_ship = 25
+			light_ship = 9
+			losses = 50
+			country = TUR
+		}
+		defender = {
+			commander = "Konyaev"
+			heavy_ship =7
+			losses = 0
+			country = RUS
+		}
+		result = loss
+	}
+}
+
+1774.6.20 = {
+	battle = {
+		name = "Kozludzha"
+		location = 1764
+		attacker = {
+			commander = "Abdul Rezak"
+			infantry = 40000
+			losses = 20
+			country = TUR
+		}
+		defender = {
+			commander = "Aleksandr Souvorov"
+			infantry = 25000
+			losses = 1
+			country = RUS
+		}
+		result = loss
+	}
+}
+
+1774.7.9 = {
+	battle = {
+		name = "Kertch"
+		location = 1312
+		attacker = {
+			commander = "Ali Pacha"
+			heavy_ship = 6
+			light_ship = 7
+			galley = 17
+			losses = 5
+			country = TUR
+		}
+		defender = {
+			commander = "Senyavin"
+			light_ship = 3 
+			losses = 1
+			country = RUS
+		}
+		result = loss
+	}
+}
+
+1774.7.21 = {
+	rem_attacker = TUR
+	rem_attacker = CRI
+	rem_attacker = GAZ
+	rem_attacker = MOL
+	rem_defender = RUS
+	rem_defender = GRE
+	rem_defender = IME
+	rem_defender = KAK
+	rem_defender = ZAZ
+	}

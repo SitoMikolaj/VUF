@@ -1,0 +1,100 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 204  184  177 }
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	mongol_bow
+	mongol_swarm
+	mongol_steppe
+}
+
+monarch_names = {
+	"Batula #1" = 40
+	"Toghan #1" = 40
+	"Galdan #0" = 40
+	"Amursana #0" = 20
+	"Erdeni #0" = 20
+	"Choghtu #0" = 20
+	"Dawa #0" = 20
+	"Esen #1" = 20
+	"Güshi #0" = 20
+	"Lha-bzang #0" = 20
+	"Khara Khula #0" = 20
+	"Kho #0" = 20
+	"Sengge #0" = 20
+	"Tseten #0" = 20
+	"Tsewang #0" = 20
+	"Kundelung #0" = 15
+	"Lobzang #0" = 15
+	"Sutai #0" = 15
+	"Tsobasa #0" = 15
+	"Ubasi #0" = 15
+	"Quduqa #0" = 10
+	"Toghto #0" = 10
+	"Altai #0" = 2
+	"Bäki #0" = 2
+	"Bayan #0" = 2
+	"Dayan #0" = 2
+	"Hami #0" = 2
+	"Molon #0" = 2
+	"Oori #0" = 2
+	"Orlök #0" = 2
+	"Sechen #0" = 2
+	"Radi #0" = 2
+	"Talman #0" = 2
+	"Todo #0" = 2
+	"Tumen #0" = 2
+	"Tumu #0" = 2
+	"Ubashi #0" = 2
+	"Ulan #0" = 2
+	"Wehe #0" = 2
+	"Yelu #0" = 2
+	"Zaya #0" = 2
+	"Hoelun #0" = -1
+	"Tamülün #0" = -1
+	"Sorghaghtani #0" = -1
+}
+
+leader_names = {
+	Jasray
+	Gonbat
+	Hattori
+	Olzvoi
+	Bira
+	Batmunkh
+	Ganbold
+	Saihan
+	Ochirbal
+	Davaa
+	Choros
+	Torghud
+	Khoid
+	Dorbed
+}
+
+ship_names = {
+	Bargut Buzav Kerait Naiman "Dörvn Öörd"
+	Khoshut Olo Dzungar Torgut Dorbot
+	Amdo "Altan Khan" Khoshot Olöts Güshi
+}
+
+army_names = {
+	"Ordusu Dörvn Oörd Ulus" "Ordusu Dayan Khan" "Tumen Oïrats" "Tumen Jüüngar" "Tumen Khoshuut" "Tumen Torguut" "Tumen Khalkha" "Tumen Chakhar" "Tumen Ordos" "Tumen Tümet"  "Tama $PROVINCE$" 
+}
+
+fleet_names = {
+	"Donanmasî Dayan Khan" "Donarnma Oïrats" "Donarnma Jüüngar" "Donarnma $PROVINCE$"
+}

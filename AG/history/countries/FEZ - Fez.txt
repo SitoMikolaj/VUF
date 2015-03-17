@@ -1,0 +1,175 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = moroccan
+religion = sunni
+technology_group = muslim
+capital = 343	# Fez
+fixed_capital = 343 # Cannot move capital away from this province & no power cost to move to it
+
+
+1399.1.1 = {
+	monarch = {
+		name = "Abu Said Uthman III"
+		dynasty = "Mariniyun"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	add_piety = 0.35
+}
+
+1420.1.1 = {
+	monarch = {
+		name = "'Abd al-Haqq II"
+		dynasty = "Mariniyun"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1465.5.24 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Watasiyun"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1472.1.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Watasiyun"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1472.1.1 = {
+	heir = {
+		name = "Muhammad II"
+		monarch_name = "Muhammad II"
+		dynasty = "Marinid"
+		birth_date = 1450.1.1
+		death_Date = 1524.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+1504.1.1 = {
+	monarch = {
+		name = "Muhammad II"
+		dynasty = "Watasiyun"
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+1504.1.1 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad"
+		dynasty = "Watasiyun"
+		birth_date = 1490.1.1
+		death_Date = 1549.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1524.1.1 = {
+	monarch = {
+		name = "'Ahmâd"
+		dynasty = "Watasiyun"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1537.1.1 = {
+	heir = {
+		name = "Nasir ad-Dîn al-Qasri"
+		monarch_name = "Nasir ad-Dîn al-Qasri"
+		dynasty = "Watasiyun"
+		birth_date = 1537.1.1
+		death_Date = 1549.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1545.1.1 = {
+	monarch = {
+		name = "(Ali Abu Hassun)"
+		regent = yes
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}
+
+1545.1.1 = {
+	heir = {
+		name = "Nasir ad-Dîn al-Qasri"
+		monarch_name = "Nasir ad-Dîn al-Qasri"
+		dynasty = "Watasiyun"
+		birth_date = 1537.1.1
+		death_Date = 1549.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+
+1547.1.1 = {
+	monarch = {
+		name = "'Ahmâd"
+		dynasty = "Watasiyun"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1547.1.1 = {
+	heir = {
+		name = "Nasir ad-Dîn al-Qasri"
+		monarch_name = "Nasir ad-Dîn al-Qasri"
+		dynasty = "Watasiyun"
+		birth_date = 1537.1.1
+		death_Date = 1549.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+#1549 - Saadians capture Fez and reunite Morocco
+
+1638.1.1 = {	#Dilawites seize Fez and northern Morocco
+	monarch = {
+		name = "Muhammad al-Hajj"
+		dynasty = "al-Dila'i"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+#1668.7.20 - Alaouites defeat the Dilawites
+#1668.9.7 - Reunification of Morocco

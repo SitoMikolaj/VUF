@@ -1,0 +1,17 @@
+name = "Expédition de Gihae"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1419.5.1 = {
+	add_attacker = KOR
+	add_defender = JAP
+}
+
+1419.9.1 = {
+	rem_attacker = KOR
+	rem_defender = JAP
+}

@@ -1,0 +1,124 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 152  85  92 }
+
+revolutionary_colors = { 5  0  10 }
+
+historical_score = 250
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas	
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Ulászló #0" = 40
+	"László #4" = 20
+	"Lájos #1" = 20
+	"Albert #0" = 20
+	"János #0" = 20
+	"Mátyás #0" = 20
+	"Zsigmond #0" = 20
+	"András #3" = 15
+	"Károly #2" = 15
+	"István #5" = 10
+	"Anna #0" = -10
+	"Béla #4" = 5
+	"Anasztáz #0" = 2
+	"Branabás #0" = 2
+	"Betalan #0" = 2
+	"Boldizsár #0" = 2
+	"Dávid #0" = 2
+	"Dömötör #0" = 2
+	"Edvárd #0" = 2
+	"Ernö #0" = 2
+	"Ferenc #0" = 2
+	"Gábor #0" = 2
+	"György #0" = 2
+	"Izsák #0" = 2
+	"Jenö #0" = 2
+	"József #0" = 2
+	"Kálmán #0" = 2
+	"Kázmér #0" = 2
+	"Kelemen #0" = 2
+	"Lörinc #0" = 2
+	"Lukács #0" = 2
+	"Márk #0" = 2
+	"Miklós #0" = 2
+	"Oszkár #0" = 2
+	"Otto #0" = 2
+	"Patrik #0" = 2
+	"Péter #0" = 2
+	"Simon #0" = 2
+	"Tamás #0" = 2
+	"Vencel #0" = 2
+}
+
+leader_names = {
+	Andrássy Alvinczy
+	Bocskai Bethlen Báthory Batthyány Benovský Beleznay Bonfini
+	Csák "von Cilli" Corvin
+	Dessewffy
+	Esterházy
+	Festetics Frangepán
+	Garay György
+	Hunyadi Hadik Horthy
+	István
+	János
+	Kinizsi Károlyi Kán "de Kovats" Kemeny "von Königsberg"
+	Lackovic' Losonci
+	Mészáros Milványi
+	Nádasdy
+	Ozoray
+	Péter
+	Rákóczi Rozgonyi Rhetikus
+	Šubic' Széchenyi
+	Thököly Teleki Tamás
+	Valvasor
+	Zrinski Zápolyai Zichy
+}
+
+ship_names = {
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
+}
+
+army_names = {
+	"Magyar Honvédség" "Hadsereg Királyi" "Hadsereg Magyarország" "Fekete Sereg" "Orség Királyi" "Szent László Hadsereg" "Rongyos Gárda" "Huszár Gárda" "Streltsy Gárda" "Hajduk Sereg" "Hadsereg z $PROVINCE$"
+}
+
+fleet_names = {
+	"Haditengerészet" "Tengeri Flotta" "Hajoraj" "$PROVINCE$ Flotta"
+}

@@ -1,0 +1,129 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 216  145  145 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = { #Most Monarchs were named with "hiro"
+	"Yoshioki #0" = 30
+	"Yoshitaka #0" = 30
+	"Yoshinaga #0" = 30
+	"Yoshihiro #0" = 30
+	"Yoshitada #0" = 30
+	"Hiroyo #0" = 30
+	"Hiroshige #0" = 30
+	"Noriyuki #0" = 30
+	"Norihiro #0" = 30
+	"Morifusa #0" = 30
+	"Hiromori #0" = 30
+	"Mitsumori #0" = 30
+	"Hironari #0" = 30
+	"Hirochika #0" = 30
+	"Hiroyuki #0" = 30
+	"Hironao #0" = 30
+	"Tadahiro #0" = 30
+	"Teruhiro #0" = 30
+	"Harumochi #0" = 30
+	"Yoshifusa #0" = 30
+	"Sukehiro #0" = 30
+	"Hirokage #0" = 30
+	"Sadamoto #0" = 30
+	"Toku #0" = -5
+	"Sen #0" = -5
+	"Tama #0" = -5
+	"Aya #0" = -5
+	"Ina #0" = -5
+}
+
+leader_names = {
+   	# Clan Daimyo
+	Akamatsu Akechi Amago Asakura Asano Ashikaga Asô Andô Ashina Akizuki Azai
+	Chôsokabe 
+	Date 
+	Hachisuka Hatakeyama Hosokawa Hôjô Hatano Honganji
+	Ichijô Imagawa Isshiki Itô Ikeda
+	Jinbô 
+	Keda Kikuchi Kyôgoku Kôno Kimotuki Kasai Kitabatake
+	Maeda Matsudaira Matsunaga Mimura Miyoshi Mogami Môri Murakami
+	Nabeshima Nagao Nanbu
+	Ôda Ogasawara Ôtomo Ôuchi Ôsaki
+	Rokkaku Ryûzôji 
+	Sagara Saitô Sanada Satake Satomi Shiba Shibata Shimazu Shôni Saionji Sôma Sasaki
+	Takeda Tokugawa Toyotomi Tsutsui Tôki Togashi
+	Uesugi Uragami Utsunomiya
+	Yamana Yamauchi	Yûki
+		
+	# Leaders du Clan
+	Akana Akashi Akiba 
+	Chugoku
+	Fukuhara 
+	Hanabusa Hironaka 
+	Inoue Ishikawa
+	Kamei Katsura Kikkawa Kobayakawa Kodama Kumagai 
+	Masuda Mitoya Miura Môri  
+    Naito Nanjô 
+	Saeki Senoo Shido Shimizu Shishido Shô Sue Sugi 
+	Tachihara Togawa Toida 
+	Ukita Uyama
+	Yamanaka Yamauchi Yoshimi 
+}
+
+ship_names = {
+	"Asai Maru" "Abe Maru" "Adachi Maru" "Akamatsu Maru" "Akechi Maru"
+	"Akita Maru" "Akiyama Maru" "Akizuki Maru" "Amago Maru" "Ando Maru"
+	"Anayama Maru" "Asakura Maru" "Ashikaga Maru" "Asano Maru" "Ashina Maru"
+	"Atagi Maru" "Azai Maru"
+	"Bito Maru" "Byakko Maru"
+	"Chiba Maru" "Chousokabe Maru"
+	"Date Maru" "Doi Maru"
+	"Fujiwara Maru" "Fuji-san Maru"
+	"Genbu maru"
+	"Haga Maru" "Hatakeyama Maru" "Hatano Maru" "Honda Maru" "Hojo Maru"
+	"Hosokawa Maru" "Hachisuka Maru" "Hayashi Maru" "Hiki Maru"
+	"Idaten Maru" "Ikeda Maru" "Imagawa Maru" "Ishida Maru" "Ishikawa Maru"
+	"Ishimaki Maru" "Ii Maru" "Inoue Maru" "Ito Maru"
+	"Kikkawa Maru" "Kiso Maru" "Kisona Maru" "Kitabatake Maru" "Kyogoku Maru"
+	"Maeda Maru" "Matsuda Maru" "Matsudaira Maru" "Miura Maru" "Mikumo Maru"
+	"Miyoshi Maru" "Mogami Maru" "Mori Maru"
+	"Nitta Maru" "Niwa Maru" "Nihon Maru" "Nanbu Maru"
+	"Ôda Maru" "Otomo Maru" "Ouchi Maru"
+	"Rokkaku Maru"
+	"Sakai Maru" "Sakuma Maru" "Satake Maru" "Shimazu Maru" "Shiba Maru"
+	"Sanada Maru" "Sogo Maru" "Suwa Maru" "Seiryu Maru" "Suzaku Maru"
+	"Takeda Maru" "Tokugawa Maru" "Taira Maru" "Toyotomi Maru" "Tada Maru"
+	"Toki Maru" "Tsugaru Maru" "Tsutsui Maru" "Tenno Maru"
+	"Uesugi Maru" "Ukita Maru" "Uchia Maru"
+	"Yamana Maru" "Yagyu Maru"
+}
+
+army_names = {
+	"Ouchi Gun" "$PROVINCE$ Gun" "$PROVINCE$ Dan"
+}
+
+fleet_names = {
+	"Ouchi Kaigun" "$PROVINCE$ Suigun" "$PROVINCE$ Sendan" "$PROVINCE$ Tai"
+}

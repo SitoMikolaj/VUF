@@ -1,0 +1,15 @@
+bookmark =
+{
+	name = "AZUCHI_NAME"
+	desc = "AZUCHI_DESC"
+	date = 1568.9.1
+	
+	country = ODA
+	country = TKD	
+	country = HJO
+	country = MRI
+	country = DTE
+	country = OTM	
+	country = UES
+
+}

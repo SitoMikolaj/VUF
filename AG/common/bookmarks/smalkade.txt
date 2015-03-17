@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "SMALKADE_NAME"
+	desc = "SMALKADE_DESC"
+	date = 1546.7.15
+	
+	country = SPA
+	country = SAX
+	country = HES
+	country = PAL
+	country = BRA
+	
+}

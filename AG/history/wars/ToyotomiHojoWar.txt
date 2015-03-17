@@ -1,0 +1,17 @@
+name = "Guerre des clans Toyotomi-Hojo"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_shogun_annex
+}
+
+1589.11.24 = {
+	add_attacker = JAP
+	add_defender = HJO
+}
+
+1590.7.5 = {
+	rem_attacker = JAP
+	rem_defender = HJO
+}

@@ -1,0 +1,134 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 39  100  157 }
+
+revolutionary_colors = { 15  0  16 }
+
+random_nation_chance = 0
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	administrative_ideas	
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Napoléon #0" = 20
+	"Napoléon Louis #0" = 15
+	"Napoléon Achille #0" = 10
+	"Napoléon Charles #0" = 10
+	"Napoléon Félix #0" = 10
+	"Napoléon Frédéric #0" = 10
+	"Napoléon Jérôme #0" = 10
+	"Napoléon Joseph #0" = 10
+	"Napoléon Lucien #0" = 10
+	"André #0" = 2
+	"Auguste #0" = 2
+	"Hadrien #0" = 5
+	"Charles #0" = 2
+	"Eugène #0" = 2
+	"Félix #0" = 2
+	"François #0" = 20
+	"Georges #0" = 5
+	"Guillaume #0" = 10
+	"Henri #0" = 5
+	"Jacques #0" = 2
+	"Jean #0" = 5
+	"Jérôme #0" = 10
+	"Joachim #0" = 2
+	"Joseph #0" = 5
+	"Jules #0" = 2
+	"Laurent #0" = 2
+	"Lucien #0" = 2
+	"Michel #0" = 5
+	"Nicolas #0" = 2
+	"Philippe #0" = 5
+	"Robert #0" = 2
+	"Théodore #0" = 2
+	"Victor #0" = 5
+	
+	"Joséphine #0" = -1
+	"Hortense #0" = -1
+	"Éléonore #0" = -1
+}
+
+leader_names = {
+	"d'Ambleteuse" "d'Aulnay" Ampère Augereau
+	"de Beauharnais" "de Bercy" "de Béthune" "de Boissieu" "de Bonnefoy" "de Bonneuil" "du Bosquet" "de la Bretonnière" "de Broglie" Brissot Barras Babeuf Bernadotte Brune Berthier "de la Bretonne" Barat Bonaparte Bessières
+	"de Castaing" "de Caumartin" "de Chambly" "de Chambronne" "de Champmartin" "de Chevigny" "des Coulons" "de Crèvecœur" "de Crussol" Condorcet Corday Carnot Chaumette Cadoudal Chouan "de Charette" Coulomb
+	"de Dampierre" Desgouttes Duquesne Danton Desmoulins Dumouriez Desaix Dumas Dugommmier David Davout
+	"des Écures" d'Entraigues d'Estrées "d'Églantine" "d'Estaing" d'Entrecasteaux
+	"du Fournay" Fouché "de La Fayette"
+	"de Galard" Géricault Grégoire "de Gouges" Grouchy "de Gouvion"
+	"des Herbiers" Hébert Hoche
+	Jourdan Joubert
+	Kellermann Kléber
+	"de La Barthe" "de La Ferrandie" "de Lhéry" Leclerc Lefebvre Lannes "de Laclos" Lavoisier "de Luynes" Louverture
+	"de Marguerye" "de Maurepas" Marat Maréchal Marceau Moreau Masséna Menou Murat Masséna "du Motier" "de Moncey" "Mac Donald" Murat Mortier Marmont
+	"de Neufchâtel" Ney
+	"d'Ornano" Oudinot
+	"de Pellefort" Pétion Pichegru
+	"de Richemont" "de Rochechouart" "de Rochemaure" "de Rieu" "de Robespierre" Roux Roland Rossignol Rivarol "Rouget de Lisle"
+	"de Saint-Chamond" "de Saint-Esprit" "de Saint-Germain" "de Saint-Omer" "de Siorac" "de Saint-just" Stendhal Sièyes "Saint-André" Santerre "de Staël" Soult "de Saint-Cyr"
+	"de Tocqueville" "de Tréville" "de Tailleyrand" Tallien Turreau
+	"d'Usson"
+	"de Vergennes" "de Vibien" "de Vigny" "de Villeneuve" Varlet
+}
+
+ship_names = {
+	"l'Achéron" "l'Achille" "l'Actif" "l'Africaine" "l'Aigle" "l'Aigrette" "l'Alacrity" "l'Alceste" "l'Alcide" "l'Alerte" "l'Alexandre" "l'Algésiras" "l'Amazone" "l'Amérique" "l'Andromaque" "l'Apollon" "l'Aquilon" "l'Arabe" "l'Aréthuse" "l'Artémise" "l'Asmodée" "l'Astrolabe" "l'Atalante" "l'Athénien" "l'Audacieux" "l'Auguste" "l'Aurore" "l'Austerlitz" 
+	"le Babet" "la Bacchante" "la Badine" "le Ballon" "le Barras" "le Basque" "la Bayadère" "le Bayard" "la Belle-Poule" "la Bellete" "le Bellier" "la Bellone" "le Berceau" "la Bergère" "la Biche" "la Blonde" "la Boussole" "le Brave" "la Bravoure" "le Breslaw" "la Bretagne" "la Bretonne" "la Brillante"  "la Brune" "le Bucentaure" "la Bourgogne"
+	"le Ca-Ira" "la Calliope" "la Calypso" "le Caméléon" "la Canonnière" "la Carmagnole" "la Caroline" "la Carrère" "le Cassard" "le Censeur" "le Centaure" "la Charente" "le Charlemagne" "la Cigogne" "la Circé" "la Cléopâtre" "la Colombe" "le Commerce de Bordeaux" "le Commerce de Marseille" "le Commerce de Paris" "la Concorde" "la Confiante" "le Conquérant" "la Constance" "la Constitution" "la Convention" "la Coquille" "la Cornaline" "la Côte-d'Or" "la Courageuse" "le Courier" "la Couronne" "la Créole" "le Cuirassier" "le Curieux" "la Cybèle" 
+	"le Dauphin Royal" "le Desaix" "la Désirée" "le Destin" "la Diane" "la Didon" "le Dix-huit Fructidor" "les Droits de l'Homme" "la Dryade" "le Berry" "le Duguay-Trouin" "le Du Guesclin" "le Duquesne" 
+	"l'Éclair" "l'École" "l'Embuscade" "l'Empraye" "l'Endymion" "l'Engageante" "l'Entreprenant" "l'Éole" "l'Épervier" "l'Espérance" "l'Espiègle" "l'Estafette" "l'Expérimenté" "l'Eylau"
+	"le Fanfaron" "la Fauvette" "la Félicité" "le Fidèle" "la Flèche" "la Flore" "le Formidable" "la Forte" "la Fortune" "le Fougueux" "la Franchise" "le Franklin" "la Fraternité" "le Furet"
+	"la Galatée" "le Gasparin" "le Généreux" "la Gloire" "le Göélan" "le Gomer" "la Gracieuse" "le Grenadier" "le Griffon" "la Guerrière" 
+	"le Hasard" "l'Hébé" "l'Hercule" "l'Hermione" "le Héros" "l'Heureuse" "le Heureux" "le Hoche" 
+	"le Iemappe" "l'Iéna" "l'Immortalité" "l'Impatiente" "l'Impérieuse" "l'Impétueux" "l'incorruptible" "l'Indienne" "l'Indivisible" "l'Indomptable" "l'Inflexible" "l'Insolente" "l'Intrépide" "l'Iphigenie" "l'Iris" "l'Isis" "l'Italienne" 
+	"le Jacobin" "le Jean Bart" "le Jean-Jacques Rousseau" "la Jeanne d'Arc" "le Jemappes" "la Joséphine" "la Junon" "le Jupiter" "le Juste"  
+	"les Landes" "le Languedoc" "la Légère" "le Léopard" "la Liberté" "la Ligurienne" "le Lion" "la Loire" "la Lutine" "le Lys"
+	"le Magellan" "la Magicienne" "le Magnanime" "la Manche" "le Marat" "le Marengo" "la Médée" "la Méduse" "la Méléagre" "la Melpomène" "le Mercure" "la  Mignone" "le Milan" "la Minerva" "la Modeste" "le Mont Blanc" "le Montagnard" "la Montagne" "le Montebello" "le Montreal" "la Moselle" "le Muiron" "le Mulet" "la Mutine" "le Mutius"
+	"le Neptune" "la Néréide" "le Nestor" "le Neuf Thermidor" "le Niémen" "le Nisus" "le Northumberland" "la Nymphe" 
+	"l'Océan" "l'Oncle Thomas" "l'Orient" "l'Orion" 
+	"la Palinure" "la Pallas" "le Passe-Partout" "le Patriote" "la Pauline" "le Pégase" "le Pelletier" "la Pénélope" "la Perle" "la Petite Aurore" "le Peuple" "la Piémontaise" "la Pilade" "la Pique" "le Pluton" "le Pluvier" "la Pomone" "le Pompée" "la Poulette" "la Poursuivante" "la Précieuse" "la Preneuse" "la Prompte" "la Prosélyte" "la Proserpine" "la Prudente" "la Psyché" "le Puissant" 
+	"le Quatorze Juillet"
+	"le Railleur" "le Redoutable" "la Renommée" "le Républicain" "le Requin" "la Résistance" "la Résolue" "la Réunion" "la Revanche" "la Révolution" "la Révolutionnaire" "le Rhin" "la Romaine" 
+	"la Sabine" "le Saint-Antoine" "le Sans Culotte" "le Sans-Pareil" "la Sapho" "la Scévola" "le Scipion" "le Séduisant" "la Sémillante" "le Sensible" "la Sérieuse" "la Sibylle" "le Sincère" "le Souverain" "le Spartiate" "le Sphinx" "le Suffisant" "le Suffren" "le Superbe" "la Surveillante" "la Sylphe" 
+	"la Tactique" "le Tage" "la Tamise" "le Tarleton" "le Téméraire" "la Terpsichore" "le Terrible" "la Thémis" "le Thémistocle" "la Thisbé" "le Tigre" "le Timoléon" "le Tonnant" "la Topaze" "la Tortue" "le Tourville" "le Trajan" "le Trente et un Mai" "la Tribune" "le Tricolore" "le Trident" "le Triomphant" "la Triomphante" "le  Tyrannicide" 
+	"l'Unité" "l'Uranie" 
+	"la Vaillante" "le Valmy" "le Var" "le Vautour" "la Vengeance" "le Vengeur" "la Vénus" "la Vertu" "la Vestale" "la Victoire" "la Victorieuse" "la Ville de Paris" "la Virginie" "le Volontaire" 
+	"la Zélée" "la Zénobie"
+}
+
+army_names = {
+	"Armée Nationale" "Armée du Nord" "Armée du Centre" "Armée du Rhin" "Armée des Alpes" "Grande Armée" "Armée des Pyrénées" "Garde Nationale" "Armée des côtes" 	"Armée de réserve" "Armée des Ardennes"	"Armée de la Moselle" "Armée d'Italie" "Armée de l'Ouest"	"Armée de Mayence"	"Armée de Rome" "Armée de Belgique"	"Armée d'Orient" "Armée de Syrie"	"Armée d'Égypte" "Armée d'Espagne" "Armée d'Allemagne"	"Armée du Danube" "Armée de Hollande"	"Armée des Grisons" "Armée de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marine Nationale" "Escadre de Brest" "Escadre de Toulon" "Escadre d'Amérique" "Escadre de Rochefort" "Escadre du Nord" "Escadre des Indes" "Escadre Côtière" "Escadre de $PROVINCE$"
+}

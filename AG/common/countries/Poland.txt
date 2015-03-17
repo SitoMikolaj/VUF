@@ -1,0 +1,142 @@
+#Poland
+
+graphical_culture = easterngfx
+
+color = { 197  92  106 }
+
+revolutionary_colors = { 5  0  5 }
+
+historical_idea_groups = {
+	diplomatic_ideas
+	humanist_ideas	
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	aristocracy_ideas	
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"August #1" = 60
+	"Wladyslaw #1" = 60
+	"Stanislaw #0" = 40
+	"Kazimierz #3" = 20
+	"Aleksander #0" = 20
+	"Henryk #0" = 20
+	"Jan #0" = 20
+	"Jan #0 Albert" = 20
+	"Jan #0 Kazimierz" = 20
+	"Michal #0" = 20
+	"Stefan #0" = 20
+	"Zygmunt #0" = 20
+	"Zygmunt #0 August" = 20
+	"Aleksander #0 Karol" = 15
+	"Zygmunt #0 Kazimierz" = 15
+	"Krzysztof #0" = 10
+	"Fryderyk #0" = 10
+	"Jan #0 Olbracht" = 10
+	"Jan #0 Zygmunt" = 10
+	"Karol #0 Ferdynand" = 10
+	"Olbracht #0" = 10
+	"Albert #0" = 2
+	"Aleksy #0" = 2
+	"Andrzej #0" = 2
+	"Bartlomiej #0" = 2
+	"Bogumil #0" = 2
+	"Bronislaw #0" = 2
+	"Dawid #0" = 2
+	"Dominik #0" = 2
+	"Emil #0" = 2
+	"Eugeniusz #0" = 2
+	"Ferdynand #0" = 2
+	"Gustaw #0" = 2
+	"Igor #0" = 2
+	"Iwan #0" = 2
+	"Krystian #0" = 2
+	"Lech #0" = 2
+	"Lucjusz #0" = 2
+	"Ludwik #0" = 2
+	"Lukasz #0" = 2
+	"Maksym #0" = 2
+	"Mariusz #0" = 2
+	"Mieszko #3" = 2
+	"Miroslaw #0" = 2
+	"Oskar #0" = 2
+	"Patryk #0" = 2
+	"Rafal #0" = 2
+	"Sylwester #0" = 2
+	"Szymon #0" = 2
+	"Zygfryd #0" = 2
+	"Richeza #0" = -1
+	"Judith #0" = -1
+	"Agafia #0" = -1
+}
+
+leader_names = {
+	Arciszewski
+	Baranowski Benyowski Bidziñski Bielak Branicki "z Brudzewa" Boryszewski Boner Berecci Boner "z Brzezia" Báthory
+	Czapski Czarniecki Chometowski Chodecki Callimachus Copernicus Czarny Chodkiewicz
+	Dunin Denhoff Drzewicki Dzierzanski Dlugosz Dürer Dickmann
+	Firlej
+	Gadomski Grabowski Grajewski Grodzicki Górka Gosiewski
+	Herburt Houwaldt
+	Jablonowski Jazlowiecki Jagiellonczyk
+	Kurozwecki Kurbski Koniecpolski Kosciuszko Krasinski Kalinowski Korycki Kazanowski Kmita Kamieniecki
+	Lubomirski Lisowski Lanckoroñski Leszczyñski Lacki Laski Lismanini
+	Malski Mniszech Matczyñski Michalowski Mlodziejowski Moszynski Mielecki "z Maszkowic"
+	Ostroróg Olesnicki Opacki Ozarowski Ossolinski Orzechowski
+	Paniewski Patkul Poniatowski Poninski Pulaski Przyjemski Piaseczyñski Potocki Pac
+	Radziwill Rudnicki Rytwianski Rzewuski
+	Sapieha Sobieski Sahajdaczny Siemienowicz Sulkowski Stadnicki Sieniawski Sanok Stwosz "z Szamotul"
+	Tarnowski Trokin Tyszkiewicz Twardowski Tomicki
+	Walewski Wyhowski Wielopolski Wybranowski Wodzinski Wodzicki Wilczewski Wisnowiecki Wasa "von Winter"
+	Zaremba Zamojski Zebrzydowski Zacwilichowski Zborowski Zbaraski Zólkiewski Zalaszowski
+}
+
+ship_names = {
+	"Arka Noego"
+    "Bialy Orzel" Burza "Bialy Lew" "Bialy Pies" "Brzesko-Kujawskie" Belzkie Braclawskie Bug
+    Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+    Delfin
+    Feniks Fortuna
+    Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+    Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+    "Maly Bialy Orzel" Malborskie Mazowieckie
+    Nadzieja Niewrazliwy "Nowy Czarny Orzel" Nida Niemen
+    "Panna Wodna" Plomien Powitanie Poznanskie Plockie Podlaskie Podolskie "Prorok Samuel"
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+    Slonce Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Jerzy" "Swiety Kazimierz"
+    Tygrys
+	Vistula
+    Walenty Wielblad "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+    Zwyciestwo "Zólty Lew"
+}
+
+army_names = {
+	"Armia Krajowa" "Wojsko Polskie" "Wojsko Królewski" "Wojsko Druzyna" "Wojsko Szlachta" "Wojsko Kwarciane" "Husaria Odwach" "Kozacy Odwach" "Królewski Odwach" "Wojsko Komputowe" "Pospolite Ruszenie" "Armia z $PROVINCE$" "Wojsko $PROVINCE$"
+}
+
+fleet_names = {
+	"Marynarka Wojenna" "Marynarka Królewski" "Baltyckie Flota" "Czarne Flota" "$PROVINCE$ Flota"
+}

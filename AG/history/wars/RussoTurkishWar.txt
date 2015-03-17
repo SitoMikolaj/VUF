@@ -1,0 +1,25 @@
+name = "Guerre russo-turque"
+#casus_belli = cb_conquest type = take_capital_conquest
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 466 # Sarai
+}
+
+1676.1.1 = {
+	add_attacker = TUR
+	add_attacker = CRI
+	add_attacker = HTM
+	add_defender = RUS
+	add_defender = HET
+	add_defender = ZAZ
+}
+
+1681.1.3 = {
+	rem_attacker = TUR
+	rem_attacker = CRI	
+	rem_attacker = HTM
+	rem_defender = RUS
+	rem_defender = HET
+	rem_defender = ZAZ
+}

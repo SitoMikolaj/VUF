@@ -1,0 +1,38 @@
+name = "Guerre Cayuse"
+
+#casus_belli
+war_goal = {
+	type = superiority_horde
+	casus_belli = cb_horde_vs_civ
+}
+
+
+1847.11.29 = {
+	add_attacker = COM # Cayuse assimilée aux Commanches
+	add_defender = USA
+}
+
+1847.11.29 = {
+	battle = {
+		name = "Massacre de Whitman"
+		location = 874
+		attacker = {
+			commander = "Eagle"
+			cavalry = 100
+			losses = 2	# percent
+			country = COM
+		}
+		defender = {
+			commander = "John Dement"
+			infantry = 20
+			losses = 100	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1855.1.1 = {
+	rem_attacker = COM
+	rem_defender = USA
+}

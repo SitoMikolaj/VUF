@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 198  149  21 } 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	economic_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	aztec_tribal_warfare
+	aztec_hill_warfare
+	aztec_gunpowder_warfare
+	westernized_aztec
+	mexican_guerilla_warfare
+}
+
+monarch_names = {
+	"Motêuczôma #0" = 40
+	"Âhuitzotl #0" = 20
+	"Âxâyacatl #0" = 20
+	"Cuâuhtemôc #0" = 20
+	"Cuitlâhuac #0" = 20
+	"Huîtzilihhuitl #0" = 20
+	"Itzcôâtl #0" = 20
+	"Chîmalpopoca #1" = 20 # Correction de bug
+	"Tîzoc #0" = 20
+	"Huânitzin #0" = 15
+	"Motelchiuh #0" = 15
+	"Tehuetzquititzin #0" = 15
+	"Têiztlacoatzin #0" = 15
+	"Xôchiquêntzin #0" = 15
+	"Âcamâpîchtli #1" = 10
+	#"Chîmalpopoca #1" = 10
+	"Tenôch #1" = 10
+	"Âcacihtli #0" = 2
+	"Ahcambal #0" = 2
+	"Âxacayatl #0" = 2
+	"Cacamatzin #0" = 2
+	"Eyahue #0" = 2
+	"Huictlolînqui #0" = 2
+	"Ilhuicamîna #0" = 2
+	"Itzcuâuhtzin #0" = 2
+	"Mazâtl #0" = 2
+	"Nohpal #0" = 2
+	"Ocêlôtl #0" = 2
+	"Ômetôchtzin #0" = 2
+	"Pântli #0" = 2
+	"Quetzalmamalitzin #0" = 2
+	"Quinatzin #0" = 2
+	"Têncoyotzin #0" = 2
+	"Timal #0" = 2
+	"Tlâcaêllel #0" = 2
+	"Tlohtzin #0" = 2
+	"Xiuhcôzcatl #0" = 2
+	"Xocoyol #0" = 2
+	"Yacazozolotl #0" = 2
+	"Tzotzomahtzin #0" = 2
+	
+	"Xiuhtoztzin #0" = -1
+	"Mâtlâlcihuâtzin #0" = -1
+	"Yâôcihuâtl #0" = -1
+	"Papantzin #0" = -1
+}
+
+leader_names = {
+    Acatlotzin Âhuitzotl Âxâyacatl Axoquêntzin Cacamatzin Chalchiutlatonac Cuâuhtemôc Cuitlâhuac Cuitlalpihtoc
+	Ehcatzin Eyahue Ezhuahuacatl Huemac Huetzin Huîtzilihhuitl Itzcôâtl Îxtlîlxôchitl Iztacmîtl
+	Mazâtl Maxixcatzin Motêuczôma Motelchiuh Nâuhyôtl Nezahualpilli Nohpaltzin
+	Ocêlôpan Ocêlôtl Ômetôchtzin Ocêlôtlapân Pinôtl Popoyôtl
+	Quehquechôltzin Quetzalcuâuhtzin Quetzaltôtôtl Quiyauhtônal Temilôltêcatl Tezozomoc Tîzoc Totoquihuâztli Tzompachtli
+	Xîconocatzin Xôchiolôltzin Xôlôtl Xomimitl Yâômîtl Yohuallatônac Zacancatl Zoneltêuctli Tzotzomahtzin
+}
+
+ship_names = {
+	Âcôlmiztli Âcôlnâhuacatl "Ah Hoya" "Ah Tzenul" Âmimîtl Âpanêcatl Âtl Âtlauhco Axoluah
+	Camaxtli Centeôtl Centzonhuitzanahuah Châlchiuhtlatônac Châlchiuhtlicue Châlchiuhtotolin Chalmêcalt Chalmêcaucihuilt
+	Chapolmaloyan Chichomexochtli Chicomecoatl Chiconahuai Chihalma Chualchihuitlcue Cihuacaotyl Cinteotl
+	Citlalatonac Citlalicue Ciucoatl Coatlicue Cochimetl Coyolxauhqui Cuâuhcoatl 
+	Ehehcatl Eueucoyotl
+	"Hopop Can" Huehueteotl Huitzilopochtli Huixtocihuatl
+	Itzcoliuhqui Itzli Itzpapalotl Itzpzpalotl Ixtlilton Iztamixcoatzin
+	Macuilxochitl Mahayuel Malinalxochi Matalcueye Metztli Mictlan Mictlancihuntl Mictlantechtle
+	Mictlantechupi Mictlantecihuatl Mixcoatl
+	Nanauatzin
+	Ococaltzin Omecihuatl Ometecuhlti Ometeotl Omeyocan
+	Patecatli Paynal
+	Quetzalcoatl
+	Tecciztecatl Teoyaomqui Tepeyollotl Teteoinnan Tezacoatl Tezcatlipoca Tillan-Tlapallan Tlaloc
+	Tlalocan Tlaltechhtlii Tlazolteotl Tonacatecuhtli Tonatiuhican Tonatiuth Tzitmime
+	Xilonen "Xîpe-Totêc" Xiucoatl Xiuhtecuhtli Xochipilli Xochiquetzal Xolotl Xonecuilli
+	Yacatechutli
+}
+
+army_names = {
+	"$PROVINCE$ Yaotl"
+}
+
+fleet_names = { 	
+	"Acalli $PROVINCE$"
+}

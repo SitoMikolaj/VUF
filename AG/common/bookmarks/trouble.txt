@@ -1,0 +1,10 @@
+bookmark =
+{
+	name = "TROUBLE_NAME"
+	desc = "TROUBLE_DESC"
+	date = 1605.1.1
+	
+	country = PLC
+	country = RUS
+
+}

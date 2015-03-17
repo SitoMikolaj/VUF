@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 73  152  76 }
+
+revolutionary_colors = { 10  0  5 } #Sicilian Separatist Flag
+
+historical_idea_groups = {
+	maritime_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ferdinando #0" = 20
+	"Martino #0" = 20
+	"Pietro #3" = 15
+	"Francesco #0" = 15
+	"Maria #0" = -15
+	"Federigo #3" = 10
+	"Guglielmo #3" = 10
+	"Luigi #1" = 10
+	"Leopoldo #0" = 10
+	"Carlo #1" = 5
+	"Manfred #1" = 5
+	"Tancredo #1" = 5
+	"Achille #0" = 2
+	"Alberto #0" = 2
+	"Antonio #0" = 2
+	"Bernardo #0" = 2
+	"Cesare #0" = 2
+	"Ciro #0" = 2
+	"Claudio #0" = 2
+	"Daniele #0" = 2
+	"Demetrio #0" = 2
+	"Enrico #0" = 2
+	"Fabio #0" = 2
+	"Filippo #0" = 2
+	"Flavio #0" = 2
+	"Gaetano #0" = 2
+	"Giovanni #0" = 2
+	"Giuseppe #0" = 2
+	"Graziano #0" = 2
+	"Luciano #0" = 2
+	"Manfredo #0" = 2
+	"Modesto #0" = 2
+	"Nestore #0" = 2
+	"Ottaviano #0" = 2
+	"Prudenzio #0" = 2
+	"Roberto #0" = 2
+	"Samuele #0" = 2
+	"Sesto #0" = 2
+	"Valerio #0" = 2
+	"Vincenzo #0" = 2
+}
+
+leader_names = {
+	d'Agnesi "di Aragona" Asmondo "d'Austria" "Barbiano Belgioioso" "di Borbone"
+	Carafa Castagna Cattaneo Ciaja Cialdini Colonna Coppola Corleone
+	Damiani d'Este Farini Felice Filangieri "Gaetani dell'Aquila" "de Gattinara" "di Gesualdo" Gonzaga
+	"La Masa" Lamoral "di Marzano" Mazzini "di Medici" Orsini
+	Paruta Pignatelli Pilo Platamonte "de Podio" Riso Rizzi Ruffo Ruggiero
+	Sanseverino Santapace Serra Settimo Sfondrati Speciale Spinola
+	Tanucci Tassoni Trivulcio Ventimiglia Zannoni
+}
+
+ship_names = {
+	Agatobles Altavilla Apollo Archimede Aretusa Audaze Aurora Borbone
+	Calabria Capitana Diana Disttrutore Drago
+	Ercole Etna Fama "Federigo Barbarossa" Flora Folgorante Fortuna Fulminante
+	Galatea Generoso Guiscardo Hohenstaufen Idra Invencibile L'Aretusa Jupiter
+	"Maria Inmacolata" Marte Mercurio Messaggero Minerva
+	Napoli Navigante Nettuno Palinuro Pallade Partenope Pegaso 
+	Peloro Plutone Puglia "Purissima Concezione"
+	"Re Carlo" "Re Federigo" "Re Ferrante" "Regina dei Mari" Ruggiero
+	"S.Francesco d'Assisi" Saetta "San Antonio" "San Carlo"
+	"San Ferdinando" "San Vito" Sannita "Santa Amalia" "Santa Helena"
+	"Santa Lucia" "Santa Wenfrida" Sant'Agata Sant'Agatone
+	Sibilla Sicilia Sirena Stabia Tancredi Veloce 
+}
+
+army_names = {
+	"Esercito Réale" "Esercito Sicilia" "Esercito di Due Sicile" "Armata di $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina Sicilia" "Marina di $PROVINCE$"
+}

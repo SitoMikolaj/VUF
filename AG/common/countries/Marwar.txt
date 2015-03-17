@@ -1,0 +1,111 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 192  111  179 }
+
+historical_idea_groups = {
+	aristocracy_ideas
+	offensive_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Chanda #0" = 10
+	"Ranmal #0" = 10
+	"Jodha #0" = 10
+	"Chandrasena #0" = 10
+	"Kanha #0" = 10
+	"Satal #0" = 10
+	"Suja #0" = 10
+	"Ganga #0" = 10
+	"Maldeo #0" = 10
+	"Chandrasen #0" = 10
+	"Udaya Singh #0" = 10
+	"Sûra Singh #0" = 10
+	"Gaja Singh #0" = 10
+	"Jaswant Singh #0" = 10
+	"Ajit Singh #0" = 10
+	"Abhai Singh #0" = 10
+	"Ram Singh #0" = 10 
+	"Bijay Singh #0" = 10 
+	"Bhîm Singh #0" = 10 
+	"Man Singh #0" = 10 
+	"Asthanji #0" = 2
+	"Sonamji #0" = 2
+	"Jaitmal #0" = 2
+	"Bandur #0" = 2
+	"Kanha Dev #0" = 2
+	"Mallinathji #0" = 2
+	"Viram Dev #0" = 2
+	"Bhim #0" = 2
+	"Kanhaji #0" = 2
+	"Ishwar #0" = 2
+	"Bairisal #0" = 2
+	"Ugrasen #0" = 2
+	"Kanwar #0" = 2
+	"Mandoji #0" = 2
+	"Bida #0" = 2
+	"Bika #0" = 2
+	"Saga #0" = 2
+	"Ram Das #0" = 2
+	"Sher #0" = 2
+	"Fâteh #0" = 2
+	"Jaswant #0" = 2
+	"Pratâp #0" = 2
+	"Hansa Devî #0" = -1
+	"Akher #0" = -1
+	"Anup #0" = -1
+	"Surya #0" = -1
+}
+
+leader_names = {
+	Rathore
+	Saran 
+	Bâis
+	Chattari
+	Singh
+	Pakhral
+	Gauri
+	Naru
+	Bhati
+	Chandrâtreya
+	Jâdejâ
+	Chudasama
+	Solankî
+}
+
+ship_names = {
+	Chambal Devî Durga Gayatri Ghaggar
+	Godwar Jalsena "Kâla Jahâzî" Lakshmi
+	"Lâl Jahâzî" Luni Nausenâ "Marwar ka Nav"
+	"Merwar ka Nav" "Nav ka Yudh" "Nîla Jahâzî"
+	Parvati Radha Rânî Ratri Sâgar Sarasvati
+	Sekhâwâtî Sita
+}
+
+army_names = {
+	"Raja Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

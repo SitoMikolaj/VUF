@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 153  138  161 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Sulayman #0" = 60
+	"'Abd Allâh #0" = 40
+	"'Alî #0" = 40
+	"'Umar #0" = 20
+	"Dâ'ûd #0" = 20
+	"Hasan #0" = 20
+	"Sa'îd #0" = 20
+	"'Abbas #0" = 2
+	"'Abd al-Karîm #0" = 2
+	"'Abd ar-Rahmân #0" = 2
+	"Anwar #0" = 2
+	"Atuf #0" = 2
+	"Bakr #0" = 2
+	"Fahd #0" = 2
+	"Faruq #0" = 2
+	"Fouad #0" = 2
+	"Hâkim #0" = 2
+	"Harun #0" = 2
+	"Hikmat #0" = 2
+	"Hisham #0" = 2
+	"Husayn #0" = 2
+	"Isma'il #0" = 2
+	"Jafar #0" = 2
+	"Jamaal #0" = 2
+	"Karîm #0" = 2
+	"Khalil #0" = 2
+	"Malîk #0" = 2
+	"Mirza #0" = 2
+	"Muhammad #0" = 2
+	"Mustafa #0" = 2
+	"Qasim #0" = 2
+	"Rashîd #0" = 2
+	"Rusul #0" = 2
+	"Shimun #0" = 2
+	"Tarîq #0" = 2
+	"Usama #0" = 2
+	"Yasir #0" = 2
+	"Yusuf #0" = 2
+	"Zaid #0" = 2
+	"Zîyad #0" = 2
+	"Zulqifar #0" = 2
+	
+	"Badr #0" = -1
+	"Fatimah #0" = -1
+}
+
+leader_names = {
+	Agha
+	Ahmad
+	Akif
+	Husayn
+	Javid
+	Necip
+	"an-Nûrî"
+	"ar-Rahmânî"
+	Resid
+	Zaki
+}
+
+ship_names = {
+	Faydhi
+	Fazil
+	Kadri
+	Jamâl
+	Midhat
+	Nadhif
+	Nadhim
+	Namiq
+	Omer
+	Sirri
+}
+
+army_names = {
+	"Jaysh al 'Iraqiyah" "Jaysh al-Sultan" "Jaysh al-Vilayet" "Jaysh al $PROVINCE$"
+}
+
+fleet_names = {
+	"Armâdah al 'Iraqiyah" "Armâdah Khalij-e fars" "Armâdah Bahr al-'Arab" "Armâdah el-Ahmar" "Armâdah Khalyj 'Adan" "Armâdah Khalij 'Uman" "Armâdah Al-Abyad" "Armâdah Al-Muttawasit" 
+}

@@ -1,0 +1,49 @@
+########################################
+# Events de Panthéon
+########################################
+
+namespace = pantheon_geo
+
+# La division de la géorgie
+
+country_event = {
+	id = pantheon_geo.1
+	title = pantheon_geo.1.t
+	desc = pantheon_geo.1.d
+	picture = CIVIL_WAR_eventPicture	
+	fire_only_once = yes
+	trigger = {
+		tag = GEO
+		government = monarchy
+		OR = {
+			has_regency = yes
+			NOT = { 
+				legitimacy = 75 
+			}
+		}
+		 NOT = {
+			exists = IME
+			exists = DAD
+			exists = ABK
+			exists = GOU
+			exists = KAK			
+		}
+		is_lesser_in_union = no
+		NOT = {
+			is_year = 1550
+		}
+	}
+	option = {
+		name = pantheon_geo.1.a
+		ai_chance = { factor = 90 }
+		release = IME
+	}
+	option = {
+		name = pantheon_geo.1.b
+		ai_chance = { factor = 10 }
+		add_stability = -3
+		add_legitimacy = 25
+		add_prestige = -10
+		add_patriarch_authority  = -0.1
+	}
+}

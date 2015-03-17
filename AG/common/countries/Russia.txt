@@ -1,0 +1,166 @@
+#Russia
+
+graphical_culture = easterngfx
+
+color = { 96  131  80 }
+
+revolutionary_colors = { 0  13  5 }
+
+historical_score = 5300
+
+historical_idea_groups = {
+	expansion_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	maritime_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Ivan #3" = 60
+	"Fyodor #1" = 60
+	"Pyotr #0" = 60
+	"Vasiliy #2" = 20
+	"Aleksandr #0" = 20
+	"Aleksey #0" = 20
+	"Boris #0" = 10
+	"Mikhail #0" = 20
+	"Pavel #0" = 20
+	"Yekaterina #0" = -20
+	"Dmitriy #6" = 15
+	"Yuriy #4" = 15
+	"Anna #0" = -15
+	"Elizaveta #0" = -15
+	"Sofiya #0" = -15
+	"Konstantin #0" = 15
+	"Andrey #3" = 10
+	"Semen #1" = 10
+	"Nikolai #0" = 10
+	"Arseniy #0" = 2
+	"Artamon #0" = 2
+	"Artemiy #0" = 2
+	"Bogdan #0" = 2
+	"Demyan #0" = 2
+	"Daniil #1" = 10
+	"Gavriil #0" = 2
+	"Grigoriy #0" = 2
+	"Iosif #0" = 2
+	"Isaak #0" = 2
+	"Igor #2" = 5
+	"Kirill #0" = 2
+	"Lavrentiy #0" = 2
+	"Lazar #0" = 2
+	"Lev #0" = 2
+	"Malyuta #0" = 2
+	"Makariy #0" = 2
+	"Mefodiy #0" = 2
+	"Nikifor #0" = 2
+	"Nikita #0" = 2
+	"Nikodim #0" = 2
+	"Oleg #0" = 2
+	"Platon #0" = 2
+	"Prokopiy #0" = 2
+	"Sergei #0" = 2
+	"Stanislav #0" = 2
+	"Varfolomey #0" = 2
+	"Valeriy #0" = 2
+	"Vladimir #3" = 10
+	"Yefim #0" = 2
+	"Yulian #0" = 2
+	
+	"Agafya #0" = -1
+	"Yuliya #0" = -1
+	"Maria #0" = -5
+	"Eudokia #0" = -5
+	"Feodosia #0" = -5
+	"Liuba #0" = -2
+	"Anastasia #0" = -5
+	"Vasilisa #0" = -5
+	"Elena #0" = -5
+	"Marfa #0" = -5
+	"Irina #0" = -5
+	"Tatiana #0" = -5
+}
+
+leader_names = {
+	Adashev Apraksin Atlasov Adrian
+	Basmanov Baryatiski Bibikov Beketov Baranov Bagration "Barclay de Tolly" Bibikoff Bodisco Boruffsin "von Buxhoevden" Belsky Buturlin "Bestuzhev-Ryumin" Bering
+	Chernigovets Chelyuskin Chuiski Cruys Chelyadnin
+	Dolgorukov Dubenski Dezhnev Dionysius Dmitrievsky Daniil
+	Ermolov
+	Fermor Fioravanti Fyodorov Filaret
+	Godunov Golitsyn Gagarin Grek Glinski "Gorbaty-Shuisky" Gordon
+	Hetman
+	Iov Ignatius
+	Jones
+	Kasimovskiy Kurbski Khovanski Kutuzov "Koltsov-Mosalski" Khabarov Kaibula Kamenski Kolzoff Kolytchev "von Knorring" Konstantinovich Kurbsky Kapnist
+	"von Lascy" "de l'Estocq" Lomonosov Lefort "de Long"
+	Mikulinski Menshikov Minih Mansurov Moskvitin Mustislavski Mstislavets Morozov Matveev "von Münnich" Mikhailovich
+	Nikon Nesselrode
+	"Ovchina-Obolenski" "Osterman-Tolstoy" Orlov Otrepiev Ostrogski "Ordin-Nashchokin" Osterman Ochakov
+	Pozharski Potemkin Petrov Poyarkov Patrikeev Paletskij Palaiologino Patrikeyev Prokopovich Panin
+	Qolsärif Qosçaq
+	Romodanovski Rumyantsev Repnin Rebrov Rajevski Rublev Romanov Rurikovitch Rtishchev Rastrelli Razumovsky Rokotov Razin
+	Shuiski Sheremetev Skopin Shein Soltikov Spiridof Senyavin Stroganov Semenov Schuvalov Sjeremetjev Sjtjenjatvev Sorsky Söyembikä Skuratov Slavinetsky Shafirov "von Strahlenberg" Shuvalov Shubin Shenja "Skopin-Shuiski" Suvorov
+	Tottleben "de Tolly" Tomasov Tolstoy Tiesenhusen Tatishchev Traetta Timofeyevich
+	Ushakov
+	Vorotinski Vishnevetski Vasiljevitj Volotsky "de Vieira" Volynsky Vorontsov Volkov
+	Wittgenstein Wolff
+	Yalichev Yermak
+	"Zakharyin-Yuryev" Zubov
+}
+
+ship_names = {
+	"Afrika" "Aist" "Aleksandr" "Aleksandr Nevskiy" "Aleksey" "Alexander" "Amerika" "Ameytst" "Amfitrida" "Anapa" "Andro" "Antoniy" "Apollon" "Apostol Andrey" "Apostol Pavel" "Apostol Petr" "Apostol Pyotr" "Archangel Gavriil" "Archangel Michail" "Arkhangel Mikhail" "Archangel Rafail" "Archangel Yriil" "Arkhipelag" "Archistratid Michail" "Archistratig Gavriil" "Arfa" "Argus" "Armont" "Arondel" "Arsis" "Astrachan" "Avos" "Avtroil" "Aysberg" "Aziya" "Azov" 
+	"Baraban" "Berislav" "Bez Nazvaniya" "Bezboyazn" "Bistriy" "Blagodat" "Blagoe Nachalo" "Blagopolychie" "Bogemiya" "Bogie Predvidenie" "Bogoyavlenie Gospodne" "Boleslav" "Bora" "Borey" "Boris" "Boris i Gleb" "Branimir" "Brien" "Britaniya" "Bryachislav" "Bulinbryk" "Burun" "Burya" 
+	"Cherepacha" "Chesma" "Chetirnadtsatiy" "Chetvertiy" "Chrabriy" 
+	"David Selynskiy" "Dekrondelivde" "Delfin" "Delos" "Derbent" "Deris" "Derpt" "Desna" "Desyatiy" "Devyatiy" "Diana" "Dmitriy Donskoy" "Dnepr" "Dumkrat" "Dvenadsat Apostolov" "Dvenadtsatiy" 
+	"Edinorog" "Ekaterina" "Elisaveta" "Emgeyten" "Endracht" "Epifania" "Esperans" "Evangelist Mark" "Evropa" "Evseviy" "Ezekiel"
+	"Fanagoriya" "Feodosiy" "Feodosiy Totemskiy" "Fershampenuaz" "Filipp" "Finland" "Flag" "Fligelde Fam" "Flora" "Fortuna" "Fridemaker" "Fridrichstadt" "Fyodor" "Fyodor Stratilat"
+	"Gamburg" "Gangut" "Gavriil" "Gektor" "Gerkules" "Geroy" "Geyzer" "Gleb" "Gorod Archangelsk" "Goto Predestinatsiya" "Grad" "Graf Orlov" "Granat Apol" "Gremyashiy" "Grigoriy" "Grigoriy Bogoslov" "Grigoriy Velikiya Armenii" "Grom" "Groza" "Guravl Stregushiy" 
+	"Ianyariy" "Iezekil" "Imperatritsa Anna" "Ingermanlandiya" "Ioann Bogoslov" "Ioann Krestitel" "Ioann Predtecha" "Ioann Zlatoust" "Iona" "Iosef II" "Isaak Viktoriya" "Isidor" "Ivangorod" "Ivanovets" "Izmail" "Izumrug" "Izyaslav"  
+	"Junga"
+	"Kamchatka" "Kamen" "Kastor" "Katsbach" "Kavaler" "Kavkaz" "Kazahskaya Bogoroditsa" "Kazan" "Khotin" "Kildyooin" "Kinburn" "Kir Ioann" "Kizlyar" "Knyaz Vladimir" "Kolokol" "Komsomolets Mordovy" "Konstantin" "Konstantsiya" "Koron" "Kraskovia" "Krasnoy" "Kreml" "Krepkiy" "Krepost" "Kreyser" "Kronshlot" "Kronshtadt" "Krym" "Kurel" "Kylm"  
+	"Lansdou" "Lastka" "Leferm" "Legkiy" "Leontiy Muchenik" "Lesnoe" "Lev" "Liliya" "Liman" "Liven" "Lybek"  
+	"Maksim Ispovednik" "Malaia Neva" "Malyi" "Mariya" "Maria Magdalena" "Mariya Magdalina Vtoraya" "Marlburg" "Mecheslav" "Merkurius" "Merkuriy" "Metel" "Meteor" "Michail" "Mikono" "Milo" "Minerva" "Mirazh" "Mirniy" "Mironosets" "Mitau" "Modon" "Molnija" "Moreya" "Moroz" "Morzh" "Moschtchnie" "Moshniy" "Moskva" "Mstislabets" "Mstislav" "Myach" 
+	"Nadegda" "Nadegda Blagopoluchiya" "Nadezhda" "Naktsiya" "Narva" "Nataliya" "Navarchiy" "Nazaret" "Neptunus" "Ne Tron Menya" "Nerpa" "Neva" "Nikanor" "Nikita Muchenik" "Nikolay" "Nikolai Belomorskiy" "Nikolai Chudotvorets" "Nishtadt" "Nomernoy" "Nordadler" "Novaya Nadegda" "Novopavlovsk" 
+	"Odinnadtsatiy" "Oksford" "Olifant" "Opyt" "Oryol" "Osnovanie Blagopoluchiya" "Otvoryonnie Vrata" 
+	"Pallada" "Pamyat Evstafiya" "Panteleymon" "Panteleymon Viktoriya" "Paris" "Paros" "Parmen" "Passat" "Patrikiy" "Pavel" "Perekat" "Perl" "Pernov" "Perun" "Perviy" "Peterburg" "Pimen" "Pis" "Pobeda" "Pobedonosets" "Pobedoslav" "Pochtalon" "Podragislav" "Pollux" "Poltava" "Pomoshniy" "Porga" "Portsmut" "Pospeshniy" "Praviy" "Predanny" "Predestinaia" "Premislav" "Preobrazheniye Gospodne" "Preslava" "Priboy" "Priliv" "Primerny" "Prints Evgeniy" "Prints Gustav" "Prints Karl" "Printsessa Anna" "Prochor" "Provorny" "Pyatiy" "Pyatnadtsatiy" "Pylivy" "Pylky" "Pyotr" "Pyotr II" "Pyotr I i II" "Pyotr Apostol"
+	"Rafail" "Randolf" "Rastorpny" "Ratibor" "Ratniy" "Razgyonnoe Gelezo" "Razliv" "Resitelny" "Retivy" "Retvizan" "Revel" "Rezky" "Riga" "Rodislav" "Rossiya" "Rostislav" "Rozhdestvo Christovo" "Rubin" "Rurik" "Ryanny" "Rys"
+	"Salafail" "Samson" "Samum" "Sankt Michail" "Santorin" "Sapfir" "Saratov" "Schastije" "Schastliviy" "Sedmoy" "Selafail" "Sergei Chudotvorets" "Severnaya Zvezda" "Severniy Orel" "Severniy Oryol" "Shestnadtsatiy" "Shestoy" "Shkval" "Shlisselburg" "Shpaga" "Shtandart" "Shturm" "Shtyl" "Sila" "Silniy" "Simeon" "Simeon i Anna" "Sisoy Velikiy" "Sivuch" "Skoriy" "Skorny" "Skorpion" "Slava" "Slava Ekaterini" "Slava Rossii" "Slon" "Smeliy" "Smerch" "Smetlivy" "Sobaka" "Soedinenie" "Sofiya Magdaleena" "Sokol" "Soshestvie Svyatogo Ducha" "Speshniy" "Spiridon" "Sposobny" "Spyashiy Lev" "Stanislav" "Stariy Dub" "Stariy Oryol" "Storozhevoy" "Straford" "Strus" "Stryela" "Stul" "Sudislav" "Sulitsa" "Sveaborg" "Svyat Georgiy Pobedonosetz" "Svyat Nikolay Chudotvorets" "Svyataya Ekaterina" "Svyataya Elena" "Svyataya Natalya" "Svyataya Paraskeva" "Svyataya Troitsa" "Svyataya Varvara" "Svyatoslav" "Svyatoy Aleksandr" "Svyatoy Alxander Nevskiy" "Svyatoy Andrey" "Svyatoy Andrey Pervozvanniy" "Svyatoy Antoniy" "Svyatoy Boris i Gleb" "Svyatoy Dmitriy Rostovskiy" "Svyatoy Dukha" "Svyatoy Evstafiy Plakida" "Svyatoy Feodor" "Svyatoy Georgiy" "Svyatoy Iakov" "Svyatoy Ianyariy" "Svyatoy Ilya" "Svyatoy Ioann Krestitel" "Svyatoy Ioann Zlatoust Perviy" "Svyatoy Ioann Zlatoyst" "Svyatoy Isaakiy" "Svyatoy Isidor" "Svyatoy Kirilli Mefodiy" "Svyatoy Kliment Paparimskiy" "Svyatoy Knyaz Vladimir" "Svyatoy Mark" "Svyatoy Matfei" "Svyatoy Michail" "Svyatoy Nestor" "Svyatoy Nikolay" "Svyatoy Panteleymon" "Svyatoy Pavel" "Svyatoy Petr Apostol" "Svyatoy Petr i Pavel" "Svyatoye Prorochestvo" "Svyatoy Pyotr" "Svyatoy Rafail" "Svyatoy Ravnoapostolniy" "Svyatoy Sergiy" "Svyatoy Vladimir" "Svyatoy Yakov" "Syasskiy"
+	"Taganrog" "Taifun" "Tavrida" "Tichvinskaya Bogoroditsa" "Tino" "Tolskaya Bogoroditsa" "Tretiy" "Tri Pyomki" "Tri Sviatitelya" "Trinadtsatiy" "Triumf" "Tryoch Ierarchov" "Tryoch Svyatiteley" "Tsar Konstantin" "Tsesarevitch" "Tsiklon" "Tsvet Voyni" "Tucha" "Tver" "Tverdiy" "Tvyordiy" 
+	"Ungariya" "Uragan" "Uriil" 
+	"Vachmeyster" "Varakhail" "Vazhny" "Venera" "Vepr" "Vesi" "Vestnik" "Vestovoy" "Veter" "Vezul" "Viborg" "Vikhr" "Viktor" "Viktoriya" "Vindchund" "Vingelgak" "Vinogradnaya Vetv" "Visheslav" "Vladimir" "Vladislav" "Voin" "Voroneg" "Vosmoy" "Vostok" "Vozmislav" "Vseslav" "Vsevolod" "Vtoraya Jekaterina" "Vtoroy" "Vyacheslav" 
+	"Yachtchund" "Yagudiil" "Yaroslav" "Yaroslavets" "Yevropa" "Yevstafiy" "Yog" "Yopiter" "Yunona"
+	"Zachariy i Elisavet" "Zachatie Svyataya Anni" "Zadorny" "Zapasnyi" "Zarnitsa" "Zarya" "Zeya" "Zhemchug" "Zhurzha" "Zmmanuil" "Zvezda" "Zyb"
+}
+
+army_names = {
+	"Imperatorskaja Armija" "Russkaja Armija" "Finljandija Armija" "Ukraina Armija" "Polcha Armija" "Krym Armija" "Ural Armija" "Kavkaz Armija" "Tartariä Armija" "Sibir Armija" "Aziä Armija"  "Baltiiskoïe Armija" "Tchermnoïe Armija" "Pogranicnaja Armija" "Kavalergardia" "Gvardeyskiy" "La Garde-Chevalier" "Leib Guard" "Pogranichnyie Voiska"  "Narodnoe Opolcheniye" "Strel'tsy Viborniye"  "Strel'tsy Gorodskiye" "$PROVINCE$ Armija"	
+}
+
+fleet_names = {
+	"Imperatorskaja Flot" "Voyenno-Morskoy Flot" "Tikhookeanskiy Flot" "Severny Flot" "Tschernomorskij Flot" "Kaspiyskaya Flot" "Baltiiskoïe Flot" "Aakiyaan Flot" "Moryeh Flot" "Chorny Eskadra" "Byely Eskadra" "Kraasny Eskadra" "Galooboy Eskadra" "$PROVINCE$ Eskadra"
+}

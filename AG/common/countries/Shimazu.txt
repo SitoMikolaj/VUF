@@ -1,0 +1,124 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 101  49  142 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = { # Most Monarchs were named with "tada" or "hisa"
+	"Hisamitsu #0" = 20
+	"Hisatoyo #0" = 20
+	"Hisatsune #0" = 20
+	"Katsuhisa #0" = 20
+	"Morohisa #0" = 20
+	"Motohisa #0" = 20
+	"Munenobu #0" = 20
+	"Nariaki #0" = 20
+	"Nariakira #0" = 20
+	"Narinobu #0" = 20
+	"Sadahisa #0" = 20
+	"Shigego #0" = 20
+	"Shigetoshi #0" = 20
+	"Tachihisa #0" = 20
+	"Tadahisa #0" = 20
+	"Tadakuni #0" = 20
+	"Tadamasa #0" = 20
+	"Tadamune #0" = 20
+	"Tadaosa #0" = 20
+	"Tadashige #0" = 20
+	"Tadataka #0" = 20
+	"Tadatoki #0" = 20
+	"Tadatsune #0" = 20
+	"Tadayoshi #0" = 20
+	"Takahisa #0" = 20
+	"Tsugutoyo #0" = 20
+	"Tsunataka #0" = 20
+	"Ujihisa #0" = 20
+	"Yoshihiro #0" = 20
+	"Yoshihisa #0" = 20
+	"Yoshitaka #0" = 20
+	"Yuihisa #0" = 20
+	"Toku #0" = -5
+	"Sen #0" = -5
+	"Tama #0" = -5
+	"Aya #0" = -5
+	"Ina #0" = -5
+}
+
+leader_names = {
+    # Daimyo names
+	Akamatsu Akechi Asakura Ashikaga Amago Asô Chôsokabe Date Hatakeyama	
+	Ichijô Imagawa Isshiki Itô Jinbô Kikuchi Kôno Matsunaga Miyoshi Mogami
+	Môri Nagao Oda Ogasawara Ôtomo Ôuchi Ryûzôji Sagara Saitô Satake Satomi
+	Shiba Shibata Shimazu Takeda Tôki Toyotomi Tsutsui Ukita Uesugi Uragami
+	Yamana Hosokawa Hôjô Mimura
+	# Shimazu Flavor
+	Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu
+	Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu Shimazu
+	# Retainers of Shimazu
+    Ijûin Ijûin Ijûin Ijûin Ijûin "Iriki-in" "Iriki-in" "Iriki-in" "Iriki-in" "Iriki-in"
+	Kawakami Kawakami Kawakami Kawakami Kawakami Kedôin Kedôin Kedôin Kedôin Kedôin
+	Sonoda Sonoda Sonoda Sonoda Sonoda Tanegashima Tanegashima Tanegashima Tanegashima Tanegashima
+	Gamô Gamô Gamô Gamô Gamô Ei Ei Ei Ei Ei Hishikari Hishikari Hishikari Hishikari Hishikari
+	Yakumaru Yakumaru Yakumaru Yakumaru Yakumaru Ijichi Ijichi Ijichi Ijichi
+	Nejime Nejime Nejime Nejime Nejime Kabayama Kabayama Kabayama Kabayama Kabayama
+	Hongô Hongô Hongô Hongô Hongô Yamada Yamada Yamada Yamada Yamada
+	Niiro Niiro Niiro Niiro Niiro Uwai Uwai Uwai Uwai Uwai
+	# Region Flavor:Kyushu
+	Shôni Munakata Akizuki Harada Tachibana Shibukawa Kii Asô Moji Kamachi Takahashi
+	Kusano Monchûjo Hoshino Ryûzôji Chiba Nabeshima Kamishiro Ôtomo Hetsugi Shiga Ichimada
+	Saeki Usuki Yoshihiro Kikuchi Asô Sagara Akahoshi Jô Kumabe Kai Amakusa Itô Tsuchimochi
+	Hongô Niiro Mera Shimazu Irikiin Ei Ijûin Tôgô Kawakami Gamô Nejime Tanegashima Kimotsuki
+}
+
+ship_names = {
+	"Mutsu Maru" "Dewa Maru" "Shimotsuke Maru"
+	"Hitachi Maru"
+	"Kazusa Maru" "Shimousa Maru" "Musashi Maru" "Kôzuke Maru" "Izu Maru" "Echigo Maru" "Ettchu Maru"
+	"Kaga Maru" "Noto Maru" "Suruga Maru" "Tôtômi Maru" "Jôshû Maru" "Enshû Maru" "Bushû Maru" "Esshû Maru"
+	"Mikawa Maru" "Ushû Maru" "Soushu Maru" "Boushu Maru" "Kai Maru" "Shinshû Maru" "Kôshû Maru"
+	"Owari Maru" "Bishû Maru" "Minô Maru" "Echizen Maru" "Ise Maru" "Shima Maru" "Ômi Maru" 
+	"Gôshu Maru" "Yamashiro Maru" "Wakasa Maru" "Tamba Maru" "Tango Maru" "Yamato Maru" "Kii Maru"
+	"Kishû Maru" "Iga Maru" "Awa Maru" "Sanuki Maru" "Tosa Maru"
+	"Iyo Maru" "Harima Maru" "Banshû Maru"
+	"Hôki Maru" "Inaba Maru" "Bizen Maru" "Mimasaka Maru" "Binshu Maru"
+	"Bingo Maru" "Bitchû Maru" "Aki Maru" "Izumo Maru" "Iwami Maru" "Suou Maru" "Nagato Maru" "Bungo Maru"
+	"Buzen Maru" "Chikuzen Maru"
+	"Chikugo Maru" "Hizen Maru" "Higo Maru" "Chikushû Maru" "Hyûga Maru" "Ôsumi Maru" "Satsuma Maru" "Sasshû Maru"
+	Satsuma Osumi Hyuga Kyûshû Chikuzen Chikugo Hizen 
+	Higo Buzen Bungo "Empereur Seiwa" "Shôgun Minamoto Yoritomo" 
+	Shimazu Kamakura Shugo Shiranezaka Kagoshima Sekigahara 
+	"Mont Aso" "Fukuoka-Hakata" Kitakyushu Omuta Nagasaki Kumamoto 
+	Miyazaki Oita Saga Okinawa 
+}
+
+army_names = {
+	"Shimazu Gun" "$PROVINCE$ Gun" "$PROVINCE$ Zei" "$PROVINCE$ Dan"
+}
+
+fleet_names = {
+	"Shimazu Suigun" "$PROVINCE$ Suigun" "$PROVINCE$ Sendan" "$PROVINCE$ Tai"
+}

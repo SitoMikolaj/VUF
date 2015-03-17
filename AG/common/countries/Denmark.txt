@@ -1,0 +1,144 @@
+#Denmark
+
+graphical_culture = westerngfx
+
+color = { 190  70  70 }
+
+revolutionary_colors = { 5  0  5 } #Made up
+
+historical_score = 1700
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	maritime_ideas
+	administrative_ideas
+	aristocracy_ideas
+	expansion_ideas
+	naval_ideas 
+	trade_ideas 
+	quality_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Christian #0" = 140
+	"Frederik #0" = 120
+	"Erik #7" = 20
+	"Christoffer #3" = 20
+	"Adolf #0" = 10
+	"Niels #1" = 10
+	"Filip #0" = 10
+	"Karl #0" = 10
+	"Sophie #0" = -5
+	"Dorothea #0" = -10
+	"Margrete #1" = -10
+	"Magnus #1" = 1
+	"Maximilian #0" = 10
+	"Ulrik #0" = 10
+	"Abel #1" = 10
+	"Vilhelm #0" = 5
+	"Knud #6" = 1
+	"Valdemar #4" = 1
+	"Harald #3" = 1
+	"Oluf #2" = 1
+	"Alfred #0" = 2
+	"Anton #0" = 2
+	"Bent #0" = 2
+	"Emanuel #0" = 2
+	"Esben #0" = 2
+	"Fritjof #0" = 2
+	"Frode #0" = 2
+	"Gunnar #0" = 2
+	"Hans #0" = 20
+	"Henrik #0" = 2
+	"Holger #0" = 2
+	"Jørgen #0" = 2
+	"Kasper #0" = 2
+	"Peter #0" = 2
+	"Poul #0" = 2
+	"Rudolf #0" = 2
+	"Sigrun #0" = 2
+	"Stefan #0" = 2
+	"Tobias #0" = 2
+	"Torbald #0" = 2
+	"Viktor #0" = 2
+	"Vilfred #0" = 2
+	"Frans #0" = 5
+}
+
+leader_names = {
+	Adelaer Ahlefeldt Akeleye Arenstorff Ascanius Abildgaard
+	Bille Bjelke Brahe Brockenhuus Bille Bartholin Buxtehude Bartholin Bernstorff 
+	Christiansen Clavus
+	Daa
+	Ebbesen Eberstein Ellbrecht Egedes
+	Falkenskjold Fischer Friis Fincke
+	Galt Gersdorff Gjedde Gyldenløve Gyldenstjerne Gøye Griffenfeldt Gunnerus
+	Harboe Hardenberg Holstein Huitfeldt Høegh "Høegh-Guldberg" Heiberg Hans "von Holstein-Plön"
+	Jensen Juel Junker
+	Krabbe Krag Krumpen Knudtzon Kvistgaard Kaas
+	Lillienskjold Lingby Lunge Lützow Løvenørn
+	Moltke Moth Munk Marselis Mohr
+	Norby
+	Oxe Oeder
+	Pedersen Povlsen Pallesen Pil
+	Rantzau Reventlow Rosenkrantz Rosenørn Rantzau Rømer 
+	Schlentz Schack Scholten Sehested Skram Sehested Steno Struensee
+	Thomsen "von Trampe" Trolle Tausen "Tordenskiold"
+	Ulfeldt 
+	Vedel
+	Worm Wessel
+}
+
+ship_names = {
+	Aalborg Aand Aarsgaardstrand Aarvaagne Aborren Abraham "Abrahams Offer" Activ Achilles "Adam og Eva" "Adelaers Vaaben" "Adlenet eller Adleren" "Admiralens Pinke" "Admiralitets Jagten" Admirante "Adrians Jagt" Ærøe Ætna "Agata nu Færø" Agershus Agnes "Albert Skots Kraffueell" Aletta Alexander  Alken Allart Allinge Alsen Alvorligheden Amager Andriken "Anna Sophia" Anthonette "Arche Noae" Arendal Argo "Argo Roes" Argus Arken "Arken af Danzig"  "Armerede Fartøjer" "Armerede Krydsbåde" "Arveprins Friderich" Arveprinsen Assens Atalante Aurora "Auxilærstyrken på Schelden" "Axel Thorsen" Ålborgsværn
+	Bæveren Balder Barfoed Barkalonge Barken Bartholemæus Basilisken Bergen "Bergens Galej" "Bergens Grib" "Bergens Prosperitet" "Bergenske Skib" Beruil "Beskærmende Engel" Beskjermeren Bikuben Birgitha "Biskoppen af Ribes" Bjørnen "Blå Løve" "Blå Mynden" "Blå Orm" "Blaa Due" "Blaa Mand" Blaabukken  Blaahejren Blaakvast "Blekingske Grib" Blinkeren Boegrib Bøjerten Brødre Bollen Bombarderpram "Bon Eventyr" Bonden Bording Borgersamfundet Borgmesteren Bornholm "Bornholms Engel" Børsen Bragnæs Brander Brandjagten Brasen "Bremer Samson" Bremsen Brevdrageren "Brigdelingen ved Norge" Bullen "Buntede Falk" "Byens Løven"
+	Cæsar "Cæsar Augustus" "Calmars Castel" Caritas "Carlolus XI" "Carolus XII" "Carlshafns Vaaben" Carlshavn "Caroline & Gertrud Cathrine" Castel Castor "Catarina fra Skien" Catharina Cathrine Ceres Chalup "Chaluppen i Nyborg" "Charlotte Amalie" "Christian den Syvende" "Christian VIII" "Christian Guldenlew" Christiania "Christians Ark" Christiansborg Christiansø "Christianus Quartus" "Christianus Quintus" "Christianus Sextus" Christiansand "Christina Maria" Christine Christoffer Churprindsen Cisterner Citronen Colding Cometen Concordia Conninck Constantia Cornelja Corsøer "Cort Adelar" Courieren Croghan Crokodillen "Croned Fortun" "Cronede Fred" Cronborg "Cronborg Smak" Cronjagten Cronprincessen 
+	Dadelbom Damiate Daniel "Daniel i Løvekulen" Danmark Dannebroge Dannefærd Dannemark "Dansk Sødragonen" "Dansk Vildmand" "Danske Galej" "Danske Hanen" "Danske Havfrue" "Danske Pinke" "Danske Svale" "Dansken Holch" "Dansken Jagt" David Deigeren Deling Delmenhorst Delphinen Diana "Diderich og Henrich" "Diderich von Cappelen" Disko Ditmarsken Dobbeltchalupper Dokken "Domkierken af Tronhjem" Dorothea Dragen Dragonen Dragoneren Dragøe Dregeren "Dristigheden og Modet" Dristigheden "Dronning Anna Sophia" "Dronning Caroline Mathilde" "Dronning Charlotte Amalie" "Dronning Juliane Marie" "Dronning Lovise" "Dronning Sophie Hedevig" "Dronning Sophia Magdalene" "Dronningen af Danmark" Droslen "Duckanden I" "Duckanden II" Duen "Duncker Bøjert" Dunkraft Dybendal 
+	Ebenetzer Echo Eendragt Egelykke Egernet "Egernet af Harlingen" Eigelen "Einer Tambeskielver" Ejderen "Ejland Schilling" "Ekers Galej" Elefanten "Elfsborg Pinke" Elgen Elisa Elisabeth "Elphanten af Danmark" Elven Emanuel "Emanuel af København" "Enckhuser Holck" "Enckhuzzer Jomfru" Endracht "Engel Gabriel" "Engel Malta" "Engel Michael" "Engel Rafael" Engelen Engelskmanden Enhjørningen Enighed Enningdahlen "Ericssens Arend" "Erik Eriksen" "Erik Gyldenstein" "Erik Munk" Eselenn "Eske Bille" Eskildsen Espionen 
+	Faaborg Fædrelandet Fædrelands-Kærligheden Færgebåd Fænø Faerøe "Falk van Aarhus" "Falk von Aalborg" "Falk von Bergen" Falken Falster Fama Fejetasken Femern Fenris "Ferøs Buch" Fides Fijen Finneskuden "Fire Brødre" "Fire Kronede Lillier" "Fire Søstre" Fisk Fladlusen Flæskebaljen Flagermusen Flasken Flekkerøe Flensborg Flores Fløyeren Fliegeren Flink Florentina Flybøyert "Flydende Defention" Flynderen "Flyvende Gejst" "Flygende Hjorten" "Flyvende Aand" "Flyvende Abe" "Flyvende Drage" "Flyvende Falk" "Flyvende Fisk" "Flyvende Fortuna" "Flyvedne Hjort" "Flyvende Los" "Flyvende Ørn" "Flyvende Pill" "Flyvende Rytter" "Flyvende Svane" "Flyvende Ulv" "Flyvende Vædder" Foergathe Følgesvenden "Første Færøske Stok" Foreningen "Forgyldte Aborre" "Forgyldte Bjørn" "Forgyldte Drage" "Forgyldte Elb" "Forgyldte Falk" "Forgyldte Fisk" "Forgyldte Fortun" "Forgyldte Førrerom" "Forgyldte Krone" "Forgyldte Løve" "Forgyldte Maage" "Forgyldte Øren" "Forgyldte Pave" "Forgyldte Rytter" "Forgyldte Sol" "Forgyldte Stokfisk" "Forgyldte Svane" "Forlorne Søn" "Formalede Holch" Forskrækkelsen Forsøget Forsvar Fortroendet Fortuna Franciscus Freden Fredensborg "Frederica Lovisa" Frederichsværn "Fredericus Quartus" "Fredericus Tertius" Frederik Frederiksborg Frederikshald Frederiksort Frederikssten Frederikssund Frederikstad Frederiksværn Fredrikshald Freja Freya "Friderica Amalia" Friderich "Friderich og Lovise" "Friherinnan Fredericka" "Frøken Elsken" Fuksen Fyen Fylla "Fyrblas den Lange" "Fyrblase von Hamborg" Fyrholm Fyrreblase 
+	Gabel Gabriel "Gak Med" Galej "Galej på Idefjorden" Galejer Galiotjagten Gallenten "Gamle Delmenhorst" "Gamle Lam" "Gamle Norge" "Gamle Pram" Gejsten Gekrönte "Gelobne Land" "General von Krogh" Gengangeren Gerechtigheit Gerner Gier "Giv På" "Glædeligt Budskab" Glasjagten Glenten Gloende Glommen "Glubende Ulv" "Gode Hensigt" "Glückstadske Ekvipage" Glykstad Gøgen Göteborg Gondolen "Gotlandske Grif " "Gotlandske Lam" Gorm Graabukken Graadyb "Grå Kat" "Graa Falk" "Graa Ulv" Grævlingen Graf Gravenstein "Grefue van der Hoye" "Gregorius Dagssøn" "Grev Mørner" "Grev Schimmelmann" "Grevinde Moltke" Grevlingen Gribben Griffen Grimstad Grinder Grindfisken "Grip af Rostok" Grønland "Grøndlandske Baade" "Grønlandske Kat" "Grønne Drage" "Grønne Jaeger" "Grønningske Kraffuell" Groningen Grynposen Güldenstern "Guldenlew af Bergen" "Guldenlews Waaben" "Gule Bøjert" "Gule Enhjørning" "Gullands Griff" "Gullands Lam" "Gullandske Krejert" Gumphønen "Gunde Lange" "Guul Elven" Gyldenløve "Gyldenløves Vaaben" 
+	Håbet "Håbets Bøjert" "Haderslev Skude" Haerderin Hafridderen "Hagen Adelsteen" Hagen Hajen Hanen "Hanen fra Ystad" Hannibal "Hannibal Sehested" "Hans Peter" "Harald Haarfager" Harderin Haren Harlingpriis Havfruen Havhesten Havmanden "Havridderen af Bergen" Hayen Hector Hejren Hekla Helena Hellebrandt Helleflynderen "Hellig Tre Konger" "Hellig Trefoldighed" "Helsingborg Engel" Helsingør Hemnæs "Her Henrick Rosenkrantz" "Her Vincentius" Hercules Heringnæs "Hertug Adolfs Løve" "Hertug Adolfs Pinke" "Hertug Olufs Pincke" "Hester Marie" "Het Gepeilde Hart" Hetren Heyren Hieronimus Hinden Hjaelperen Hjaelperinden Hjorten Høgen Holbæk Holsten Holck Holt Hother Huitfeldt Høyenhald Høyer Hummeren Hurtig Hurtigheden Husum Hvalfisken Hvalrossen Hvedholm "Hvide Bjørn" "Hvide Due" "Hvide Elefant" "Hvide Falk" "Hvide Flyvende Engel" "Hvide Fortuna" "Hvide Hest" "Hvide Hund" "Hvide Løve" "Hvide Ørn" "Hvide Rose" "Hvide Svane" Hvillingen
+	Ilderim Indfødsretten Ingeborg Iresine Iris Isak Isernwagen Island "Islands Falk" "Islands Rose" "Item Froszen en Holck"
+	Jægeren Jægermester Jægersborg Jacob "Jacob Gudrio" "Jacob Strack" Jagten Jahn Jarnbarden Jason "Jens Larsen" Jepta Jernvågen "Jørgen Münter" "Jørgen van der Viske" Johannes "Johannes den Gamle" "Johan Georg" "Johan Rode" "Johan Stenkul" "Johan Urne" "Jokum Beckis" "Jomfru Cathrine" "Jomfru Christine" "Jomfru Cornelia" "Jomfru Elisabeth" "Jomfru Else" "Jomfru Lene" "Jomfru Margrethe" "Jomfru Maria" "Jomfru Sara" "Jomfruen af Nakskov" "Jomfruen af Trondheim" Jomfrupinken Jomfrusvend Jonas Jordan Josaphat Josva "Juliane Marie" "Julius Caesar" "Junge Jacob" "Junge Jan" "Junge Trautmann" "Jungpfrue Swån" Junkeren Jupiter Justitia Justitian "Justitias Båd" Justitis Jylland
+	Kabbeloufangeren Kallundborg Karlshavn "Karl Skotte" Karpen Karudsen "Kastel vid Bergen" Katten "Kejserin Helena" Kiække Kiæmpen Kiedsken Kiel Kiekke Kieringvigen Kierteminde Kiøge "Kiøge Bøgt" "Kiøge Kreier" Kirchen Kjækheden Kjøbenhavn "Klavs Mikkelsen" "Klavs Unger" "København Børs" Køgehøgen Koen Kogge "Koldingske Galej" Koldingskibet Kometen "Kong David" "Kong Salomon" "Kongelig Galej" "Kongens Jagt Kronen" "Kongens Forgyldte Jagt" Kongeskib Kors Korsbåden Korsørskude Krabaten Krabben "Krabbes Minde" Kragen Kragerø Kranprammen Krigsmanden "Kristoffer af Agershus" "Kronede Grib" "Kronede Rose" "Kronede Svane" Kronen "Kronet Fisk" "Kronprinsesse Maria" "Kronprins Friderich" Kronprinsen Kruset "Kuck Kuck" "Kunze Barcken" 
+	Laaland Lægter Lærken Læsø Laksen Lammet Lamprenen Landsort "Lange Galej" "Lange Grib" "Lange Leg" Langeland Langemaren Langen Langesund "Larsens Plads" Lastdrageren Laurvigen "Lawyken Jackt" Laxen Leon Leonora Leoparden "Leopardens Jagt" Lezard "Liden Anthonette" "Liden Elefant" "Liden Friderich" Lieufde "Lille Belt" "Lille Engel" "Lille Falk" "Lille Fortun" "Lille Havfrue" "Lille Hjort" "Lille Jæger" "Lille Lykkepot" "Lille Pelikan" "Lille Ravn" "Lille Røde Jagt" Lillien Lillieperter Lindebom Linden Lindormen "Lister og Lyngdahl" Løberen Løven "Løvendals Gallej" "Løven af Wismar" Løvenskjold Loke Lolland "Lollandske Båd" "Lollandske Skude" Lommen "Lorens Fisker" Lossen Lougen Lovisa "Lovisa Augusta" "Lovisa Thygeson" "Lovisa fra Ahrendal" Loviselund Lucratia Lübskemand "Lukt Båd" Lummen Luxenn "Lybske David" "Lybske Stud" "Lybske Vildman" Lykkelig "Lykkens Post" Lykkepotten Lyngdahl Lytenant 
+	Magelød Magelos Mågen Makaløs Makrelen "Malmø Pram" Mandahl Mandigheden Mangelsposten Marcus Margreta Margrethe "Margrethe Marie" Maria "Maria van Ziricken" Marie Marieflor Markatten "Markgrevinde Sophie" Mars Marstrand "Marstranids Galej" Marthe Meerkatz Mellembåde Melusina Mercurius Mermin "Mersse Bøjert" Meyert Michell "Micheld Skotte" Middelfart Middelgrunden Mikael Mikkelen "Min Herre" "Mindre Lægter" Minerva Modet Møen "Mogens Gøye" Morian "Morianske Bøjert" Moses Moss Musen Mynden 
+	Nældebladet Næstved Najaden Namsen Næswiis Nattergalen "Ned Elven" Nedenæs Nellebladet Neptunus Nerfuen Nexø Nidelven Nidkjærheden "Niels Aall" "Niels Anker" "Niels Juel" "Niels Krabbe Juel" "Niels Pepeso" Nissen "Noae Ark" Nordbåde "Nordlandske Galej" "Nordlanske Jagt" Nordmanden "Nordnæs Compagni" Nordstjernen Nordstrand Nornen Nyaden "Ny Christiansanske Galej" "Ny Delmenhorst" "Ny Holk" "Ny Fejetake" "Ny Fortuna" "Ny Fregat" "Ny København" "Ny Københavns Wåben" Nyeborg "Nye Elefant" "Nye Jagt" "Nye Lindormen" Nykøbing Nymphen Nysted
+	Odderen "Oddervals Skib" Odense Odin Oksen Oldenborg Ølholken Oljemøllen "Oluf Trygvesøn" "Onsala Galej" Øresund Ormen Ørnen Østern Østersskallen
+	Packan Påfuglen Pælebukke Pama Papegøjen Paradis Patentia "Patientia af Trondhjem" "Patriarchen Jacob" "Patrioten Georg" Paven "Peder Krabbe" "Peder Steding" "Peder Tordenskjold" "Peders Både" Peleton "Pelikan van Odense" Pelikanen Penitens "Per Ebbesen" "Per Godske" Perlen Perseus "Peter fra Hull" Phøenix Pilen Pindsoen Pinken Platbund Ploven Polichenelle Pollux Pommerantzen Pommeren Ponitens Postillionen Postrytteren Prægtige Præsten Præstø Prammen "Prinsesse Caroline" "Prinsesse Charlotte" "Prinsesse Charlotte Amalie" "Prinsesse Lovisa" "Prinsesse Lovisa Augusta" "Prinsesse Sophia Frederica" "Prinsesse Sophia Hedvig" "Prinsesse Sophia Magdalene" "Prinsesse Wilhelmine" "Pr. Wilhelmine Caroline" "Prins Carl" "Prins Carl af Danmark" "Prins Christian Frederik" "Prins Christian" "Prins Frederik" "Prins Friderich" "Pr. Friederich af København" "Prins Jørgen" "Prins Wilhelm" Prinsen "Prinsens Jagt" Proserpina Prøven Prøvesten Pumpernickel Putsweck 
+	Quaben
+	"Raa Bøjert Fra Horn" Raabøjert Raabukken Raae Ræven Raphael Raske Ravnen Rebekka Recompens Regina "Regina Dania" Regnbuen Regnholt Regnskyen Rendsborg Renen Reven Riberpriis "Ringende Jacob" "Ridder St. Jørgen" "Rigenes Ønske" Rinden Risør Robben Rødbye "Røde Gaas" "Røde Galej" "Røde Hane" "Røde Hommer" "Røde Løve" "Røde Ræv" "Røde Svane" "Røde Ulv" "Røde Vinfad" Roes Rokken Rønne Rosen "Rosen Galej" Roskilde Rota "Rothe Ganss" Røyen "Rytteren fra Aarhus" 
+	Saaler Sækepiben Sælhunden Sallemander Sallmandt Salomon Saltholken Saltholm Salvator "Salvator Mundi" Samsø Samson "Samsons Galej" Samuel "Sankt Anna" "Sankt Anne" "Sankt Andreas" "Sankt Bartholomæus" "Sankt Catharina" "Sankt Cathrine" "Sankt Christoffer" "Sankt Erik" "Sankt Franciscus" "Sankt Gertrud" "Sankt Hans" "Sankt Jacob" "Sankt Jacob Major" "Sankt Jan" "Sankt Johannes" "Sankt Johannes af Marstal" "Sankt Jørgen" "Sankt Joris" "Sankt Marcus" "Sankt Maria" "Sankt Mariæ Bøjert" "St. Matheus" "St. Mathias" "St. Michael" "St. Morten" "St. Oluf" "St. Oluf af Drammen" "St.Paul" "St. Peder" "St.Peter af Laurvig" "St. Peter af Nyborg" "St.Simon" "Sankt Stephan" "Sankt Thomas" "Sankt Thura" Sarpen "Sarpsborgs Skib" "Saug Bom" "Saxkjøbing Skude" Scharven Schruben Seeblatt Sehested Sejeren Sejlmageren "Sejr eller Død" "Seks Venner" Serpenten "Seyden Skybeth" Silden Sjælland Sjøehesten Skarven Skien Skildpadden "Skiøn Valborg" Skjold Skottepinken Skou "Skytternes Crauell" Slangen Slesvig Slughunden "Smak Johannes" "Snapp Op" Snarensvend Snecken Sneglen Snørenålen Snuekatten Søbladet Sødragonen Søeløven Soen Søhesten Søhunden Soldanen Solen "Sølfuer Dach" Sølfvisborg Søndeløv Sønderwig Søormen Sophia "Sophia Amalia" "Sophia Hedvig" "Sophia Magdalena" Søridderen "Sorte Arent" "Sorte Adler" "Sorte Bjørn" "Sorte Bøjert" "Sorte Hane" "Sorte Hund" "Sorte Kat" "Sorte Løve" "Sorte Nordman" "Sorte Ørn" "Sorte Pinke" "Sorte Ravn" "Sorte Rytter" Speculationen Spejderen Spes "Spraglede Falk" Spurven Spydstagen Staabraf "Statholder Guldenlew" Standhaftig "Stat Husum" Stathuus Stavanger Staværn Stege Stelter Stenbider Stenbukken Stenpinken Stjernen Stokfisken Støkkepram "Store Bælt" "Store Bysse" "Store Dunkraft" "Store Elefant" "Store Hjort" "Store Lægter" "Store Lykkepot" "Store Samson" "Store Skib" "Store Sophia" Støren Stormarn Støveren Stralsund "Stralsundske Falk" "Stralsundske Pucenelle" Strømbaad Strømsø Strudsen Stubbekøbing "Stumpet Dorette" "Summa Summarium" "Sunder Roer" "Sundiske Engel" Svaerdfisken Svalen Svanen Svanneke Svendborg Sværmeren Sydermanland Syvstjernen
+	Tangen Tasken Teje Ternen "Thend Hornske Holch" "Thend Narren Holch" "Thend Slij Bøyert" Thetis Thor "Thoren Scheut" "Thrend Prysk Amerall" Thygeson Tigeren Tiuren "To Kroner" "To Løver" "Tobiæ Engel" Tomleren Tønningen Tønsberg "Tønsberg Fløjte" "Tønsberg Fregat" "Tønsberg Skude" Tordenskjold Torsken Trækskøjten Trampamaskiner Tranquebar "Tre Güldenløver" "Tre Konger" "Tre Kroner" "Tre Kroners Galej" "Tre Løver" "Tre Søstre" "Tre Stjerner" Trefoldighed Treitung Triton Troefast Trolden Trondhjem Trost "Tunsberg Galej" Turtelduen "Twende Brødre" "Tygeren af København"
+	Uglen Ulfven Ulken Ulysses "Unge Fortuna" "Unge Hjort" "Unge Jaeger" "Unge Jomfru" "Unge Lam" "Unge Printz" "Unge Tobias" "Unge Ulv" Uroxen Urtekræmmerlauget
+	"Vaagne Trane" Væddeløberen Vædøe Vægeteren "Væk Op" Valdemar Valkyrien Vandhunden Varbierg Vardøhus Venden Venus Viborg Victor Victoria "Vier Hemskinder" Vikyualieprammen Vildanden Vildkatten "Vilde Mand" Vildmanden Vildsvinet Vindhunden "Vogel Struss" Vordingborg "Vort Jagtskib" "Vrangels Jagt"
+	Wage Wagrien Waldemar Walerørene Walløer Wasa Wenden "West Wlieland" Westrin Wesuvius Wildmanden Wincentia Windhunden "Wismarske Rev" "Wismarske Voss" Wohlfart "Wolgastiske Pinas" "Wrangels Palais"
+	Ystedskibet
+}
+
+army_names = {
+	"Kongelige Haer" "Danske Haer" "Haeren" "Hjemmevaernet" "Forsavret" "$PROVINCE$ Haer"
+}
+
+fleet_names = {
+	"Kongelige Danske Marine" "Søværnet Danske" "Nordsøen Fladen" "Ostersø Fladen" "$PROVINCE$ Fladen"
+}

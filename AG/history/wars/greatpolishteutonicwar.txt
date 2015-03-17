@@ -1,0 +1,46 @@
+name = "Grande croisade Teutonique"
+
+#casus_belli
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+1409.1.1 = {
+	add_attacker = TEU
+	add_attacker = LIV
+	add_defender = POL
+	add_defender = LIT
+	add_defender = MAZ
+}
+
+1410.7.15 = {
+	battle = {
+		name = "Grunwald"
+		location = 42
+		attacker = {
+			commander = "Von Jungingen"
+			infantry = 6000
+			cavalry = 21000
+			losses = 81	# percent
+			country = TEU
+		}
+		defender = {
+			commander = "Ladislas II"
+			infantry = 16000
+			cavalry = 18000
+			losses = 33	# percent
+			country = POL
+		}
+		result = loss
+	}
+}
+
+# Traité
+1411.2.1 = {
+	rem_attacker = TEU
+	rem_attacker = LIV
+	rem_defender = POL
+	rem_defender = LIT
+	rem_defender = MAZ
+}

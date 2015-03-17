@@ -1,0 +1,54 @@
+name = "Croisade de Nicopolis"
+
+#casus_belli
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+
+1394.1.1 = {
+   add_attacker = HUN
+   add_attacker = WAL
+   add_attacker = VEN
+   add_attacker = GEN
+   add_attacker = POL
+   add_attacker = KNI
+   add_attacker = TEU
+   add_defender = TUR
+   add_defender = SER   
+}
+
+1396.8.25 = {
+   battle = {
+      name = "Nicopolis"
+      location = 150
+      attacker = {
+		commander = "Sigismond"
+        infantry = 36000
+        cavalry = 13000
+        losses = 50   # percent
+		country = HUN
+      }
+      defender = {
+       commander = "Bayezid I Yildirim"
+        infantry = 9000
+        cavalry = 18000
+        losses = 10   # percent
+		country = TUR
+      }
+      result = loss
+   }
+}
+
+1397.1.1 = {
+   rem_attacker = HUN
+   rem_attacker = WAL
+   rem_attacker = VEN
+   rem_attacker = GEN
+   rem_attacker = POL
+   rem_attacker = KNI
+   rem_attacker = TEU
+   rem_defender = TUR
+   rem_defender = SER
+} 

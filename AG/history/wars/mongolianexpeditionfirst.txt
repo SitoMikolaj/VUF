@@ -1,0 +1,17 @@
+name = "Première expédition de Mongolie"
+
+#casus_belli
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1410.1.1 = {
+	add_attacker = MNG
+	add_defender = KHA
+}
+
+1410.7.1 = {
+	rem_attacker = MNG
+	rem_defender = KHA
+}

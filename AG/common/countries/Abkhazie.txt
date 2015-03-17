@@ -1,0 +1,88 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 20 60 130 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Giorgi #3" = 20
+	"Salomon #0" = 20
+	"Arsquan #0" = 20
+	"Teimouraz #0" = 20
+	"Karabeg #0" = 20
+	"Qouapou #0" = 20
+	"Djigétchi #0" = 20
+	"Hamid #0" = 20
+	"Manoutchar #0" = 20
+	"Zourab #0" = 20
+	"Levan #3" = 20
+	"Kelesh #0" = 20
+	"Aslan #0" = 20
+	"Demetre #3" = 20
+	"Michael #0" = 20
+}
+
+leader_names = { 
+	Andronikashvili
+	Asrenidze Avashvili 
+	Bakradze Chkheidze 
+	Chkhenkeli Devdariani
+	Gabashvili Gardapkhadze
+	Gedevanishvili Gegechkori
+	Gulisashvili Gvazava
+	Javakhishvili Karalashvili
+	Kereselidze Kvinitadze 
+	Lomtatitdze Maglakelidze
+	Mazniashvili Natadze
+	Nikoladze Robakidze
+	Sharashidze Surguladze
+	Takaishvili Tsereteli
+	Tsulukidze Vachnadze
+	Zaldastanishvili Zhordania
+}
+
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tashiri
+	Urbnisi
+}

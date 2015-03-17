@@ -1,0 +1,244 @@
+name = "Guerre des Duchés"
+
+#casus_belli
+war_goal = {
+	type = take_province_nationalist
+	casus_belli = cb_nationalist
+}
+
+# Declaration of War
+1848.3.24 = {
+	add_attacker = DAN
+	add_defender = SHL
+	add_defender = PRU
+}
+
+1848.4.9 = {
+	battle = {
+		name = "Bov"
+		location = 1775
+		attacker = {
+			commander = "General Hedemann"
+			infantry = 11000
+			losses = 1	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "Prince von Noer"
+			infantry = 7000
+			losses = 15	# percent
+			country = PRU
+		}
+		result = win
+	}
+}
+
+1848.4.23 = {
+	battle = {
+		name = "Schleswig"
+		location = 13
+		attacker = {
+			commander = "Oberst Frederik Læssøe"
+			infantry = 2000
+			losses = 10	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "General von Wrangel"
+			infantry = 12000
+			losses = 1	# percent
+			country = PRU
+		}
+		result = loss
+	}
+}
+
+1848.5.28 = {
+	battle = {
+		name = "Nybøl"
+		location = 13
+		attacker = {
+			commander = "Oberst Frederik Læssøe"
+			infantry = 3000
+			losses = 10	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "General von Wrangel"
+			infantry = 3000
+			losses = 1	# percent
+			country = PRU
+		}
+		result = loss
+	}
+}
+
+1848.6.5 = {
+	battle = {
+		name = "Dybbøl"
+		location = 13
+		attacker = {
+			commander = "Oberst Frederik Læssøe"
+			infantry = 5000
+			losses = 2	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "General von Wrangel"
+			infantry = 8000
+			losses = 7	# percent
+			country = PRU
+		}
+		result = win
+	}
+}
+
+1849.4.5 = {
+	battle = {
+		name = "Egernførde Fjord"
+		location = 1268
+		attacker = {
+			commander = "Gen. De Meza"
+			light_ship = 2
+			transport = 2
+			losses = 2	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "Karl Rudolf Brommy"
+			transport = 16
+			losses = 15	# percent
+			country = PRU
+		}
+		result = win
+	}
+}
+
+1849.4.23 = {
+	battle = {
+		name = "Kolding"
+		location = 13
+		attacker = {
+			commander = "Gen. De Meza"
+			infantry = 40000
+			losses = 10	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "Karl Rudolf Brommy"
+			infantry = 50000
+			losses = 5	# percent
+			country = PRU
+		}
+		result = loss
+	}
+}
+
+1849.5.31 = {
+	battle = {
+		name = "Vejlby"
+		location = 15
+		attacker = {
+			commander = "Gen. De Meza"
+			cavalry = 4000
+			losses = 5	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "Karl Rudolf Brommy"
+			infantry = 7000
+			losses = 15	# percent
+			country = PRU
+		}
+		result = win
+	}
+}
+
+1849.6.4 = {
+	battle = {
+		name = "Heligoland"
+		location = 1268
+		attacker = {
+			commander = "Andreas Polder"
+			light_ship = 2
+			losses = 2	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "Karl Rudolf Brommy"
+			light_ship = 3
+			losses = 15	# percent
+			country = PRU
+		}
+		result = win
+	}
+}
+
+1849.6.6 = {
+	battle = {
+		name = "Fredericia"
+		location = 15
+		attacker = {
+			commander = "Gen. De Meza"
+			infantry = 7000
+			losses = 20	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "Gen. Eduard von Bonin"
+			infantry = 16000
+			losses = 25	# percent
+			country = PRU
+		}
+		result = win
+	}
+}
+
+1850.7.2 = {
+	rem_defender = PRU
+} # traité de Berlin
+
+1850.7.25 = {
+	battle = {
+		name = "Idstedt"
+		location = 13
+		attacker = {
+			commander = "Gerhard Christoph von Krogh"
+			infantry = 37000
+			losses = 2	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "Karl Wilhelm von Willisen"
+			infantry = 26800
+			losses = 10	# percent
+			country = SHL
+		}
+		result = win
+	}
+}
+
+1850.11.24 = {
+	battle = {
+		name = "Lottorf"
+		location = 13
+		attacker = {
+			commander = "Gerhard Christoph von Krogh"
+			infantry = 7000
+			losses = 2	# percent
+			country = DAN
+		}
+		defender = {
+			commander = "Karl Wilhelm von Willisen"
+			infantry = 6800
+			losses = 10	# percent
+			country = SHL
+		}
+		result = win
+	}
+}
+
+1852.8.2 = {
+	rem_attacker = DAN
+	rem_defender = SHL	
+} # Protocole de Londres

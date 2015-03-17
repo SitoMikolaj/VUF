@@ -1,0 +1,152 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 93  160  163 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Charles #2" = 40
+	"Louis #3" = 40
+	"René #1" = 10
+	"Nicolas #0" = 10
+	"Jean #0" = 10
+	"Raymond Berengar #3" = 10
+	"Alphonse #2" = 5
+	"Robert #1" = 1
+	"Adhémar #0" = 2
+	"Aymeric #0" = 2
+	"Bartomiu #0" = 2
+	"Benedit #0" = 2
+	"Bernat #0" = 2
+	"Bertran #0" = 2
+	"Damián #0" = 2
+	"Émeric #0" = 2
+	"Enric #0" = 2
+	"Estève #0" = 2
+	"Ferrán #0" = 2
+	"Folquet #0" = 2
+	"Frances #0" = 2
+	"Gastó #0" = 2
+	"Guilhem #0" = 2
+	"Huc #0" = 2
+	"Jacme #0" = 2
+	"Jaufre #0" = 2
+	"Jordan #0" = 2
+	"Loys #0" = 2
+	"Lucas #0" = 2
+	"Martí #0" = 2
+	"Matheu #0" = 2
+	"Miqueu #0" = 2
+	"Per #0" = 2
+	"Pol #0" = 2
+	"Pons #0" = 2
+	"Sanc #0" = 2
+	"Thibaud #0" = 2
+	"Vicentz #0" = 2
+	"Victor #0" = 2
+	"Xavier #0" = 2
+	
+	"Nadine #0" = -5
+	"Osanne #0" = -5
+	"Yolande #0" = -5
+	"Jeanne #1" = -5
+	"Marie #0" = -5
+	"Louise #0" = -5
+	"Diane #0" = -5
+	"Élisabeth #0" = -5
+	"Catherine #0" = -5
+	"Claude #0" = -5
+	"Victoire #0" = -5
+	"Christine #0" = -5
+	"Marguerite #0" = -5
+	"Charlotte #0" = -5
+	"Madeleine #0" = -5
+	"Judith #0" = -5
+	"Béatrice #0" = -5
+	"Adélaïde #0" = -5
+	"Emma #0" = -5
+	"Constance #0" = -5
+	"Anne #0" = -5
+	"Aliénor #0" = -5
+	"Isabelle #0" = -5
+	"Blanche #0" = -5
+	"Marie-Thérèse #0" = -5
+	"Marie-Louise #0" = -5
+	"Henriette #0" = -5
+}
+
+leader_names = {
+	"d'Abeille" "d'Adhémar" "d'Agoult" "d'Aiglun" "d'Aiguières" "d'Allemagne" "d'Amalric" "d'Audiffredi" Abauzit
+	"de Bagnols" "de Barberin" "de Barcillon" "de Baschi" "des Baux" "de Bermond" "de Bionneau" "de Brunet"
+	"de Cadenet" "de Cascaris-Castellet" "de Castaing" "de Castellane" "de Castillon" Coquerel "de Cordes" "de Cormis" "de Crillon"
+	"d'Entrecasteaux" "d'Espagnet" Esparron "d'Espinouze"
+	"de Fargis" "Fauque de Jonquières" "Ferré de la Grange" 
+	"de Gassendi" "de Gévaudan" "de Gombert" "de Gordes" "de Grignan" Grimaldi "de Grimaud" "de Guast" "des Isnards" 
+	"de Lauris" "de Libertat" "de Loménie"
+	"de Monteil" "de Montpezat" 
+	"de Nostredame"
+	"de Paule" "de Pena" "Pene de la Borde" "de la Pérusse" "de Pontevès" "des Prés"
+	"de Raimondis" "de Revest" "de Riquetti"
+	"de Sabran" "de Sade" "de Saint Victoret" "de Séguiran" "de Simiane"
+	"de Valbelle"
+}
+
+ship_names = {
+	Achille Agréable "Aigle Volant" Alcyon Alouette
+	Altier Aquilon Ardente Assuré Avenant
+	Aventurier Baleine Bécasse Bienvenu Bizarre
+	Borée "Branche d'Olivier" Brillant Bucentaure Caché
+	Caille Capable Centaure César "Cheval Marin"
+	Coche "Commerce de Marseille" "Commerce de Montpellier" "Comte de Provence" Conquérant
+	Constant Content Croissant Dauphine Diamant
+	Dieppoise Dur Dromadaire Eclatant Eole
+	Espérance Fantasque Ferme Fidèle Fier
+	Florissant Formidable Fort Foudroyant Gaillard
+	Heureux Héros Jason Lion Mignon
+	Minerve Océan Orphée Parfait Phénix
+	Poli Pompeux Portefaix Protecteur Provençal
+	Provence Prudent Puissant Réale Redoutable
+	Requin "Royal Louis" Sage Sagittaire "Royal Thérèse"
+	"Saint Esprit" "Saint Joseph" "Saint Philippe" Sardine Sceptre
+	Séduisant Seine Sérieux Solide Souverain
+	Suffisant Téméraire Terrible Tigre Tonnant
+	Toulon Toulouse Trident Triomphant Triton
+	Union Vaillant Vigilant Volontaire Zélé
+}
+
+army_names = {
+        "Rounsado Ducale" "Rounsado de Prouvenço" "Rounsado de Marsiho" "Rounsado des Baux" "Rounsado de Provence-Forcalquier" "Rounsado d'Orange"  "Rounsado d'Arles" "Rounsado des Alpes"  "Rounsado du Rhône"  "Rounsado de la Durance"   "Rounsado de Haute Provence" "Rounsado de Basse Provence" "Rounsado Vivarais"	 "Rounsado $PROVINCE$" 
+}
+
+fleet_names = {
+	"Nau de Prouvenço" "Nau du Levant" "Nau de $PROVINCE$"
+}

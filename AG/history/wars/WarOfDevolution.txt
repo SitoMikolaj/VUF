@@ -1,0 +1,41 @@
+name = "Guerre de Dévolution"
+#casus_belli = cb_conquest type = take_capital_conquest
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 92 # Brabant
+}
+
+1667.5.24 = {
+	add_attacker = FRA
+	add_defender = SPA
+}
+
+# Siege de Lille
+1667.8.28 = {
+	battle = {
+		name = "Lille"
+		location = 88
+		attacker = {
+			commander = "Louis XIV"	# Henri de la Tour d'Auvergne
+			infantry = 32000
+			cavalry = 15000
+			losses = 1	# percent
+			country = FRA
+		}
+		defender = {
+			commander = "Carlos Diego de Jejón"
+			infantry = 4000
+			cavalry = 500
+			losses = 10	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+# Traité de Aix-la-Chapelle
+1668.5.2 = {
+	rem_attacker = FRA
+	rem_defender = SPA
+}

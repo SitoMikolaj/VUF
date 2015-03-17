@@ -1,0 +1,843 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -2
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = persian
+culture_group_union = iranian
+religion = shiite
+technology_group = muslim
+capital = 416 # Tabriz
+
+1301.1.1 = {
+	monarch = {
+		name = "Safi al-Din Ardabili"
+		dynasty = "Safawiyan"
+		birth_date = 1252.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.15
+}
+
+1334.1.1 = {
+	monarch = {
+		name = "Sadr al-Din I"
+		dynasty = "Safawiyan"
+		birth_date = 1305.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.15
+}
+
+1391.1.1 = {
+	monarch = {
+		name = "Khwadja Ali I"
+		dynasty = "Safawiyan"
+		birth_date = 1345.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1429.1.1 = {
+	monarch = {
+		name = "Ibrahim I"
+		dynasty = "Safawiyan"
+		birth_date = 1400.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1430.1.1 = {
+	heir = {
+		name = "Djunayd Mirza"
+		monarch_name = "Djunayd I"
+		dynasty = "Safawiyan"
+		birth_date = 1420.1.1
+		death_date = 1447.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1447.1.1 = {
+	monarch = {
+		name = "Djunayd I"
+		dynasty = "Safawiyan"
+		birth_date = 1420.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+	add_piety = -0.35
+}
+
+1447.1.1 = {
+	heir = {
+		name = "Haydar Mirza"
+		monarch_name = "Haydar I"
+		dynasty = "Safawiyan"
+		birth_date = 1440.1.1
+		death_date = 1488.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1460.1.1 = {
+	monarch = {
+		name = "Haydar"
+		dynasty = "Safawiyan"
+		birth_date = 1440.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1487.7.17 = {
+	heir = {
+		name = "Ismâ'îl Mirza"
+		monarch_name = "Ismâ'îl I"
+		dynasty = "Safawiyan"
+		birth_date = 1487.7.17
+		death_date = 1524.5.23
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 5
+		leader = {	name = "Ismail I"              	type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 0}
+	}
+}
+
+1488.1.1 = {
+	monarch = {
+		name = "Ismâ'îl I"
+		dynasty = "Safawiyan"
+		birth_date = 1487.7.17
+		adm = 6
+		dip = 5
+		mil = 5
+		leader = {	name = "Ismâ'îl I"              	type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 0}
+	}
+}
+
+1514.2.22 = {
+	heir = {
+		name = "Thamâsp Mirza"
+		monarch_name = "Thamâsp I"
+		dynasty = "Safawiyan"
+		birth_date = 1514.2.22
+		death_date = 1576.5.14
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 3
+		leader = {	name = "Tahmasp I"             	type = general	rank = 0	fire = 2	shock = 3	manuever = 4	siege = 0}
+	}
+}
+
+1523.1.1 = { leader = {	name = "Cuha Sultan"           	type = general	rank = 2	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1531.1.1 } }
+
+1524.5.24 = {
+	monarch = {
+		name = "Thamâsp I"
+		dynasty = "Safawiyan"
+		adm = 2
+		dip = 0
+		mil = 3
+		leader = {	name = "Tahmasp I"             	type = general	rank = 0	fire = 2	shock = 3	manuever = 4	siege = 0}
+	}
+}
+
+1537.5.28 = {
+	heir = {
+		name = "Ismâ'îl Mirza"
+		monarch_name = "Ismâ'îl II"
+		dynasty = "Safawiyan"
+		birth_date = 1537.5.28
+		death_date = 1577.11.24
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1548.7.27 = { capital = 428 } # Qazvin
+
+1576.5.15 = {
+	monarch = {
+		name = "Ismâ'îl II"
+		dynasty = "Safawiyan"
+		birth_date = 1537.5.28
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1576.5.15 = {
+	heir = {
+		name = "Muhammad Khudabanda"
+		monarch_name = "Muhammad Khudabanda"
+		dynasty = "Safawiyan"
+		birth_date = 1531.1.1
+		death_date = 1595.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1577.11.25 = {
+	monarch = {
+		name = "Muhammad Khudabanda"
+		dynasty = "Safawiyan"
+		birth_date = 1531.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1577.11.25 = {
+	heir = {
+		name = "Hamza Mirza"
+		monarch_name = "Hamza I"
+		dynasty = "Safawiyan"
+		birth_date = 1566.1.1
+		death_date = 1586.12.6
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+		leader = {	name = "Hamza Mirza"  type = general	rank = 1	fire = 2	shock = 3	manuever = 3	siege = 0	 }
+	}
+}
+
+1586.12.6 = {
+	heir = {
+		name = "Abbas Mirza"
+		monarch_name = "Abbas I"
+		dynasty = "Safawiyan"
+		birth_date = 1571.1.27
+		death_date = 1629.1.19
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+		leader = {	name = "Abbas I"               	type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 1}
+	}
+}
+
+1588.9.9 = {
+	monarch = {
+		name = "Abbas I"
+		dynasty = "Safawiyan"
+		birth_date = 1571.1.27
+		adm = 6
+		dip = 5
+		mil = 6
+		leader = {	name = "Abbas I"               	type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 1}
+	}
+}
+
+1589.1.1 = { leader = {	name = "Farhad Khân"           	type = general	rank = 1	fire = 2	shock = 4	manuever = 4	siege = 0	death_date = 1599.1.1 } }
+
+1597.1.1 = { leader = {	name = "Allahverdi Khân"       	type = general	rank = 1	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1613.6.3 } }
+
+1598.1.1 = { capital = 429 } # Isfahan
+
+1601.1.1 = { leader = {	name = "Emir Guna Beg"         	type = general	rank = 2	fire = 3	shock = 4	manuever = 3	siege = 1	death_date = 1625.1.1 } }
+
+1602.1.1 = { leader = {	name = "Qarchaqay Bei"         	type = general	rank = 3	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1624.1.1 } }
+
+1611.1.1 = {
+	heir = {
+		name = "Safi Mirza"
+		monarch_name = "Safi I"
+		dynasty = "Safawiyan"
+		birth_date = 1611.1.1
+		death_date = 1642.5.12
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1629.1.20 = {
+	monarch = {
+		name = "Safi I"
+		dynasty = "Safawiyan"
+		birth_date = 1611.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1630.1.1 = { leader = {	name = "Rustam Khân"           	type = general	rank = 2	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1643.3.1 } }
+
+1632.12.31 = {
+	heir = {
+		name = "Abbas Mirza"
+		monarch_name = "Abbas II"
+		dynasty = "Safawiyan"
+		birth_date = 1632.12.31
+		death_date = 1666.9.25
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1642.5.12 = {
+	monarch = {
+		name = "Abbas II"
+		dynasty = "Safawiyan"
+		birth_date = 1632.12.31
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1647.1.1 = {
+	heir = {
+		name = "Safi Mirza"
+		monarch_name = "Suleiman I"
+		dynasty = "Safawiyan"
+		birth_date = 1647.1.1
+		death_date = 1694.7.29
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1666.9.25 = {
+	monarch = {
+		name = "Suleiman I"
+		dynasty = "Safawiyan"
+		birth_date = 1647.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1668.1.1 = {
+	heir = {
+		name = "Sultan Husayn"
+		monarch_name = "Husayn I"
+		dynasty = "Safawiyan"
+		birth_date = 1668.1.1
+		death_date = 1726.9.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1694.7.30 = {
+	monarch = {
+		name = "Husayn I"
+		dynasty = "Safawiyan"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1722.1.1 = { leader = {	name = "Fath Ali Khân"         	type = general	rank = 2	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1726.10.11 } }
+
+# L'empire afghan envahit et conquiert la perse. 
+
+1722.10.23 = {
+	monarch = {
+		name = "Mir Mahmud"
+		dynasty = "Ghilzai"
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+}
+
+1722.10.23 = {
+	heir = {
+		name = "Mir Ashraf"
+		monarch_name = "Mir Ashraf"
+		dynasty = "Ghilzai"
+		birth_date = 1700.1.1
+		death_date = 1729.11.2
+		claim = 45
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1725.4.25 = {
+	monarch = {
+		name = "Mir Ashraf"
+		dynasty = "Ghilzai"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+# Le fils survivant d'Husayn anéanti les afghans et reprend le trône
+
+1729.9.29 = {
+	monarch = {
+		name = "Thamasp II"
+		dynasty = "Safawiyan"
+		birth_date = 1704.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1730.1.1 = { leader = {	name = "Ibrahim Khân"          	type = general	rank = 2	fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1738.11.14 } }
+
+1732.1.1 = {
+	heir = {
+		name = "Abbas Mirza"
+		monarch_name = "Abbas III"
+		dynasty = "Safawiyan"
+		birth_date = 1732.1.1
+		death_date = 1736.3.9
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1732.9.8 = {
+	monarch = {
+		name = "Abbas III"
+		dynasty = "Safawiyan"
+		birth_date = 1732.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1732.9.8 = {
+	heir = {
+		name = "Nadir Qirqlu"
+		monarch_name = "Nadir I"
+		dynasty = "Afshâr"
+		birth_date = 1688.10.22
+		death_date = 1747.6.19
+		claim = 65
+		adm = 2
+		dip = 4
+		mil = 5
+		leader = {	name = "Nadir Shah"            	type = general	rank = 0	fire = 3	shock = 5	manuever = 5	siege = 1}
+	}
+}
+
+1734.1.1 = { leader = {	name = "Latif Khân"            	type = admiral	rank = 1	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1738.7.7 } }
+
+1736.3.9 = {
+	monarch = {
+		name = "Nadir I"
+		dynasty = "Afshâr"
+		birth_date = 1688.10.22
+		adm = 2
+		dip = 4
+		mil = 5
+		leader = {	name = "Nadir Shah"            	type = general	rank = 0	fire = 3	shock = 5	manuever = 5	siege = 1}
+	}
+}
+
+1736.3.9 = {
+	heir = {
+		name = "Adil Qoli"
+		monarch_name = "Adil I"
+		dynasty = "Afshâr"
+		birth_date = 1710.1.1
+		death_date = 1749.5.20
+		claim = 75
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1747.6.20 = {
+	monarch = {
+		name = "Adil"
+		dynasty = "Afshâr"
+		birth_date = 1710.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1747.6.20 = {
+	heir = {
+		name = "Ebrahim"
+		monarch_name = "Ebrahim I"
+		dynasty = "Afshâr"
+		birth_date = 1710.1.1
+		death_date = 1749.5.20
+		claim = 75
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1748.9.1 = {
+	monarch = {
+		name = "Ebrahim"
+		dynasty = "Afshâr"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1748.9.1 = {
+	heir = {
+		name = "Shâh Rokh"
+		monarch_name = "Shâh Rokh I"
+		dynasty = "Afshâr"
+		birth_date = 1730.1.1
+		death_date = 1796.1.1
+		claim = 75
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1749.5.20 = {
+	monarch = {
+		name = "Shâh Rokh"
+		dynasty = "Afshâr"
+		birth_date = 1730.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1750.1.1 = { leader = {	name = "Karim Khân"            	type = general	rank = 0	fire = 2	shock = 3	manuever = 3	siege = 1	death_date = 1770.1.1 } }
+
+1750.1.1 = { leader = {	name = "Sadeq Khân"            	type = general	rank = 1	fire = 3	shock = 4	manuever = 3	siege = 1	death_date = 1781.2.1 } }
+
+1750.1.2 = {
+	monarch = {
+		name = "Suleiman II"
+		dynasty = "Safawiyan"
+		birth_date = 1730.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1750.1.2 = {
+	heir = {
+		name = "Abu Turab"
+		monarch_name = "Ismâ'îl III"
+		dynasty = "Afshâr"
+		birth_date = 1733.1.1
+		death_date = 1773.1.1
+		claim = 75
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1750.1.2 = { capital = 430 } # Shiraz
+
+1750.6.13 = {
+	monarch = {
+		name = "Ismâ'îl III"
+		dynasty = "Afshâr"
+		birth_date = 1733.1.1
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Karim Khân"
+		dynasty = "Zandian"
+		birth_date = 1705.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1760.1.1 = {
+	heir = {
+		name = "Zaki Khân"
+		monarch_name = "Zaki Khân"
+		dynasty = "Zandian"
+		birth_date = 1733.1.1
+		death_date = 1779.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1779.1.1 = {
+	monarch = {
+		name = "Zaki Khân"
+		dynasty = "Zandian"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1779.1.1 = {
+	heir = {
+		name = "Mohammed Ali"
+		monarch_name = "Mohammed Ali Khân"
+		dynasty = "Zandian"
+		birth_date = 1760.1.1
+		death_date = 1779.6.19
+		claim = 75
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1779.3.7 = {
+	monarch = {
+		name = "Mohammed Ali Khân"
+		dynasty = "Zandian"
+		birth_date = 1760.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1779.3.7 = {
+	heir = {
+		name = "Abol Fath"
+		monarch_name = "Abol Fath Khân"
+		dynasty = "Zandian"
+		birth_date = 1755.1.1
+		death_date = 1787.1.1
+		claim = 45
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1779.6.19 = {
+	monarch = {
+		name = "Abol Fath"
+		dynasty = "Zandian"
+		birth_date = 1755.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1779.6.19 = {
+	heir = {
+		name = "Mohammed Sadeq"
+		monarch_name = "Sadeq Khân"
+		dynasty = "Zandian"
+		birth_date = 1725.1.1
+		death_date = 1782.1.1
+		claim = 45
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1779.8.22 = {
+	monarch = {
+		name = "Sadeq Khân"
+		dynasty = "Zandian"
+		birth_date = 1725.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1779.8.22 = {
+	heir = {
+		name = "Ali Murad"
+		monarch_name = "Ali Murad"
+		dynasty = "Zandian"
+		birth_date = 1745.1.1
+		death_date = 1785.1.1
+		claim = 45
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1781.3.15 = {
+	monarch = {
+		name = "Ali Murad"
+		dynasty = "Zandian"
+		birth_date = 1745.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1781.3.15 = {
+	heir = {
+		name = "Ja'far"
+		monarch_name = "Ja'far Khân"
+		dynasty = "Zandian"
+		birth_date = 1750.1.1
+		death_date = 1789.1.23
+		claim = 45
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+
+1785.2.18 = {
+	monarch = {
+		name = "Ja'far Khân"
+		dynasty = "Zandian"
+		birth_date = 1750.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+
+1785.2.18 = {
+	heir = {
+		name = "Sayed Murad"
+		monarch_name = "Sayed Murad Khân"
+		dynasty = "Zandian"
+		birth_date = 1750.1.1
+		death_date = 1789.5.10
+		claim = 45
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1789.1.23 = {
+	monarch = {
+		name = "Sayed Murad Khân"
+		dynasty = "Zandian"
+		birth_date = 1750.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1789.1.23 = {
+	heir = {
+		name = "Lotf Ali"
+		monarch_name = "Lotf Ali Khân"
+		dynasty = "Zandian"
+		birth_date = 1769.1.1
+		death_date = 1794.1.1
+		claim = 45
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1789.5.10 = {
+	monarch = {
+		name = "Lotf Ali Khân"
+		dynasty = "Zandian"
+		birth_date = 1769.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1794.1.1 = {
+	monarch = {
+		name = "Aga Muhammad"
+		dynasty = "Kadjar"
+		birth_date = 1742.3.14
+		adm = 1
+		dip = 0
+		mil = 5
+		 leader = {	name = "Aga Muhammad"          	type = general	rank = 1	fire = 2	shock = 4	manuever = 4	siege = 1 }
+	}
+}
+
+1794.1.1 = {
+	heir = {
+		name = "Bâbâ Khân"
+		monarch_name = "Fath Ali"
+		dynasty = "Zandian"
+		birth_date = 1772.9.5
+		death_date = 1834.10.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1795.1.1 = { capital = 428 } # Tehran
+
+1797.6.18 = {
+	monarch = {
+		name = "Fath Alî"
+		dynasty = "Kadjar"
+		birth_date = 1772.9.5
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

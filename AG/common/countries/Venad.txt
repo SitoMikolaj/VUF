@@ -1,0 +1,100 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 134  166  117 }
+
+historical_idea_groups = {
+	trade_ideas
+	spy_ideas
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Chêra Udaya Varmâ #0" = 20
+	"Mûtha #0" = 20
+	"Srî Vîra Mârtanda Varmâ #0" = 20
+	"Âditya Varmâ #0" = 40
+	"Bâlâ Rama Varmâ #0" = 20
+	"Mârtanda Varmâ #0" = 20
+	"Srî Vîra Kulashêkhara #0" = 20
+	"Udaya Mârtanda Varmâ #0" = 20
+	"Gouri Lakshmî Bâi #0" = 20
+	"Gouri Parvati Bâi #0" = 20
+	"Ravi Varmâ #0" = 40
+	"Kotha Âditya Varmâ #0" = 10
+	"Ravi Ravi Varmâ #0" = 10
+	"Rama Varmâ #0" = 40
+	"Unni Varmâ #0" = 10
+	"Srî Vîra Udaya Varmâ #0" = 10
+	"Srî Vîra Varmâ #0" = 10
+	"Srî Vîra Ravi Varmâ #0" = 10
+	"Ummayama Rânî #0" = -10
+	#"Mârtanda Varmâ #0" = 10
+	"Udaya #0" = 2
+	"Ravi #0" = 2
+	"Unni #0" = 2
+	"Srî #0" = 2
+	"Kallada #0" = 2
+	"Mârthanda #0" = 2
+	"Raman #0" = 2
+	"Eman #0" = 2
+	"Râmaiyan #0" = 2
+	"Thiruvattar #0" = 2
+	"Kodasseri #0" = 2
+	"Koratti #0" = 2
+	"Ummayama #0" = -10
+	"Ghauri Lakshmî Bâî #0" = -10
+	"Parvati Bâî #0" = -1
+}
+
+leader_names = {
+	Kartha
+	Kaimal
+	Keyi
+	Varmâ
+	"Vênâdu Swarûpam"
+	Thampi
+	Unnithan
+	Pillai
+	Pandalai
+	Naduvazhi
+	Kurup
+}
+
+ship_names = {
+	Achankovil Amirtha Amman Arul
+	Bharathapuzha Chalakudi Chaliyar
+	Chellam Devî Durgâ Gâyatrî Iniyâ
+	Kadalundi Lakshmî Madhu Mînâkshî
+	Nalinî Pambar Pârvatî Periyâr
+	Ponni Râdhâ Ratri Sarasvatî
+	Sîtâ Tâmarai Vembanad
+}
+
+army_names = {
+	"Rajah Vaahinii" "Bijanâgara Vaahinii" "Vijayanagara Vaahinii" "Raajya Paalayati" "Kavalu Paalayati" "Mahapradhana Vaahinii" "Karyakartha Vaahinii" "Rayaswami Vaahinii" "Adhikari Vaahinii" "Rajya Vaahinii" "Karnataka Vaahinii" "Bharat Vaahinii" "Hindûsthân Vaahinii" "Sindhi Vaahinii" "Sangama Vaahinii" "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Raajya Nausenaa" "Navigadaprabhu Nausenaa" "Bijanâgara Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa"
+	}

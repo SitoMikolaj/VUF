@@ -1,0 +1,19 @@
+name = "Guerre de Djaghataï"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1440.1.1 = {
+	add_attacker = OIR
+	add_attacker = KHA
+	add_defender = CHG
+}
+
+1445.1.1 = {
+	rem_attacker = OIR
+	rem_attacker = KHA
+	rem_defender = CHG
+}

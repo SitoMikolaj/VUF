@@ -1,0 +1,124 @@
+#Finland
+
+graphical_culture = westerngfx
+
+color = { 182  134  100 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	Adlercreutz Ahlqvist
+	Berg Björn Blom 
+	Cronstedt
+	Dufva
+	Ehrensvärd "von Essen" 
+	Glad
+	Haataja Helander Helin Hiltunen Horn
+	Ilkka Isotalo
+	Järvelä Järnberg
+	Kesäläinen Klingspor Kortelainen Krouvari Kyrö
+	Liljencrantz Länkinen
+	Pentti Pietilä 
+	Rehnskiöld Renner Rokka Rutanen
+	Sakari Sjögren Stålhandske Stoor
+	Tapani Termonen Turunen
+	Wilander
+}
+
+ship_names = {
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
+}
+
+monarch_names = {
+	"Eerikki #0" = 20
+	"Niklas #0" = 20
+	"Väinämöinen #0" = 20
+	"Aato #0" = 10
+	"Fredrik #0" = 10
+	"Jani #0" = 10
+	"Aleksanteri #0" = 5
+	"Edvard #0" = 5
+	"Jaakko #0" = 5
+	"Juha #0" = 5
+	"Aapeli #0" = 2
+	"Alpertti #0" = 2
+	"Antero #0" = 2
+	"Arvo #0" = 2
+	"Eino #0" = 2
+	"Erno #0" = 2
+	"Heikki #0" = 2
+	"Jooseppi #0" = 2
+	"Jyri #0" = 2
+	"Kaarle #0" = 2
+	"Kristian #0" = 2
+	"Lauri #0" = 2
+	"Mainio #0" = 2
+	"Mikael #0" = 2
+	"Onni #0" = 2
+	"Otso #0" = 2
+	"Paavo #0" = 2
+	"Petteri #0" = 2
+	"Ransu #0" = 2
+	"Reino #0" = 2
+	"Samuli #0" = 2
+	"Taavi #0" = 2
+	"Tauno #0" = 2
+	"Tuomas #0" = 2
+	"Valto #0" = 2
+	"Veli #0" = 2
+	"Vieno #0" = 2
+	"Vilhelmi #0" = 2
+	"Voitto #0" = 2
+	
+	"Tarja #0" = -1
+	"Aina #0" = -1
+	"Jaana #0" = -1
+}
+
+army_names = {
+	"Suomen Kaarti" "Maavoimat" "Suomen Kuninkaallinen"  "Kannaksen Armeija"  "Pohjois-Suomen Armeija" "Lapin Armeija" "Pohjois-Karjalan Armeija" "$PROVINCE$ Armeija"	
+}
+
+fleet_names = {
+	"Suomen Meriekipaasi" "Laivasto Suomi" "Laivasto Pohjanlahti" "Laivasto Lahti" "Laivasto Balttilainen" "Laivasto $PROVINCE$"
+}

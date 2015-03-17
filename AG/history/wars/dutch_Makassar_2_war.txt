@@ -1,0 +1,17 @@
+name = "Seconde guerre de Makassar"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1782.1.1 = {
+	add_attacker = NED
+	add_defender = MKS
+}
+
+1784.7.1 = {
+	rem_attacker = NED
+	rem_defender = MKS
+}

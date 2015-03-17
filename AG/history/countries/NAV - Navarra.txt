@@ -1,0 +1,272 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -1
+#centralization_decentralization = -4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = -3
+#quality_quantity = -1
+#serfdom_freesubjects = 2
+primary_culture = basque
+religion = catholic
+technology_group = western
+capital = 210	# Pamplona
+
+
+1387.1.1 = {
+	monarch = {
+		name = "Charles III"
+		dynasty = "d'Évreux"
+		birth_date = 1361.7.22
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1387.7.6 = {
+	heir = {
+		name = "Blanche"
+		monarch_name = "Blanche I"
+		dynasty = "d'Évreux"
+		birth_date = 1387.7.6
+		death_date = 1441.4.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+		female = yes
+	}
+}
+
+1425.9.8 = {
+	monarch = {
+		name = "Blanche I"
+		dynasty = "d'Évreux"
+		birth_date = 1387.7.6
+		adm = 1
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1425.9.8 = {
+	heir = {
+		name = "Juan"
+		monarch_name = "Juan II"
+		dynasty = "de Trastámara"
+		birth_date = 1398.6.29
+		death_date = 1479.1.20
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1441.4.1 = {
+	monarch = {
+		name = "Juan II"
+		dynasty = "de Trastámara"
+		birth_date = 1398.6.29
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1441.4.1 = {
+	heir = {
+		name = "Carles"
+		monarch_name = "Carles I"
+		dynasty = "de Trastámara"
+		birth_date = 1421.5.29
+		death_date = 1461.9.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1461.9.23 = {
+	heir = {
+		name = "Bianca"
+		monarch_name = "Bianca II"
+		dynasty = "de Trastámara"
+		birth_date = 1424.6.9
+		death_date = 1464.12.2
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 0
+		female = yes
+	}
+}
+
+1464.12.2 = {
+	heir = {
+		name = "Leonor"
+		monarch_name = "Leonor I"
+		dynasty = "de Trastámara"
+		birth_date = 1425.2.2
+		death_date = 1479.2.12
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 0
+		female = yes
+	}
+}
+
+1479.1.19 = {
+	monarch = {
+		name = "Leonor I"
+		dynasty = "de Trastámara"
+		birth_date = 1425.2.2
+		adm = 1
+		dip = 2
+		mil = 0
+		female = yes
+	}
+}
+
+1479.1.19 = {
+	heir = {
+		name = "François Phébus"
+		monarch_name = "François I Phébus"
+		dynasty = "de Foix"
+		birth_date = 1467.1.1
+		death_date = 1483.1.7
+		claim = 75
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1479.2.12 = {
+	monarch = {
+		name = "François I Phébus"
+		dynasty = "de Foix"
+		birth_date = 1467.1.1
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1479.2.12 = {
+	heir = {
+		name = "Catherine"
+		monarch_name = "Catherine I"
+		dynasty = "de Foix"
+		birth_date = 1468.4.18
+		death_date = 1517.2.12
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1483.1.7 = {
+	monarch = {
+		name = "Catherine I"
+		dynasty = "de Foix"
+		birth_date = 1468.4.18
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1503.4.18 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri II"
+		dynasty = "d'Albret"
+		birth_date = 1503.4.18
+		death_date = 1555.5.25
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1512.9.1 = { capital = 176 government = despotic_monarchy } # Bearn/Foix 
+  
+1517.2.12 = {
+	monarch = {
+		name = "Henri II"
+		dynasty = "d'Albret"
+		birth_date = 1503.4.18
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1528.1.7 = {
+	heir = {
+		name = "Jeanne"
+		monarch_name = "Jeanne III"
+		dynasty = "d'Albret"
+		birth_date = 1528.1.7
+		death_date = 1572.6.9
+		claim = 85
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	monarch = {
+		name = "Jeanne III"
+		dynasty = "d'Albret"
+		birth_date = 1528.1.7
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri IV"
+		dynasty = "de Bourbon"
+		birth_date = 1553.12.13
+		death_date = 1610.5.14
+		claim = 95
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Henri IV"	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+1560.1.1 = { religion = reformed government = administrative_monarchy }
+
+1562.1.1 = { leader = {	name = "Louis de Bourbon-Condé"	type = general	rank = 0	fire = 2	shock = 3	manuever = 4	siege = 3	death_date = 1569.1.1 } }
+
+1572.6.9 = {
+	monarch = {
+		name = "Henri IV"
+		dynasty = "de Bourbon"
+		birth_date = 1553.12.13
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Henri IV"	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+1661.3.9 = { government = absolute_monarchy }

@@ -1,0 +1,19 @@
+name = "Guerre de Boabdil"
+
+#casus_belli = cb_crusade
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+1482.12.26 = {
+	add_attacker = CAS
+	add_attacker = ARA
+	add_defender = GRA
+}
+
+1483.6.25 = {
+	rem_attacker = CAS
+	rem_attacker = ARA
+	rem_defender = GRA
+}

@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 106  178  46 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Tiadoru #0" = 20
+	"Ericcu Ghjilormu #0" = 15
+	"Federicu #0" = 15
+	"Leopoldu #0" = 15
+	"Albanu #0" = 2
+	"Alfonsu #1" = 2
+	"Amadeu #0" = 2
+	"Ambrosgiu #0" = 2
+	"Andria #0" = 2
+	"Antone #0" = 2
+	"Attilio #0" = 2
+	"Basiliu #0" = 2
+	"Bernardu #0" = 2
+	"Boniface #0" = 2
+	"Brunu #0" = 2
+	"Carlu #0" = 2
+	"Claudiu #0" = 2
+	"Clemente #0" = 2
+	"Conradu #0" = 2
+	"Ernestu #0" = 2
+	"Felice #0" = 2
+	"Francescu #0" = 2
+	"Ghjuva #0" = 2
+	"Leandru #0" = 2
+	"Leone #0" = 2
+	"Ludovicu #0" = 2
+	"Lurenzu #0" = 2
+	"Patriziu #0" = 2
+	"Paulu #0" = 2
+	"Petru #0" = 2
+	"Prosperu #0" = 2
+	"Raimondu #0" = 2
+	"Renatu #0" = 2
+	"Salbadore #0" = 2
+	"Samperu #0" = 2
+	"Savieru #0" = 2
+	"Stefanu #0" = 2
+	"Tristanu #0" = 2
+	"Ubertu #0" = 2
+	"Zaccaria #0" = 2
+	
+	"Maria #0" = -1
+	"Huguette #0" = -1
+	"Pénélope #0" = -1
+}
+
+leader_names = {
+	Acquaviva Agostini Albertini Angeli Appietto Astolfi
+	Bartoli Batesti Biancchini Buonaparte
+	Cardi Castelli Ceccaldi Cesari Cipriani Colonna Corsofieru Cucchi Corso
+	"Della Rocca" "Della Serra"
+	Franceschetti Franceschini
+	Grafferi Graziani Guidoni
+	Leca Lucchini Luciani 
+	Mancini Marcaggi Mariani Mondolini Moracchini
+	Natalini "de Neuhoff"
+	Orsini Orsoni
+	Palazzo Paoli Peretti
+	Raffaeli Rivarola Rossi
+	Salicetti Sampiero Sanguinetti Santoni Scarbonchi 
+	Torre
+}
+
+ship_names = {
+	"Aria Marina" Attunante Bucarone Corsica "Corso Fieru"
+	Galleotta Gregale Independenzia Indumevule Inflessibile
+	Intraprendente Libecciu Libertà Livante Maria
+	Maistrale Nazione Orgugliosu Patriota "Pruch'ella Duri"
+	Punente "St'Antonio di Padova" "Sant'Abele" "Sant'Apebe" "Santa Brigita" 
+	"Santu Briziu" Sant'Egidiu "Santu Ghjambattista" "Santu Landericu" "Santu Lanfrancu"
+	"Santu Mauru" "Santa Prudenzia" "Santu Prutasiu" "Santa Teresa" "Santa Tassiana"
+	"Santu Tavianu" "Santa Zita" "Santissima Concezzione" Sbuffulera Scioru
+	Sciroccu Sculapratu Stella Terribile Terrore
+	Timevule Timpesta Tramuntana Tunizata Ventizata
+}
+
+army_names = {
+	"Armata Naziunale" "Armata Corsica" "Armata $PROVINCE$"
+}
+
+fleet_names = {
+	"Flotta Naziunale" "Flotta $PROVINCE$"
+}

@@ -1,0 +1,128 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 135  104  85 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	religious_ideas
+	economic_ideas
+	offensive_ideas
+	defensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"'Alî Sher #0" = 20
+	"Fath Khân #0" = 20
+	"Tughluq #0" = 20
+	"Nizâm ad-Dîn #1" = 20
+	"Fîrûz Salâh ad-Dîn #0" = 20
+	"Shâh Shujâ Beg #0" = 20
+	"Sanjar #0" = 20
+	"Nandâ #0" = 20
+	"Shâh Husayn #0" = 20
+	"Mîrzâ Muhammad 'Isa #0" = 20
+	"Mîrzâ Muhammad Bâqî #0" = 20
+	"Mîrzâ Jânî Beg #0" = 20
+	"Yâr Muhammad Khân #0" = 20
+	"Muhammad Murâd #0" = 20
+	"Gulâm Shâh #0" = 20
+	"Sarfarâz Khân #0" = 20
+	"Gulâm Nabî Khân #0" = 20
+	"'Abd an-Nabî Khân #0" = 20
+	"'Abd Allâh Khân Tâlpûr #0" = 20
+	"Mir Fath 'Alî #0" = 20
+	"Tharâ #0" = 20
+	"Muhammad 'Isâ #0" = 20
+	"Muhammad Bâqî #0" = 20
+	"Nûr Muhammad #0" = 20
+	"Muhammad #0" = 2
+	"Muzzafar #0" = 2
+	"'Alî #0" = 2
+	"Khalîl #0" = 2
+	"Sikandar #0" = 20
+	"Bhenjî #0" = 2
+	"Hamirjî #0" = 2
+	"Bhav #0" = 2
+	"Nâtwâr #0" = 2
+	"Sidhraj #0" = 2
+	"Ghulûm #0" = 2
+	"Husayn #0" = 2
+	"'Abdullâh #0" = 2
+	"Nûr #0" = -1
+	"Chaguli #0" = -1
+	"Khayr #0" = -1
+}
+
+leader_names = {
+	Arghun
+	Desâî
+	Jinnâh
+	Sûmrah
+	Golânî
+	Kalhorâ
+	Bhâtiyâ
+	Mâlik
+	Bhîl
+	Sultân
+	al-Khurâsânî
+	Khokhar
+	Fârûqî
+	Changezî
+	Ghâzî
+	Mîrzâ
+	Naru
+	Chudasama
+	Pahore
+	Tomara
+	Solankî
+	Begada
+	Shâh
+	Munshi
+	Parîkh
+	Patel
+	Patidar
+	Rushi
+	Samma
+	Bhutto
+	Singh
+	Bahâdur
+	Sindhe
+	Tarkhân
+	Zamîndâri
+}
+
+ship_names = {
+	"A'âliyah" Arusa Bâran Fâtima Halejî
+	Sindhu Kînjhar Khân Malîr Manchar
+	Mol Nîknâz Nîlûfa Nûr Salîma
+	Sarî Shamîna Suhalia Suk
+	Yâsmin Zâhira
+}
+
+army_names = {
+	"Sindh Senaa" "Sultan Senaa" "Raajya Paalayati" "Sukkur Senaa" "Mirpurkhas Senaa" "Tando Adam Senaa" "Tando Allahyar Senaa" "Nawabshah Senaa" "Larkana Senaa" "Shikarpur Senaa" "Khairpur Senaa" "Badin Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Raajya Nausenaa" "Rann Kutch Nausenaa" "Sindh Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa"
+	}

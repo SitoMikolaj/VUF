@@ -1,0 +1,724 @@
+name = "Guerre d'indépendance du Mexique"
+#casus_belli = cb_independence_war
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+	tag = MEX
+}
+
+1810.9.16 = {
+	add_attacker = MEX
+	add_defender = SPA
+}
+
+# Soulèvement de Miguel Hidalgo 
+
+1810.9.28 = {
+	battle = {
+		name = "Toma de la Alhóndiga de Granaditas"
+		location = 850
+		attacker = {
+			commander = "Miguel Hidalgo"
+			infantry = 50000
+			losses = 8	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Juan Antonio Riaño"
+			infantry = 2500
+			losses = 90	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1810.10.9 = {
+	battle = {
+		name = "Puerto de Carroza"
+		location = 850
+		attacker = {
+			commander = "Miguel Hidalgo"
+			infantry = 3000
+			losses = 20	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Juan Antonio Riaño"
+			infantry = 600
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1810.10.17 = {
+	battle = {
+		name = "Valladolid"
+		location = 851
+		attacker = {
+			commander = "Miguel Hidalgo"
+			infantry = 80000
+			losses = 5	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "José Mariano Anzorena"
+			infantry = 3500
+			losses = 24	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1810.10.30 = {
+	battle = {
+		name = "Monte de las Cruces"
+		location = 851
+		attacker = {
+			commander = "Miguel Hidalgo"
+			infantry = 80000
+			losses = 5	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Torcuato Trujillo"
+			infantry = 2780
+			losses = 12	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1810.11.3 = {
+	battle = {
+		name = "Zacoalco"
+		location = 854
+		attacker = {
+			commander = "José Antonio Torres"
+			infantry = 500
+			losses = 50	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Tomás Villaseñor"
+			infantry = 1200
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1810.11.7 = {
+	battle = {
+		name = "Aculco"
+		location = 852
+		attacker = {
+			commander = "Miguel Hidalgo"
+			infantry = 30000
+			losses = 25	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Félix María Calleja"
+			infantry = 6200
+			losses = 10	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1810.11.26 = {
+	battle = {
+		name = "Guanajuato"
+		location = 853
+		attacker = {
+			commander = "Ignacio Allende"
+			infantry = 1800
+			losses = 45	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Félix María Calleja"
+			infantry = 1000
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1810.11.26 = {
+	battle = {
+		name = "Guadalajara"
+		location = 854
+		attacker = {
+			commander = "José Antonio Torres"
+			infantry = 3000
+			losses = 10	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Roque Abarca"
+			infantry = 1200
+			losses = 20	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1810.12.18 = {
+	battle = {
+		name = "Real del Rosario"
+		location = 859
+		attacker = {
+			commander = "José María González Hermosillo"
+			infantry = 8200
+			losses = 45	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Pedro Villaescusa"
+			infantry = 5000
+			losses = 5	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1811.1.4 = {
+	battle = {
+		name = "Tres Palos"
+		location = 849
+		attacker = {
+			commander = "José María Morelos"
+			infantry = 7000
+			losses = 1	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Juan Francisco París"
+			infantry = 5000
+			losses = 20	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1811.1.7 = {
+	battle = {
+		name = "Aguanueva"
+		location = 861
+		attacker = {
+			commander = "Mariano Jiménez"
+			infantry = 8000
+			losses = 10	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Antonio Cordero y Bustamante"
+			infantry = 700
+			losses = 90	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1811.1.14 = {
+	battle = {
+		name = "Urepetiro"
+		location = 854
+		attacker = {
+			commander = "Ruperto Mier"
+			infantry = 3000
+			losses = 25	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "José de la Cruz"
+			infantry = 2000
+			losses = 10	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1811.1.17 = {
+	battle = {
+		name = "Puente de Calderón"
+		location = 852
+		attacker = {
+			commander = "Miguel Hidalgo"
+			infantry = 100000
+			losses = 13	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Félix María Calleja"
+			infantry = 6000
+			losses = 20	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1811.1.20 = {
+	battle = {
+		name = "Puerto del Carnero"
+		location = 861
+		attacker = {
+			commander = "Mariano Jiménez"
+			infantry = 3500
+			losses = 20	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "José Manuel de Ochoa"
+			infantry = 4000
+			losses = 5	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1811.2.8 = {
+	battle = {
+		name = "Puente de Calderón"
+		location = 859
+		attacker = {
+			commander = "José María González Hermosillo"
+			infantry = 3500
+			losses = 20	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Alejo García Conde"
+			infantry = 4000
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+# Soulèvement de José María Morelos y Pavón
+
+1811.4.1 = {
+	battle = {
+		name = "Puerto de Piñones"
+		location = 861
+		attacker = {
+			commander = "Ignacio López Rayón"
+			infantry = 1200
+			losses = 10	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "José Manuel de Ochoa"
+			infantry = 1500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1811.4.11 = {
+	battle = {
+		name = "El Veladero"
+		location = 849
+		attacker = {
+			commander = "José María Morelos"
+			infantry = 700
+			losses = 20	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Juan Antonio Fuentes"
+			infantry = 1000
+			losses = 5	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1811.4.15 = {
+	battle = {
+		name = "Zacatecas"
+		location = 861
+		attacker = {
+			commander = "Ignacio López Rayón"
+			infantry = 2200
+			losses = 10	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "José Manuel de Ochoa"
+			infantry = 1500
+			losses = 20	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1811.5.2 = {
+	battle = {
+		name = "Maguey"
+		location = 861
+		attacker = {
+			commander = "Ignacio López Rayón"
+			infantry = 3200
+			losses = 40	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Miguel Emparan"
+			infantry = 2500
+			losses = 20	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1811.7.12 = {
+	battle = {
+		name = "Llanos de Santa Juana"
+		location = 851
+		attacker = {
+			commander = "José Calixto Martínez y Moreno"
+			infantry = 1200
+			losses = 25	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Manuel del Río"
+			infantry = 1500
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1812.1.2 = {
+	battle = {
+		name = "Zitácuaro"
+		location = 851
+		attacker = {
+			commander = "Ignacio López Rayón"
+			infantry = 22000
+			losses = 25	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Félix María Calleja"
+			infantry = 5500
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1812.1.20 = {
+	battle = {
+		name = "Tecualoya"
+		location = 852
+		attacker = {
+			commander = "Hermenegildo Galeana"
+			infantry = 15000
+			losses = 60	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Rosendo Porlier y Asteguieta"
+			infantry = 3500
+			losses = 10	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1812.2.23 = {
+	battle = {
+		name = "Cuautla"
+		location = 852
+		attacker = {
+			commander = "Mariano Matamoros"
+			infantry = 7000
+			losses = 10	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Ciriaco del Llano"
+			infantry = 2500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1812.5.12 = {
+	battle = {
+		name = "Huajuapan"
+		location = 852
+		attacker = {
+			commander = "Ignacio López Rayón "
+			infantry = 5000
+			losses = 10	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Miguel Dambrini"
+			infantry = 2500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1812.5.28 = {
+	battle = {
+		name = "Escamela"
+		location = 848
+		attacker = {
+			commander = "José María Morelos "
+			infantry = 15000
+			losses = 10	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Miguel Dambrini"
+			infantry = 8500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1812.6.2 = {
+	battle = {
+		name = "Cuautla"
+		location = 847
+		attacker = {
+			commander = "José María Morelos y Pavón"
+			infantry = 17000
+			losses = 20	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Félix María Calleja"
+			infantry = 5500
+			losses = 60	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1812.7.4 = {
+	battle = {
+		name = "Huajuapan"
+		location = 847
+		attacker = {
+			commander = "Hermenegildo Galeana"
+			infantry = 500
+			losses = 10	# percent
+			country = MEX
+		}
+		defender = {
+			commander = " José María Añorve de Salas "
+			infantry = 2500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1812.7.23 = {
+	battle = {
+		name = "Huajuapan"
+		location = 848
+		attacker = {
+			commander = "José María Morelos"
+			infantry = 15000
+			losses = 30	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "José María de Régules Villasante"
+			infantry = 8500
+			losses = 45	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1812.10.28 = {
+	battle = {
+		name = "Orizaba"
+		location = 848
+		attacker = {
+			commander = "José María Morelos"
+			infantry = 10000
+			losses = 3	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "José Antonio Andrade"
+			infantry = 1500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1812.11.25 = {
+	battle = {
+		name = "Oaxaca"
+		location = 847
+		attacker = {
+			commander = "José María Morelos"
+			infantry = 10000
+			losses = 5	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "T. G. González Sarabia"
+			infantry = 1500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1813.4.12 = {
+	battle = {
+		name = "Acapulco"
+		location = 849
+		attacker = {
+			commander = "José María Morelos"
+			infantry = 10000
+			losses = 5	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Miguel Dambrini"
+			infantry = 1500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1813.5.28 = {
+	battle = {
+		name = "La Chincúa"
+		location = 849
+		attacker = {
+			commander = "Mariano Matamoros"
+			infantry = 1000
+			losses = 5	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Miguel Dambrini"
+			infantry = 2500
+			losses = 25	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1813.12.23 = {
+	battle = {
+		name = "Las Lomas de Santa María"
+		location = 850
+		attacker = {
+			commander = "José María Morelos"
+			infantry = 5600
+			losses = 65	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Agustín de Iturbide"
+			infantry = 1200
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1814.1.5 = {
+	battle = {
+		name = "Puruarán"
+		location = 851
+		attacker = {
+			commander = "Mariano Matamoros"
+			infantry = 8600
+			losses = 45	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Agustín de Iturbide"
+			infantry = 2500
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1815.11.5 = {
+	battle = {
+		name = "Tezmalaca"
+		location = 850
+		attacker = {
+			commander = "Mariano Matamoros"
+			infantry = 18600
+			losses = 65	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Agustín de Iturbide"
+			infantry = 9500
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+# Résistance des maquis mais sur la défensive
+# Traité de Cordoba
+
+1821.10.24 = {
+	rem_attacker = MEX
+	rem_defender = SPA
+}

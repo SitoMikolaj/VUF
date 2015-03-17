@@ -1,0 +1,105 @@
+#Country Name: Seeee the Name of this File.
+
+graphical_culture = westerngfx
+
+color = { 53  140  73 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #1" = 20
+	"Wenzel #1" = 20
+	"Anton #0" = 20
+	"Jobst #0" = 20
+	"Sigmund #0" = 20
+	"Elizabeth #0" = -15
+	"Karl #1" = 5
+	"Heinrich #7" = 5
+	"Konrad #2" = 5
+	"Wilhelm #1" = 5
+	"Albrecht #0" = 2
+	"Andreas #0" = 2
+	"Bernhard #0" = 2
+	"Claudius #0" = 2
+	"Cristoph #0" = 2
+	"Diederik #0" = 2
+	"Engelbert #0" = 2
+	"Ferdinand #0" = 2
+	"Franz #0" = 2
+	"Georg #0" = 2
+	"Hans #0" = 2
+	"Isaak #0" = 2
+	"Jakob #0" = 2
+	"Joachim #0" = 2
+	"Joseph #0" = 2
+	"Klemens #0" = 2
+	"Konstantin #0" = 2
+	"Leopold #0" = 2
+	"Lothair #0" = 2
+	"Ludwig #0" = 2
+	"Mathias #0" = 2
+	"Maximiliam #0" = 2
+	"Odo #0" = 2
+	"Pascal #0" = 2
+	"Peter #0" = 2
+	"Philipp #0" = 2
+	"Rudolf #0" = 2
+	"Ruprecht #0" = 2
+	"Sigismund #0" = 2
+	"Viktor #0" = 2
+}
+
+leader_names = {
+	"von Bettborn" "von Bous" Borchert Bültel Biberen Bourscheidt
+	"von Capellen" Clees Cemmerer Croye 
+	"von Diekirch" Dumont Delhaes "du Carme"
+	"von Grevenmach"	"von Grosbous" Genot Gonderinger Greff 
+	Hoscheit Herrig
+	Mersch Maussen
+	Nissar
+	"von Pontpierre" Pinkernell Petilliot Paguet
+	"von Reisdorf" "von Redange" Riener
+	 "von Schuttrange" Schannen "von Sommerfeld" 
+	 Voigt 
+	 Weiler Winen   
+}
+
+ship_names = {
+	Clervaux Diekirch Redange Vianden Wiltz
+	Echternach Grevenmacher Remich Capellen
+	Mersch Feulen "Esch-sur-Alzette"
+}
+
+army_names = {
+	"Armée Ducale" "Milice de $PROVINCE$"
+}
+
+fleet_names = {
+	"Flotte Ducale" "Flotte de $PROVINCE$"
+}

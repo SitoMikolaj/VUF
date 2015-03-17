@@ -1,0 +1,40 @@
+# Grotesque guerre menée par la France pour venger une boutique d'un patissier détruite par l'armée mexicaine
+
+name = "Guerre des Patisseries"
+
+#casus_belli
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1838.11.27  = {
+	add_attacker = FRA
+	add_defender = MEX
+}
+
+1838.12.5 = {
+	battle = {
+		name = "San Juan de Ulúa"
+		location = 848
+		attacker = {
+			commander = "Charles Baudin"
+			infantry = 1000
+			losses = 2	# percent
+			country = FRA
+		}
+		defender = {
+			commander = "Santa Anna"
+			infantry = 800
+			losses = 10	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1839.3.9 = {
+	rem_attacker = FRA
+	rem_defender = MEX
+}
+

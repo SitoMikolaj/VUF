@@ -1,0 +1,131 @@
+name = "Seconde guerre anglo-marathe"
+#casus_belli = cb_liberation
+war_goal = {
+	type = superiority_overseas
+	casus_belli = cb_overseas
+}
+
+1803.8.1 = {
+	add_attacker = GBR
+	add_defender = GWA
+	add_defender = NAG
+	add_defender = MAR
+}
+
+1803.8.3 = {
+	battle = {
+		name = "Ahmadnâgar"
+		location = 544
+		attacker = {
+			commander = "Arthur Wellesley"
+			infantry = 4500
+			losses = 3	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Bourquin"
+			infantry = 3000
+			losses = 40	# percent
+			country = MAR
+		}
+		result = win
+	}
+}
+
+1803.9.11 = {
+	battle = {
+		name = "Delhi"
+		location = 522
+		attacker = {
+			commander = "Gerard Lake"	# Gerard Lake
+			infantry = 4500
+			losses = 7	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Louis Bourquin"	# Bourquin
+			infantry = 19000
+			losses = 40	# percent
+			country = GWA
+		}
+		result = win
+	}
+}
+
+1803.9.23 = {
+	battle = {
+		name = "Assaye"
+		location = 545
+		attacker = {
+			commander = "Arthur Wellesley"	# Arthur Wellesley
+			infantry = 4500
+			cavalry = 2000
+			losses = 56	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Râghojî II"	# Ragojee Bhonsla
+			infantry = 50000
+			artillery = 100
+			losses = 56	# percent
+			country = MAR
+		}
+		result = win
+	}
+}
+
+1803.10.28 = {
+	battle = {
+		name = "Argaum"
+		location = 545
+		attacker = {
+			commander = "Arthur Wellesley"
+			infantry = 11500
+			cavalry = 2000
+			artillery = 17
+			losses = 2	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Daulat Râo Sindhia"
+			infantry = 45000
+			losses = 32	# percent
+			country = GWA
+		}
+		result = win
+	}
+}
+
+1803.10.28 = {
+	battle = {
+		name = "Gawilghur"
+		location = 545
+		attacker = {
+			commander = "Arthur Wellesley"
+			infantry = 1500
+			cavalry = 2000
+			artillery = 17
+			losses = 2	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Daulat Râo Sindhia"
+			infantry = 700
+			losses = 82	# percent
+			country = GWA
+		}
+		result = win
+	}
+}
+
+# Traité de Deogaon
+1803.12.17 = {
+	rem_defender = NAG
+}
+
+# Traité de Rajpurghat
+1805.12.25 = {
+	rem_attacker = GBR
+	rem_defender = MAR
+	rem_defender = GWA
+}

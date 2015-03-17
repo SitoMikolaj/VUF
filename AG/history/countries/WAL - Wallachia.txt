@@ -1,0 +1,1254 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -5
+primary_culture = romanian
+religion = orthodox
+technology_group = eastern
+capital = 161 # Tîrgoviste
+
+
+1386.9.23 = {
+	monarch = {
+		name = "Mircea I"
+		dynasty = "Basarabi"
+		birth_date = 1355.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1394.11.1 = {
+	monarch = {
+		name = "Vlad I"
+		dynasty = "Basarabi"
+		birth_date = 1365.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1396.12.1 = {
+	monarch = {
+		name = "Mircea I"
+		dynasty = "Basarabi"
+		birth_date = 1355.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1397.1.1 = {
+	heir = {
+		name = "Mihail"
+		monarch_name = "Mihail I"
+		dynasty = "Basarabi"
+		birth_date = 1390.1.1
+		death_date = 1420.8.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1418.1.31 = {
+	monarch = {
+		name = "Mihail I"
+		dynasty = "Basarabi"
+		birth_date = 1390.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1418.1.31 = {
+	heir = {
+		name = "Radu"
+		monarch_name = "Radu II Chelul"
+		dynasty = "Basarabi"
+		birth_date = 1400.1.1
+		death_date = 1427.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+}
+
+1420.8.1 = {
+	monarch = {
+		name = "Radu II Prasnaglava"
+		dynasty = "Basarabi"
+		birth_date = 1400.1.1
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+}
+
+1422.1.1 = {
+	monarch = {
+		name = "Dan II"
+		dynasty = "Danesti"
+		birth_date = 1400.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1423.6.1 = {
+	monarch = {
+		name = "Radu II Prasnaglava"
+		dynasty = "Basarabi"
+		birth_date = 1400.1.1
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+}
+
+1427.1.1 = {
+	monarch = {
+		name = "Dan II"
+		dynasty = "Danesti"
+		birth_date = 1400.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1431.3.1 = {
+	monarch = {
+		name = "Alexandru I"
+		dynasty = "Aldea"
+		birth_date = 1397.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1436.12.1 = {
+	monarch = {
+		name = "Vlad II"
+		dynasty = "Draculesti"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+		leader = { name = "Vlad II"	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0 }
+	}
+}
+
+1442.2.1 = {
+	monarch = {
+		name = "Mircea II cel Tânar"
+		dynasty = "Draculesti"
+		birth_date = 1420.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+
+	}
+}
+
+1442.6.1 = {
+	monarch = {
+		name = "Basarabi II"
+		dynasty = "Danesti"		
+		birth_date = 1425.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1443.5.1 = {
+	monarch = {
+		name = "Vlad II"
+		dynasty = "Draculesti"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+		leader = { name = "Vlad II"	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0 }
+	}
+}
+
+1447.12.4 = {
+	monarch = {
+		name = "Vladislav II"
+		dynasty = "Danesti"
+		birth_date = 1390.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1456.7.1 = {
+	monarch = {
+		name = "Vlad III Tepes"
+		dynasty = "Draculesti"
+		birth_date = 1431.11.1
+		adm = 1
+		dip = 0
+		mil = 5
+		leader = { name = "Vlad III Tepes"	type = general	rank = 0	fire = 3	shock = 4	manuever = 4	siege = 0}
+	}
+}
+
+1462.12.1 = {
+	monarch = {
+		name = "Radu III cel Frumos"
+		dynasty = "Draculesti"
+		birth_date = 1439.8.2
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1476.1.1 = {
+	monarch = {
+		name = "Vlad III Tepes"
+		dynasty = "Draculesti"
+		birth_date = 1431.11.1
+		adm = 1
+		dip = 0
+		mil = 5
+		leader = { name = "Vlad III Tepes"	type = general	rank = 0	fire = 3	shock = 4	manuever = 4	siege = 0}
+	}
+}
+
+1477.1.1 = {
+	monarch = {
+		name = "Basarabi III Laiota"
+		dynasty = "Danesti"
+		birth_date = 1420.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1481.3.1 = {
+	monarch = {
+		name = "Basarabi IV cel Tânar"
+		dynasty = "Danesti"
+		birth_date = 1440.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1481.9.1 = {
+	monarch = {
+		name = "Mircea III"
+		dynasty = "Draculesti"
+		birth_date = 1464.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1482.9.1 = {
+	monarch = {
+		name = "Vlad IV Calugarul"
+		dynasty = "Draculesti"
+		birth_date = 1425.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1495.9.17 = {
+	monarch = {
+		name = "Radu IV cel Mare"
+		dynasty = "Draculesti"
+		birth_date = 1467.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+}
+
+1508.4.1 = {
+	monarch = {
+		name = "Mihnea I cel Rau"
+		dynasty = "Draculesti"
+		birth_date = 1462.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1509.10.29 = {
+	monarch = {
+		name = "Mircea IV Milos"
+		dynasty = "Draculesti"
+		birth_date = 1480.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+} 
+
+1510.1.15 = {
+	monarch = {
+		name = "Vlad V cel Tânar"
+		dynasty = "Draculesti"
+		birth_date = 1488.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+} 
+
+1512.1.23 = {
+	monarch = {
+		name = "Neagoe Basarabi V"
+		dynasty = "Craiovesti"
+		birth_date = 1459.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1521.9.16 = {
+	monarch = {
+		name = "Vlad VI Dragomir"
+		dynasty = "Draculesti"
+		birth_date = 1480.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1521.11.1 = {
+	monarch = {
+		name = "Theodosie"
+		dynasty = "Craiovescu"
+		birth_date = 1495.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1522.1.22 = {
+	monarch = {
+		name = "Radu V de la Afumati"
+		dynasty = "Draculesti"
+		birth_date = 1490.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+1523.9.1 = {
+	monarch = {
+		name = "Radu VI Badica"
+		dynasty = "Draculesti"
+		birth_date = 1480.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1524.9.1 = {
+	monarch = {
+		name = "Vladislav III"
+		dynasty = "Danesti"
+		birth_date = 1490.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1525.8.1 = {
+	monarch = {
+		name = "Radu V de la Afumati"
+		dynasty = "Draculesti"
+		birth_date = 1490.1.1
+		adm = 0
+		dip = 2
+		mil = 5
+	}
+}
+
+1529.1.5 = {
+	monarch = {
+		name = "Basarabi VI"
+		dynasty = "Danesti"
+		birth_date = 1495.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1529.3.5 = {
+	monarch = {
+		name = "Moise Voda"
+		dynasty = "Danesti"
+		birth_date = 1500.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1530.8.29 = {
+	monarch = {
+		name = "Vlad VII Înecatul"
+		dynasty = "Draculesti"
+		birth_date = 1500.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1530.9.18 = {
+	monarch = {
+		name = "Vlad VIII Vintila"
+		dynasty = "Draculesti"
+		birth_date = 1500.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1535.6.10 = {
+	monarch = {
+		name = "Radu VII Paisie"
+		dynasty = "Draculesti"
+		birth_date = 1500.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1545.3.18 = {
+	monarch = {
+		name = "Mircea V Ciobanul"
+		dynasty = "Draculesti"
+		birth_date = 1505.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1552.11.15 = {
+	monarch = {
+		name = "Radu VIII Ilias Haidaul"
+		dynasty = "Draculesti"
+		birth_date = 1515.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1553.6.11 = {
+	monarch = {
+		name = "Mircea V Ciobanul"
+		dynasty = "Draculesti"
+		birth_date = 1505.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1554.3.1 = {
+	monarch = {
+		name = "Patrascu cel Bun"
+		dynasty = "Draculesti"
+		birth_date = 1515.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1557.12.24 = {
+	monarch = {
+		name = "Mircea V Ciobanul"
+		dynasty = "Draculesti"
+		birth_date = 1505.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1559.9.22 = {
+	monarch = {
+		name = "Petru I cel Tânar"
+		dynasty = "Draculesti"
+		birth_date = 1546.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1568.6.15 = {
+	monarch = {
+		name = "Alexandru II"
+		dynasty = "Draculesti"
+		birth_date = 1529.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1577.6.26 = {
+	monarch = {
+		name = "Mihnea II Turcitul"
+		dynasty = "Draculesti"
+		birth_date = 1564.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1583.7.1 = {
+	monarch = {
+		name = "Petru II Cercel"
+		dynasty = "Draculesti"
+		birth_date = 1564.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1585.4.16 = {
+	monarch = {
+		name = "Mihnea II Turcitul"
+		dynasty = "Draculesti"
+		birth_date = 1564.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1591.5.1 = {
+	monarch = {
+		name = "Stefan I Surdul"
+		dynasty = "Musati"
+		birth_date = 1565.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1592.10.1 = {
+	monarch = {
+		name = "Alexandru III cel Rau"
+		dynasty = "Musati"
+		birth_date = 1570.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1593.9.1 = {
+	monarch = {
+		name = "Mihai II Viteazul"
+		dynasty = "Draculesti"
+		birth_date = 1558.1.1
+		adm = 4
+		dip = 6
+		mil = 6
+		leader = { name = "Mihai II Viteazul"	type = general	rank = 0	fire = 3	shock = 4	manuever = 4	siege = 0}
+	}
+}
+
+1600.10.1 = {
+	monarch = {
+		name = "Simion I"
+		dynasty = "Movilesti"
+		birth_date = 1560.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1601.5.1 = {
+	monarch = {
+		name = "Radu IX Mihnea"
+		dynasty = "Draculesti"
+		birth_date = 1585.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1601.8.31 = {
+	monarch = {
+		name = "Simion I"
+		dynasty = "Movilesti"
+		birth_date = 1560.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1602.8.20 = {
+	monarch = {
+		name = "Radu X Serban"
+		dynasty = "Craiovescu"
+		birth_date = 1585.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1611.3.1 = {
+	monarch = {
+		name = "Radu IX Mihnea"
+		dynasty = "Draculesti"
+		birth_date = 1585.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1616.3.1 = {
+	monarch = {
+		name = "Gavril I"
+		dynasty = "Movilesti"
+		birth_date = 1575.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1616.9.1 = {
+	monarch = {
+		name = "Alexandru IV Ilias"
+		dynasty = "Musati"
+		birth_date = 1580.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1618.6.1 = {
+	monarch = {
+		name = "Gavril I"
+		dynasty = "Movilesti"
+		birth_date = 1575.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1620.7.1 = {
+	monarch = {
+		name = "Radu IX Mihnea"
+		dynasty = "Draculesti"
+		birth_date = 1585.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1623.8.2 = {
+	monarch = {
+		name = "Alexandru V Coconul"
+		dynasty = "Draculesti"
+		birth_date = 1611.1.1
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+1627.11.14 = {
+	monarch = {
+		name = "Alexandru IV Ilias"
+		dynasty = "Musati"
+		birth_date = 1580.1.1
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1629.3.1 = {
+	monarch = {
+		name = "Leon I Tomsa"
+		dynasty = "Musati"
+		birth_date = 1590.1.1
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1632.7.30 = {
+	monarch = {
+		name = "Radu XI Ilias"
+		dynasty = "Musati"
+		birth_date = 1610.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1632.9.30 = {
+	monarch = {
+		name = "Matei I Basarabi"
+		dynasty = "Craiovescu"
+		birth_date = 1588.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1654.4.20 = {
+	monarch = {
+		name = "Constantin I Serban"
+		dynasty = "Craiovescu"
+		birth_date = 1615.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1658.3.2  = {
+	monarch = {
+		name = "Mihnea III"
+		dynasty = "Draculesti"
+		birth_date = 1630.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1659.8.1 = {
+	monarch = {
+		name = "Gheorghe I"
+		dynasty = "Ghica"
+		birth_date = 1600.3.3
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1660.9.1 = {
+	monarch = {
+		name = "Grigore I"
+		dynasty = "Ghica"
+		birth_date = 1628.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1664.9.1 = {
+	monarch = {
+		name = "Radu XII Leon"
+		dynasty = "Ghica"
+		birth_date = 1635.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1669.3.28 = {
+	monarch = {
+		name = "Antonie I"
+		dynasty = "Popesti"
+		birth_date = 1645.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1672.3.20 = {
+	monarch = {
+		name = "Grigore I"
+		dynasty = "Ghica"
+		birth_date = 1628.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1673.11.2 = {
+	monarch = {
+		name = "Gheorge II"
+		dynasty = "Duca"
+		birth_date = 1625.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1678.11.2 = {
+	monarch = {
+		name = "Serban I"
+		dynasty = "Cantacuzene"
+		birth_date = 1640.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+1688.11.10 = {
+	monarch = {
+		name = "Constantin II"
+		dynasty = "Craiovescu"
+		birth_date = 1654.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1714.4.7 = {
+	monarch = {
+		name = "Stefan II"
+		dynasty = "Cantacuzene"
+		birth_date = 1675.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1715.6.7 = {
+	monarch = {
+		name = "Nicolae III"
+		dynasty = "Mavrogordato"
+		birth_date = 1680.5.3
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1716.11.1 = {
+	monarch = {
+		name = "Ioan I"
+		dynasty = "Mavrogordato"
+		birth_date = 1684.7.23
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1719.3.1 = {
+	monarch = {
+		name = "Nicolae III"
+		dynasty = "Mavrogordato"
+		birth_date = 1680.5.3
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1730.9.15 = {
+	monarch = {
+		name = "Constantin III"
+		dynasty = "Mavrogordato"
+		birth_date = 1712.2.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1730.10.15 = {
+	monarch = {
+		name = "Mihai III"
+		dynasty = "Racovita"
+		birth_date = 1660.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1731.10.24 = {
+	monarch = {
+		name = "Constantin III"
+		dynasty = "Mavrogordato"
+		birth_date = 1712.2.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1733.4.16 = {
+	monarch = {
+		name = "Grigore II"
+		dynasty = "Ghica"
+		birth_date = 1695.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1735.11.25 = {
+	monarch = {
+		name = "Constantin III"
+		dynasty = "Mavrogordato"
+		birth_date = 1712.2.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1741.9.16 = {
+	monarch = {
+		name = "Mihai III"
+		dynasty = "Racovita"
+		birth_date = 1660.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1744.7.1 = {
+	monarch = {
+		name = "Constantin III"
+		dynasty = "Mavrogordato"
+		birth_date = 1712.2.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1746.4.1 = {
+	monarch = {
+		name = "Grigore II"
+		dynasty = "Ghica"
+		birth_date = 1695.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1752.9.3 = {
+	monarch = {
+		name = "Matei I"
+		dynasty = "Ghica"
+		birth_date = 1728.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1753.7.3 = {
+	monarch = {
+		name = "Constantin IV"
+		dynasty = "Racovita"
+		birth_date = 1699.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1756.2.19 = {
+	monarch = {
+		name = "Constantin III"
+		dynasty = "Mavrogordato"
+		birth_date = 1712.2.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1758.8.14 = {
+	monarch = {
+		name = "Scarlat I"
+		dynasty = "Ghica"
+		birth_date = 1715.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1761.6.16 = {
+	monarch = {
+		name = "Constantin III"
+		dynasty = "Mavrogordato"
+		birth_date = 1712.2.2
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1763.3.20 = {
+	monarch = {
+		name = "Constantin IV"
+		dynasty = "Racovita"
+		birth_date = 1699.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1764.8.2 = {
+	monarch = {
+		name = "Stefan III"
+		dynasty = "Racovita"
+		birth_date = 1714.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1765.8.18 = {
+	monarch = {
+		name = "Scarlat I"
+		dynasty = "Ghica"
+		birth_date = 1715.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1766.12.2 = {
+	monarch = {
+		name = "Alexandru VI"
+		dynasty = "Ghica"
+		birth_date = 1730.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1768.10.29 = {
+	monarch = {
+		name = "Grigore III"
+		dynasty = "Ghica"
+		birth_date = 1724.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1769.11.16 = {
+	monarch = {
+		name = "Manole I"
+		dynasty = "Rosetti"
+		birth_date = 1715.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1774.9.27 = {
+	monarch = {
+		name = "Alexandru VII"
+		dynasty = "Ypsilanti"
+		birth_date = 1725.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1782.1.15 = {
+	monarch = {
+		name = "Nicolae IV"
+		dynasty = "Caradja"
+		birth_date = 1737.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1783.7.17 = {
+	monarch = {
+		name = "Mihai IV Sutu"
+		dynasty = "Soutzos"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1786.5.1 = {
+	monarch = {
+		name = "Nicolae V"
+		dynasty = "Soutzos"
+		birth_date = 1735.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1790.9.5 = {
+	monarch = {
+		name = "Mihai IV Sutu"
+		dynasty = "Soutzos"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1793.1.10 = {
+	monarch = {
+		name = "Alexandru VIII"
+		dynasty = "Mourousi"
+		birth_date = 1750.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1796.8.30 = {
+	monarch = {
+		name = "Alexandru VII"
+		dynasty = "Ypsilanti"
+		birth_date = 1725.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1797.12.5 = {
+	monarch = {
+		name = "Constantin V"
+		dynasty = "Hangerli"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1799.3.3 = {
+	monarch = {
+		name = "Alexandru VIII"
+		dynasty = "Mourousi"
+		birth_date = 1750.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1801.10.22 = {
+	monarch = {
+		name = "Mihai IV Sutu"
+		dynasty = "Soutzos"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1802.5.10 = {
+	monarch = {
+		name = "Constantin VI"
+		dynasty = "Ypsilanti"
+		birth_date = 1760.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1812.9.10 = {
+	monarch = {
+		name = "Ioan II"
+		dynasty = "Caradja"
+		birth_date = 1754.1.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1818.10.14 = {
+	monarch = {
+		name = "Alexandru IX Sutu"
+		dynasty = "Soutzos"
+		birth_date = 1758.1.18
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}

@@ -1,0 +1,182 @@
+name = "Guerre de Cisplatine"
+
+#casus_belli
+war_goal = {
+	type = take_border	
+	casus_belli = cb_border_war
+}
+
+1825.4.25 = {
+	add_attacker = LAP
+	add_defender = BRZ
+}
+
+1825.10.12 = {
+	battle = {
+		name = "Sarandí"
+		location = 779
+		attacker = {
+			commander = "Juan Antonio Lavalleja"
+			infantry = 2360
+			losses = 2	# percent
+			country = LAP
+		}
+		defender = {
+			commander = "Bento Manoel"
+			infantry = 1411
+			losses = 20	# percent			
+			country = BRZ	
+		}
+		result = win
+	}
+}
+
+1826.6.11 = {
+	battle = {
+		name = "Los Pozos"
+		location = 1536
+		attacker = {
+			commander = "Guillermo Brown"
+			light_ship = 3
+			transport = 8
+			losses = 10	# percent
+			country = LAP
+		}
+		defender = {
+			commander = "James Norton"
+			light_ship = 5
+			transport = 25
+			losses = 20	# percent
+			country = BRZ
+		}
+		result = win
+	}
+}
+
+1826.12.30 = {
+	battle = {
+		name = "Maldonado"
+		location = 1536
+		attacker = {
+			commander = "César Fournier"
+			light_ship = 3
+			losses = 10	# percent
+			country = LAP
+		}
+		defender = {
+			commander = "Antoñio Carlos Ferreira"
+			light_ship = 1
+			losses = 20	# percent
+			country = BRZ
+		}
+		result = win
+	}
+}
+
+1827.2.9 = {
+	battle = {
+		name = "Juncal"
+		location = 1536
+		attacker = {
+			commander = "Guillermo Brown"
+			light_ship = 6
+			transport = 8
+			losses = 10	# percent
+			country = LAP
+		}
+		defender = {
+			commander = "Jacinto Roque de Sena Pereira"
+			light_ship = 12
+			transport = 5
+			losses = 20	# percent
+			country = BRZ
+		}
+		result = win
+	}
+}
+
+1827.2.20 = {
+	battle = {
+		name = "Ituzaingo"
+		location = 770
+		attacker = {
+			commander = "Carlos María de Alvear"
+			infantry = 9500
+			losses = 10	# percent
+			country = LAP
+		}
+		defender = {
+			commander = "Felisberto Caldeira Brant"
+			infantry = 10500
+			losses = 10	# percent
+			country = BRZ
+		}
+		result = loss
+	}
+}
+
+1827.3.7 = {
+	battle = {
+		name = "Carmen de Patagones"
+		location = 779
+		attacker = {
+			commander = "Martin Lacana"
+			infantry = 1500
+			losses = 1	# percent
+			country = LAP
+		}
+		defender = {
+			commander = "James Sheperd"
+			infantry = 5050
+			losses = 90	# percent
+			country = BRZ
+		}
+		result = win
+	}
+}
+
+1827.4.8 = {
+	battle = {
+		name = "Santiago"
+		location = 1536
+		attacker = {
+			commander = "Francis Drummond"
+			light_ship = 2
+			transport = 10
+			losses = 25	# percent
+			country = LAP
+		}
+		defender = {
+			commander = "Rodrigo Pinto Guedes"
+			light_ship = 4
+			losses = 5	# percent
+			country = BRZ
+		}
+		result = loss
+	}
+}
+
+1828.1.8 = {
+	battle = {
+		name = "lac Mirim"
+		location = 1535
+		attacker = {
+			commander = "Geroñimo Soriano"
+			transport = 3
+			losses = 5	# percent
+			country = LAP
+		}
+		defender = {
+			commander = "Souza Junqueira"
+			transport = 5
+			losses = 10	# percent
+			country = BRZ
+		}
+		result = win
+	}
+}
+
+1828.8.27 = {
+	rem_attacker = LAP
+	rem_defender = BRZ
+}

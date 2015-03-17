@@ -1,0 +1,87 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255 255 255 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Engelbert #2" = 10
+	"Balduin #1" = 5
+	"Bruno #1" = 5
+	"Dietrich #1" = 5
+	"Erich #1" = 5
+	"Gottfried #1" = 5
+	"Heinrich #1" = 5
+	"Johann #3" = 5
+	"Konrad #2" = 5
+	"Ludwig #1" = 5
+	"Melchior #1" = 5
+	"Otto #2" = 5
+	"Widukind #1" = 5
+	"Albrecht #0" = 5
+	"Rudolf #0" = 5
+	"Franz #0" = 5
+	"Bernhard #0" = 5
+	"Philip #0" = 5
+	"Eitel #0" = 5
+	"Gustav #0" = 5
+	"Ernst #0" = 5
+	"Karl #0" = 5
+	"Klemens #0" = 5
+	"Friedrich #0" = 5
+}
+
+leader_names = {
+	Boelken 
+	"von Cossel" 
+	Dönhoff "de Dornach" 
+	Engels Enste 
+	Helff 
+	Kempf "de Kircheim" Krefting Köhne 
+	Meyer
+	"de Turckheim"	
+	Wachsmuth
+	"zu Stolberg-Stolberg"	
+}
+
+ship_names = {
+	Liudger "St. Lamberti" Liebfrauenkirche
+	"Graf von Hoya" Greven Hiltrup Mauritz
+	Wolbeck Roxel Senden
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}
+
+fleet_names = {
+	"Osnabrück Flotte" "$PROVINCE$ Flotte"
+}

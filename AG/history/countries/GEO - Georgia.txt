@@ -1,0 +1,834 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -5
+primary_culture = georgian
+religion = orthodox
+technology_group = eastern
+capital = 423 # T'bilisi
+
+
+1360.1.1 = {
+	monarch = {
+		name = "Bragat V"
+		dynasty = "Bagrationi"
+		birth_date = 1330.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1360.1.1 = {
+	heir = {
+		name = "Giorgi"
+		monarch_name = "Giorgi VII"
+		dynasty = "Bagrationi"
+		birth_date = 1350.1.1
+		death_date = 1405.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1395.1.1 = {
+	monarch = {
+		name = "Giorgi VII"
+		dynasty = "Bagrationi"
+		birth_date = 1350.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1399.1.1 = {
+	heir = {
+		name = "Konstantine"
+		monarch_name = "Konstantine I"
+		dynasty = "Bagrationi"
+		birth_date = 1369.1.1
+		death_date = 1412.12.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1405.1.1 = {
+	monarch = {
+		name = "Konstantine I"
+		dynasty = "Bagrationi"		
+		birth_date = 1369.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1405.1.1 = {
+	heir = {
+		name = "Aleksandre"
+		monarch_name = "Aleksander I"
+		dynasty = "Bagrationi"
+		birth_date = 1386.1.1
+		death_date = 1445.8.26
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 2
+		leader = { name = "Aleksandre I"	type = general	rank = 0	fire = 2	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+
+1412.12.1 = {
+	monarch = {
+		name = "Aleksandre I"
+		dynasty = "Bagrationi"
+		birth_date = 1386.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+		leader = { name = "Aleksandre I"	type = general	rank = 0	fire = 2	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+
+1413.1.1 = {
+	heir = {
+		name = "Vakhtang"
+		monarch_name = "Vakhtang IV"
+		dynasty = "Bagrationi"
+		birth_date = 1413.1.1
+		death_date = 1446.12.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1433.1.1 = {
+	monarch = {
+		name = "Vakhtang IV"
+		dynasty = "Bagrationi"
+		birth_date = 1413.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1433.1.1 = {
+	heir = {
+		name = "Giorgi"
+		monarch_name = "Giorgi VIII"
+		dynasty = "Bagrationi"
+		birth_date = 1417.1.1
+		death_date = 1476.1.1
+		claim = 45
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+
+1446.1.1 = {
+	monarch = {
+		name = "Giorgi VIII"
+		dynasty = "Bagrationi"
+		birth_date = 1417.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+
+1446.1.1 = {
+	heir = {
+		name = "Bagrat"
+		monarch_name = "Bagrat VI"
+		dynasty = "Bagrationi"
+		birth_date = 1435.1.1
+		death_date = 1478.1.1
+		claim = 45
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1465.1.1 = {
+	monarch = {
+		name = "Bagrat VI"
+		dynasty = "Bagrationi"
+		birth_date = 1435.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1465.1.1 = {
+	heir = {
+		name = "Bagrat"
+		monarch_name = "Bagrat VI"
+		dynasty = "Bagrationi"
+		birth_date = 1447.1.1
+		death_date = 1505.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1478.1.1 = {
+	monarch = {
+		name = "Konstantine II"
+		dynasty = "Bagrationi"
+		birth_date = 1447.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1482.1.1 = {
+	heir = {
+		name = "Davit"
+		monarch_name = "Davit X"
+		dynasty = "Bagrationi"
+		birth_date = 1482.1.1
+		death_date = 1526.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1505.1.1 = {
+	monarch = {
+		name = "Davit X"
+		dynasty = "Bagrationi"
+		birth_date = 1482.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1505.1.1 = {
+	heir = {
+		name = "Giorgi"
+		monarch_name = "Giorgi IX"
+		dynasty = "Bagartioni"
+		birth_date = 1485.1.1
+		death_date = 1534.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1524.1.1 = {
+	monarch = {
+		name = "Giorgi IX"
+		dynasty = "Bagrationi"
+		birth_date = 1485.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1524.1.1 = {
+	heir = {
+		name = "Luarsab"
+		monarch_name = "Luarsab I"
+		dynasty = "Bagrationi"
+		birth_date = 1509.1.1
+		death_date = 1556.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+		
+1534.1.1 = {
+	monarch = {
+		name = "Luarsab I"
+		dynasty = "Bagrationi"
+		birth_date = 1509.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1537.1.1 = {
+	heir = {
+		name = "Simon"
+		monarch_name = "Simon I"
+		dynasty = "Bagrationi"
+		birth_date = 1537.1.1
+		death_date = 1611.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1556.1.1 = {
+	monarch = {
+		name = "Simon I"
+		dynasty = "Bagrationi"
+		birth_date = 1537.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1556.1.1 = {
+	heir = {
+		name = "Giorgi"
+		monarch_name = "Giorgi X"
+		dynasty = "Bagrationi"
+		birth_date = 1550.1.1
+		death_date = 1605.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1599.1.1 = {
+	monarch = {
+		name = "Giorgi X"
+		dynasty = "Bagrationi"
+		birth_date = 1550.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1599.1.1 = {
+	heir = {
+		name = "Luarsab"
+		monarch_name = "Luarsab II"
+		dynasty = "Bagrationi"
+		birth_date = 1595.1.1
+		death_date = 1622.6.21
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1605.1.1 = {
+	monarch = {
+		name = "Luarsab II"
+		dynasty = "Bagrationi"
+		birth_date = 1595.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1605.1.1 = {
+	heir = {
+		name = "Bagrat"
+		monarch_name = "Bagrat VII"
+		dynasty = "Bagrationi"
+		birth_date = 1569.1.1
+		death_date = 1619.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1615.1.1 = {
+	monarch = {
+		name = "Bagrat VII"
+		dynasty = "Bagrationi"
+		birth_date = 1569.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1615.1.1 = {
+	heir = {
+		name = "Simon"
+		monarch_name = "Simon II"
+		dynasty = "Bagrationi"
+		birth_date = 1610.1.1
+		death_date = 1629.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1619.1.1 = {
+	monarch = {
+		name = "Simon II"
+		dynasty = "Bagrationi"
+		birth_date = 1610.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1619.1.1 = {
+	heir = {
+		name = "Teimuraz"
+		monarch_name = "Teimuraz I"
+		dynasty = "Bagrationi"
+		birth_date = 1587.1.1
+		death_date = 1663.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1629.1.1 = {
+	monarch = {
+		name = "Teimuraz I"
+		dynasty = "Bagrationi"
+		birth_date = 1587.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1629.1.1 = {
+	heir = {
+		name = "Rostom"
+		monarch_name = "Rostom I"
+		dynasty = "Bagrationi"
+		birth_date = 1567.1.1
+		death_date = 1658.11.17
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1633.1.1 = {
+	monarch = {
+		name = "Rostom I"
+		dynasty = "Bagrationi"
+		birth_date = 1587.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1633.1.1 = {
+	heir = {
+		name = "Vakhtang"
+		monarch_name = "Vakhtang V"
+		dynasty = "Bagrationi"
+		birth_date = 1618.1.1
+		death_date = 1675.9.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1658.11.17 = {
+	monarch = {
+		name = "Vakhtang V"
+		dynasty = "Bagrationi"
+		birth_date = 1618.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1658.11.17 = {
+	heir = {
+		name = "Giorgi"
+		monarch_name = "Giorgi XI"
+		dynasty = "Bagrationi"
+		birth_date = 1650.1.1
+		death_date = 1709.4.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1675.9.1 = {
+	monarch = {
+		name = "Giorgi XI"
+		dynasty = "Bagrationi"
+		birth_date = 1650.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1675.9.1 = {
+	heir = {
+		name = "Heraclius"
+		monarch_name = "Heraclius I"
+		dynasty = "Bagrationi"
+		birth_date = 1642.1.1
+		death_date = 1709.4.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1688.1.1 = {
+	monarch = {
+		name = "Heraclius I"
+		dynasty = "Bagrationi"
+		birth_date = 1645.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1692.1.1 = {
+	monarch = {
+		name = "Giorgi XI"
+		dynasty = "Bagrationi"
+		birth_date = 1650.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1695.1.1 = {
+	monarch = {
+		name = "Irakli I"
+		dynasty = "Bagrationi"
+		birth_date = 1645.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1703.1.1 = {
+	monarch = {
+		name = "Giorgi XI"
+		dynasty = "Bagrationi"
+		birth_date = 1650.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1703.1.1 = {
+	heir = {
+		name = "Vakhtang"
+		monarch_name = "Vakhtang VI"
+		dynasty = "Bagrationi"
+		birth_date = 1675.9.15
+		death_date = 1737.3.26
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1709.4.23 = {
+	monarch = {
+		name = "Vakhtang VI"
+		dynasty = "Bagrationi"
+		birth_date = 1675.9.15
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1709.4.23 = {
+	heir = {
+		name = "Iese"
+		monarch_name = "Iese I"
+		dynasty = "Bagrationi"
+		birth_date = 1680.1.1
+		death_date = 1727.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1714.3.1 = {
+	monarch = {
+		name = "Iese I"
+		dynasty = "Bagrationi"
+		birth_date = 1680.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1716.6.1 = {
+	monarch = {
+		name = "Vakhtang VI"
+		dynasty = "Bagrationi"
+		birth_date = 1675.9.15
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1723.5.1 = {
+	monarch = {
+		name = "Konstantine III"
+		dynasty = "Bagrationi"
+		birth_date = 1690.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1723.8.1 = {
+	monarch = {
+		name = "Bakar I"
+		dynasty = "Bagrationi"
+		birth_date = 1699.6.11
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1724.5.1 = {
+	monarch = {
+		name = "Iese I"
+		dynasty = "Bagrationi"
+		birth_date = 1680.1.1
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1724.5.1 = {
+	heir = {
+		name = "Artchil"
+		monarch_name = "Artchil II"
+		dynasty = "Bagrationi"
+		birth_date = 1700.1.1
+		death_date = 1737.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1727.1.1 = {
+	monarch = {
+		name = "Artchil II"
+		dynasty = "Bagrationi"
+		birth_date = 1700.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1727.1.1 = {
+	heir = {
+		name = "Tamar"
+		monarch_name = "Tamar II"
+		dynasty = "Bagrationi"
+		birth_date = 1697.1.1
+		death_date = 1746.4.12
+		female = yes
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1737.1.1 = {
+	monarch = {
+		name = "Tamar II"
+		dynasty = "Bagrationi"
+		birth_date = 1697.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1737.1.1 = {
+	heir = {
+		name = "Teimuraz"
+		monarch_name = "Teimuraz II"
+		dynasty = "Bagrationi"
+		birth_date = 1680.1.1
+		death_date = 1762.1.8
+		female = yes
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1746.4.12 = {
+	monarch = {
+		name = "Teimuraz II"
+		dynasty = "Bagrationi"
+		birth_date = 1680.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+		leader = { name = "Teimuraz II"           	type = general	rank = 0	fire = 3	shock = 2	manuever = 3	siege = 0}
+	}
+}
+
+1746.4.12 = {
+	heir = {
+		name = "Irakli"
+		monarch_name = "Irakli II"
+		dynasty = "Bagrationi"
+		birth_date = 1721.10.7
+		death_date = 1798.9.24
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1762.1.8 = {
+	monarch = {
+		name = "Irakli II"
+		dynasty = "Bagrationi"
+		birth_date = 1721.10.7
+		adm = 5
+		dip = 5
+		mil = 6
+		leader = { name = "Irakli II"             	type = general	rank = 0	fire = 3	shock = 4	manuever = 5	siege = 1}
+	}
+}
+
+1762.1.19 = {
+	heir = {
+		name = "Giorgi"
+		monarch_name = "Giorgi XII"
+		dynasty = "Bagrationi"
+		birth_date = 1746.11.10
+		death_date = 1800.12.28
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1798.1.23 = {
+	monarch = {
+		name = "Giorgi XII"
+		dynasty = "Bagrationi"
+		birth_date = 1746.11.10
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1798.1.23 = {
+	heir = {
+		name = "Davit"
+		monarch_name = "Davit X"
+		dynasty = "Bagrationi"
+		birth_date = 1767.7.1
+		death_date = 1819.5.13
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1801.1.10 = {
+	monarch = {
+		name = "Davit X"
+		dynasty = "Bagrationi"
+		birth_date = 1767.7.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1801.1.10 = {
+	heir = {
+		name = "Ioane"
+		monarch_name = "Ioane I"
+		dynasty = "Bagrationi"
+		birth_date = 1767.7.1
+		death_date = 1830.2.15
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1819.5.26 = {
+	monarch = {
+		name = "Ioane I"
+		dynasty = "Bagrationi"
+		birth_date = 1768.5.16
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}

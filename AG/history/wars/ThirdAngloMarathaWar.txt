@@ -1,0 +1,142 @@
+name = "Troisième guerre anglo-marathe"
+#casus_belli = cb_liberation
+war_goal = {
+	type = superiority_overseas
+	casus_belli = cb_overseas
+}
+
+
+1817.1.1 = {
+	add_attacker = GBR
+	add_defender = MAR
+	add_defender = NAG
+}
+
+1817.11.5 = {
+	battle = {
+		name = "Pooné"
+		location = 529
+		attacker = {
+			commander = "Lord Hastings"
+			infantry = 1189
+			losses = 80	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Peshwâ Baji Râo II"
+			infantry = 27952
+			losses = 1	# percent
+			country = MAR
+		}
+		result = loss
+	}
+}
+
+1817.11.15 = {
+	battle = {
+		name = "Khadki"
+		location = 529
+		attacker = {
+			commander = "Lord Hastings"
+			infantry = 2889
+			losses = 5	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Peshwâ Baji Râo II"
+			infantry = 27000
+			losses = 20	# percent
+			country = MAR
+		}
+		result = win
+	}
+}
+
+1817.11.27 = {
+	battle = {
+		name = "Sitabalsi"
+		location = 526
+		attacker = {
+			commander = "Lord Hastings"
+			infantry = 5500
+			losses = 10	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Peshwâ Baji Râo II"
+			infantry = 20000
+			losses = 30	# percent
+			country = MAR
+		}
+		result = win
+	}
+}
+
+1817.12.21 = {
+	battle = {
+		name = "Mahidpur"
+		location = 526
+		attacker = {
+			commander = "Sir Thomas Hislop"
+			infantry = 20889
+			losses = 8	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Peshwâ Baji Râo II"
+			infantry = 37000
+			losses = 20	# percent
+			country = MAR
+		}
+		result = win
+	}
+}
+
+1818.1.1 = {
+	battle = {
+		name = "Koregaon"
+		location = 529
+		attacker = {
+			commander = "Capt. F. F. Staunton"
+			infantry = 1500
+			artillery = 24
+			losses = 1 # percent
+			country = GBR
+		}
+		defender = {
+			commander = "Peshwa Baji Rao II"
+			infantry = 28000
+			losses = 40	# percent
+			country = MAR
+		}
+		result = win
+	}
+}
+
+1818.2.20 = {
+	battle = {
+		name = "Ashti"
+		location = 526
+		attacker = {
+			commander = "Sir Thomas Hislop"
+			infantry = 15500
+			artillery = 24
+			losses = 5	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Peshwâ Baji Râo II"
+			infantry = 20000
+			losses = 20	# percent
+			country = MAR
+		}
+		result = win
+	}
+}
+
+# Trèves
+1818.6.3 = {
+	rem_attacker = GBR
+	rem_defender = MAR
+	rem_defender = NAG
+}

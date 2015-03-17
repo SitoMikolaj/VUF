@@ -1,0 +1,17 @@
+name = "Guerre de Meitoku"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_shogun_annex
+}
+
+1391.10.1 = {
+	add_attacker = YMN
+	add_defender = JAP
+	}
+	
+1392.4.1 = {
+	rem_attacker = YMN
+	rem_defender = JAP
+	}

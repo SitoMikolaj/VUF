@@ -1,0 +1,123 @@
+name = "Ière Guerre Séminole"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1817.11.22 = {
+	add_attacker = USA
+	add_defender = CRE
+	add_defender = SPA
+}
+
+1817.11.23 = {
+	battle = {
+		name = "Fowltown"
+		location = 927
+		attacker = {
+			commander = "Général Gaines"
+			infantry = 250
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Chef Neamathla"
+			infantry = 500
+			losses = 100	# percent
+			country = CRE
+		}
+		result = win
+	}
+}
+
+1817.11.23 = {
+	battle = {
+		name = "Apalachicola River"
+		location = 928
+		attacker = {
+			commander =	"R. W. Scott"
+			infantry = 100
+			losses = 90	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Chef Neamathla"
+			infantry = 500
+			losses = 1	# percent
+			country = CRE
+		}
+		result = loss
+	}
+}
+
+1818.3.13 = {
+	battle = {
+		name = "Tallahassee"
+		location = 928
+		attacker = {
+			commander =	"Général Andrew Jackson"
+			infantry = 3400
+			cavalry = 800
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Chef Neamathla"
+			infantry = 300
+			losses = 100	# percent
+			country = CRE
+		}
+		result = win
+	}
+}
+
+1818.4.12 = {
+	battle = {
+		name = "Econfina River"
+		location = 928
+		attacker = {
+			commander =	"Général Andrew Jackson"
+			infantry = 3400
+			cavalry = 800
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Chef Neamathla"
+			infantry = 200
+			losses = 100	# percent
+			country = CRE
+		}
+		result = win
+	}
+}
+
+1818.5.23 = {
+	battle = {
+		name = "Pensacola"
+		location = 923
+		attacker = {
+			commander =	"Général Andrew Jackson"
+			infantry = 1000
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Chef Neamathla"
+			infantry = 175
+			losses = 1	# percent
+			country = CRE
+		}
+		result = win
+	}
+}
+
+# Traité d'Adams-Onís
+
+1819.2.22 = {
+	rem_attacker = USA
+	rem_defender = CRE
+	rem_defender = SPA
+} 

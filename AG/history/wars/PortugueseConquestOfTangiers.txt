@@ -1,0 +1,18 @@
+name = "Conquête de Tanger"
+#casus_belli = cb_colonial
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 344 # Tangiers
+}
+
+1471.1.1 = {
+	add_attacker = POR
+	add_defender = MOR
+}
+
+#Paix et fin de la guerre
+1471.12.30 = {
+	rem_attacker = POR
+	rem_defender = MOR
+}

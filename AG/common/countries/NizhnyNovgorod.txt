@@ -1,0 +1,117 @@
+#Nizhny Novgorod
+
+graphical_culture = easterngfx
+
+color = { 176  72  77 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	maritime_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+leader_names = {
+	Apraksin
+	Bagration "Barclay de Tolly" Bibikoff Bodisco Boruffsin
+	Golitzin
+	Kaibula Kamenski Kolzoff
+	Mensjikov Mustislavski
+	"Ostermann Tolstoy"
+	Paletskij
+	Rajevski
+	Schuvalov Sjeremetjev Sjtjenjatvev
+	Tiesenhusen
+	Vasiljevitj "von Buxhoevden" "von Knorring" "von Lascy"
+}
+
+monarch_names = {
+	"Konstantin #1" = 40
+	"Dmitry #1" = 40
+	"Vasily #1" = 30
+	"Iurii #0" = 4
+	"Sviatoslav #0" = 1
+	"Rostislav #0" = 1
+	"Davyd #0" = 4
+	"Igor #0" = 1
+	"Fedor #0" = 4
+	"Ivan #0" = 4
+	"Dmitriy #0" = 4
+	"Andrei #0" = 4
+	"Vladimir #0" = 4
+	"Semen #0" = 2
+	"Boris #0" = 2
+	"Afanasiy #0" = 2
+	"Akim #0" = 2
+	"Aleksandr #0" = 2
+	"Alexei #0" = 2
+	"Anatoliy #0" = 2
+	"Arkadiy #0" = 2
+	"Daniil #0" = 2
+	"Dorofey #0" = 2
+	"Feodosiy #0" = 2
+	"Feofilakt #0" = 2
+	"Gavriil #0" = 2
+	"Innokentiy #0" = 2
+	"Iosif #0" = 2
+	"Lavrentiy #0" = 2
+	"Makariy #0" = 2
+	"Matveiy #0" = 2
+	"Mikhail #0" = 2
+	"Nazariy #0" = 2
+	"Nikifor #0" = 2
+	"Oleg #0" = 2
+	"Onisim #0" = 2
+	"Pavel #0" = 2
+	"Prokopiy #0" = 2
+	"Pyotr #0" = 2
+	"Radomir #0" = 2
+	"Saveliy #0" = 2
+	"Sergei #0" = 2
+	"Terentiy #0" = 2
+	"Valeriy #0" = 2
+	"Yakim #0" = 2
+	"Yevgeniy #0" = 2
+	
+	"Yana #0" = -1
+	"Zlata #0" = -1
+	"Fedora #0" = -1
+}
+
+ship_names = {
+	"Dmitri Donskoi" "Konstantin I" "Suzdal" "Nizhny Novgorod" 
+	Rurik "Ivan Kalita" Moscha Volga Schorna Coluna
+	Cortiza Mosnisk Olescho Piersek Troitzkoy Wolok
+	Klin Iausa
+}
+
+army_names = {
+	"Velikii Kniaz Armija" "Nizhny Armija" "Strel'tsy $PROVINCE$"	
+}
+
+fleet_names = {
+	"Velikii Kniaz Flot" "Nizhny Novgorod Flot" "$PROVINCE$ Flot"
+}

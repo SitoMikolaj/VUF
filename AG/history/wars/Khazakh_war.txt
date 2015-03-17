@@ -1,0 +1,21 @@
+name = "Seconde guerre ouzbeck"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+ #Kirai décède; Buyunduk est nettement plus ambitieux
+1488.1.1 = {
+	add_attacker = KZH
+	add_defender = SHY
+}
+
+1500.1.1 = {
+	rem_attacker = KZH
+	rem_defender = SHY
+} 
+
+#Les ouzbeks retournent vers les steppes et se tournent vers le sud de Sarmarkand
+

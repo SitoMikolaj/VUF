@@ -1,0 +1,125 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 89  141  140 }
+
+historical_idea_groups = {
+	defensive_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+	humanist_ideas
+	offensive_ideas
+	aristocracy_ideas
+	trade_ideas	
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Nizâm al-Mulk #0" = 10
+	"Muhammad Nasr Jang #0" = 10
+	"Âsâf ad-Dawla Jang #0" = 10
+	"Nizâm 'Alî Khân #0" = 10
+	"Sikandar Jâh #0" = 10
+	"Qulî #0" = 10
+	"Jamshîd #0" = 10
+	"Subhân #0" = 10
+	"Ibrâhîm #0" = 10
+	"Muhammad #0" = 10
+	"'Abdullâh #0" = 10
+	"'Abu 'l-Hassan #0" = 10
+	"Qulî Sultân #0" = 2
+	"Mahmûd Gawân #0" = 2
+	"Sayid Hanîf #0" = 2
+	"'Imâd al-Mulk #0" = 2
+	"Sayf Allâh #0" = 2
+	"Iftikhâr al-Mulk #0" = 2
+	"Mir Abû 'l-Qâsim #0" = 2
+	"'Ubayd Allâh #0" = 2
+	"Sayid Nâsir ad-Dîn #0" = 2
+	"Shâh Khalîl Allâh #0" = 2
+	"Mullah Qutb ad-Dîn #0" = 2
+	"'Abd Allâh #0" = 2
+	"Rustam Khân #0" = 2
+	"Mir Shams ad-Dîn #0" = 2
+	"Qâsim Beg #0" = 2
+	"Khwâja 'Imâd ad-Dîn #0" = 2
+	"Mir 'Alî #0" = 2
+	"Khusraû #0" = 2
+	"Dâ'ûd Khân #0" = 2
+	"Mujâhid #0" = 2
+	"Qâzî Sirâj ad-Dîn #0" = 2
+	"Fûlâd Khân #0" = 2
+	"Jamâl ad-Dîn #0" = 2
+	"Abdûl #0" = 2
+	"Mâlik #0" = 2
+	"'Alâ' ad-Dîn #0" = 2
+	"Mâlik ut-Tujjâr #0" = 2
+	"Sikandar #0" = 2
+	"Hakîm #0" = 2
+	"Bashîr un-Nisâ' #0" = -1
+	"'Umda #0" = -1
+	"Sâmiya #0" = -1
+	"Padshâh #0" = -1
+}
+
+leader_names = {
+	Khân
+	Râya
+	Râo
+	Krishna
+	Naidu
+	"al-'Umra"
+	Mahaldar
+	Daw'ar
+	Bhâskar
+	Kabîr
+	Chirâg
+	Jitesh
+	Kadak
+	Kumur
+	Khot
+	Velâma
+	Vâsireddi
+	Nâyudu
+	Pûsapâti
+	Agrawâl
+	Zamîndâri
+	al-Qummî
+	Safsikhân
+	al-Husaynî
+	Qâdir
+	"'Ambar"
+	Latîf
+}
+
+ship_names = {
+	"A'âliyah" Aurangâbâd Devki Fâtima
+	Godvârî Gulbargâ Jalsena "Kâla Jahâzî"
+	Khân "Lâl Jahâzî" Nausenâ "Nav ka Yudh"
+	Nîknâz "Nîla Jahâzî" Nîlûfa Sâgar
+	Salîma Suhaliya Shamîna Yâsmin
+}
+
+army_names = {
+	"Dekkan Vaahinii" "Mâhârâdjâh Vaahinii" "Ghâts Vaahinii" "Nîlgîri Vaahinii" "Satpura Vaahinii" "Vindhya Vaahinii" "Godâvarî Vaahinii" "Krishnâ Vaahinii" "Kaveri Vaahinii"  "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Dekkan Nausenaa" "Mâhârâdjâh Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

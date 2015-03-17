@@ -1,0 +1,133 @@
+government = oligarchic_republic
+#aristocracy_plutocracy = 1
+#centralization_decentralization = 4
+#innovative_narrowminded = -1
+mercantilism = 0.2
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 115	# Pisa
+fixed_capital = 115 # Cannot move capital away from this province & no power cost to move to it
+
+1327.1.1 = {
+	monarch = {
+		name = "Fazio della Gherardescai"
+		birth_date = 1305.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1340.3.1 = {
+	monarch = {
+		name = "Ranieri II della Gherardesca"
+		birth_date = 1305.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1347.1.1 = {
+	monarch = {
+		name = "Andrea Gambacorta"
+		birth_date = 1305.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1354.1.1 = {
+	monarch = {
+		name = "Francesco Gambacorta"
+		birth_date = 1305.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1355.1.1 = {
+	monarch = {
+		name = "Lodovico della Rocca"
+		birth_date = 1315.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1356.1.1 = {
+	monarch = {
+		name = "Marquado di Randeck"
+		birth_date = 1296.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1358.1.1 = {
+	monarch = {
+		name = "Gualtieri di Hochschiltz"
+		birth_date = 1320.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Giovanni dell'Agnello"
+		birth_date = 1325.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1369.1.1 = {
+	monarch = {
+		name = "Pietro Gambacorta"
+		birth_date = 1330.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1392.1.1 = {
+	monarch = {
+		name = "Jacopo d'Appiano"
+		birth_date = 1322.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1398.1.1 = {
+	monarch = {
+		name = "Gherardo d'Appiano"
+		birth_date = 1370.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1494.1.1 = {
+	monarch = {
+		name = "Simone Orlandi"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

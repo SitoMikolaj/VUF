@@ -1,0 +1,19 @@
+name = "Rébellion de Kakitsu"
+
+#casus_belli
+war_goal = {
+	type = superiority_loan
+	casus_belli = cb_loan_cancelled
+}
+
+1441.7.12 = {
+	add_attacker = ASA
+	add_defender = JAP
+	add_defender = YMN
+}
+
+1441.9.17 = {
+	rem_attacker = ASA
+	rem_defender = JAP
+	rem_defender = YMN
+}

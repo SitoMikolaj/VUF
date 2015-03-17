@@ -1,0 +1,386 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 65  32  57 }
+
+historical_idea_groups = {
+	administrative_ideas
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Bukuri Yongson #1" = 10
+	"Dudu Mengtemu #1" = 10
+	"Cungsan #0" = 10
+	"Tolo #0" = 10
+	"Sibeoci Fiyanggu #0" = 10	
+	"Fuman #0" = 10
+	"Giocangga #0" = 10
+	"Taksi #0" = 20
+	"Nurhachi #0" = 20
+	"Huang Taiji #0" = 20
+	"Dorgon #0" = 10
+	"Hooge #0" = 10
+	"Fulin #0" = 20
+	"Hiowan Yei #0" = 20
+	"In Jen #0" = 20	
+	"Hung Li #0" = 20
+	"Yong Yan #0" = 20
+	"Min Ning #0" = 20	
+	"Fanca #0" = 10
+	"Hoogle #0" = 10
+	"Yinzhi #0" = 10
+	"Yinreng #0" = 10
+	"Yinti #0" = 10
+	"Daisan #0" = 5
+	"Abatai #0" = 5
+	"Ajige #0" = 5
+	"Dodo #0" = 5
+	"Yinxiang #0" = 5
+	"Yinsi #0" = 5
+	"Yintang #0" = 5
+	"Hongshi #0" = 5
+	"Hongzhou #0" = 5
+	"Yongqi #0" = 5
+	"Hejing #0" = -5
+	"Hejia #0" = -5
+	"Hexiao #0" = -5
+	"Zhuangjing #0" = -5
+	"Ahadan #0" = 2
+	"Aihana #0" = 2
+	"Aisingga #0" = 2
+	"Ajida #0" = 2
+	"Adali #0" = 2
+	"Ajigen #0" = 2
+	"Akdun #0" = 2
+	"Alan #0" = 2
+	"Alin #0" = 2
+	"Anabu #0" = 2
+	"Anaku #0" = 2
+	"Arsun #0" = 2
+	"Arsalan #0" = 2
+	"Ashai #0" = 2
+	"Asu #0" = 2
+	"Ayanda #0" = 2
+	"Badai #0" = 2
+	"Baha #0" = 2
+	"Bahabu #0" = 2
+	"Bahai #0" = 2
+	"Baise #0" = 2
+	"Bajar #0" = 2
+	"Baksan #0" = 2
+	"Balu #0" = 2
+	"Baran #0" = 2
+	"Basan #0" = 2
+	"Bohoto #0" = 2	
+	"Boji #0" = 2
+	"Bootai #0" = 2
+	"Boro #0" = 2
+	"Buka #0" = 2
+	"Busuku #0" = 2
+	"Buyali Mergen #0" = 2
+	"Buyandai Efu #0" = 2
+	"Cagan #0" = 2
+	"Caida #0" = 2
+	"Canggadai #0" = 2
+	"Carki #0" = 2
+	"Ceke #0" = 2
+	"Centai #0" = 2
+	"Cihala #0" = 2
+	"Colhon #0" = 2
+	"Coki #0" = 2
+	"Coohar #0" = 2
+	"Cukuaturu #0" = 2
+	"Dai #0" = 2
+	"Daihan #0" = 2
+	"Dalan #0" = 2
+	"Dari #0" = 2
+	"Dasu #0" = 2
+	"Defu #0" = 2
+	"Doha #0" = 2
+	"Doholon #0" = 2
+	"Doola #0" = 2
+	"Duici #0" = 2
+	"Dulba #0" = 2
+	"Dulei #0" = 2
+	"Dungga #0" = 2
+	"Ebilun #0" = 2
+	"Elbihe #0" = 2
+	"Faka #0" = 2
+	"Fakjin #0" = 2
+	"Fangge #0" = 2
+	"Fatha #0" = 2
+	"Fatan #0" = 2
+	"Fiyada #0" = 2
+	"Fiyangga #0" = 2
+	"Fiyahan #0" = 2
+	"Fiyasha #0" = 2
+	"Gabula #0" = 2
+	"Gabula Baturu #0" = 2
+	"Gadahun #0" = 2
+	"Gaha #0" = 2
+	"Gajitai #0" = 2
+	"Ganjuhan #0" = 2
+	"Garin #0" = 2
+	"Gasha #0" = 2
+	"Gebungge #0" = 2
+	"Giohoto #0" = 2
+	"Gisun #0" = 2
+	"Goho #0" = 2
+	"Gohon #0" = 2
+	"Goko #0" = 2
+	"Gungge #0" = 2
+	"Hada #0" = 2
+	"Haidu #0" = 2
+	"Halhan #0" = 2
+	"Hari #0" = 2
+	"Hasiri #0" = 2
+	"Hatan #0" = 2
+	"Hecen #0" = 2
+	"Hedu #0" = 2
+	"Hele #0" = 2
+	"Hethe #0" = 2
+	"Hetu #0" = 2
+	"Heye #0" = 2
+	"Hida #0" = 2
+	"Hife #0" = 2
+	"Hife Baks #0" = 2
+	"Hirgen #0" = 2
+	"Hiribu #0" = 2
+	"Hohori #0" = 2 
+	"Hohori Efu #0" = 2
+	"Hokton #0" = 2
+	"Holo #0" = 2
+	"Homin #0" = 2
+	"Hontoho #0" = 2
+	"Horontai #0" = 2
+	"Hose #0" = 2
+	"Hoto #0" = 2
+	"Huhu #0" = 2
+	"Huju #0" = 2
+	"Hutu #0" = 2
+	"Huba #0" = 2
+	"Huban #0" = 2
+	"Hulan #0" = 2
+	"Huri #0" = 2
+	"Huse #0" = 2
+	"Ibahan #0" = 2
+	"Icangga #0" = 2
+	"Icengge #0" = 2
+	"Ilha #0" = 2
+	"Ilibu #0" = 2
+	"Indahun #0" = 2
+	"Isan #0" = 2
+	"Isangga #0" = 2
+	"Isha #0" = 2
+	"Isu #0" = 2
+	"Itu #0" = 2
+	"Jingji #0" = 2
+	"Jiratai #0" = 2
+	"Jolo #0" = 2
+	"Jorho #0" = 2
+	"Jortai #0" = 2
+	"Juce #0" = 2
+	"Jucengge Baturu #0" = 2
+	"Jumara #0" = 2
+	"Juntai #0" = 2
+	"Kamtu #0" = 2
+	"Kacilan #0" = 2
+	"Kara #0" = 2
+	"Kenje #0" = 2
+	"Kesi #0" = 2
+	"Kesibu #0" = 2
+	"Kilin #0" = 2
+	"Kuri #0" = 2
+	"Labi #0" = 2
+	"Ladu #0" = 2
+	"Lahari #0" = 2
+	"Laju #0" = 2
+	"Lamun #0" = 2
+	"Lenggeri #0" = 2
+	"Lobi #0" = 2
+	"Lomi #0" = 2
+	"Lunggu #0" = 2
+	"Mahu #0" = 2
+	"Maikan #0" = 2
+	"Maise #0" = 2
+	"Maitu #0" = 2
+	"Majan #0" = 2
+	"Mala #0" = 2
+	"Malukan #0" = 2
+	"Malahi #0" = 2
+	"Manggai #0" = 2
+	"Malu #0" = 2
+	"Manggiya #0" = 2
+	"Masan #0" = 2
+	"Megu #0" = 2
+	"Minggan #0" = 2
+	"Minggatu #0" = 2
+	"Monggo #0" = 2
+	"Mucen #0" = 2
+	"Muheliyen #0" = 2
+	"Muhu #0" = 2
+	"Mujan #0" = 2
+	"Mulu #0" = 2
+	"Murca #0" = 2
+	"Muri #0" = 2
+	"Musen #0" = 2
+	"Musi #0" = 2
+	"Namu #0" = 2
+	"Nacin #0" = 2
+	"Nikan #0" = 2
+	"Nere #0" = 2
+	"Nikan Baturu #0" = 2
+	"Nionio #0" = 2
+	"Nisiha #0" = 2
+	"Niyada #0" = 2
+	"Musu #0" = 2
+	"Ocir #0" = 2
+	"Ofono #0" = 2
+	"Oha #0" = 2
+	"Olbo #0" = 2
+	"Okson #0" = 2
+	"Olon #0" = 2
+	"Orhodai #0" = 2
+	"Ongoro #0" = 2
+	"Ordo #0" = 2
+	"Sabdangga #0" = 2
+	"Sabi #0" = 2
+	"Sadun #0" = 2
+	"Saha #0" = 2
+	"Sahada #0" = 2
+	"Sahaliyan #0" = 2
+	"Sahana #0" = 2
+	"Saibigan #0" = 2
+	"Saise #0" = 2
+	"Samha #0" = 2
+	"Sanggabu #0" = 2
+	"Sehe #0" = 2
+	"Sele #0" = 2
+	"Selmin #0" = 2
+	"Singgeri #0" = 2
+	"Sijintai #0" = 2
+	"Sintai #0" = 2
+	"Silan #0" = 2
+	"Siteku #0" = 2
+	"Solho #0" = 2
+	"Solon #0" = 2
+	"Songgotu Baturu #0" = 2
+	"Sonin Baksi #0" = 2
+	"Sonin Baturu #0" = 2
+	"Suburi #0" = 2
+	"Sube #0" = 2
+	"Sudan #0" = 2
+	"Suhe #0" = 2
+	"Suhecen #0" = 2
+	"Suiha #0" = 2
+	"Suilan #0" = 2
+	"Songkoro Baturu #0" = 2
+	"Sunggina #0" = 2
+	"Sunta #0" = 2
+	"Suya #0" = 2
+	"Sahun #0" = 2
+	"Sari #0" = 2
+	"Sunjaci #0" = 2
+	"Taktu Baturu #0" = 2
+	"Talman #0" = 2
+	"Tangguha #0" = 2
+	"Tantu #0" = 2
+	"To #0" = 2
+	"Toro #0" = 2
+	"Tubihe #0" = 2
+	"Tulhun #0" = 2
+	"Tumen #0" = 2
+	"Tura #0" = 2
+	"Turi #0" = 2
+	"Tusa #0" = 2
+	"Wahun #0" = 2
+	"Wajima #0" = 2
+	"Wase #0" = 2
+	"Wehe #0" = 2	
+	"Weihe #0" = 2
+	"Ukada #0" = 2
+	"Uku #0" = 2
+	"Ukuri #0" = 2
+	"Ule #0" = 2
+	"Ulgiyaci #0" = 2
+	"Ulhu #0" = 2
+	"Uli #0" = 2
+	"Umudu #0" = 2
+	"Unca #0" = 2
+	"Unduri #0" = 2
+	"Usun #0" = 2
+	"USaku #0" = 2
+	"Yabu #0" = 2
+	"Yala #0" = 2
+	"Yaki #0" = 2
+	"Yasha #0" = 2
+	"Yentai #0" = 2
+	"Yodan #0" = 2
+	"Yolo #0" = 2
+	"Yoro #0" = 2
+	"Yuwamboo #0" = 2	
+	"Fen #0" = -1
+	"Jian #0" = -1
+	"Wen #0" = -1
+}
+
+leader_names = {
+	Amura "Ayan gioro" Asuri "Aha gioro" Akjan Aisin 
+	Borjigin Bayot Bayara Boheri Be Bugirgen Besut Biru Buyaci Bohori Busai
+	Bulca Busa Buhi Bira Botis Borjik Baige Besu Bari
+	Carala Cakcin Cygiya Cemgun Cui 
+	Daigiya Donggo Dunggiya Dagiya Dorgun Dedure Dukta Duktari
+	Elge Esuri Ertut Fuca Foimo Fiya Fujuri
+	Guwalgiya Gioro Giorca "Gioro Hala" Giorcan Gejile Guwalca Gorlo "Giranggi Warka"
+	Gerungioro Gin Gioroi Gorben Gocir Giri Gour Gijile Guwanggiyara
+	Heseri Hitara Hunggoco Hunggo Hoiho Hurhasu Hasara Hulhu "Huk Sahari" Hunggiri
+	Hinggiyan Hushari Hinggiya Han Hurha Hunglo Hoggo Huya Huilo
+	Menu Ilara Itari "Iork Ule" Iokuri "Irgen Gioro" "Irgen Baturu" Ituma Ira
+	Joogiya Jalari Jakuta Janggiya Jangci Jerde Jathe "Jash Uri" Jebe
+	Jugiya Jusu Jinggeri Jaruca Julgen Juge Juru Jot Jodomu 
+	Ki Kerde Kuyala Kocili Karla Kardasu Kubulu
+	Ligiya Laibu Ledi Lumburi Lei "Lak Ule" Lubui
+	Magiya Monggori Mu Murcan Monggo Meng Menggoro Murca 
+	Muljire Manja Morci Monggoro Muyan
+	Niohuru Nara Ningguta Nimaca Namduru Nikiri Nisa Niowanggiya Noyan
+	Nahata Nimaha Nata Naya Namdolu Omoto Oji
+	Sumuru Sakda "Sirin gioro" Sioheri Sartu Semira Sikteri Saca Samargi Sakdaholo 
+	Sanggiya Sitara Sunggiya Sugiya Samara Suigiya Sikteli Sakca Socara Sahajiri
+	Socor Saimire Sorgi Sogiya Sorgiya Sigiya Saimire Surtu Seheri Sadara Suru Sikda
+	Tatara Tunggiya Tajagiorca Tokoro Tsanggiya Tomo Tooli Taicuru Tuseri Tomu Tuktan 
+	Tunggi Tumen Tolote Taicuru Untahe Ujala Urgucan Unuhucin Usin Ulu Usu Uya Undu
+	Urguca Ujaku Unggiot Uncehen Unggirgin Ujaku Urda Ukuri Ulingga Uksun Usujan Usila Use
+	Wanggiya Weikutu Wei Weigute Were Wase Wangjab Wali Yonoto Yanja Yanggiya Yeher Yanji
+	Yukuri Yunde Yur Yasu
+}
+
+ship_names = {
+	"Aisin Gioro" Niuhuru Yehenala Heseri
+	Uya Waliuha Janggiya Guwalgiya Tunggiya
+	Magiya Hata Ula Huifa Haixi
+}

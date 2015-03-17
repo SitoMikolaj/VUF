@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 61  136  66 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Boguslaw #9" = 100
+	"Barnim #10" = 20
+	"Ota #3" = 20
+	"Eryk #1" = 20
+	"Filip #1" = 20
+	"Franciszek #0" = 20
+	"Jan Fryderyk #0" = 20
+	"Wratislaw #5" = 20
+	"Georg #0" = 15
+	"Ulrich #0" = 15
+	"Kazimierz #5" = 10
+	"Ernest Ludwik #0" = 10
+	"Jan Ernest #0" = 10
+	"Albrecht #0" = 2
+	"Arnt #0" = 2
+	"August #0" = 2
+	"Bernhard #0" = 2
+	"Bodo #0" = 2
+	"Carl #0" = 2
+	"Emil #0" = 2
+	"Ernest #0" = 2
+	"Fritz #0" = 2
+	"Fryderyk #0" = 2
+	"Gerhard #0" = 2
+	"Gustav #0" = 2
+	"Harald #0" = 2
+	"Hendryk #0" = 2
+	"Herbert #0" = 2
+	"Hermann #0" = 2
+	"Jan #0" = 2
+	"Janusz #0" = 2
+	"Jochem #0" = 2
+	"Martin #0" = 2
+	"Maximiliam #0" = 2
+	"Paul #0" = 2
+	"Reinhold #0" = 2
+	"Richard #0" = 2
+	"Siegfried #0" = 2
+	"Walter #0" = 2
+	"Wilhelm #0" = 2
+	
+	"Gabriela #0" = -1
+	"Helena #0" = -1
+	"Janina #0" = -1
+}
+
+leader_names = {
+	"von Krockows" "von Lettows" "von Peglows"
+	"von Neustreliz" "von Prenzlau" "von Strelows"
+	"von Zitzewitzes" "von Szczecin" Witt Behm
+	Beyse Kurzmann Jürgens Stellmacher Heidmann
+	Grosch Krumtum Miercke Rähl Wessel Meuseling
+	"von Wolin" "von Wolgatz"
+}
+
+ship_names = {
+	Pommern "Herzog Kasimir" "Herzog Bogislaw"
+	"Stettin Herzog Barnim" Wismar Rostock
+	Stralsund Greifswald Demmin Anklam "Herzog Otto"
+}
+
+army_names = {
+	"Armee Fürstliche" "Armee Herzoglichen" "Armee von Söldnern" "Milizarmee" "Armee von $PROVINCE$"
+}
+
+fleet_names = {
+	"Herzoglichen Flotte" "$PROVINCE$ Flotte"
+}

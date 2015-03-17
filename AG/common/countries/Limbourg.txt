@@ -1,0 +1,137 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 200 200 200 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Antoine #1" = 5
+	"Charles #1" = 5
+	"Frédéric #1" = 5
+	"Henri #4" = 15
+	"Jean #4" = 35
+	"Maximilien #1" = 5
+	"Philippe #2" = 15
+	"Waléran #4" = 15
+	"Guillaume #0" = 15
+	"Geoffroi #0" = 5
+	"Wenceslas #0" = 5
+	"Lambert #0" = 5
+	"Antoon #0" = 2
+	"Christiaan #0" = 2
+	"Christian #0" = 2
+	"Ernest #0" = 2
+	"Frederik #0" = 2
+	"Gaspard #0" = 2
+	"Gérard #0" = 2
+	"Gerhard #0" = 2
+	"Godfried #0" = 2
+	"Hugues #0" = 2
+	"Jan #0" = 2
+	"Joachim #0" = 2
+	"Johannes #0" = 2
+	"Karel #0" = 2
+	"Kasper #0" = 2
+	"Léonard #0" = 2
+	"Lodewijk #0" = 2
+	"Louis #0" = 2
+	"Michaël #0" = 2
+	"Michel #0" = 2
+	"Orland #0" = 2
+	"Robert #0" = 2
+	"Roeland #0" = 2
+	"Roger #0" = 2
+	"Rutger #0" = 2
+	"Thomas #0" = 2
+	"Vincent #0" = 2
+	"Willem #0" = 2	
+	
+	"Jeanne #0" = -5
+	"Ermengarde #1" = -5
+	"Irena #0" = -1
+	"Jozefien #0" = -1
+	"Lysanne #0" = -1		
+	"Marie #0" = -5
+	"Louise #0" = -5
+	"Diane #0" = -5
+	"Élisabeth #0" = -5
+	"Catherine #0" = -5
+	"Claude #0" = -5
+	"Victoire #0" = -5
+	"Christine #0" = -5
+	"Marguerite #0" = -5
+	"Charlotte #0" = -5
+	"Madeleine #0" = -5
+	"Judith #0" = -5
+	"Béatrice #0" = -5
+	"Adélaïde #0" = -5
+	"Emma #0" = -5
+	"Constance #0" = -5
+	"Anne #0" = -5
+	"Aliénor #0" = -5
+	"Isabelle #0" = -5
+	"Blanche #0" = -5
+	"Marie-Thérèse #0" = -5
+	"Marie-Louise #0" = -5
+	"Henriette #0" = -5
+}
+
+leader_names = {
+	Aubry Aleandro
+	Bouchet Bastin Bauduinet Bitha
+	Chauchet Cloet Colson
+	Digneffe "de Donnea" 
+	Fabry "da Franquinet" "de Finesse"
+	Gérard 
+	Hauzeur Henkart "de Haxhe" Haeck
+	Josias 
+	"de Lacu" Lambermont
+	Nannan
+	Paulet Philippens 
+	Reul Reynier
+	"de Spirlet"  
+	Vanhove "la Vignette" 
+}
+
+ship_names = {
+	"le Saint-Lambert" "le Saint-Hubert" "le Saint-Martin"
+	"la Meuse" "le Notger de Liège" "la Place-du-Queer"
+	"le Saint-Jacques" "le Saint-Barthélemy" "le Seraing"
+	"le Sart-Tilman" "le Luik" "le Saint-Nicolas" "l'Ans"
+}
+
+army_names = {
+	"Garde Archi-épiscopale" "Garde de Liège"
+}
+
+fleet_names = {
+	"Flotte Archi-épiscopale" "Flotte de $PROVINCE$"
+}

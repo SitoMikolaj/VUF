@@ -1,0 +1,17 @@
+name = "Sixième campagne de Tamerlan"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1403.1.1 = {
+	add_attacker = TIM
+	add_defender = MAM
+}
+
+1405.6.1 = {
+	rem_attacker = TIM
+	rem_defender = MAM
+}

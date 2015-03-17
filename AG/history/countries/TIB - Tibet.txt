@@ -1,0 +1,384 @@
+government = noble_republic
+#aristocracy_plutocracy = 0
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+mercantilism = 0.2
+#offensive_defensive = 3
+#land_naval = -2
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+primary_culture = tibetan
+religion = buddhism
+technology_group = chinese
+capital = 677 # Lhasa
+
+# Les dalaï lamas n'avaient qu'un pouvoir spirituel jusqu'en 1642. Le pouvoir temporel appartenaient jusque là aux rois Phagmodrupa 
+
+1385.1.1 = {
+	monarch = {
+		name = "Drakpa Gyaltsen"
+		dynasty = "Phagmodrupa"
+		birth_date = 1374.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1399.1.1 = { decision = monastic_education }
+
+1443.1.1 = {
+	monarch = {
+		name = "Drakpa Jungne"
+		dynasty = "Phagmodrupa"
+		birth_date = 1414.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+# La réalité du pouvoir revient aux régents Rinpungpa même si la dynastie Phagmodrupa perdure jusqu'en 1640
+
+1445.1.1 = {
+	monarch = {
+		name = "Norzang"
+		dynasty = "Rinpungpa"
+		birth_date = 1414.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1445.1.1 = {
+	heir = {
+		name = "Kunzang"
+		monarch_name = "Kunzang"
+		dynasty = "Rinpungpa"
+		birth_date = 1440.1.1
+		death_date = 1479.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1466.1.1 = {
+	monarch = {
+		name = "Kunzang"
+		dynasty = "Rinpungpa"
+		birth_date = 1440.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1466.1.1 = {
+	heir = {
+		name = "Dönyö Dorje"
+		monarch_name = "Dönyö Dorje"
+		dynasty = "Rinpungpa"
+		birth_date = 1463.1.1
+		death_date = 1512.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1479.1.1 = {
+	monarch = {
+		name = "Dönyö Dorje"
+		dynasty = "Rinpungpa"
+		birth_date = 1463.1.1
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1485.1.1 = {
+	heir = {
+		name = "Ngawang Namgyal"
+		monarch_name = "Ngawang Namgyal"
+		dynasty = "Rinpungpa"
+		birth_date = 1485.1.1
+		death_date = 1565.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1512.1.1 = {
+	monarch = {
+		name = "Ngawang Namgyal"
+		dynasty = "Rinpungpa"
+		birth_date = 1485.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1515.1.1 = {
+	heir = {
+		name = "Döndrub Tseten Dorje"
+		monarch_name = "Döndrub Tseten Dorje"
+		dynasty = "Rinpungpa"
+		birth_date = 1515.1.1
+		death_date = 1560.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1550.1.1 = {
+	monarch = {
+		name = "Döndrub Tseten Dorje"
+		dynasty = "Rinpungpa"
+		birth_date = 1515.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1550.1.1 = {
+	heir = {
+		name = "Tseten Dorje"
+		monarch_name = "Tseten Dorje"
+		dynasty = "Rinpungpa"
+		birth_date = 1525.1.1
+		death_date = 1565.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1560.1.1 = {
+	monarch = {
+		name = "Tseten Dorje"
+		dynasty = "Rinpungpa"
+		birth_date = 1525.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1565.1.1 = {
+	monarch = {
+		name = "Karma Tseten"
+		dynasty = "Tsangpa"
+		birth_date = 1530.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1565.1.1 = {
+	heir = {
+		name = "Thutob Namgyal"
+		monarch_name = "Karma Thutob Namgyal"
+		dynasty = "Tsangpa"
+		birth_date = 1550.1.1
+		death_date = 1582.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+} 
+
+1575.1.1 = {
+	monarch = {
+		name = "Karma Thutob Namgyal"
+		dynasty = "Tsangpa"
+		birth_date = 1550.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1575.1.1 = {
+	heir = {
+		name = "Khünpan Lhawang Dorje"
+		monarch_name = "Khünpan Lhawang Dorje"
+		dynasty = "Tsangpa"
+		birth_date = 1560.1.1
+		death_date = 1595.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+} 
+
+1582.1.1 = {
+	monarch = {
+		name = "Khünpan Lhawang Dorje"
+		dynasty = "Tsangpa"
+		birth_date = 1560.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1582.1.1 = {
+	heir = {
+		name = "Tensung"
+		monarch_name = "Karma Tensung"
+		dynasty = "Tsangpa"
+		birth_date = 1580.1.1
+		death_date = 1611.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+} 
+
+1595.1.1 = {
+	monarch = {
+		name = "Karma Tensung"
+		dynasty = "Tsangpa"
+		birth_date = 1580.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1603.1.1 = {
+	heir = {
+		name = "Phuntsok Namgyal"
+		monarch_name = "Karma Phuntsok Namgyal"
+		dynasty = "Tsangpa"
+		birth_date = 1603.1.1
+		death_date = 1623.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+} 
+
+1611.1.1 = {
+	monarch = {
+		name = "Karma Phuntsok Namgyal"
+		dynasty = "Tsangpa"
+		birth_date = 1603.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1611.1.1 = {
+	heir = {
+		name = "Tenkyong Wangpo"
+		monarch_name = "Karma Tenkyong Wangpo"
+		dynasty = "Tsangpa"
+		birth_date = 1606.1.1
+		death_date = 1642.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+} 
+
+1623.1.1 = {
+	monarch = {
+		name = "Karma Tenkyong Wangpo"
+		dynasty = "Tsangpa"
+		birth_date = 1606.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+# Les dalaï lamas reçoivent en 1642 le pouvoir temporel
+# Date de naissance calé sur celle de la mort de leur prédecesseurs mais en général ils sont né plusieurs mois après (principe de la réincarnation)
+
+1642.1.1 = { government = theocratic_government }
+
+1642.1.1 = {
+	monarch = {
+		name = "Lobsang Gyatso"
+		dynasty = "Dalaï Lama"
+		birth_date = 1617.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1682.1.1 = {
+	monarch = {
+		name = "Tsangyang Gyatso"
+		dynasty = "Dalaï Lama"
+		birth_date = 1682.3.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+1706.11.15 = {
+	monarch = {
+		name = "Kelzang Gyatso"
+		dynasty = "Dalaï Lama"
+		birth_date = 1706.11.15
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1757.3.22 = {
+	monarch = {
+		name = "Jamphel Gyatso"
+		dynasty = "Dalaï Lama"
+		birth_date = 1757.3.22
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1804.11.19 = {
+	monarch = {
+		name = "Lungtok Gyatso"
+		dynasty = "Dalaï Lama"
+		birth_date = 1804.11.19
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1815.3.25 = {
+	monarch = {
+		name = "Tsultrim Gyatso"
+		dynasty = "Dalaï Lama"
+		birth_date = 1815.3.25
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

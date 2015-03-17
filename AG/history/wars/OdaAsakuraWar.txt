@@ -1,0 +1,17 @@
+name = "Guerre des clans Oda-Asakura"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1570.1.1 = {
+	add_attacker = ODA
+	add_defender = ASA
+}
+
+1573.8.17 = {
+	rem_attacker = ODA
+	rem_defender = ASA
+}

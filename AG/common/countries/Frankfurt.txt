@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 243  201  33 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Karl Theodor #0" = 20
+	"Eugen #0" = 15
+	"Maximiliam #0" = 10
+	"Adolf #0" = 2
+	"Adrian #0" = 2
+	"Albrecht #0" = 2
+    "Andreas #0" = 2
+	"August #0" = 10
+    "Bernhard #0" = 2
+	"Cornelius #0" = 2
+	"Dietrich #0" = 2
+	"Ferdinand #0" = 2
+	"Friedrich #0" = 2
+	"Georg #0" = 2
+	"Gerhard #0" = 2
+	"Günther #0" = 2
+    "Heinrich #0" = 2
+	"Ignatz #0" = 2
+	"Isidor #0" = 2
+	"Jakob #0" = 2
+	"Joachim #0" = 2
+	"Joseph #0" = 2
+    "Karl #0" = 2
+	"Konstantin #0" = 2
+    "Lorenz #0" = 2
+	"Ludwig #0" = 2
+	"Lukas #0" = 2
+	"Marius #0" = 2
+	"Markus #0" = 2
+	"Matthias #0" = 2
+	"Michael #0" = 2
+    "Nicolaus #0" = 2
+	"Paul #0" = 2
+	"Raphael #0" = 2
+	"Rudolf #0" = 2
+	"Sigmund #0" = 2
+	"Stephan #0" = 2
+	"Thomas #0" = 2
+	"Wenzel #0" = 2
+	
+	"Gertrude #0" = -1
+	"Hildegard #0" = -1
+	"Ivonne #0" = -1
+}
+
+leader_names = { 
+	Alfter Allendorf Assmann Barth Becker Betz
+	Bopp Bornschlegel Dörrenbecher Dude Fust Eins
+	Göhler Grob Haas Heidelberger Ickstadt Lawall
+	Pittschaft Schmitt Schoeneberger Storck Volz
+}
+
+ship_names = {
+	"St. Theonest" "St. Georg" "St. Peter"
+	Udenmünster "St. Christoph" "St. Lambert"
+	"St. Quintin" "St. Maria" "St. Johannes"
+	"St. Emmeran" "St. Ignaz" Hagenmünster
+	"St. Aureus" "St. Nicomedes" "St. Alban"
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}
+
+fleet_names = {
+	"Herzoglichen Flotte" "$PROVINCE$ Flotte"
+}

@@ -1,0 +1,94 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 122  179  97 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Sa'âdat 'Alî Khân #0" = 30
+	"Muhammad Safdar Jung #0" = 30
+	"Shujâ ad-Dawla #0" = 20
+	"Asaf ad-Dawla #0" = 20
+	"Wazîr 'Alî #0" = 20
+	#"Sa'âdat 'Alî Khân #0" = 20
+	"Ghâzî ad-Dîn Haydar #0" = 20
+	"Sa'âdat #0" = 2
+	"Safdar Jung #0" = 2
+	"Haydar #0" = 2
+	"Birjîs Qadra #0" = 2
+	"'Alî #0" = 2
+	"Iqbâl #0" = 2
+	"'Alâ' ud-Dîn #0" = 2
+	"Bhi #0" = 2
+	"Mâlik #0" = 2
+	"Narendra #0" = 2
+	"Bismillâh #0" = 2
+	"'Ubayd #0" = 2
+	"Hadhrat Mahal #0" = -5
+	"Farzâneh #0" = -5
+	"Fakhr an-Nisâ' #0" = -1
+}
+
+leader_names = {
+	Âfarîdi
+	Ghorî
+	Sahgal
+	Bahâdur
+	Bangash
+	Satsangi
+	"al-Hindûstânî"
+	Khân
+	Karrânî
+	Yûsafzay
+	Chand
+	Awadhi
+	"ad-Dawla"
+	Khiljî
+	Lûdhî
+	Pundir
+	Sharqî
+	Sarwar
+	"al-Ûzbakî"
+	"as-Siddiquî"
+}
+
+ship_names = {
+	"A'âliyah" Betwâ Fâtima Gandak Ghagra
+	Gomti Jalsena "Kâla Jahâzî" Khân
+	"Lal Jahazi" Nausenâ "Nav ka Yudh"
+	Nîknâz "Nîla Jahâzî" Nîlûfa Sâgar
+	Satluj Yamunâ Yâsmin
+}
+
+army_names = {
+	"Nawâb Saadhana" "Awadh Saadhana" "Ayodhya Saadhana" "Ambedkar Nagar Saadhana" "Bahraich Saadhana" "Balrampur Saadhana" "Barabanki Saadhana" "Faizabad Saadhana" "Gonda Saadhana" "Hardoi Saadhana" "Lakhimpur Kheri Saadhana" "Pratapgarh Saadhana" "Raebareli Saadhana" "Shravasti Saadhana" "Sitapur Saadhana" "Sultanpur Saadhana" "Unnao Saadhana" "$PROVINCE$ Saadhana"
+	}
+
+fleet_names = {
+	"Awadh Nausenaa" "Nawâb Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa"
+	}

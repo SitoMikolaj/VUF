@@ -1,0 +1,80 @@
+# Country name see file name.
+
+graphical_culture = indiangfx
+
+color = { 245  139  127 }
+
+historical_idea_groups = {
+	offensive_ideas
+	quantity_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	bhonsle_cavalry
+	sikh_rifle
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Pilajî Râo #0" = 10
+	"Damajî Râo #0" = 10
+	"Govind Râo #0" = 10
+	"Sayajî Râo #0" = 10
+	"Fateh Singh Râo #0" = 10
+	"Mânâji Râo #0" = 10
+	"Anand Râo #0" = 10
+	"Baijâ Bâi #0" = -1
+	"Chimnâ Bâi #0" = -1
+	"Chandra Bâi #0" = -1
+	"Gulâb Bâi #0" = -1
+	"Gena Bâi #0" = -1
+}
+
+leader_names = {
+	Nishîth
+	Sukarman
+	Yatîn
+	Siripâla
+	Vyâpârî
+	Vishwa
+	Thakur
+	Râmdâs
+	Prajnâ
+	Lakhani
+}
+
+ship_names = {
+	Agni Bhîma Brahmâ Devî Durgâ
+	Ganesha Gâyatrî Hanumân Îndra
+	Jalsena "Kâla Jahâzî" Kali Kubera
+	Krishna Lakshmî "Lâl Jahâzî"
+	Nausenâ "Nav ka Yudh" "Nîla Jahâzî"
+	Pârvatî Râdhâ Râtri Sâgar Sarasvatî
+	Shiva Sîtâ Sôma Sûrya Varuna Vâyu
+	Vîshnu Yama
+}
+
+army_names = {
+	"Prtanyaa Deziiya" "Prtanyaa $PROVINCE$"
+}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa" 
+}

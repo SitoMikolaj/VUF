@@ -1,0 +1,17 @@
+name = "Révolte de Mehmet Ali"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+}
+
+1831.1.1 = {
+	add_attacker = EGY
+	add_defender = TUR
+}
+
+1833.6.1 = {
+	rem_attacker = EGY
+	rem_defender = TUR
+}

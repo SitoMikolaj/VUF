@@ -1,0 +1,135 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 127 146 255 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ablebert #1" = 5
+	"Alard #1" = 5
+	"Albéric #1" = 5
+	"André #1" = 10
+	"Ansbert #1" = 5
+	"Aubert #1" = 5
+	"Berthold #1" = 5
+	"Burchard #1" = 5
+	"Bérenger #1" = 5
+	"Dodilon #1" = 5
+	"Dominique #1" = 5
+	"Enguerrand I #2" = 10
+	"Erluin #1" = 5
+	"Fulbert #1" = 5
+	"Gaufrid #1" = 5
+	"Godefroid #1" = 5
+	"Gontbert #1" = 5
+	"Gui II #4" = 15
+	"Guillaume #2" = 15
+	"Gérard  #2" = 10
+	"Géry #1" = 5
+	"Hadulf #1" = 5
+	"Halitgaire #1" = 5
+	"Hildebert #1" = 5
+	"Hildeguard #1" = 5
+	"Hugues #1" = 5
+	"Hunald #1" = 5
+	"Jean #6" = 30
+	"Lietbert #1" = 5
+	"Liétard #1" = 5
+	"Manassès #1" = 5
+	"Nicolas #3" = 10
+	"Odon #1" = 5
+	"Oger #1" = 5
+	"Philippe #1" = 10
+	"Pierre #5" = 30
+	"Robert #2" = 15
+	"Rothade #1" = 5
+	"Rothard #1" = 5
+	"Theodotus #1" = 5
+	"Treuvard #1" = 5
+	"Vindicien #1" = 5
+	"Védulphe #1" = 5
+	"Walcher #1" = 5
+	"Wilbold #1" = 5
+	"Étienne #1" = 20
+	"Henri #0" = 20
+	"Jacques #0" = 20
+	"Maximilien #0" = 20
+	"Louis #0" = 20
+	"François #0" = 20
+	"Joseph #0" = 20
+	"Gaspard #0" = 20
+	"Ladislas #0" = 20	
+}
+
+leader_names = {
+	"d'Audencourt"
+	"de Beaumont" "de Blécourt" "de Boistrancourt" "de Béthencourt"
+	"de Cateau-Cambrésis" "de Caudry" 
+	"de Forest"
+	"de Gouzeaucourt"
+	"d'Haucourt" "d'Haynecourt" "d'Honnecourt"
+	"d'Inchy"
+	"de Ligny"
+	"de Malincourt" "de Montigny" "de Montrécourt"
+	"de Paillencourt" 
+	"de Raillencourt" "de Ribécourt" 
+	"de Sancourt" "de Selvigny"
+	"des Troisvilles" 
+	"de Walincourt"
+	"d'Élincourt"
+}
+
+ship_names = {
+	Audencourt Avesnois
+	Beaumont Blécourt Boistrancourt Béthencourt Bapaume Blaregnies Bousies
+	"Cateau-Cambrésis" Caudry Cambrésis Cantaing Cauroir Cuvillers
+	Esnes
+	Forest 
+	Gouzeaucourt
+	Haucourt Haynecourt Honnecourt
+	Inchy
+	Ligny
+	Malincourt Montigny Montrécourt Marcoing
+	Nerviens  Niergnies
+	Prémont Paillencourt 
+	Raillencourt Ribécourt Rumilly
+	Sancourt Selvigny Solesmes Selle
+	Troisvilles Thiérache
+	Walincourt
+	Élincourt	
+}
+
+army_names = {
+	"Armée de $PROVINCE$" 
+	}
+
+fleet_names = {  
+	"Escadre de $PROVINCE$" 
+	 }

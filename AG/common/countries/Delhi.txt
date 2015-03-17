@@ -1,0 +1,99 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 157  200  42 }
+
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Nusrat #0" = 20
+	"Sayyid Khidr #0" = 20
+	"Dawlât Khân #0" = 20
+	"Khidr Khân #0" = 20
+	"Mubarrak Shâh #1" = 30
+	"Muhammed Shâh #3" = 40
+	"Alâ' ad-Dîn Alam Shâh #0" = 10
+	"Bahlûl #0" = 20
+	"Saikander #0" = 20
+	"Ibrâhîm #1" = 20
+	"Sher #0" = 20
+	"Islam Shâh #0" = 20
+	"Sa'adat #0" = 2
+	"Safdar Jung #0" = 2
+	"Haydar #0" = 2
+	"Birjîs Qadra #0" = 2
+	"'Alî #0" = 2
+	"Iqbâl #0" = 2
+	"'Alâ' ud-Dîn #0" = 2
+	"Bhi #0" = 2
+	"Mâlik #0" = 2
+	"Narendra #0" = 2
+	"Bismillâh #0" = 2
+	"Obaid #0" = 2
+	"Hemu #0" = 2
+	"Ghâzî #0" = 2
+	"Raziyya #0" = -5
+	"Bahar #0" = -1
+	"Roshanara #0" = -1
+	"Fakhr an-Nisâ' #0" = -1
+}
+
+leader_names = {
+	"'Alî"
+	Azad
+	Bhutto
+	Husayn
+	Jahan
+	Khân
+	Lûdhî
+	Lohia
+	Musharif
+	Nagar
+	Nazimuddin
+	"Ra'ana"
+	Sharma
+	Sinan
+	Singh
+	Sharif
+	Viqar-ul-Mulk
+}
+
+ship_names = {
+	Alia Chambal Fâtima Jalsena Ganges
+	"Kâla Jahâzî" Khân "Lâl Jahâzi"
+	Nausenâ "Nav ka Yudh" Nîknâz
+	"Nîla Jahâzi" Nîlûfa Noor Sâgar
+	Spiti Yamunâ Yâsmin
+}
+
+army_names = {
+	"Sultân Vaahinii" "Rajyaa Vaahinii" "Sultan e Hind Vaahinii" "Sultan e Dili Vaahinii" "Sarkars Vaahinii" "Parganas Vaahinii" "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Yamuna Nausenaa" "Hind Nausenaa" "Dili Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

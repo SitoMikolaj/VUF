@@ -1,0 +1,17 @@
+name = "Guerre de Ceylan"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1617.1.1 = {
+	add_attacker = POR
+	add_defender = CEY
+}
+
+1619.1.1 = {
+	rem_defender = CEY
+	rem_attacker = POR
+}

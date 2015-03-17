@@ -1,0 +1,91 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 40 110 140 }
+#color = { 154 168 121 } 
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	naval_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	muslim_cavalry_archers
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Abu 'Abd Allâh #1" = 60
+	"Abu Abbas Ahmad #0" = 20
+	"Abu Tashufin #2" = 30
+	"Abu Hammu #2" = 30
+	"Abu Muh #1" = 20
+	"Abu Zayyan #2" = 30
+	"Abu Malek #1" = 5
+	"Abul Hadjdjadj #1" = 5
+	"Abu Thabid #2" = 5
+	"Abû Sa'îd #1" = 5
+	"'Abd al-Karîm #0" = 2
+	"Barakât #0" = 2
+	"Basir #0" = 2
+	"Dawud #0" = 2
+	"Faris #0" = 2
+	"Haidar #0" = 2
+	"Hâshim #0" = 2
+	"Jabbar #0" = 2
+	"Jamâl #0" = 2
+	"Junayd #0" = 2
+	"Najib #0" = 2
+	"Qasim #0" = 2
+	"Rahim #0" = 2
+	"Rashîd #0" = 2
+	"Safi #0" = 2
+	"Sakhr #0" = 2
+	"Wahid #0" = 2
+	"Zahir #0" = 2
+	
+	"Randa #0" = -1
+	"Tabassum #0" = -1
+}
+
+leader_names = {
+	Selmi
+	Amara
+	Behar
+	Ilaes
+	Benzine
+	"'Îsâ'id"
+	Hacini
+	Benzai
+	Kelkal
+	Merah
+}
+
+ship_names = {
+	Barr Muta'al Wali Batin Zahir Akhir Awwal
+	Mu'akhkhir Muqaddim Muqtadir Qadir Samad
+	Wahid Majid Wajed Qayyum Hayy Mumit Muhyi
+	Mu'id Mubdi Muhsi Hamîd Waliyy Matin Qawiyy
+	Wakil Haqq Shahid Ba'ith
+}
+
+army_names = {
+	"Jaysh Tlemcem" "Jaysh $PROVINCE$"
+}
+
+fleet_names = {
+	"Armadah Tlemcem" "Armadah $PROVINCE$"
+}
+

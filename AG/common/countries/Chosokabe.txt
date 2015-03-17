@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 115  75  62 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Kunichika #0" = 40
+	"Chikasada #0" = 40
+	"Chikayasu #0" = 40
+	"Nobuchika #0" = 40
+	"Morichika #0" = 40
+	"Morisada #0" = 40
+	"Morinobu #0" = 40
+	"Moritaka #0" = 40
+	"Chikatada #0" = 40
+	"Chikakazu #0" = 40
+	"Chikamori #0" = 40
+	"Chikaoki #0" = 40
+	"Iesada #0" = 40
+	"Haruyoshi #0" = 40
+	"Hirokuni #0" = 40
+	"Sadanori #0" = 40
+	"Toyosada #0" = 40
+	"Tadayuki #0" = 40
+	"Ujiyuki #0" = 40
+	"Kanenobu #0" = 40
+	"Naganori #0" = 40
+	"Katsuchika #0" = 40
+	"Yorisada #0" = 40
+	"Toku #0" = -5
+	"Sen #0" = -5
+	"Tama #0" = -5
+	"Aya #0" = -5
+	"Ina #0" = -5
+}
+
+leader_names = {
+    # Daimyo names
+	Akamatsu Akechi Ashikaga Amago Kyôgoku Rokkaku Asakura Asano Asô Chôsokabe Date Hachisuka
+	Hatakeyama Hôjô Hosokawa Ichijô Keda Imagawa Isshiki Itô Jinbô Kikuchi Kôno Maeda
+	Matsunaga Mimura Miyoshi Mogami Môri Nabeshima Nagao Oda Ogasawara Ôtomo Ôuchi
+	Ryûzôji Sagara Saitô Sanada Satake Satomi Shiba Shibata Shimazu Shôni Takeda Tôki
+	Tokugawa Matsudaira Toyotomi Tsutsui Uesugi Uragami Yamana Yamauchi
+	# Chosokabe Flavor
+	Chôsokabe Chôso Kabe Chô Ôsoka Soka
+	Hôkae Côsabe Chôsokabe Chôsokabe
+	# Retainers of the Chosokabe clan
+	Yoshida Shida Yoda Yo Hisatake Hisa Satake Take
+	Tani Ni Kagawa Agawa Kaga 
+	Fukudome Fuku Dome Kuome Emura
+	Motoyama Toyama Yama Moto Oyama Aki Ki
+	Ichijo Ichi Jo Ichijo Chiô Kira Ira Tsuno Suno Tuno Tsuo Tsu
+    Kosokabe Kosokabe Kosokabe Kosokabe Kôsôkabe
+	# Region Flavor:Shikoku
+	Hosokawa Miyoshi Ônishi Nikai Kaifu Sôgo Kagawa Kôzai Hayuka Saionji Kôno Doi Kurushima
+	Murakami Utsunomiya Kaneko Chôsokabe Aki Motoyama Kôsôkabe 
+	Ichijô Ôhira Kira Tsuno
+}
+
+ship_names = {
+	"Asai Maru" "Abe Maru" "Adachi Maru" "Akamatsu Maru" "Akechi Maru"
+	"Akita Maru" "Akiyama Maru" "Akizuki Maru" "Amago Maru" "Ando Maru"
+	"Anayama Maru" "Asakura Maru" "Ashikaga Maru" "Asano Maru" "Ashina Maru"
+	"Atagi Maru" "Azai Maru"
+	"Bito Maru" "Byakko Maru"
+	"Chiba Maru" "Chousokabe Maru"
+	"Date Maru" "Doi Maru"
+	"Fujiwara Maru" "Fuji-san Maru"
+	"Genbu maru"
+	"Haga Maru" "Hatakeyama Maru" "Hatano Maru" "Honda Maru" "Hojo Maru"
+	"Hosokawa Maru" "Hachisuka Maru" "Hayashi Maru" "Hiki Maru"
+	"Idaten Maru" "Ikeda Maru" "Imagawa Maru" "Ishida Maru" "Ishikawa Maru"
+	"Ishimaki Maru" "Ii Maru" "Inoue Maru" "Ito Maru"
+	"Kikkawa Maru" "Kiso Maru" "Kisona Maru" "Kitabatake Maru" "Kyogoku Maru"
+	"Maeda Maru" "Matsuda Maru" "Matsudaira Maru" "Miura Maru" "Mikumo Maru"
+	"Miyoshi Maru" "Mogami Maru" "Mori Maru"
+	"Nitta Maru" "Niwa Maru" "Nihon Maru" "Nanbu Maru"
+	"Oda Maru" "Otomo Maru" "Ouchi Maru"
+	"Rokkaku Maru"
+	"Sakai Maru" "Sakuma Maru" "Satake Maru" "Shimazu Maru" "Shiba Maru"
+	"Sanada Maru" "Sogo Maru" "Suwa Maru" "Seiryu Maru" "Suzaku Maru"
+	"Takeda Maru" "Tokugawa Maru" "Taira Maru" "Toyotomi Maru" "Tada Maru"
+	"Toki Maru" "Tsugaru Maru" "Tsutsui Maru" "Tenno Maru"
+	"Uesugi Maru" "Ukita Maru" "Uchia Maru"
+	"Yamana Maru" "Yagyu Maru"
+}
+
+army_names = {
+	"Chôsokabe Gun" "$PROVINCE$ Gun" "$PROVINCE$ Zei" "$PROVINCE$ Dan"
+}
+
+fleet_names = {
+	"Chôsokabe Suigun" "$PROVINCE$ Suigun" "$PROVINCE$ Sendan" "$PROVINCE$ Tai"
+}

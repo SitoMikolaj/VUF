@@ -1,0 +1,26 @@
+605 = "Gia Dinh"
+606 = "Phang Rang" OR 606 = "Pânduranga"
+607 = "Qui Nhon"
+1022 = "Da Nang"
+2374 = "Nha Trang"
+2376 = "Can Tho"
+2377 = "Ca Mau"
+
+#################################
+# Mod Panthéon
+#################################
+
+591 = "Dawei"
+593 = "Nakhon Si Thammarat"
+603 = "Nakhon Thung Yai"
+609 = "Siem Reap" OR 609 = "Angkor"
+611 = "Sikhottabong"
+613 = "Dong Kinh"
+1815 = "Ayeyarwady"
+2371 = "Sông La"
+2372 = "Hai Phòng"
+2373 = "Hué"
+2375 = "Tây Nguyên"
+2378 = "Kratié"
+2379 = "Battambang"
+2380 = "Phnôm Pênh"

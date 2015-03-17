@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "GUERRE_HOLLANDE_NAME"
+	desc = "GUERRE_HOLLANDE_DESC"
+	date = 1672.4.6
+	
+	country = FRA
+	country = ENG
+	country = NED
+	country = SPA
+	country = HAB
+	country = DAN
+	
+}

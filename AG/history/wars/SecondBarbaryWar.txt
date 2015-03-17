@@ -1,0 +1,74 @@
+name = "Seconde guerre de Barbarie"
+#casus_belli = cb_insult
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1815.3.3 = {
+	add_attacker = TRP
+	add_attacker = ALG
+	add_attacker = TUN
+	add_defender = USA
+	add_defender = GBR
+	add_defender = NED
+}
+
+1815.5.20 = {
+	battle = {
+		name = "Meshuda"
+		location = 1301
+		attacker = {
+			commander = "Ali Hussein"
+			heavy_ship = 1
+			transport = 1
+			losses = 100	# percent
+			country = TRP
+		}
+		defender = {
+			commander = "Stephen Decatur Jr. et William Bainbridge" 
+			light_ship = 10
+			losses = 2	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1815.7.3 = {
+	rem_attacker = TRP	
+	rem_attacker = TUN
+} # Paix 
+
+1816.8.27 = {
+	battle = {
+		name = "Bombardement d'Alger"
+		location = 1301
+		attacker = {
+			commander = "Fayed Mustafa"
+			heavy_ship = 1
+			light_ship = 4
+			galley = 55
+			transport = 10
+			losses = 50	# percent
+			country = ALG
+		}
+		defender = {
+			commander = "Edward Pellew, vicomte d'Exmouth"
+			heavy_ship = 6
+			light_ship = 10
+			transport = 14
+			losses = 2	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+# Traité avec Algérie
+1816.12.23 = {
+	rem_attacker = ALG
+	rem_defender = USA
+	rem_defender = GBR
+	rem_defender = NED
+}

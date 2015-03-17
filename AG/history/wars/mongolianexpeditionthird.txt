@@ -1,0 +1,17 @@
+name = "Troisième expédition de Mongolie"
+
+#casus_belli
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1421.1.1 = {
+	add_attacker = MNG
+	add_defender = KHA
+}
+
+1424.1.1 = {
+	rem_attacker = MNG
+	rem_defender = KHA
+}

@@ -1,0 +1,284 @@
+government = elective_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.2
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+primary_culture = czech
+religion = catholic
+elector = yes
+capital = 266 # Praha
+technology_group = western
+
+
+1378.11.29 = {
+	monarch = {
+		name = "Václav IV"
+		dynasty = "von Luxemburg"
+		birth_date = 1361.2.26
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1378.11.29 = {
+	heir = {
+		name = "Zsigmond"
+		monarch_name = "Zsigmond I"
+		dynasty = "von Luxemburg"
+		birth_date = 1368.2.14	
+		death_date = 1437.12.9
+		claim = 85
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+# Personal Union with Hungary under Sigismund I 1419-1437
+
+1419.1.1 = { leader = {	name = "Jan Zizka"	type = general	rank = 1	fire = 6	shock = 3	manuever = 5	siege = 0	death_date = 1424.10.11 } }
+
+1419.1.1 = { leader = {	name = "Prokop Holý"	type = general	rank = 1	fire = 4	shock = 3	manuever = 5	siege = 1	death_date = 1434.5.30 } }
+
+# Personal Union with Habsburg under Albrecht II 1437-1439
+
+1439.10.27 = {
+	monarch = {
+		name = "(Landfriedens)"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1440.2.22 = {
+	heir = {
+		name = "Ladislaus"
+		monarch_name = "Ladislaus Postumus"
+		dynasty = "von Habsburg"
+		birth_date = 1440.2.22		
+		death_date = 1457.11.24		
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+} # Est né après la mort de son père
+
+# Personal Union with Habsburg under Ladislaus Postumus 1453-1457
+
+1440.2.23 = {
+	monarch = {
+		name = "Jirí"
+		dynasty = "z Podebrad"
+		birth_date = 1420.4.23
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1456.3.1 = {
+	heir = {
+		name = "Vladislav"
+		monarch_name = "Vladislav II"
+		dynasty = "Jagiellon"
+		birth_date = 1456.3.1
+		death_date = 1516.3.13	
+		claim = 70
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1471.3.23 = {
+	monarch = {
+		name = "Vladislav II"
+		dynasty = Jagiellon
+		birth_date = 1456.3.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1506.7.1	 = {
+	heir = {
+		name = "Ludvik"
+		monarch_name = "Ludvik I"
+		dynasty = "Jagiellon"
+		birth_date = 1506.7.1	
+		death_date = 1526.8.29		
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1516.3.14 = {
+	monarch = {
+		name = "Ludvik I"
+		dynasty = Jagiellon
+		birth_date = 1506.7.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1526.8.30 = {
+	government = despotic_monarchy
+	elector = no
+}
+
+1526.8.30 = {
+	monarch = {
+		name = "Ferdinand I"
+		dynasty = "von Habsburg"
+		birth_date = 1503.3.10
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1527.7.31 = {
+	heir = {
+		name = "Maximilian"
+		monarch_name = "Maximilian II"
+		dynasty = "von Habsburg"
+		birth_date = 1527.7.31
+		death_date = 1576.10.12
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1556.10.2 = { government = absolute_monarchy }
+
+1562.9.17 = {
+	monarch = {
+		name = "Maximilian II"
+		dynasty = "von Habsburg"
+		birth_date = 1527.7.31
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1562.9.17 = {
+	heir = {
+		name = "Rudolf"
+		monarch_name = "Rudolf II"
+		dynasty = "von Habsburg"
+		birth_date = 1552.7.18
+		death_date = 1612.1.20
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1576.10.14 = {
+	monarch = {
+		name = "Rudolf II"
+		dynasty = "von Habsburg"
+		birth_date = 1552.7.18
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1576.10.14 = {
+	heir = {
+		name = "Ernst"
+		monarch_name = "Ernst I"
+		dynasty = "von Habsburg"
+		birth_date = 1553.6.15
+		death_date = 1595.2.20
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1595.2.20 = {
+	heir = {
+		name = "Matthias"
+		monarch_name = "Matthias I"
+		dynasty = "von Habsburg"
+		birth_date = 1557.2.24
+		death_date = 1619.3.20
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1610.1.1 = { leader = {	name = "Christian von Anhalt"   	type = general	rank = 2	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1630.4.17 } }
+
+1612.1.22 = {
+	monarch = {
+		name = "Matthias I"
+		dynasty = "von Habsburg"
+		birth_date = 1557.2.24
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1612.1.22 = {
+	heir = {
+		name = "Ferdinand"
+		monarch_name = "Ferdinand II"
+		dynasty = "von Habsburg"
+		birth_date = 1578.7.9
+		death_date = 1637.2.15
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1615.1.1 = { leader = {	name = "Thurn"                 	type = general	rank = 1	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1640.1.28 } }
+
+1615.1.1 = { leader = {	name = "von Wallenstein"           	type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1634.2.25 } }
+
+# Start of Thirty years war
+1618.5.22 = {
+	monarch = {
+		name = "(Direktorium)"
+		regent = yes
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	religion = protestant
+	join_league = protestant
+}
+
+#Personal union with Palatinate
+
+#Personal Union with Habsburg
+
+1620.11.8 = {
+	leave_league = protestant
+	religion = catholic
+}

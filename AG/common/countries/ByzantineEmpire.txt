@@ -1,0 +1,148 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 149 45 102 }
+
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	quality_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Ioannes #7" = 40
+	"Alexios #5" = 30
+	"Konstantinos #10" = 20
+	"Andronikos #4" = 20
+	"Manuel #1" = 20
+	"Romanos #4" = 20
+	"Demetrios #0" = 15
+	"Theodoros #2" = 15
+	"Mikhael #9" = 10
+	"Andreas #0" = 10
+	"Helene #0" = -10
+	"Thomas #0" = 10
+	"Isaakios #2" = 10
+	"Basileios #2" = 10
+	"Leon #6" = 10
+	"Adrianos #1" = 5
+	"Anastasios #2" = 5
+	"Ioulianos #3" = 5
+	"Ioustinianos #2"= 5
+	"Ioustinos #2" = 5
+	"Konstantios #3" = 5
+	"Markos #1" = 5
+	"Nikephoros #3" = 5
+	"Theophilos #1" = 5
+	"Theodosios #3" = 5
+	"Tiberios #3" = 5
+	"Traianos #1" = 5
+	"Alexandros #1" = 5
+	"Philippos #1" = 5
+	"Herakleios #1" = 5
+	"Athanasios #0" = 2
+	"Antonios #0" = 2
+	"Bartholomaios #0" = 2
+	"Christophoros #0" = 2
+	"Diogenes #0" = 2
+	"Dionysios #0" = 2
+	"Eirenaios #0" = 2
+	"Elpidios #0" = 2
+	"Georgios #0" = 2
+	"Gregorios #0" = 2
+	"Hektorios #0" = 2
+	"Iason #0" = 2
+	"Kyrillos #0" = 2
+	"Matthaios #0" = 2
+	"Niketas #0" = 2
+	"Nikolaos #0" = 2
+	"Nikodemos #0" = 2
+	"Sergios #0" = 2
+	"Porphyrios #0" = 2
+	"Pavlos #0" = 2
+	"Panagiotis #0" = 2
+	"Petros #0" = 2
+	"Philemon #0" = 2
+	"Prokopios #0" = 2
+	"Stephanos #0" = 2
+	
+	"Eirene #1" = -20
+	"Theodora #1" = -20
+	"Zoe #1" = -10
+}
+
+leader_names = {
+	Artavasdus Akropolites Angelos Aoinos Apokaukos Argyros Antiochi
+	Basileous Batatzes Botaneiates Boumbalis Burtzes
+	Choniates Choumnos
+	Diogenes Diasorenos Doukas
+	Gabras Giustiniani
+	Iagaris
+	Kantakuzenos Kaukadenos Komnenos Korais
+	Lebournes Laskaris
+	Melissinos Melisurgos Mikrulakes Monomakos Mouzalon
+	Nestongos
+	Pyrrus Palaiologos Paraspondylos Phocas Phouskarnaki Phrangopoulos Psellos	 
+	Rhadinos Rhangabe Rhodocanakis Romanos
+	Stauracius Stratioticus Syropoulos
+	Tornikes
+	Vataces Verinus
+	Zimisces Zarides
+}
+
+ship_names = {
+	"Agios Thomas" "Agios Kyprianos" Areopoli Amisus Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla" 	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas" "Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos" 	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos" Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena Achilleus Adrianoupolis Aetos "Aghia Eirene" "Aghia Helene" "Aghia Magdalene" "Aghia Oros" "Aghios Athanasios" "Aghios Menas" "Aghios Philippos" "Aghios Theodoros" Aigaion Aigyptos Angeliophoros Aniketos Apokalipsis "Apostolos Andreas" "Apostolos Pavlos" "Apostolos Petros" "Archangelos Mikhael" "Archangelos Gabriel" Athenai Atrotos "Autokrator Rhomaion" Axiomachos 	
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos" "Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon" "Basileous Manuel" "Basileous Mikhael" "Basileous Rhomaion" "Basileous Romanos" "Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe" Belisarios Byzantion "Basileous Alexios" "Basileous Basileios" "Basileous Basileon" "Basileous Herakleios" "Basileous Ioustinianos" "Basileous Isaakios" "Basileous Konstantinos" "Basileous Nikephoros" Basilevousa "Basileisa Eirene" Bosporos 		
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos Demetra Despotes "Dikephalos Aetos" "Doxa Theou" Drakon 
+	Endoxos Eperos Epos "Euxinos Pontos" Ellade Endymion Eros Europa Elika 
+	Felves 
+	Gea "Gorgona Poseidonos" 	Geronlimenas Gytheio Galaxias Gorgona Gorgopleustos 
+	Hellas Hellespontos Heroas Hygeia Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos "Heraclea Pontica" 
+	Iason Ikaria Imvros Indikopleustes Ionia Ionion 
+	Kaisar Kentavros Keravnos Keratios Kerkyra Kyriarchos "Konstantinou Polis" Korinthos Krete Kypros "Kaisar Konstantinos"  Konstantinopolis "Konstantinos Dragases" Kardamyli Kokkala Kotronas Kersh Kassandra Kastor "Khristos Soter" Khronos Khersonesos Khios Khristophoros
+	"Liontari Skliros" "Lussa ton Theon" Limnos Laouses "Leon Skleros" Lemnos Lesbos Lykia "Lykos Thalasses" 
+	Megaleion "Megas Alexandros" "Megas Konstantinos" "Mikra Asia" Morpheas Makedonia "Margaritari Aspra" Minos Mikonios Makronisi 
+	Nestor Naxos Nike Nikephoros 
+	Okeanos "Orge Theou" Orthodoxia "Osios Loukas" Odysseos Orestes Okeanasthraustis Ouranos 
+	Panselenos Perseos "Pontikos Thalasses" Pezopoulos Patroklou Petalioi Perateia Panaghia Panther Pantokrator Panteleimon Pantodynamos Paphlagonia Pelagos Peloponnesos Pegasos Perseus Polydynamos Pontos Poseidon Propontis 
+	Rhodos Rhomaios Romanos Rhadamanthys 
+	Sebastokrator Salamis Samos Simitzopoulos Styra Skoutari Sinope Sougdeia Samothrake Sikelia Soter Stratelates 
+	Taxiarchis Theophilos Theophylaktos Thessalia Thessalonike Thalassokrator Thrake Thrylos Triton Thanatos Theseos Themistoklis Trépizonte 
+	Votsis Vathia 
+	Xiphias Xiphomachos 
+	Ypsili 
+	Zeous Zakynthos Zoodotis 
+}
+
+army_names = {
+	"Tagma Ton Athanatoi" "Tagma Ton Varángon" "Tagmata Scholes" "Tagmata Exkoubitoi" "Tagmata Arithmos" "Tagmata Hikanatoi" "Tagmata Hicanates" "Tagmata Noumeroi" "Tagmata Optimatoi" "Tagmata ton Teikhon" "Hetaireiai" "Hetaireiai Inglinoi" "Hetaireiai Phragkoi" "Hetaireiai Skythikoi" "Hetaireiai Latinikoi" "Thematikon Arméniakos" "Thematikon Anatolikos" "Thematikon Opsikion" "Thematikon Thrakios" "Thematikon Karavisioso" "Tessarakontarioi" "Thematikon $PROVINCE$"
+}
+
+fleet_names = {
+	"Basilikon Ploïmon" "Karabisianoi Ploïmon" "Thema Cibyrraeoton" "Thema Cypriakon" "Thema Aigaeou Pelagous" "Thema Sicelias" "Thematikon Ploïmon" "Thematikon Kibyrrhaeotikos" "Thematikon Aigaio" "Thematikon Dodekanesa" "Thematikon Sicilia" "Thematikon Krete" "Thematikon Kéfallonia" "Thematikon Samos" "Thematikon Hellas" "Thematikon Armeniac" "$PROVINCE$ Naftikon"
+}

@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 66  126  157}
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann Friedrich #0" = 40
+	"Wilhelm #3" = 20
+	"Friedrich #2" = 20
+	"Ernst #0" = 20
+	"Johann #0" = 20
+	"Johann Ernst #0" = 20
+	"Balthasar #0" = 20
+	"Friedrich Wilhelm #0" = 15
+	"Albrecht #4" = 10
+	"Wilhelm Ernst #0" = 10
+	"Wolfgang #0" = 10
+	"Adolf #0" = 2
+	"Alfred #0" = 2
+	"Andreas #0" = 2
+	"Anton #0" = 2
+	"Bruno #0" = 2
+	"Burkhard #0" = 2
+	"Christian #0" = 2
+	"Christoph #0" = 2
+	"Dietrich #0" = 2
+	"Ekkehardt #0" = 2
+	"Günther #0" = 2
+	"Harmann #0" = 2
+	"Helmfried #0" = 2
+	"Hermann #0" = 2
+	"Joachim #0" = 2
+	"Kajetan #0" = 2
+	"Konrad #0" = 2
+	"Lambert #0" = 2
+	"Lukas #0" = 2
+	"Marius #0" = 2
+	"Michael #0" = 2
+	"Otto #0" = 2
+	"Reimund #0" = 2
+	"Rudolf #0" = 2
+	"Thomas #0" = 2
+	"Ulrich #0" = 2
+	"Wenzel #0" = 2
+	"Wilfried #0" = 2
+	"Wolfram #0" = 2
+	
+	"Leonie #0" = -1
+	"Kathrin #0" = -1
+	"Hertha #0" = -1
+}
+
+leader_names = {
+	Becher Berndt Blochberger Bohn Brendelin Burgberg Brosius Bär 
+	Eisenschmid 
+	Grieser Grimm Gäbelein Gropper
+	Hofmann Horn
+	Jauch 
+	Langheinrich 
+	Meier Meisgeier Möser Müntzer
+	Oswald 
+	Pachelbel
+	Rauh Ritter Rank
+	Schilling Söll Schmidt Schreuser
+	Taut Trögel
+	Voß
+}
+
+ship_names = {
+	Marbod Katwalda "König Bisinus" "König Baderich"
+	"König Herminafried" "König Berthachar" "Herzog Radulf"
+	"Herzog Heden" "Markgraf Ekkehard I"
+	"Landgraf Hermann" "Heinrich Raspe"
+}
+
+army_names = {
+	"Armee Fürstliche" "Armee Herzoglichen" "Armee von Söldnern" "Milizarmee" "Armee von $PROVINCE$"
+}
+
+fleet_names = {
+	"Herzoglichen Flotte" "$PROVINCE$ Flotte"
+}

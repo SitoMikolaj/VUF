@@ -1,0 +1,195 @@
+government = steppe_horde
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 5
+#innovative_narrowminded = 3
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -5
+primary_culture = mishary
+religion = sunni
+technology_group = nomad_group
+capital = 303	# Saratov
+historical_rival = TUR
+
+
+1394.1.1 = {
+	monarch = {
+		name = "Temur Qutlugh"
+		dynasty = "Genghisid"
+		adm = 6
+		dip = 4
+		mil = 6
+	}
+}
+
+1400.1.1 = {
+	monarch = {
+		name = "Shadi Beg"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1407.1.1 = {
+	monarch = {
+		name = "Pulad Khan"
+		dynasty = "Genghisid"
+		adm = 7
+		dip = 6
+		mil = 3
+	}
+}
+
+1410.1.1 = {
+	monarch = {
+		name = "Temür"
+		dynasty = "Genghisid"
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Jalal Al-Din"
+		dynasty = "Genghisid"
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}
+
+1413.1.1 = {
+	monarch = {
+		name = "Karim Berdi"
+		dynasty = "Genghisid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1414.1.1 = {
+	monarch = {
+		name = "Kebek"
+		dynasty = "Genghisid"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+1417.1.1 = {
+	monarch = {
+		name = "Jabbar Berdi"
+		dynasty = "Genghisid"
+		adm = 4
+		dip = 5
+		mil = 7
+	}
+}
+
+1419.1.1 = {
+	monarch = {
+		name = "Ulugh Muhammad"
+		dynasty = "Genghisid"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+
+1420.1.1 = {
+	monarch = {
+		name = "Devlat Berdi"
+		dynasty = "Genghisid"
+		adm = 7
+		dip = 7
+		mil = 4
+	}
+}
+
+1421.1.1 = {
+	monarch = {
+		name = "Baraq"
+		dynasty = "Genghisid"
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}
+
+1428.1.1 = {
+	monarch = {
+		name = "Ulugh Muhammad"
+		dynasty = "Genghisid"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+
+1432.1.1 = {
+	monarch = {
+		name = "Küchük Muhammad"
+		dynasty = "Genghisid"
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1435.1.1 = {
+	heir = {
+		name = "'Ahmâd"
+		monarch_name = "'Ahmâd I"
+		dynasty = "Genghisid"
+		birth_date = 1435.1.1
+		death_date = 1481.1.6
+		claim = 90
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1459.1.1 = {
+	monarch = {
+		name = "'Ahmâd"
+		dynasty = "Genghisid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1460.1.1 = {
+	heir = {
+		name = "Shaikh 'Ahmâd"
+		monarch_name = "Shaikh 'Ahmâd I"
+		dynasty = "Genghisid"
+		birth_date = 1460.1.1
+		death_date = 1528.1.1
+		claim = 50
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1481.1.6 = {
+	monarch = {
+		name = "Shaikh 'Ahmâd"
+		dynasty = "Genghisid"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+# Golden Horde destroyed in May 1502

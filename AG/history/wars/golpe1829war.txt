@@ -1,0 +1,41 @@
+name = "Le coup de 1829"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_colonial_independance_war
+}
+
+# Projet irréaliste d'envahir le Mexique par Cuba
+
+1829.7.1 = {
+	add_attacker = SPA
+	add_defender = MEX
+}
+
+1829.9.10 = {
+	battle = {
+		name = "Pueblo Viejo"
+		location = 1518
+		attacker = {
+			commander = "Isidro Barradas"
+			infantry = 3586
+			losses = 30	# percent
+			country = SPA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 3000
+			losses = 15	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1830.1.1 = {
+	rem_attacker = SPA
+	rem_defender = MEX
+} 
+
+# Abandon des tentatives puis reconnaissance formelle du Mexique apr l'Espagne en 1842

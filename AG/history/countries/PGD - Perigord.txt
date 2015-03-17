@@ -1,0 +1,214 @@
+government = feudal_county
+mercantilism = 0.1
+technology_group = western
+primary_culture = aquitaine
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+capital = 194 	# Périgueux
+
+# En 1399, le roi Charles VI déposseda les comtes de Taleyrand et les donna à son frère Louis d'orléans
+
+1400.1.1 = {
+	monarch = {
+		name = "Louis I"
+		dynasty = "de Valois"		
+		birth_date = 1372.3.13
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1400.1.1 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "de Valois"
+		birth_date = 1394.11.24
+		death_date = 1465.1.5
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1407.1.1 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "de Valois"
+		birth_date = 1394.11.24
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+# Charles Ier vend son comté de périgord pour payer sa rançon
+
+1438.3.4 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Châtillon"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1438.3.4 = {
+	heir = {
+		name = "Guillaume"
+		monarch_name = "Guillaume IV"
+		dynasty = "de Châtillon"
+		birth_date = 1400.1.1
+		death_date = 1455.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1454.1.1 = {
+	monarch = {
+		name = "Guillaume IV"
+		dynasty = "de Châtillon"
+		birth_date = 1400.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1454.1.1 = {
+	heir = {
+		name = "Françoise"
+		monarch_name = "Françoise I"
+		dynasty = "de Châtillon"
+		birth_date = 1440.1.1
+		death_date = 1481.1.1
+		female = yes
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1455.1.1 = {
+	monarch = {
+		name = "Françoise I"
+		dynasty = "de Châtillon"
+		birth_date = 1400.1.1
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1469.1.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean III"
+		dynasty = "d'Albret"
+		birth_date = 1469.1.1
+		death_date = 1517.2.12
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1481.1.1 = {
+	monarch = {
+		name = "Jean III"
+		dynasty = "d'Albret"
+		birth_date = 1469.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1503.4.18 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri II"
+		dynasty = "d'Albret"
+		birth_date = 1503.4.18
+		death_date = 1555.5.25
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+  
+1517.2.12 = {
+	monarch = {
+		name = "Henri II"
+		dynasty = "d'Albret"
+		birth_date = 1503.4.18
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1528.1.7 = {
+	heir = {
+		name = "Jeanne"
+		monarch_name = "Jeanne III"
+		dynasty = "d'Albret"
+		birth_date = 1528.1.7
+		death_date = 1572.6.9
+		claim = 85
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	monarch = {
+		name = "Jeanne III"
+		dynasty = "d'Albret"
+		birth_date = 1528.1.7
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri IV"
+		dynasty = "de Bourbon"
+		birth_date = 1553.12.13
+		death_date = 1610.5.14
+		claim = 95
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Henri IV"	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+1572.6.9 = {
+	monarch = {
+		name = "Henri IV"
+		dynasty = "de Bourbon"
+		birth_date = 1553.12.13
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Henri IV"	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}

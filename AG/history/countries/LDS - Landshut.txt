@@ -1,0 +1,121 @@
+government = feudal_duchy
+mercantilism = 0.1
+technology_group = western
+primary_culture = bavarian
+religion = catholic
+capital = 64
+
+1347.10.11 = {
+	monarch = {
+		name = "Stephan II"
+		dynasty = "von Wittelsbach"
+		birth_date = 1319.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+    	}
+}
+
+# Division de la bavière en trois duchés : Munich, ingolstadt et Landshut. Ingolstad réunit à munich en 1447 (pas représentée)
+
+1375.5.1 = {
+	monarch = {
+		name = "Friedrich I"
+		dynasty = "von Wittelsbach"
+		birth_date = 1339.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+    	}
+}
+
+1386.1.1 = {
+	heir = {
+		name = "Heinrich"
+		monarch_name = "Heinrich XVI"
+		dynasty = "von Wittelsbach"
+		birth_date = 1386.1.1
+		death_date = 1450.7.30
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1393.12.4 = {
+	monarch = {
+		name = "Heinrich XVI"
+		dynasty = "von Wittelsbach"
+		birth_date = 1386.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+    	}
+}
+
+1414.1.1 = {
+	heir = {
+		name = "Albrecht "
+		monarch_name = "Albrecht III"
+		dynasty = "von Wittelsbach"
+		birth_date = 1414.1.1
+		death_date = 1416.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1417.2.23 = {
+	heir = {
+		name = "Ludwig"
+		monarch_name = "Ludwig IX"
+		dynasty = "von Wittelsbach"
+		birth_date = 1417.2.23
+		death_date = 1479.1.18
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1450.7.30 = {
+	monarch = {
+		name = "Ludwig IX"
+		dynasty = "von Wittelsbach"
+		birth_date = 1417.2.23
+		adm = 2
+		dip = 2
+		mil = 2
+    	}
+} 
+
+1455.8.15 = {
+	heir = {
+		name = "Georg"
+		monarch_name = "Georg I"
+		dynasty = "von Wittelsbach"
+		birth_date = 1455.8.15
+		death_date = 1503.12.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1476.1.18 = {
+	monarch = {
+		name = "Georg I"
+		dynasty = "von Wittelsbach"
+		birth_date = 1455.8.15
+		adm = 2
+		dip = 2
+		mil = 1
+    	}
+} 
+
+# Guerre de Landshut et unification de la Bavière en 1503

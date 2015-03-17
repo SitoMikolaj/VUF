@@ -1,0 +1,29 @@
+#East Karelia
+
+capital = "Kem"
+culture = karelian
+religion = orthodox
+hre = no
+base_tax = 1
+trade_goods = unknown
+manpower = 1
+discovered_by = western
+discovered_by = eastern
+
+1466.1.1 = {	
+		owner = NOV
+		controller = NOV 
+		add_core = NOV
+		add_core = FIN
+		is_city = yes
+		add_local_autonomy = 25
+		trade_goods = salt
+	   } # Première colonisation russe
+1478.1.15 = { 
+	owner = MOS 
+	controller = MOS 
+	add_core = MOS 
+	remove_core = NOV 
+	fort1 = yes 
+	}
+1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }

@@ -1,0 +1,309 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = sunni
+primary_culture = marathi
+capital = 527	# Burhanpur
+fixed_capital = 527 # Cannot move capital away from this province & no power cost to move to it
+
+#Sultans of Khandesh
+1399.1.1 = {
+	monarch = {
+		name = "Nâsir Khân"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+ 
+
+1399.1.1 = {
+	heir = {
+		name = "Mîrân 'Âdil Khân"
+		monarch_name = "Mîrân 'Âdil Khân I"
+		dynasty = "al-Fârûqî"
+		birth_date = 1399.1.1
+		death_date = 1441.4.28
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1437.9.20 = {
+	monarch = {
+		name = "Mîrân 'Âdil Khân I"
+		dynasty = "al-Fârûqî"
+		ADM = 1
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1437.9.20 = {
+	heir = {
+		name = "Mîrân Mubârak"
+		monarch_name = "Mîrân Mubârak Khân I"
+		dynasty = "al-Fârûqî"
+		birth_date = 1420.1.1
+		death_date = 1457.6.5
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1441.4.28 = {
+	monarch = {
+		name = "Mîrân Mubârak Khân I"
+ 		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1441.4.28 = {
+	heir = {
+		name = "'Âdil Khân"
+		monarch_name = "'Âdil Khân II"
+		dynasty = "al-Fârûqî"
+		birth_date = 1430.1.1
+		death_date = 1503.9.6
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1457.6.5 = {
+	monarch = {
+		name = "'Âdil Khân II"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1480.1.1 = {
+	heir = {
+		name = "Dâ'ûd Khân"
+		monarch_name = "Dâ'ûd Khân"
+		dynasty = "al-Fârûqî"
+		birth_date = 1480.1.1
+		death_date = 1510.8.6
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1503.9.6 = {
+	monarch = {
+		name = "Dâ'ûd Khân"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1503.9.6 = {
+	heir = {
+		name = "Ghaznî"
+		monarch_name = "Ghaznî Khân"
+		dynasty = "al-Fârûqî"
+		birth_date = 1480.1.1
+		death_date = 1510.8.8
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1510.8.6 = {
+	monarch = {
+		name = "Ghaznî Khân"
+		dynasty = "al-Fârûqî"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1510.8.6 = {
+	heir = {
+		name = "'Alam"
+		monarch_name = "'Alam Khân"
+		dynasty = "al-Fârûqî"
+		birth_date = 1490.1.1
+		death_date = 1510.10.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1510.8.8 = {
+	monarch = {
+		name = "'Alam Khân"
+		dynasty = "al-Fârûqî"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1510.8.8 = {
+	heir = {
+		name = "'Âdil"
+		monarch_name = "'Âdil Khân"
+		dynasty = "al-Fârûqî"
+		birth_date = 1490.1.1
+		death_date = 1520.7.4
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1510.10.1 = {
+	monarch = {
+		name = "'Âdil Khân"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1510.10.1 = {
+	heir = {	
+		name = "Mîrân Muhammad"
+		monarch_name = "Mîrân Muhammad Khân I"
+		dynasty = "al-Fârûqî"
+		birth_date = 1500.1.1
+		death_date = 1537.5.4
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1520.7.24 = {
+	monarch = {
+		name = "Mîrân Muhammad Khân I"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1520.7.24 = {
+	heir = {
+		name = "Mîrân Mubârak"
+		monarch_name = "Mîrân Mubârak Shâh II"
+		dynasty = "al-Fârûqî"
+		birth_date = 1500.1.1
+		death_date = 1566.12.19
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1537.5.4 = {
+	monarch = {
+		name = "Mîrân Mubârak Shâh II"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1537.5.4 = {
+	heir = {
+		name = "Mîrân Mubârak Shâh"
+		monarch_name = "Mîrân Mubârak Shâh II"
+		dynasty = "al-Fârûqî"
+		birth_date = 1520.1.1
+		death_date = 1576.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1566.12.19 = {
+	monarch = {
+		name = "Mîrân Muhammad Shâh II"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1566.12.19 = {
+	heir = {
+		name = "Râja 'Alî Khân"
+		monarch_name = "Râja 'Alî Khân"
+		dynasty = "al-Fârûqî"
+		birth_date = 1550.1.1
+		death_date = 1597.1.7
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1576.1.1 = {
+	monarch = {
+		name = "Râja 'Alî Khân"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1580.1.1 = {
+	heir = {
+		name = "Mîrân Bahâdur Shâh"
+		monarch_name = "Mîrân Bahâdur Shâh"
+		dynasty = "al-Fârûqî"
+		birth_date = 1580.1.1
+		death_date = 1600.4.8
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1597.1.7 = {
+	monarch = {
+		name = "Mîrân Bahâdur Shâh"
+		dynasty = "al-Fârûqî"
+		ADM = 2
+		DIP = 0
+		MIL = 0
+	}
+}
+

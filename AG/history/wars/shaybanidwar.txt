@@ -1,0 +1,17 @@
+name = "Guerre de Shaybanid"
+
+#casus_belli
+war_goal = {
+	type = take_core
+	casus_belli = cb_core
+}
+
+1497.1.1 = {
+	add_attacker = SHY
+	add_defender = TIM
+}
+
+1500.1.1 = {
+	rem_attacker = SHY
+	rem_defender = TIM
+}

@@ -1,0 +1,141 @@
+name = "Guerre Creek"
+
+#casus_belli
+war_goal = {
+	type = superiority_horde
+	casus_belli = cb_horde_vs_civ
+}
+
+
+1813.2.11 = {
+	add_attacker = CRE
+	add_defender = USA
+}
+
+1813.7.27 = {
+	battle = {
+		name = "Burnt Corn"
+		location = 924
+		attacker = {
+			commander = "Peter McQueen"
+			cavalry = 80
+			losses = 10	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Colonel Caller"
+			cavalry = 180
+			losses = 25	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1813.8.30 = {
+	battle = {
+		name = "Fort Mims"
+		location = 924
+		attacker = {
+			commander = "Peter McQueen"
+			cavalry = 1200
+			losses = 16	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Daniel Beasley"
+			infantry = 600
+			losses = 90	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1813.11.3 = {
+	battle = {
+		name = "Tallushatchee"
+		location = 924
+		attacker = {
+			commander = "Menawa"
+			cavalry = 1200
+			losses = 16	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "John Coffee"
+			cavalry = 900
+			losses = 5	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1813.11.9 = {
+	battle = {
+		name = "Talladega"
+		location = 925
+		attacker = {
+			commander = "Menawa"
+			cavalry = 2400
+			losses = 16	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Andrew Jackson"
+			infantry = 1200
+			cavalry = 800
+			losses = 7	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1814.1.22 = {
+	battle = {
+		name = "Enotachopo Creek"
+		location = 925
+		attacker = {
+			commander = "Menawa"
+			cavalry = 600
+			losses = 8	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Andrew Jackson"
+			infantry = 375
+			losses = 30	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1814.3.27 = {
+	battle = {
+		name = "Horseshoe Bend"
+		location = 925
+		attacker = {
+			commander = "Menawa"
+			cavalry = 1000
+			losses = 85	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Andrew Jackson"
+			infantry = 2000
+			cavalry = 1400
+			losses = 25	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+# Traité de Fort Jackson
+1814.8.9 = {
+	rem_attacker = CRE
+	rem_defender = USA
+}

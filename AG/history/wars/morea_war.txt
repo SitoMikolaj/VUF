@@ -1,0 +1,25 @@
+name = "Guerre de Morée"
+
+#casus_belli
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 145 # Morée
+}
+
+1684.4.25 = {
+	add_attacker = VEN
+	add_attacker = KNI
+	add_attacker = SAV
+	add_attacker = PAP
+	add_defender = TUR
+}
+
+# Traité de Karlowitz
+1699.1.26 = {
+	rem_attacker = VEN
+	rem_attacker = KNI
+	rem_attacker = SAV
+	rem_attacker = PAP
+	rem_defender = TUR
+}

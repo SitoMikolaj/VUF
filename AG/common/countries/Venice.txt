@@ -1,0 +1,140 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 54  167  156 }
+
+historical_score = 2800
+
+revolutionary_colors = { 8  14  8 }
+
+historical_idea_groups = {
+	maritime_ideas
+	plutocracy_ideas
+	humanist_ideas
+	trade_ideas	
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Antonio #0" = 20
+	"Michele #0" = 20
+	"Tomasso #0" = 20
+	"Mosé #0" = 40
+	"Niccolò #0" = 40
+	"Domenico #0" = 20
+	"Francesco #0" = 20
+	"Giovanni #0" = 20
+	"Marco #0" = 20
+	"Vittore #0" = 20
+	"Agostino #0" = 2
+	"Alfredo #0" = 2
+	"Alvise #0" = 2
+	"Andrea #0" = 2
+	"Anselmo #0" = 2
+	"Bertuccio #0" = 2
+	"Bruno #0" = 2
+	"Carlo #0" = 2
+	"Constanzo #0" = 2
+	"Cristoforo #0" = 2
+	"Enzo #0" = 2
+	"Fabrizio #0" = 2
+	"Gianpiero #0" = 2
+	"Girolamo #0" = 2
+	"Giuseppe #0" = 2
+	"Jacopo #0" = 2
+	"Leonardo #0" = 2
+	"Lorenzo #0" = 2
+	"Ludovico #0" = 2
+	"Luigi #0" = 2
+	"Marco Antonio #0" = 2
+	"Marino #0" = 2
+	"Mario #0" = 2
+	"Ottavio #0" = 2
+	"Pasquale #0" = 2
+	"Pietro #0" = 2
+	"Sebastiano #0" = 2
+	"Silvestro #0" = 2
+	"Simone #0" = 2
+	"Teodoro #0" = 2
+	"Urbano #0" = 2
+	"Vitale #0" = 2
+	
+	"Pierina #0" = -1
+	"Santuzza #0" = -1
+	"Eulalia #0" = -1
+}
+
+leader_names = {
+	"d'Alviano" Alvise Ariosto Aretino
+	Barbarigo Bembo Barilla Bassano Bardolino Bellini Borgia Bragadin
+	Cornaro Contarini Cassandro Casanova Commachio Chiogga Colombo Cavalli Canaletto Canova Colleoni Crivelli Carpaccio "da Carmagnola" "da Canal" Corner
+	Donato Dolfin "de Blazio"
+	Emo Erizzo Ermelli
+	Foscolo Flangini Foscarini Fracastoro Falloppio
+	Grimani Giustinan Gritti Garda Giorgione Gabrieli Galilei Goldoni Guardi Gattamelata 
+	Loredan Labia Lomellini Lando
+	Mocenigo Marcello Morosini Molin Moro Memmo Magno Mestre Modigliano Morgagni Malvezzi
+	Orsini	
+	Polani Priuli Pisani Pesaro Pezzini Pordenone Palladio Piccinni "di Pitigliano"
+	Quirini
+	Riva Ruzzini Rovigo Rovereto Ramazzini
+	"San Paulo" Schio Sugaina Sarpi Santorio Saccheri Spallanzani "von der Schulenburg"
+	Trevisano Toscani Tartaglia "il Tintoretto" Tiepolo
+	Venier Valieri Vittorio "del Verrocchio" Vecellio Vivaldi
+	"van Wesel" 
+	Zeno Zustiniani Zen
+}
+
+ship_names = {
+	"Abbondanza e Ricchezza" Acate Adamante Adria "Adria in Pace" "Amazzone Guerriera" Amburgense Angelo "Anna Bonaventura" Apollo Aquila "Aquila Coronato" "Aquila d'Oro" "Aquila Valiera" "Aquila Volante" "Arma di Colognia" "Arma di Midelborgo" Armellino Aurora "Ambrogio Bragadin" "Andrea da Cesare" "Antonio Bragadin"  	
+	Bellona Braccio Bravo Brillante Bucintoro "Buon Consiglio" "Buon Destino"
+    "Capitana d'Algeri" "Capitana di Venezia" "Capitana Lanterna" Carita "Casa di Nassau" Castore "Cavalier Angelo" "Cavallo Marino" Cerere Cervo Cibele Cigno Cimodecca "Colomba d'Oro" Concordia Contanza "Conte Sdrin" Corona "Corriera Veneta" Costanza "Costanza Guerriera" Cristo "Cristo Risorto" "Croce Dorata" "Croce Rossa" "Capitana dei Mari" "Cristo di Corfù" Croce  
+	"Dama a cavallo" Dea Diligenza "Dio Padre e Santa Trinità" "Drago Volante" "Due Delfini" "Due Leoni" "Due Mani" 
+	Enea Eolo Ercole "Ercole Vittorioso" Europa Esperienza 
+	"Forza di Venezia" "Francesco Duodo" Falcon Fama "Fama Volante" Fede "Fede Guerriera" Fedeltà Fenice "Fortezza Guerriera" Fortuna Forza Francese "Fregata Contarini" Fuoco
+	Galatea "Gallo d'Oro" "Genovese Grande" Giasone "Giglio d'Oro" Giove "Giove Fulminante" Giuditta "Giudizio di Salomon" Gloria "Gloria Veneta" "Grande Alessandro" Guerriera "Giuditta di Zante"
+	Idra Incorruttibile Iride 
+	"Jacopo Guoro" 
+	Ketianana
+	"La Donna" "L'Amazzone Guerriera" "L'Harpa" "Leon Coronato" Leone "Leone e Fenice" "Leone Trionfante" "La Donna di Traù" "Lanterna di Venezia" 	
+	Maddalena Madonna "Madonna dell'Arsenal" "Madonna della Salute" "Madonna della Vigna" Margarita Medea Medusa "Mercante Diletto" Merope "Mezza Luna" Minerva Mondo Mongibello Montagna "Monton d'Oro"
+	Nave Nettuno Nino "Nostra Donna" "Nostra Signora" "N.S. del Rosario" 
+ 	Obusiera "Orca Negro" Orione "Orsola Bonaventura" 
+	 "Pietro Pisani" "Pace ed Abbondanza" Pallàde Palma Paramore Passaro "Piccola Fortuna" Pilastro "Pinco Tremartino" Piramide Polluce Pomerlan 
+	"Principe di Venezia" Principessa "Principessa Reale" "Principessa Grande" "Principessa Piccola" "Profeta Elia" "Profeta Samuel"
+	"Re Attila" "Redentore del Mundo" Regina "Regina del Mar" "Rizzo d'Oro" Rodi Rosa "Rosa Moceniga" "Rotta Fortuna" "Ruota con Serpente" 
+	"Sacra Lega" "Sacrificio d'Abram" "San Andrea" "San Antonio di Padova" "San Bartolamio" "San Carlo Borromeo" "San Cristoforo" "San Domenico" "San Felippe" "San Francesco" "San Gaetano" "San Giacomo Primo" "San Giorgio" "San Giorgio Grande" "San Giovanni" "San Giovanni Battista" "S.Giov. Battista Grande" "S.Giov. Battista Piccolo" "San Girolamo" "San Giuseppe" "San Ignazio" "San Iseppo" "San Lorenzo Giustinian" "San Marco Grande" "San Michele Arcangelo" "San Michele" "San Nicolò" "San Pietro" "San Pietro Apostolo" "San Pietro del Cantara" "San Pio Quinto" "San Sebastiano" "San Spiridion" "San Teodoro" "San Trifone" "San Vincenzo" "San Vincenzo Ferrerio" "San Vittorio" "San Zaccaria" "San Zorzi Giccolo" "San Trifone di Cattaro"
+	"Santa Caterina" "Santa Dorotea" "Santa Maddalena" "Sant'Alessandro" "Sant'Eufemia" "Scudo della Frede" Sibilla Signora Sirena Sole "Sole d'Oro" Speranza "Spirito Santo" "Stella Maris" "Sole di Venezia"  "Speranza di Venetia"	
+	Tamburlano Terror Tigre Tolleranza Torre Trionfo "Tre Mani" "Tre Re" Tronco "Torre di Vicenza" "Tre Mani di Venezia"  
+	"Uomo Armato" "Uomo di Mare"
+	"Valor Coronato" Venere "Venere Armata" "Venezia Trionfante" "Vergine Santa" Vigilanza Vittoria Vulcano
+	"Zardin d'Olanda" 
+}
+
+army_names = {
+	"Exèrçito della Sérénissima" "Exèrçito Vénézsia" "Exèrçito San Marco" "Guardia repubblicana" "Veneto Real" "Exerçito Lagunari" "Cernida di Terraferma" "Armada di Padova" "Armada di Verona" "Armada di Brescia" "Armada di Rovigo" "Armada de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina Vénézsia" "Marina Serenissima" "Armada Sottile" "Armada Grossa" "Armada da merchado" "Marina da Mare" "Squara del Golfo" "Squara dell'Arsenal" "Squara del Adriatico" "Squara di Iono" "Squara di Egeo" "Squara di Levante" "Squara di Nero" "Squara di $PROVINCE$"  
+}

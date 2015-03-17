@@ -1,0 +1,17 @@
+name = "Soulèvement de Khmelnytsky"
+
+#casus_belli
+war_goal = {
+	type = take_province_nationalist
+	casus_belli = cb_nationalist
+}
+
+1648.1.1 = {
+	add_attacker = ZAZ
+	add_defender = PLC
+}
+
+1654.1.1 = {
+	rem_attacker = ZAZ
+	rem_defender = PLC
+}

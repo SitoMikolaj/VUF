@@ -1,0 +1,144 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 230  231  62 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Adhémar #5" = 15
+	"Arthur #1" = 5
+	"Foucher #1" = 5
+	"Foulques #1" = 5
+	"François #1" = 5
+	"Guillaume #1" = 5
+	"Guy #7" = 15
+	"Géraud #1" = 5
+	"Henri #1" = 5
+	"Jean #3" = 15
+	"Olivier #1" = 5
+	"Arnaud #0" = 5
+	"Bernard #0" = 5
+	"Charles #0" = 10
+	"Hélie #0" = 15
+	"Louis #0" = 5
+	"Richard #0" = 5
+	"Édouard #0" = 5
+	"Aymeric #0" = 5
+	"Bertran #0" = 2
+	"Guilhem #0" = 5
+	"Jordan #0" = 2
+	"Loys #0" = 2
+	"Nicolas #0" = 2
+	"Thomas #0" = 5
+	"Xavier #0" = 2
+	
+	"Rosalie #0" = -5		
+	"Jeanne #1" = -5
+	"Marie #1" = -5
+	"Louise #0" = -5
+	"Diane #0" = -5
+	"Élisabeth #0" = -5
+	"Catherine #0" = -5
+	"Claude #0" = -5
+	"Victoire #0" = -5
+	"Christine #0" = -5
+	"Marguerite #0" = -5
+	"Charlotte #0" = -5
+	"Madeleine #0" = -5
+	"Judith #0" = -5
+	"Béatrice #0" = -5
+	"Adélaïde #0" = -5
+	"Emma #0" = -5
+	"Constance #0" = -5
+	"Anne #0" = -5
+	"Aliénor #0" = -5
+	"Isabelle #0" = -5
+	"Blanche #0" = -5
+	"Marie-Thérèse #0" = -5
+	"Marie-Louise #0" = -5
+	"Henriette #0" = -5
+}
+
+leader_names = {
+	"de Ségur"
+	"d'Excideuil"
+	"d'Aixe"
+	"d'Auberoche"
+	"de Nontron"
+	"de Dalon"
+	"d'Hautefort"
+	"de Lubersac"
+	"de Pompadour"
+	"de Lastours "
+	"de Limoges"
+	"de Comborn"
+	"de Turenne"
+	"de Ventadour"
+	"d'Aubusson"
+	"de Rochechouart"
+	"de Saint Yrieix"
+	"de Jumilhac"
+	"de Thiviers"
+	"de Chalucet"
+}
+
+ship_names = {
+	Adour Africain Aigle "Aigle d'Or" "Aimable Nanon"
+	"Aimable Marthe" "Aimable Rose" Alexandre "Ste Anne de Bordeaux" Amitié
+	Angélique Américain Amphitrite "Arc en Ciel" Bayonnaise 
+	"Belle Poule" Bienfaisant Biscayenne Bizarre "Bonnes Amies" 
+	Bordelais Brillant Caroline Castor Catiche
+	Charente "Charmante Manon" "Charmante Nancy" "Charmante Rachel" "Château de Bayonne"
+	Chézine "Commerce de Bordeaux" "Comte de Toulouse" Content Débonnaire
+	Dédaigneuse "Deux Frères" Diamant Diligente "Duc d'Aquitaine"
+	Elisabeth Entreprenante Espérance Extravagante Favori
+	Fendant Flamand Gaillard Galant Godichon
+	"Grand Coureur" "Grand Sirius" "Gros Ventre" Hercule Hermine 
+	Impérieuse Indien Intrépide Jolie Joseph
+	Labourt Laurence Légère Licorne Lion
+	Machault Marchand Mars Mascarin Maure
+	Mégère Mélampe Mignon Neptune "Nouvelle Victoire"
+	Oiseau Opale Pélican Phénix Pollux
+	"Quatre Frères" Rameau "Reine Marie" Renommée Rostan
+	"Royal Daim" "Saint Jacques" "Saint Pierre" Sirène "Soleil Royal"
+	Swinton Tamponne "Toison d'Or" Tourterelle Trinité
+	Triton Utile Valeur Vénus "Ville de Bayonne"
+}
+
+
+army_names = {
+    "Armée Comtale" "Armée de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Flotte Comtale" "Flotte de $PROVINCE$" 
+}

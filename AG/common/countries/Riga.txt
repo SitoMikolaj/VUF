@@ -1,0 +1,109 @@
+#Riga
+
+graphical_culture = westerngfx
+
+color = { 183  176  194 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	spy_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+monarch_names = {
+	"Johann #4" = 60
+	"Henning #0" = 20
+	"Kaspar #0" = 20
+	"Michael #0" = 20
+	"Silvester #0" = 20
+	"Stefan #0" = 20
+	"Thomas #0" = 20
+	"Wilhelm #0" = 20
+	"Fromhold #1" = 15
+	"Henning #1" = 15
+	"Siegfried #1" = 15
+	"Albrecht #2" = 10
+	"Engelbert #1" = 10
+	"Friedrich #1" = 10
+	"Nikolaus #1" = 10
+	"Adalbert #0" = 2
+	"Adam #0" = 2
+	"Arnold #0" = 2
+	"Bernhard #0" = 2
+	"Bonifaz #0" = 2
+	"Cornelius #0" = 2
+	"Dietrich #0" = 2
+	"Egon #0" = 2
+	"Ferdinand #0" = 2
+	"Gregor #0" = 2
+	"Günther #0" = 2
+	"Humbert #0" = 2
+	"Isidor #0" = 2
+	"Joseph #0" = 2
+	"Konstantin #0" = 2
+	"Lothar #0" = 2
+	"Marcel #0" = 2
+	"Markus #0" = 2
+	"Matthias #0" = 2
+	"Oskar #0" = 2
+	"Pankraz #0" = 2
+	"Rudolf #0" = 2
+	"Siegbert #0" = 2
+	"Theodor #0" = 2
+	"Xaver #0" = 2
+	
+	"Laima #0" = -1
+	"Valda #0" = -1
+	"Brigita #0" = -1
+}
+
+leader_names = { 
+	Stayn Finkelstein
+	Kanter Neiman Saper
+	Levin Neiman
+	Elkins Herder Balderis 
+	Eisenstein Strok Tal 
+	Zander "von Nauen" 
+	Suerbeer "von Lune" 
+	"von Vechten" "von Schwerin"
+	Takkon "von Pernstein"
+	"von Dolen" Blomberg
+	"Von Sinten" "von Wallenrodt"
+	Ambundi Scharpenberg
+}
+
+ship_names = {
+	George "Maria Mighell" Cristofer
+	Barbara Margaret Leonard Thomas
+	Julian Johan Katerina
+}
+
+army_names = {
+	"Latvijas Speki" "Zemessardze" "$PROVINCE$ Speki"
+}
+
+fleet_names = {
+	"Latvijas Flote" "Baltijas Flote" "Rigas Licis Flote" "$PROVINCE$ Flote"
+}

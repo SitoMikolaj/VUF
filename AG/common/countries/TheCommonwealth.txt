@@ -1,0 +1,196 @@
+#Polish-Lithuanian Commonwealth
+
+graphical_culture = easterngfx
+
+color = { 176  81  111 }
+
+historical_score = 1500
+
+historical_idea_groups = {
+	diplomatic_ideas
+	humanist_ideas	
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	aristocracy_ideas	
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"August #1" = 60
+	"Wladyslaw #1" = 60
+	"Stanislaw #0" = 40
+	"Kazimierz #3" = 20
+	"Aleksander #0" = 20
+	"Henryk #0" = 20
+	"Jan #0" = 20
+	"Jan #0 Albert" = 20
+	"Jan #0 Kazimierz" = 20
+	"Michal #0" = 20
+	"Stefan #0" = 20
+	"Zygmunt #0" = 20
+	"Zygmunt #0 August" = 20
+	"Aleksander #0 Karol" = 15
+	"Zygmunt #0 Kazimierz" = 15
+	"Krzysztof #0" = 10
+	"Fryderyk #0" = 10
+	"Jan #0 Olbracht" = 10
+	"Jan #0 Zygmunt" = 10
+	"Karol #0 Ferdynand" = 10
+	"Olbracht #0" = 10
+	"Albert #0" = 2
+	"Aleksy #0" = 2
+	"Andrzej #0" = 2
+	"Bartlomiej #0" = 2
+	"Bogumil #0" = 2
+	"Bronislaw #0" = 2
+	"Dawid #0" = 2
+	"Dominik #0" = 2
+	"Emil #0" = 2
+	"Eugeniusz #0" = 2
+	"Ferdynand #0" = 2
+	"Gustaw #0" = 2
+	"Igor #0" = 2
+	"Iwan #0" = 2
+	"Krystian #0" = 2
+	"Lech #0" = 2
+	"Lucjusz #0" = 2
+	"Ludwik #0" = 2
+	"Lukasz #0" = 2
+	"Maksym #0" = 2
+	"Mariusz #0" = 2
+	"Mieszko #3" = 2
+	"Miroslaw #0" = 2
+	"Oskar #0" = 2
+	"Patryk #0" = 2
+	"Rafal #0" = 2
+	"Sylwester #0" = 2
+	"Szymon #0" = 2
+	"Zygfryd #0" = 2
+	"Richeza #0" = -1
+	"Judith #0" = -1
+	"Agafia #0" = -1
+	"Zygimantas #0" = 40
+	"Kazimieras #0" = 20
+	"Aleksandras #0" = 20
+	"Jonas #0 Albertas" = 20
+	"Zygimantas #0 Augustas" = 20
+	"Vytautas #0" = 20
+	"Jogaila #0" = 20
+	"Vladislovas #0" = 15
+	"Kestutis #1" = 10
+	"Algirdas #1" = 10
+	"Stanislovas #0" = 10
+	"Svitrigaila #0" = 10
+	"Mindaugas #1" = 5
+	"Albertas #0" = 2
+	"Andrius #0" = 2
+	"Antanas #0" = 2
+	"Aras #0" = 2
+	"Arturas #0" = 2
+	"Azuolas #0" = 2
+	"Bronislovas #0" = 2
+	"Darius #0" = 2
+	"Gediminas #1" = 2
+	"Giedrius #0" = 2
+	"Gintaras #0" = 2
+	"Henrikas #0" = 2
+	"Jonas #0" = 2
+	"Jonusas #0" = 2
+	"Juozapas #0" = 2
+	"Jurgis #0" = 2
+	"Kaributas #0" = 2
+	"Karolis #0" = 2
+	"Kristupas #0" = 2
+	"Leonas #0" = 2
+	"Linas #0" = 2
+	"Liudvikas #0" = 2
+	"Marijus #0" = 2
+	"Mykolas #0" = 2
+	"Paulius #0" = 2
+	"Petras #0" = 2
+	"Pranciskus #0" = 2
+	"Raimondas #0" = 2
+	"Ramunas #0" = 2
+	"Steponas #0" = 2
+	"Skirgaila #1" = 2
+	"Tomas #0" = 2
+	"Viktoras #0" = 2
+	"Vincentas #0" = 2
+	"Vilhelmas #0" = 2
+	"Vytenis #1" = 2
+	"Agné #0" = -1
+	"Morta #0" = -1
+	"Viltauté #0" = -1
+}
+
+leader_names = {
+	Arciszewski Alseniskis Astikas
+	Baranowski Benyowski Bidziñski Bielak Branicki "z Brudzewa" Boryszewski Boner Berecci Boner Biandrata Báthory
+	Czapski Czarniecki Chometowski Chodecki Chodkevicius Callimachus Copernicus Chodkiewicz
+	Dunin Denhoff Drzewicki Dzierzanski Daukantas Dauksa Denhofas Dlugosz Dürer Dickmann
+	Firlej 
+	Gadomski Grabowski Grajewski Grodzicki Górka Giedraitis Gosevskis Gostautas Gosiewski
+	Herburt Houwaldt
+	Jablonowski Jazlowiecki Jagiellonczyk
+	Kurozwecki Kurbski Koniecpolski Kosciuszko Krasinski Kalinowski Korycki Kazanowski Kmita Kamieniecki Kesgaila Kiska Kosakovskis Kulvietis
+	Lubomirski Lisowski Lanckoronski Leszczynski Lacki Lietuvis Laski Lismanini
+	Malski Mniszech Matczynski Michalowski Mlodziejowski Moszynski Mielecki Masalskis Mazvydas Modrzewski
+	Nemirovicius
+	Ostroróg Olesnicki Opacki Ozarowski Ossolinski Oginskis Ostrogiskis Orzechowski
+	Paniewski Patkul Poniatowski Poninski Pulaski Przyjemski Piaseczynski Potocki Pacas Pociejus Poweski Pac
+	Radziwill Rudnicki Rytwianski Rzewuski Radvila Rapolionis Rimsa
+	Sapieha Sobieski Sahajdaczny Siemienowicz Sulkowski Stadnicki Sieniawski Sanguska Sapiega Simonavicius Sirvydas Skorina Sluska Sosnovskis Svyriskis Sanok Stwosz "z Szamotul" Starowolski Szydlowiecki
+	Tarnowski Trokin Tyszkiewicz Twardowski Tiskevicius Tomicki
+	Valancius Valavicius Visniovieckis
+	Walewski Wyhowski Wielopolski Wybranowski Wodzinski Wodzicki Wilczewski Wisnowiecki Wasa "von Winter"
+	Zaremba Zamojski Zebrzydowski Zacwilichowski Zborowski Zbaraski Zólkiewski Zabiela Zalaszowski
+}
+
+ship_names = {
+	"Arka Noego"
+	"Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie Bug
+	Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+	Fortuna
+	Gryf Gwiazda Gnieznienskie
+	Inowroclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+	Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+	"Maly Bialy Orzel" Malborskie Mazowieckie
+	Niewrazliwy "Nowy Czarny Orzel" 
+	"Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie Strzelec Suwerenny "Swiety Piotr" Sieradzkie
+	Sandomierskie "Swiety Kazimierz" 
+	"Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+	Zwyciestwo "Zólty Lew"
+	Alytus Birzai Druskininkai Gardinas Jonava Kaunas Kretinga Kreva
+	Lazdijai Naugardukas Palanga Raseiniai Siauliai Sventoji Taurage Telsiai Trakai
+	Utena Vilkmerge
+}
+
+army_names = {
+	"Husaria Gvardija" "Kozacy Gvardija" "Królewski Gvardija" "Pancerni Gvardija" "Armia Krajowa" "Lietuvos Armija" "Wojsko Polskie" "Didysis Kunigaikstis Armija" "Wojsko Królewski" "Armija Komputowe" "Pospolite Ruszenie" "Wojsko Druzyna" "Wojsko Szlachta" "Wojsko Kwarciane" "Husaria Odwach" "Kozacy Odwach" "Królewski Odwach" "Wojsko Komputowe" "Piechota Lanowa" "Piechota Wybraniecka" "Armia z $PROVINCE$" "Wojsko $PROVINCE$"
+}
+
+fleet_names = {
+	"Marynarka Wojenna" "Marynarka Królewski" "Baltyckie Flota" "Juru Laivynas" "Baltijos Laivynas" "Czarne Flota" "$PROVINCE$ Flota"
+}

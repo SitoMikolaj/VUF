@@ -1,0 +1,133 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 156  96  100 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	innovativeness_ideas
+	trade_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Willem #5" = 40
+	"Albert #0" = 20
+	"Johan #2" = 15	
+	"Jakoba #0" = -15
+	"Lodewijk #0" = 15
+	"Eberhard #0" = 15
+	"Dirk #7" = 5
+	"Floris #5" = 5
+	"Jan #1" = 5
+	"Arnolf #1" = 5
+	"Adriaan #0" = 2
+	"Anton #0" = 2
+	"Barthout #0" = 2
+	"Christiaan #0" = 2
+	"Constantijn #0" = 2
+	"Daniël #0" = 2
+	"Filips #0" = 2	
+	"Frans #0" = 2
+	"Gabriël #0" = 2
+	"Gaspar #0" = 2
+	"Gerardus #0" = 2
+	"Gerbrand #0" = 2
+	"Hendrik #0" = 2
+	"Jeroen #0" = 2
+	"Joost #0" = 2
+	"Karel #0" = 2
+	"Kasper #0" = 2
+	"Lamoraal #0" = 2
+	"Hugo #0" = 2
+	"Jacob #0" = 2
+	"Pieter #0" = 2
+	"Procop #0" = 2
+	"Prosper #0" = 2
+	"Raes #0" = 2
+	"Rembrandt #0" = 2
+	"Simon #0" = 2
+	"Rodolf #0" = 2
+	"Roeland #0" = 2
+}
+
+leader_names = {
+	Ameland Amersfoort Amstel Appingedam Arnhem "van Assendelft" 
+	Bieldeers Blokker Bolsward Botha Breda Brielle "den Burg"
+	Coemans Coevorden Cornelis Costers "van Culemborg"
+	Deodati Dokkum Dordrecht Drenthe Driesman "van Den Dorp" "van der Does" 
+	Eindhoven Elst "Elten Leur" Enkhuizen
+	Fliesingen Friesen
+	Geelvinck Geerit Genk Goes Gouda Groningen Gulder Goesport
+	Haag Haarlem Hebenal Heerlen Heertognebosh Heineken Helder Hendryck Hilversum "van Hessling"
+	Jansz
+	"van Kampen" Karstens Kortenaer Kortrijk
+	Lauwers Lemmer Leyden Limburg
+	Maastricht Meppel Middenmeer Middleburg
+	Neuwegen Nijkerk Nijmegen
+	Oldenbarneveld Olderzaal Opdorf Overijssel
+	Philipps Piet Poszt
+	Scheveningen Schiedam Scholtecheren Schoonebeck Schouwen Sluis Smuts Spijkenise  "van Spilbergen" "van Stabel"
+	Terchelling Texel Twente
+	Utrecht
+	Valkenswaard  Veendam Venloo Venray Volendam Vroom
+	Willem Woerden Waalwijck "de Witt" "van Wick"
+	Zandwort Zoetermeer Zuiderzee Zwijndrecht Zwolle
+}
+
+ship_names = {
+		Aagtekerke Aap Aardenburg "Aartsengel Michael" Abbekerk Abraham Achilles "Adam en Eva" Adelaar "Admiraal de Ruyter" "Admiral de Suffren" "Admiraal Evertsen" "Admiraal Generaal" "Admiraal Piet Hein" "Admiraal de Vries" "Admiraal Tromp" "Admiraal Zoutman" Adrichem Aemilia Afrika Afrikaan Agatha Ajax Akerboom Akerendam Akersloot Alarm Albertina Alblasserdam Alcion "Aletta Cornelia" Alexander Alida Alkemade Alkmaar Alliantie Alphen Amazone Amazoon Ambroina Amelia Amelisweert Amerika Amerongen Amersfoort Amphitrite Amstel Amstelland Amstelveen Amsterdam Ananas Anjelier Ankeveen Anna "Anna Catharina" "Anna Maria" "Anna Maria Magdalena" Appel Appelboom Appollonia Arend Arendsduin Argo Arion "Arke Trojane" Arnemuiden Arnestijn Arnhem Aschat Asperen Assendelft Astrea Atalanta Auguste Aurich Aurora Avenhorn Avondster Avonturier Azie
+		Baanman Baarn Baars Baarzande Bambeek Banda Banier Bantam "Barbara Theodora" Barbestein Bark Barkhout Barm Barneveld "Bartha Petronella" Batavia Batavier Beekvliet Beemster "Beemster Welvaren" Beemsterlust Beer Beets Behemoth Beieren Bekestein Belois Bellona Belvliet Bennebroek Bentveld Berbices Bergeend "Bergen op Zoom" Bergerboot Berkel Berkenrode Berkhout Berkmeer Berkshoven Berlicum Beschermer Beschutter Bethlehem Betuwe Beukestijn Beurs "Beurs van Amsterdam" "Beurs van Kork" "Beurs van Zierikzee" Bevalligheid Beverwaart Beverwijk Bij Binnenwijzend "Blauwe Arend" "Blauwe Hulk" "Blauwe Reiger" "Blauwe Visscher" Bleijenburg Bleiswijk Bleker "Blijde Boodschap" Blijdorp Blikkenburg Blitterswijk Bloemendaal Blok Bloys Bode Boekenrode Boetselaer Bogaard Bok Bommel Bon "Bon Aventuur" Bonaventura "Bonte Haan" Bontekraai Boog Boor Boot Boreas Borsenburg Borssele Bosbeek Bosschenhove Boswijk Bot Boterbloem Botland Bovenkarspel "Bovenkelder Polder" "Bovenkeker Polder" Braave Brak Brakel Brandgans Breda Bredenhof Brederode Breedam Breskens Breukelen Briel Brielle Broederlust Broekerhaven Broekoord Bronstede Bronstee Brouwer Brouwershaven Brug Bruinvis Brutus Bruynvisch Buinskerke Buiksloot Buis Buisje Buitenleven Buitenverwachting Buitenzorg Bulkestein Bunschoten Burch Burcht "Burcht van Alkmaar" "Burcht van Leiden" Buren Burg Burgvliet Buvegnies 
+		Caleb Campen Candia Canton Capelle "Carolus Quintus" Castor "Castor en Pollux" Castricum Catherina Cats Cecilia "Cecilia en Anna" Centaurus Cerberus Ceres Ceylon China Comeet Comeetstar Cornelia "Christoffel Columbus" Civetcat Coevorden "Compagnies Welvaren" Concordia Constantia Constitutie Courier Coxhoorn Culemborg Curacao 
+		"D'Uno" Daalhem Dageraad Dageraar Damiaten Damzicht Dankbaarheid Daphne Dapperheid "David en Goliath" "De Drie Heuvelen" "De Drie Papagaaien" "De Halve Maen" "De Koningin" "De Leeuw" "De prins Willem" "De Ruyter" Delfland Delfshaven Delft Delmenhorst "Den Berg" "Den Brankel" "Den Briel" "Den Dam" "Den Helder" "Den Swarten Raven" Deunisveld Deutekom Deventer Diamant Diana Diemen Diemermeer Diepenheim Dieren Dishoek Doesburg Doffer Doggersbank Dolphijn "Dom van Utrecht" Domburg Donkervliet Doornik Dordrecht Draak Drakenstein Drechterland Drenthe "Drie Gebroeders" "Drie Gezusters" "Drie Helden Davids" "Drie Koningen" "Drie Kronen" "Drie Vergulde Haken" Driebergen Drielst "Drietal Handelaars" Dromedaris "Dubbele Arend" Duif Duiftje Duinbeek Duinenburg Duinhof Duinrel Duinvliet Duivenburg Duivenvoorde Durgerdam Duyfken Dwinger 
+		Echo Edam Eekhoorn Eemland Eendracht Eenhorn Eenparigheid Eensgezindheid "Eerste Edele" Egel Egmond "Eik en Linde" Eikelenburg Eikenwoud "Eiland Mauritius" Eindhoef Elburg "Elf Steden" Elias Elisabeth "Elisabeth et Sophie" Ellemeet Elsbroek Elswoud Elzenburg Embuscade Emmeloord Emmenes Engel "Engel Gabriel" "Engel Michael" Engelenburg Engewormer Enkhuizen "Enkhuizen Maagd" Ens Erasmus Erfprins "Erfprins van Brunswijk" Esperance Esssen "Essequeebse Vriendschap" Europa Eurydice Everswaart Expeditie 
+		Faam Factor Faijsant Fanfaron Fijenoord Flora Foreest "Fort Goeree" Fortuin "Fr. Sophia Wilhelmina" Franeker "Franse Europa" "Fredrik Hendrik" Friedland Friesland Frisia Fruitboom Furie 
+		Gaasperdam Gaesterland Galate Galei "Galei van Dover" Galiasse "Galjas van Middelburg" Gamron Ganges Gansenhoef Gapinge Gatinesse Geelmuiden Geelvink "Geen Rust" Geertruid Geetruida "Geertruida Petronella" Geinwens Geit "Gekroonde Burg" "Gekroonde Eendracht" "Gekroonde Faring" "Gekroonde Leeuw" "Gekroende Liefde" "Gekroonde Vrede" Gelderland Geldermalsen "Geldersche Ruiter" "Gele Beer" Gelijkheid Geloof "Gelukkig Uur" "General Vrede" Gent "Geünieerde Provincien" Gerechtigheid Getrouwigheid "Gewapende Ruiter" Gideon "Gideon van Zaandam" Gier Giessenburg Glindhorst "Goede Fortuin" "Goede Hoop" "Goede Intentie" "Goede Trouw" "Goede Verwachting" "Goede Vriendschap" Goeree Goes Goidschalxoord Gooiland Gorinchem Gorkum Gouda "Gouden Arend" "Gouden Buis" "Gouden Cans" "Gouden Leeuw" "Gouden Phoenix" "Gouden Spoor" "Gouden Star" Gouderak Goudestein Goudriaan Goudsbloem Goudvink "Goulden Dolphijn" "Gouverneur Generaal" "Graaf Floris" "Graaf Hendrik" "Graaf van Albemarle" "Graaf van Solms" "Graaf Willem" Graft Grenadier Griffioen Grijpskerk Grimmestein "Groene Draeck" "Groene Leeuw" Groenedaal Groenswaart Groenewald Groet Grol Groningen Groonwijf "Groot Christoffel" "Groot Frisia" "Groot Zutphen" "Groote Aeolus" "Groote Alexander" "Groote Fortuijn" "Groote Heere Veld" "Groote Herder" "Groote Hoop" "Groote Liefde" "Groote Sint Joris" "Groote vergulde Fortuin" "Grote Maan" "Grote Visserij" "Grote Zon" Grotebroek Grundel "Gulden Beer" "Gulden Buis" "Gulden Dolphijn" "Gulden Draak" "Gulden Haan" "Gulden Pelikaan" "Gulden Reaal" "Gulden Wagen" "Gulden Zeepaard" Gunterstijn "Gustaaf Wllem" 
+		Haak Haaksburg Haamstede Haan Haantje Haarlem Haarlemhout Haas "Haas in het Veld" Haasje Haften Hagedis Hageveld Hal "Halve Maan" Ham Hamer Handboog Handelaar Handellust Hanepoot Hardenbroek Harder Harderin Harderwijk Hardloper Haring Haringtuin Harlingen Harmonie Harp Hartenkamp Hartenlust Hasewint Hasselt Havik Haze Hazelnoot Hazenburg Hazewind Hector "Hector van Troje" Heemskerk Heemstede Heesburg Heilbot Heinkenszand "Held Woltemade" Helder Heldin "Helena Louisa" "Hellevoet Sluijs" Helm "Hendrik Frederik" "Hendrik Maurits" Hengelaar Hennetje "Henriette Louise" Hercules Herder "Herstelde Leeuw" Hersteller Herstelling Hert "Hertog van Brunswijk" Heusden Heuvel Hillegersberg Hillegom Hillegonda Hilverbeek Hilversum Hindeloopen Hippomenes Hobre Hoedekenskerke Hoefijzer Hoen "Hof d'Uno" "Hof Niet Altijd Winter" "Hof Niet Altijd Zomer" "Hof Ter Linden" "Hof St Jans Verken" "Hof van Holland" "Hof van Breda" "Hof van Delft" "Hof van Ilpendam""Hof van Rhenen" "Hof van Souburg" "Hof van Zeeland" Hofvliet Hofwegen Hogemeer Hogenes Hogergeest Hogermeer Hogersmilde Hogestelt Holland Hollandia "Hollandse Tuyn" Hond Honkoop Honslaardijk Hoogkarspel Hoogland Hoolwerf Hoop Hoorn Hoornweg Hopvogel Horssen Horstendaal Horstermeer Hougly Houtlust Hoveling Huigenwaard Huisduinen "Huis de Vlotter" "Huis den Eult" "Huis Om" "Huis Overrijp" "Huis te Assenburg" "Huis te Bergen" "Huis te Bijweg" "Huis te Boede" "Huis te Dieren" "Huis te Foreest" "Huis te Hemert" "Huis te Kleef" "Huis te Kraaiestein" "Huis te Kronenburg" "Huis te Krooswijk" "Huijs te Kruiningen" "Huis te Loo" "Huis te Manpad" "Huis te Marquette" "Huis te Merwede" "Huis te Nek" "Huis te Nieuwburg" "Huis te Noordwijk" "Huijs te Oosterwijk" "Huis te Persijn" "Huis te Rensburg" "Huis te Rozenburg" "Huis te Spijk" "Huis te Velsen" "Huis te Warmelo" "Huis te Zilverstein" "Huijs te Zwieten" "Huis ten Bosch" "Huis ten Donk" "Huis ter Boede" "Huis ter Duine" "Huis ter Haan" "Huis ter Leede" "Huis ter Meijen" "Huis Tijdverdrijf" Hulk Hulst Hyena "Huys van Nassau" 
+		Ida Iepenrode Ijist Ijpestein Ijssel Ijsselmonde Ijsselstein Ijstroom Ijsvogel Ilpendam Immagonda Immenhorn Indiaan Indus Irene Isselt Itersheim 
+		Jaarsfeld Jachtrust Jacoba Jager Jamby "Jan en Kornelis" "Jan Gerand" Japan Jason Java Jerusalem "Joan Gerbrands" "Johan de Witt" "Johan en Maria" Johanna Jonas "Jonge Bonifacius" "Jonge Eva" "Jonge Frank" "Jonge Gerbrand" "Jonge Hellingman" "Jonge Hugo" "Jonge Jakob" "Jonge Jakob en Albertus" "Jonge Jan en Carel" "Jonge Lieve" "Jonge Prins" "Jonge Prins te Paard" "Jonge Prins van Oranje" "Jonge Samuel" "Jonge Thomas" "Jonge Willem" Jonker Jordaan "Josephus de Tweede" Jozua Judith Juffer "Juffrouw Anna" "Juffrouw Catrijn" "Juffrouw Elisabet" "Juffrouw Helena" "Juffrouw Johanna" "Juffrouw Kornelia" "Juffrouw Maria" "Julius Caesar" Juno Jupiter "Justina van Nassau" 
+		Kaap Kalandsoog Kalf "Kalmar Sleutel" Kameel Kampen Kampveere Kanarievogel Kanaän Kaneelboom Kapelle Karsenhof Karthago "Kastel van Egmond" "Kasteel van Medemblik" "Kasteel van Tilburg" "Kasteel van Woerden" Kat Kattenburg Kattendijk Kattendijke Katwijk "Katwijk aan den Rijn" Kauw Keizer Keizerin Keizerswaard Kemphaan Kennermerland "Kenau Hasselaar" Kerkwijk Kerkzicht Kers Ketel Keukenhof "Keurvorst v.Brandenburg" "Keurvorst van Keulen" "Keurvorst van Saksen" Kiefhoek Kievit Kievitsheuvel Kijkuit Klarabeek Klaverblad "Kleine Aeolus" "Kleine David" "Kleine Erasmus" "Kleine Zon" "Kleene Sint Joris" Kleverskerke Kloek Knapenburg Knappenhof Kockengen Koe Koevorden Koewerve Kogge Kommerrust "Koning David" "Koning Karel de Derde" "Koning Radboud" "Koning William" Koningin Korea Korhoen Korssloot Kortenaar Kortenhoeff Kortgene Koudekerke Kraai Kraanvogel Krab Krabbendijke Kranestein Krijgsman Kromhout Kromstrijen "Kronede Arend" Kronenburg "Kroon Imperiaal" Kroonvogel Krooswijk Kruidberg Kwartel "Kwartier van Nijmegen" Kwikstaart 
+		"Lage Polder" Lakenman Lam "Land van Belofte" "Land van Schouwen" Landman "Lands Welvaren" Landskroon Landsmeer Langebark Langerode Langeveld Langewijk Lapienenburg Laren Lastdrager Leerdam Leeuw Leeuwarden Leeuwenburg Leeuwenhorst Leeuwerik Leeuwin Leiderdorp Leidsman Leiduin Leimuiden Lek Lekkerland Lekkerlust Lelie Lepelaar "Levant Merchant" Leviathan Leyden Liefde "Liefde van Hoorn" Lijnbaen Ljist Lijster Lillo Limburg Limmen Lindenhof Linschoten Lis Lisse Loenderveen Loenen Loeri Lokhorst Loodsboot Loosdrecht Loosduinen Loper "Louisa Anthony" "Louise Hendrika" Loverendaal Luchtbol Luchtenburg Luipaard Luxemburg Lycochton Lynx 
+		"Maagd van Dordrecht" "Maag van Enkhuizen" Maagdenberg Maan Maarsen Maarseveen Maas Maasland Maasnimf Maastricht Magdalena Makassar Makreel Malakka "Marcus Curtius" Margareta Maria "Maria Adriana" "Maria de Medici" "Maria Elisabeth" "Maria Louisa" "Maria Reijgersbergen" Marienbos Marken Mars Mastbos Mastroos Matenes Mauritius Medea Medemblik Meerhuizen Meerkat Meerlust Meerman Meermin Mermond Meeroog Meervliet Meerwijk Mees Meeuw Meeuwtje Meiboom Meijenburg Meliskerke Melampus Mentor Mercurius Mercuur Merel Merenberg Merestein Merlin Meteren Middelburg Middelhoven Middelwijk Middelwoud Middenrak Midloo Mijdrecht Mijnden "Milde Maarten" Minerva Moerkael Moerkaelle Molen Molenaar Molenwerf Monnikendam Monster Montfoort Moon Moor Moorin Morgenstar "Moriaans Hoofd" Mossel Muiden Muiderberg Muiltromp "Muskaatboom or Notenboom" 
+		Naaldwijk Naarden Naardermeer Naarstigheid Nachtegaal Nachtglas Nagel Nagelboom Nassau Naters Nederhorst Nederhoven Nederland "Nederlands Welvaren" Neerijnen "Neerlands Vrijheid" Negombo Negotie Nehalennia Neptunis Neptunus Nesserak Netelenburg Nichtevecht Nierop "Nieuw Batavia" "Nieuw Gideon" "Nieuw Nieuwerkerk" "Nieuw Rhoon" "Nieuw Rotterdam" "Nieuw Vijvervreugd" "Nieuw Vlissingen" "Nieuw Walcheren" "Nieuwe Vis" "Nieuwe Visser" Nieuwendam Nieuwenhove Nieuwenhoven Nieuwenhuis Nieuwkasteel Nieuwerkerk Nieuwland Nieuwpoort Nieuwstad Nieuwvijvervreugd Nieuwvliet Nigtevecht "Nijenborg nij Nijenborg" Nijenborg Nijmegen Nijptang "Noachs Arke" "Noord Holland" "Noord Nieuwland" "Noord-Beveland" Noordbeek Noorderkwartier Noordgouw Noordmunster Noordster Noordwaddinxveen Noordwijk "Noordwijk op Zee" Noordwijkerhout Noordwolfsbergen Nuissenburg 
+		Odijk Oegstgeest Oldenbarneveldt Olifant Omlandia Onderneming Onrust Onzekere Ooievaar Oost-Stellingwerf Oostenburg Oosterbeek Oosterblokker Oostereem Oostergo Oosterhout Oosterland Oosterstein Oosterwijk Oosthuizen Oostkapelle Oostrust Oostsouburg Oostzaandam Oostzanen Oplettendheid Opmeer Opperdoes Oranje Oranjieboom Oranjegalei Oranjewoud Oranjezaal Orestes Orpheus Os Osdorp Otter "Oud Berkenrode" "Oud Haarlem" "Oud Naarden" "Oud Teylingen" "Oude Zijpe" Oudenaarde Ouderamstel Ouderkerk Oudewater Oudkarspel Oudshoorn Ouwerkerk Overduin Overhout Overijssel Overnes Overschie Overveen Overwinnaar 
+		Pacificatie Paddenburg Pagadet Pallas Pampus Panter Papegaai Papegaaitje Papenburg Parel Parkiet Pasgeld Patania Patientia Patrick Patriot Pauw Peer Peereboom Pelikaan Peperbaal Peperboom Peregrine Persijnenburg "Peter en Paul" "Petronella Alida" Petten Phoenicier Phoenix "Piet Hein" Pieter "Pieter Florisz" "Pieter Paulus" Pijl Pijlswaart Pijnacker Pimpel Pluto Poelsnip Polanen Pollux Pool Popkensburg Post Posthorn Postiljon Postloper Postpaert Potvis Pouleron Prattenburg President Prins "Prins Eugenius" "Prins Frederik" "Prins Frederik Willem" "Prins Friso" "Prins Hendrik" "Prins Hendrik Casimir" "Prins Maurits" "Prins te Paard" "Prins van Dermarque" "Prins van Oranje" "Prins Willem" "Prins Willem de Eerste" "Prins Willem Hendrik" "Prinsen Wapen" Prinseland Prinses "Prinses Albertina" "Prinses Amalia" "Prinses Carolina" "Pr Frederika Louisa" "Prinses Louisa" "Prinses Louise" "Prinses Maria" "Prinses Maria Louisa" "Prinses Royaal" "Prinses Royaal Maria" "Prinses Royal Frederika" "Prinses van Oranje" "Prinz Heinrich" "Profeet Samuel" Proostwijk Prosperpine "Provincie van Utrecht" Provincien Pruijen Purmer Purmerend Purmerland Purmerlust Puttoor Pylades 	
+		Raadhuis "Raadhuis van Edam" "Raadhuis van Enkhuizen" "Raadhuis van Haarlem" "Raadhuis van Middwlburg" "Raadhuis van Vlissingen" Raaf Raap "Rad van Avontuur" Ram Ramhorst Rammekens Rarop Ravestein Rebecca "Recht door Zee" Reiger Reigersbergen Reigersbroek Reigersdaal Renswoude Resolutie Revolutie Rheebok Rhenen Rhijn Rhoon Ridderkerk Riddershap "Ridderschap van Holland" Rijksdorp Rijnenburg Rijnestein Rijnhuizen Rijnland Rijnoord Rijnsburg Rijp Rijssel Rijswijk "Rijzende Zon" Ripperda Risdam Ritthem Rob Robijn Rochus "Rode Hert" "Rode Leeuw met Pijlen" "Rode Vos" Rodenrijs "Roode Haas" "Roode Leeuw" Roeigalei Roek Roemerswaal Romein Roos Rooswijk Rosendaal Rosenkrans Roskam Rossum Rotgans Rotterdam "Rotterdams Welvaren" Rozeboom Rozenbeek Rozenburg Rozendaal Ruiteveld Runestein Runsburg "Rust en Werk" Rusthof Ruyskenstein Ruyter Ruyven 
+		"sHeer Arendskerke" sGraveland sGravenhage sGravenzande sHertogenbosch "sLands Magazijn" "sLands Welvaren" 
+		Safier Saksenburg Salamander Salland "Salomons Oordeel" Samaritaan Sampson Samson Sandenburg Sara "Sara Jacoba" "Sas van Gent" Saturnus Schaap Schaapherder Schagen "Schager Roos" Schagerhaan Schakenbos Schakerloo Schattershoef Scheijbeek Schelde Schellag Schellenberg Schelvis Schermer Schiebrek Schiedam Schieland Schollevaar Scholtenburg Schonauwen Schonenberg Schonewaal Schoonderloo Schoondijk Schoonhoven Schoonoord Schoonzicht Schoterbosch Schoteroog "Schotse Lorrendraaier" Schrikverwekker Schuilenburg Schuitwijk Schulp Scipio Seepelaar Siam Sijbekarspel Sillida "Sint Andries" "Sint Anna" "Sint Jan" "Sint Jan Baptist" "Sint Janskerke" "Sint Jeronimus" "Sint Johannes" "Sint Laurens" "Sint Maartensdijk" "Sint Marie" "Sint Maarten" "Sint Matthuis" "Sint Michiel" "Sint Nikolaas" "Sint Paul" "Sint Pieter" "Sint Salvador" "Sint Vincent" Sion Sirene Sirjansland Sleewijk "Slot Aldegonde" "Slot Capelle" "Slot Honingen" "Slot Kronenburg" "Slot ter Hoge" "Slot van Honingen" "Slot van Kapelle" Sloten Sloterdijk Sluis Smient Sneek Snelheid Snoek Snoeper Snuffelaar Soestdijk Soeterwoude Soldaat "Spaans Galjoen" Spaarne Spaarnwoude Spaarpot Spaarzaamheid Spanbroek Spanderswoud Spare Sparendam Sparenrijk Sperwer "Sphaera Mundi" Spiegel Spiegelbos Spierdijk Spiering Spieringshoek Spion Spreeuw Sprinkhaan "Staaten Generaal" Stabroek "Stad Amsterdam" "Stad Briel" "Stad en Lande" "Stad Haarlem" "Stad Grave" "Stad Keulen" "Stad Leiden" "Stad Medemblik" "Stad Utrecht" "Stadhuis van Delft" Stadwijk Standvastigheid Star Starrenburg Statenlande Stavenisse Stavoren Steden Steenbergen Steenhoven Ster Stermeer Sterreschans "Sticht van Utrecht" Stralen Streefkerk Strijen Strijkebolle Struisvogel Suikermolen Sumatra Suriname Surseance Susanna Suzanna Swaag "Swaerten Bul" "Swarte Leeuw" "Sybilla Antoinette" 
+		"tGhijn" "tLoo" "tVliegend Hart" 
+		Taiwan Tamboer Tamen Taxisboom Taxisbompje Teilingen Tempel "Ter Aa" "Ter Eem" "Ter Goes" "Ter Horst" "Ter Meer" "Ter Meijen" "Ter Nisse" "Ter Tholen" "Ter Veere" Terboede Terhorst Ternate Terschelling Texel Texelstroom Theeboom Theekop Theodora Thetis Tholen Tidore Tijdverdrijf Tijger Tilsit Tnasperine Tobias "Tobias Leidsman" Toevalligheid Toezicht Tolsduin Tombago Tonijn Torenvliet Tortelduif  Trinconomale Triton Tromp Trompenburg Trompetter Trouw Tuimelaar Tulp Tulpenburg "Twee Gebroeders" "Twee Gezusters" Twickel 
+		Uitdam Uitgeest Ulysses Unie Urk Utrecht 
+		"Vaderland Getrouw" Vaillant Valk Valkenbos Valkenburg Valkenier Valkenisse "van Alsem" "van der Werff" Vecht Veenhuizen Veenmol Veere Veldhoen Velsen Velserbeek Velserhoofd Veluwe Venenburg Venetia Venhuizen Venlo Venus "Verenigde Landen" "Verenigde Provincieën" "Vergulde Arend" "Vergulde Drak" "Vergulde Haan" "Vergulde Pelikaan" "Vergulde Phenix" "Vergulde Tijger" "Vergulde Zeepaard" "Vergulde Zon" "Verkeerde Wereld" Vertrouwen Vervachting Vianen Victoria Villeroy Vink Vis "Visschers Harder" Visser Visvliet Vlaardingen Vlaming Vlasblom Vleermuis Vlieg "Vliegende Draeck" "Vliegende Hert" "Vliegende Vis" "Vliegende Zwaan" Vlieger Vlieland Vlietlust Vlijt Vlissingen "Vlugge Trekvogel" Voetboog Vogelstruijs Vogelzang Vollenhoven Voorberg Voorburg Voorduin Voorhout Voorland Voorn Voorport Voorschoten Voorzichtigheid Vos Vosje Vosmaar Vossenbos Vrede "Vrede en Vrijheid" Vredejaar Vredelust Vredenburg Vredenhof Vredestein Vredewold Vreeburg Vreeland Vriendschap Vrieswijk Vrijburg "Vrije Zee" Vrijheid "Vrouwe Agatha" "Vr. Cornelia Hillegonda" "Vrouwe Elisabeth" "Vr. Elisabeth Dorothea" "Vrouwe Everhardina" "Vrouwe Geertruida" "Vrouw Jacoba" "Vrouwe Johanna Jakoba" "Vr. Johanna Margaretha" "Vrouwe Katharina Johanna" "Vr. Katharina Wilhelmina" "Vr. Kornelia Hillegonda" "Vrouw Machtelde" "Vrouwe Margaretha Maria" "Vrouw Maria" "Vrouwe Maria Geertruida" "Vrouwe Maria Jakoba" "Vrouwe Maria Kornelia" "Vrouwe Petronella" "Vrouwe Petronella Maria" "Vrouwe Rebecca Jacoba" "Vrouwe Sara Hendrina" "Vrouwe Wijnanda Luberta" 
+		Waag Waakhond Waakzaamheid Waalstroom Waarde Waasdorp Wachter Waddinxveen Wageningen "Wakende Boei" "Wakende Kraan" Wakkerheid Walcheren Walenburg Walvisch "Wappen van Alkmaar" "Wapen van Amsterdam" "Wapen van Arnemuiden" "Wapen van Batavia" "Wapen van Delft" "Wapen van Dordrecht" "Wapen van Edam" "Wapen van Enkhuizen" "Wapen van Goes" "Wapen van Gouda" "Wapen van Haarlem" "Wapen van Holland" "Wappen van Hoorn" "Wapen van Leiden" "Wapen van Medemblik" "Wapen van Middelburg" "Wapen van Monnikendam" "Wapen van Nassau" "Wapen van Rotterdam" "Wapen van Tholen" "Wapen van Utrecht" "Wapen van Veere" "Wapen van Vlissingen" "Wapen van Zeeland" "Wapen van Zierikzee" "Wapen van Zweden" Warmond Wassenaar "Wassende Maan" Waterhoen Waterhond Wateringen Waterland Watermagazijn Waterman Watervliet Waveren Weerestein Weesp Weldam Welgelegen Welsingen Weltevreden "Welvaaren van het Land" Wendela "West Capelle" Westbroek Westeramstel Westerbreek Westerdijkshorn Westergo Westermeer Wetserveld Westerwijk Westfriesland Westhoven Westkapelle Weststellingwerf Westwoud Westzanen Wezel Wezeltje Wickenburg Wieringen Wijdenes Wijnendaal Wijting Wildrijk Wilgenburg Wilhelmina "Willem de Vierde" "Willem de Vijfde" "Willem en Jan" "Willem Frederik" "Willemstad en Boetselaar" "Willem Prins van Oranje" Wiltenburg Wimmenum Wind Winhond Wirtzlust Wishart Witsburg "Witte Arend" "Witte Beer" "Witte Duif" "Witte Eenhorn" "Witte Lam" "Witte Leeuw" "Witte Olifant" "Witte Paard" "Witte Raaf" "Witte Valk" Woerden Woestduin Woggenum Woitkensdorp Wolf Wolfswinkel Wolphaartsdijk Woud Wouw Wreker Wulpenburg Wulverhorst 
+		Zaaier Zaamslag Zaandam Zaandijk Zalm Zandberg Zandenburg Zanderhoef Zandhorst Zandloper Zandvoort Zeebars Zeebouwer Zeeburg Zeeduin Zeehaan Zeehond Zeekalf Zeeland Zeelandia Zeelelie Zeelt Zeemeeuw Zeenimf Zeepard Zeeploeg Zeepost Zeeridder Zeerijp Zeeuw "Zeeuwsche Jager" Zeevaart Zeewijk Zeewolf Zegen Zeist Zephir "Zeven Provincien" Zevenvolden Zierikzee Zijpe "Zilveren Leeuw" Zoelen Zoetelingskerke Zoetendaal Zoetigheid Zomer Zon Zonnestein Zorg Zorgwijk Zoutelande Zoutman Zuid-Beveland Zuiddorp Zuiderbeek Zuiderburg Zuiderhuijs Zuidholland Zuidpolsbroek Zuidpol "Zuid Scharwou" Zuilen Zuileveld Zutphen Zwaan Zwaardvis Zwaluw Zwanenburg "Zwarte Arend" "Zwarte Beer" "Zwarte Bul" "Zwarte Leeuw" "Zwarte Raaf" "Zwarte Vos" Zwartsluis Zwemmer Zwieten Zwolle 
+}
+
+army_names = {
+	"Leger Republiek" "Leger Nederland" "Leger van $PROVINCE$"
+	}
+
+fleet_names = {  
+	"Republiek Marine" "Vloot van Nederland" "Vloot van Holland" "Vloot van $PROVINCE$"
+	 }

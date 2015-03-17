@@ -1,0 +1,17 @@
+name = "Troisième guerre de Banten"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1680.3.1 = {
+	add_attacker = NED
+	add_defender = BAN
+}
+
+1682.5.1 = {
+	rem_attacker = NED
+	rem_defender = BAN
+}

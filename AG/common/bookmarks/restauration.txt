@@ -1,0 +1,12 @@
+bookmark =
+{
+	name = "RESTAURATION_NAME"
+	desc = "RESTAURATION_DESC"
+	date = 1640.12.1
+	
+	country = POR
+	country = SPA
+	country = MNG
+	country = MCH
+
+}

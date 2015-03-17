@@ -1,0 +1,83 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 156  129  33 }
+
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	economic_ideas
+	offensive_ideas
+	defensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Chaudappa #0" = 20
+	"Sadâshiva Nâyaka #0" = 20
+	"Sankanna Nâyaka #0" = 20
+	"Chikkasankanna #0" = 20
+	"Hiriya Venkatappa Nâyaka #0" = 20
+	"Râmarâja Nâyaka #0" = 20
+	"Vîrabhadra Nâyaka #0" = 20
+	"Shivappa Nâyaka #0" = 20
+	"Chikkavenkatappa Nâyaka #0" = 20
+	"Bhadrappa Nâyaka #0" = 30
+	"Kêladi Chennamma #0" = -20
+	"Basavappa #0" = 30
+	"Somashekara #0" = 30
+	"Kiriya Basavappa #0" = 30
+	"Chennabasappa #0" = 30
+	"Vîrammâji #0" = -20
+	"Chennammâ #0" = -20
+}
+
+leader_names = {
+	Chandrashekhar
+	Varma
+	Devarâja
+	Yaduraya
+	Odeyâr
+	Vaidya
+	Nûrondayya
+	Vilâsa
+	Vishvêshvarayya
+	Basavarâju
+	Devî
+	Rajbal
+}
+
+ship_names = {
+	Amirtha Amman Arul Bhîma Chellam
+	Devî Durgâ Gâyatrî Iniyâ Krishnâ
+	Lakshmî Madhu Mînâkshî Nalinî
+	Pallar Pârvatî Payaswini Penner
+	Ponni Râdhâ Râtri Sarasvatî Sîtâ
+	Tâmarai
+}
+
+army_names = {
+	"Raja Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa"
+	}

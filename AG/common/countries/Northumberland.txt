@@ -1,0 +1,124 @@
+# Country name see file name.
+
+graphical_culture = westerngfx
+
+color = { 83  149  105 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = { 
+	Atkinson Armstrong
+	Ball Bell Birkett Braithwaite Burdon
+	Carlisle Cavendish Carr Charlton
+	Dacre Dixon Dodd
+	Elliott 
+	Featherstonehaugh Fenwick
+	Graham Grey
+	Hall Heron Hodgson Hume
+	Lambton Liddell Lowther Lumley
+	Marley Milburn Musgrave
+	Neville 
+	Percy
+	Radcliffe Robinson Robson
+	Scott Shafto Swinburne
+	Todhunter Tyson	
+}
+
+monarch_names = {
+	"Henry #0" = 140
+	"Algernon #0" = 40
+	"Hugh #0" = 20
+	"Henry Algernon #0" = 20
+	"Josceline #0" = 20
+	"Thomas #0" = 20
+	"Charles #0" = 10
+	"George #0" = 10
+	"William #0" = 10
+	"Richard #0" = 5
+	"Alan #0" = 5
+	"Ingelram #0" = 5
+	"Ralph #0" = 5
+	"John #0" = 1
+	"Ashton #0" = 2
+	"Bruce #0" = 2
+	"Clarence #0" = 2
+	"Curtis #0" = 2
+	"Darrell #0" = 2
+	"Edgar #0" = 2
+	"Edward #0" = 2
+	"Fulk #0" = 2
+	"Gabriel #0" = 2
+	"Hector #0" = 2
+	"Jasper #0" = 2
+	"Keith #0" = 2
+	"Daniel #0" = 2
+	"Malcolm #0" = 2
+	"Michael #0" = 2
+	"Nathan #0" = 2
+	"Ned #0" = 2
+	"Osborn #0" = 2
+	"Patrick #0" = 2
+	"David #0" = 2
+	"Sean #0" = 2
+	"Timothy #0" = 2
+	"Robert #0" = 2
+	"Victor #0" = 2
+	"Walter #0" = 2
+	"Zachariah #0" = 2
+	
+	"Arabella #0" = -1
+	"Breanna #0" = -1
+	"Catherine #0" = -1
+}
+
+ship_names = {
+          Aethelfrith Alnwick
+          Bamburgh Bede Bernicia Berwick Blackadder Borderer Bowes
+          Carlisle Cheviot Cumberland
+          Derwent Durham
+          Eden
+          Hadrian Helvellyn
+          Jarrow
+          Lindisfarne
+          Morpeth
+          Newcastle Northumbria
+          Penrith Percy
+          Reiver Rheged
+          Scafell Shap Skiddaw Solway "St Cuthbert" "St Edwin" "St Oswald" Sunderland
+          Tees Tweed Tyne
+          Wear Westmorland Windermere
+}
+
+army_names = {
+	"Duke Army" "Army of Northumberland" "Army of Blyth Valley" "Army of Wansbeck" "Army of Castle Morpeth" "Army of Tynedale" "Army of Alnwick" "Army of Berwick-upon-Tweed" "Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Duke Navy" "Navy of Northumberland" "$PROVINCE$ Fleet"
+}

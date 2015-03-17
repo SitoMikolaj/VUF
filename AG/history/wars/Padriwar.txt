@@ -1,0 +1,18 @@
+name = "Guerre des Padri"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1821.4.1 = {
+	add_attacker = NED
+	add_defender = ATJ
+}
+
+# Last point of resistance captured
+1837.1.1 = {
+	rem_attacker = NED
+	rem_defender = ATJ
+}

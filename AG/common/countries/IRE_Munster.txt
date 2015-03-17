@@ -1,0 +1,108 @@
+# Country name see file name.
+
+graphical_culture = westerngfx
+
+color = { 104  137  140 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Toirdelbach #2" = 80
+	"Conchobhar #2" = 60
+	"Tadhg #2" = 40
+	"Donnchadh #7" = 20
+	"Muireadhach #1" = 20
+	"Diarmaid #3" = 1
+	"Mathghamhain #0" = 20
+	"Ádhamh #0" = 2
+	"Ailill #0" = 2
+	"Brígh #0" = 2
+	"Brónach #0" = 2
+	"Caoimhín #0" = 2
+	"Cinnéidigh #0" = 2
+	"Deaglán #0" = 2
+	"Dubhghall #0" = 2
+	"Fionnlagh #0" = 2
+	"Garbhán #0" = 2
+	"Lachtna #0" = 2
+	"Lorcán #0" = 2
+	"Mainchín #0" = 2
+	#"Mathghamhain #0" = 2
+	"Meallán #0" = 2
+	"Naomhán #0" = 2
+	"Niall #0" = 2
+	"Odhrán #0" = 2
+	"Pádraig #0" = 2
+	"Cuinn #0" = 2
+	"Riain #0" = 2
+	"Ríoghnán #0" = 2
+	"Rórdan #0" = 2
+	"Ruaidhrí #0" = 2
+	"Ruarc #0" = 2
+	"Séaghdhá #0" = 2
+	"Seanán #0" = 2
+	"Seachnall #0" = 2
+	"Tighearnach #0" = 2
+	"Túathal #0" = 2
+	"Uilliam #0" = 2
+	"Uinseann #0" = 2
+	
+	"Aifric #0" = -1
+	"Fionola #0" = -1
+	"Raghnailt #0" = -1
+}
+
+ship_names = {
+	"An Clár" Corcaigh
+	"Des Mhumhan" 
+	Chiarraí 
+	"Deisi Mhumhan" Luimneach
+	"Tiobraid Árann" "Tuadh Mhumhan"
+	"Aur Mhumhan" "Iarmhumhain" "Ernaibh Mhumhan"
+	"Port Láirge"
+}  
+
+leader_names = {
+	"de Barra" "Ó Baoighill"
+	"d'Arcy" Céitinn
+	FitzGerald FitzThomas
+	"Ó Briain" "Ó Néill"
+	"Mac Cárthaigh"
+	Sáirséiligh
+	Talbot
+	Spenser
+}
+
+army_names = {
+	"Arm na Mhumhain" "Arm na Chláir" "Arm na Chorcaí" "Arm na Chiarraí" "Arm na Luimnigh" "Arm na Thiobraid Arann" "Arm na Phort Láirge" "Garda $PROVINCE$"
+}
+
+fleet_names = {
+	"Cabhlach na Mhumhain"  "Cabhlach na $PROVINCE$"
+}

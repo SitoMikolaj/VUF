@@ -1,0 +1,58 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -3
+#innovative_narrowminded = 3
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = 0
+#quality_quantity = 2
+#serfdom_freesubjects = 3
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 488	# Port-Au-Prince
+
+1794.7.12 = {
+	monarch = {
+		name = "Toussaint Louverture"
+		birth_date = 1747.1.1
+		adm = 7
+		dip = 4
+		mil = 7
+		leader = {	name = "Toussaint Louverture"	type = general	rank = 1	fire = 2	shock = 2	manuever = 3	siege = 0	}
+	}
+ }
+
+1804.1.1 = {
+	monarch = {
+		name = "Jean-Jacques"
+		dynasty = "Dessalines"
+		birth_date = 1758.9.20
+		adm = 3
+		dip = 1
+		mil = 4
+		leader = {	name = "Jean-Jacques Dessalines"	type = general	rank = 1	fire = 1	shock = 3	manuever = 1	siege = 0 }
+	}
+}
+
+1806.10.17 = {
+	monarch = {
+		name = "Henri"
+		dynasty = "Christophe"
+		birth_date = 1767.10.6
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1818.3.31 = {
+	monarch = {
+		name = "Jean-Pierre"
+		dynasty = "Boyer"
+		birth_date = 1776.2.15
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

@@ -1,0 +1,17 @@
+name = "Guerre des clans Takeda-Tokugawa"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1562.1.1 = {
+	add_attacker = TKD
+	add_defender = TKG
+}
+
+1582.3.11 = {
+	rem_attacker = TKD
+	rem_defender = TKG
+}

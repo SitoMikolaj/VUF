@@ -1,0 +1,117 @@
+name = "Seconde guerre Creek"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1836.5.1 = {
+	add_attacker = CRE
+	add_defender = USA
+}
+
+1837.6.9 = {
+	battle = {
+		name = "Shepherd's Plantation"
+		location = 929
+		attacker = {
+			commander = "Matayana"
+			cavalry = 300
+			losses = 1	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "James Connor"
+			infantry = 50
+			losses = 20	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1837.7.3 = {
+	battle = {
+		name = "Chickasawhachee Swamp"
+		location = 929
+		attacker = {
+			commander = "Little Eagle"
+			cavalry = 100
+			losses = 1	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "John Smith"
+			infantry = 500
+			losses = 40	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1837.7.25 = {
+	battle = {
+		name = "Nochaway Creek"
+		location = 929
+		attacker = {
+			commander = "Kayane"
+			cavalry = 850
+			losses = 3	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Peter Lee"
+			infantry = 300
+			losses = 15	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1837.7.27 = {
+	battle = {
+		name = "Nochaway Creek"
+		location = 929
+		attacker = {
+			commander = "Crehanawa"
+			cavalry = 850
+			losses = 20	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Richard Adams"
+			infantry = 1300
+			losses = 10	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1837.8.25 = {
+	battle = {
+		name = "Pea River"
+		location = 930
+		attacker = {
+			commander = "Little Rock"
+			cavalry = 750
+			losses = 60	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Samuel Becker"
+			infantry = 1000
+			losses = 10	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1837.8.30  = {
+	rem_attacker = CRE
+	rem_defender = USA
+}

@@ -1,0 +1,112 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 138  151  103 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	quantity_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Nâsir Khân #0" = 15
+	"Mîrân 'Âdil Khân #0" = 15
+	"Mîrân Mubârak Khân #0" = 15
+	"Da'ud Khân #0" = 10
+	"Ghazni Khân #0" = 10
+	"'Âdil Khân #0" = 10
+	"Mîrân Muhammad Khân #0" = 15
+	"Mîrân Mubârak Shâh #0" = 15
+	"Mîrân Muhammad Shâh #0" = 15
+	"Alam Khân #0" = 15
+	"Râja 'Alî Khân #0" = 15
+	"Mîrân Bahâdur Shâh #0" = 15
+	"Mahmûd  #0" = 2
+	"Firishta #0" = 2
+	"Ghiyâs ud-Dîn #0" = 2
+	"Qâdir #0" = 2
+	"Muhammad #0" = 2
+	"Bâz #0" = 2
+	"Salîm #0" = 2
+	"Nâsir #0" = 2
+	"Amîr #0" = 2
+	"Hôshang #0" = 2
+	"Fâtima #0" = -1
+	"Mumtaz #0" = -1
+	"Mâlika #0" = -1
+}
+
+leader_names = {
+	Chirâg
+	Bonjani
+	Bhattî
+	Bukhârî	
+	Durai
+	Eswara
+	Kôta
+	Mûrthi
+	Mori
+	Hâjî
+	al-Ûzbakî
+	al-Gîlânî
+	Paramâra
+	Bahâdur
+	Gaurî
+	Jurjânî
+	Khân
+	Mâlik
+	Sultân
+	al-Khurâsânî
+	Fârûqî
+	Changezî
+	Tûrânî
+	Latîf
+	Bhilala
+	Solankî
+	Chattari
+	Kanjar
+	Ghûrî
+	Naru
+	Chudasama
+	Pahore
+	Tomara
+}
+
+ship_names = {
+	"A'âliyah" "'Arûsah" Bori Fâtima
+	Jalsena Girna "Kâla Jahâzî"
+	Khân "Lâl Jahâzî" Narmadâ Nausenâ
+	"Nav ka Yudh" Nîknâz "Nîla Jahâzî"
+	Nîlûfa Nûr Panjhra Sâgar Salîma
+	Shamîna Suhalia Tâptî Yâsmin Zâhira
+}
+
+army_names = {
+	"Sultân Sainya" "Kandesh Sainya" "Ahirani Sainya" "Dakhani Sainya" "Habshi Sainya" "Afaqis Sainya" "Gharib Sainya" "$PROVINCE$ Sainya"
+	}
+
+fleet_names = {
+	"Sultân Nausenaa" "Kandesh Nausenaa" "Tâptî Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

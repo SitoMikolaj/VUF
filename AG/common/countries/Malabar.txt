@@ -1,0 +1,77 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = {  61  155  32  }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+	spy_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Mânavikraman #0" = 30
+	"Mânaveda #1" = 30
+	"Vîra Râya #0" = 20
+	"Utrattati Tirunâl #0" = 2
+	"Mânavikraman #3 Bharânî Tirunâl" = 2
+	"Nileswaram #3" = 2
+	"Muhammadutti #0" = 2
+	"Mâdhava #0" = 2
+	"Kêsavadâs #0" = 2
+	"Srî #0" = 2
+	"Râja #0" = 2
+	"Mârthânda #0" = 2
+	"Sîmâ #0" = -1
+	"Lalitha #0" = -1
+	"Krishna Kumârî #0" = -1
+}
+
+leader_names = {
+	Putiya
+	Eradi
+	Nampyâr
+	Nâyanâr
+	Kitavu
+	Unnithiri
+	Nedungadi
+	Vellodi
+	Keyi
+	Chêramân
+	Naduvazhi
+	Kurup
+}
+
+ship_names = {
+	"Râma Varmâ" "Âditya Varmâ" "Ravi Varmâ" "Balarâma Varmâ" "Swâthi Thirunâl" "Uthram Thirunâl" "Visâkham Thirunâl"
+	Abhay Akhilesh Baldev Chandresh Duranjaya Gaurav Jayant Parindra Prabir Shatrunjay Vipan Viraj Yudhisthir
+	Anupam Arihant Bhanu Dhananjay Hemendra Jawahar Kaushal Makarand Manîndra Narhari Nidhish Ratnakar Shâshwat Srîkânt
+}
+
+army_names = {
+	"Raja Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

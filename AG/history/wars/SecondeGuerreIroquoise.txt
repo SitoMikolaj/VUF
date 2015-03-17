@@ -1,0 +1,26 @@
+name = "Seconde guerre iroquoise"
+#casus_belli = cb_colonial
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 990 #Onondaga
+}
+
+1649.1.1 = {
+	add_attacker = IRO
+	add_defender = HUR
+	add_defender = OTT
+	add_defender = OJI
+}
+
+1651.1.1 = {
+	rem_defender = HUR
+	add_defender = FRA
+}
+
+1653.1.1 = {
+	rem_attacker = IRO
+	rem_defender = FRA
+	rem_defender = OTT
+	rem_defender = OJI
+}

@@ -1,0 +1,102 @@
+#Pskov
+
+graphical_culture = easterngfx
+
+color = { 82  123  95 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Aleksandr #3" = 80
+	"Ivan #1" = 80
+	"Vasiliy #2" = 60
+	"Fyodor #0" = 60
+	"Andrei #1" = 40
+	"Dmitriy #0" = 40
+	"Konstantin #0" = 40
+	"Pyotr #0" = 40
+	"Vladimir #2" = 20
+	"Yaroslav #1" = 20
+	"Daniil #0" = 20
+	"Grigoriy #0" = 20
+	"Semen #0" = 20
+	"Adrian #0" = 2
+	"Afanasiy #0" = 2
+	"Dorofey #0" = 2
+	"Eduard #0" = 2
+	"Faddey #0" = 2
+	"Feodosiy #0" = 2
+	"Feofil #0" = 2
+	"Ferapont #0" = 2
+	"Foka #0" = 2
+	"Foma #0" = 2
+	"Gavriil #0" = 2
+	"Igor #0" = 2
+	"Kliment #0" = 2
+	"Mefodiy #0" = 2
+	"Mikhail #0" = 2
+	"Naum #0" = 2
+	"Nikita #0" = 2
+	"Nikolai #0" = 2
+	"Pankrati #0" = 2
+	"Radoslav #0" = 2
+	"Ruslan #0" = 2
+	"Serafim #0" = 2
+	"Sevastian #0" = 2
+	"Stanislav #0" = 2
+	"Timofeiy #0" = 2
+	"Varfolomeiy #0" = 2
+	"Vikentiy #0" = 2
+	
+	"Lyudmila #0" = -1
+	"Irina #0" = -1
+	"Ekaterina #0" = -1
+}
+
+leader_names = { 
+	Vitebsky Izyaslavsky Dursky Galisky Borovsky Vereisky Volotsky Galitsky
+	Mozhaisky Uglisky Shemyakin Satin Aladyin Beznosov Bokeev Burukhin Vnukov Korobyin
+	Zabolotsky Dalmatov Kisleevsky Travin Tsyplyatev Shukalovsky
+}
+
+ship_names = {
+	Velikaya Chudskoye Pskovskoye Narva
+	Rakovor Bolotovo Kulikovo Ostrov Izborsk
+	Pechory Porhov "Velikiye Luki" Sebezh
+}
+
+army_names = {
+	"Pskovskaja Armija" "Respublikaja Armija" "Psadnikskaja Armija" "Sotskiyskaja Armija" "Izbornikskaja Armija" "Smerdskaja Armija" "Molodshiyekaja Armija" "Tys'atskys Armija" "Narodnoe Opolcheniye" "Strel'tsy $PROVINCE$"	
+}
+
+fleet_names = {
+	"Riespoublik Flot" "Pskovskaja Flot" "$PROVINCE$ Flot"
+} 

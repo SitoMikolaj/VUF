@@ -1,0 +1,40 @@
+name = "L'invasion de Cuba"
+
+#casus_belli
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+}
+
+
+# Projet irréaliste d'envahir Cuba par le Mexique 
+
+1828.1.1 = {
+	add_attacker = MEX
+	add_defender = SPA
+}
+
+1828.2.10 = {
+	battle = {
+		name = "Mariel"
+		location = 1518
+		attacker = {
+			commander = "David Henry Porter"
+			transport = 3
+			losses = 65	# percent
+			country = MEX
+		}
+		defender = {
+			commander = "Meliton Pérez del Camino"
+			light_ship = 2
+			losses = 5	# percent
+			country = SPA
+		}
+		result = loss
+	}
+}
+
+1828.5.1 = {
+	rem_attacker = MEX
+	rem_defender = SPA
+}

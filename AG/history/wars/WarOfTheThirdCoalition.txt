@@ -1,0 +1,380 @@
+name = "Guerre de la Troisième Coalition"
+#casus_belli = cb_imperial
+war_goal = {
+	type = take_capital_revolution
+	casus_belli = cb_crush_the_revolution
+	tag = FRA
+}
+
+# Grande-Bretagne déclare la guerre à France
+1803.5.18 = {
+	add_attacker = GBR
+	add_defender = FRA
+	add_defender = NED
+	add_defender = ETR
+	add_defender = BAD
+	add_defender = BAV
+	add_defender = ITA
+}
+
+# La Convention d'Artlenburg
+1803.7.5 = {
+	add_attacker = HAN
+}
+
+# Spain declares war on Britain
+1804.12.12 = {
+	add_defender = SPA
+}
+
+# Treaty of St. Petersburg, Russia joins
+1805.4.11 = {
+	add_attacker = RUS
+}
+
+# Austriche rejoint la Coalition peu de temps après
+1805.8.9 = {
+	add_attacker = HAB
+	add_attacker = NAP
+}
+
+1805.9.25 = {
+	battle = {
+		name = "le cap Finisterre"
+		location = 1290
+		attacker = {
+			commander = "Robert Calder"	# Robert Calder
+			heavy_ship = 15
+			losses = 2	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Pierre Charles Silvestre de Villeneuve"	# Pierre de Villeneuve
+			heavy_ship = 14
+			losses = 3	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1805.10.8 = {
+	battle = {
+		name = "Wertingen"
+		location = 64
+		attacker = {
+			commander = "Franz Xavier Auffenberg"	# Franz Xavier Auffenberg
+			infantry = 12000
+			losses = 7	# percent
+			country = HAB
+		}
+		defender = {
+			commander = "Joachim Murat"	# Joachim Murat
+			infantry = 5500
+			losses = 2	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.10.9 = {
+	battle = {
+		name = "Günzburg"
+		location = 68
+		attacker = {
+			commander = "Petr Bagration"
+			infantry = 15300
+			losses = 34	# percent
+			country = RUS
+		}
+		defender = {
+			commander = "Mahler"
+			infantry = 10000
+			losses = 6	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.10.11 = {
+	battle = {
+		name = "Haslach-Jungingen"
+		location = 74
+		attacker = {
+			commander = "Karl Mack von Lieberich"	# Karl Mack von Lieberich
+			infantry = 25000
+			losses = 2	# percent
+			country = HAB
+		}
+		defender = {
+			commander = "Pierre Antoine Dupont de l'Étang"	# Pierre Dupont de l'Etang
+			infantry = 6000
+			losses = 16	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.10.12 = {
+	battle = {
+		name = "Elchingen"
+		location = 69
+		attacker = {
+			commander = "Johann Riesch"
+			infantry = 16000
+			losses = 64	# percent
+			country = HAB
+		}
+		defender = {
+			commander = "Maréchal Ney"
+			infantry = 17000
+			losses = 15	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.10.16 = {
+	battle = {
+		name = "Ulm"
+		location = 70
+		attacker = {
+			commander = "Karl Mack von Leiberich"	# Karl Mack von Liebereich
+			infantry = 72000
+			losses = 16	# percent
+			country = HAB
+		}
+		defender = {
+			commander = "Napoléon I"	# Napoléon Bonaparte
+			infantry = 150000
+			losses = 4	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.10.18 = {
+	battle = {
+		name = "Vérone"
+		location = 1177
+		attacker = {
+			commander = "Archiduc Charles"
+			infantry = 18000
+			losses = 5	# percent
+			country = HAB
+		}
+		defender = {
+			commander = "André Masséna"
+			infantry = 10000
+			losses = 3	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# Württemberg conclut une alliance avec France
+1805.10.18 = {
+	add_defender = WUR
+}
+
+1805.10.21 = {
+	battle = {
+		name = "Trafalgar"
+		location = 1292
+		attacker = {
+			commander = "Horatio Nelson" 	# Horatio Nelson
+			heavy_ship = 27
+			light_ship = 8
+			losses = 2	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Pierre Charles Silvestre de Villeneuve"	# Pierre de Villeneuve
+			heavy_ship = 33
+			light_ship = 8
+			losses = 22	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1805.10.30 = {
+	battle = {
+		name = "Caldiero"
+		location = 108
+		attacker = {
+			commander = "Karl von Österreich-Teschen" 	# Charles of Austria
+			infantry = 50000
+			losses = 6	# percent
+			country = HAB
+		}
+		defender = {
+			commander = "André Masséna"	# André Masséna
+			infantry = 37000
+			losses = 11	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# Sweden rejoint la Coalition
+1805.10.31 = {
+	add_attacker = SWE
+}
+
+# Traité de Potsdam
+1805.11.3 = {
+	add_attacker = PRU
+}
+
+1805.11.3 = {
+	battle = {
+		name = "Cap Ortegal"
+		location = 1290
+		attacker = {
+			commander = "Richard Strachan"
+			heavy_ship = 4
+			light_ship = 4
+			losses = 5	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Pierre Dumanoir le Pelley"
+			heavy_ship = 4			
+			losses = 100	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1805.11.5 = {
+	battle = {
+		name = "Amstetten"
+		location = 134
+		attacker = {
+			commander = "Piotr Ivanovitch Bagration" 	# Pyotr Bagration
+			infantry = 6700
+			losses = 7	# percent
+			country = RUS
+		}
+		defender = {
+			commander = "Joachim Murat" 	# Marshal Murat
+			infantry = 10000
+			losses = 10	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.11.11 = {
+	battle = {
+		name = "Dürenstein"
+		location = 134
+		attacker = {
+			commander = "Mikhail Illarionovich Koutouzov" 	# Mikhail Illarionovich Kutuzov
+			infantry = 24000
+			losses = 8	# percent
+			country = RUS
+		}
+		defender = {
+			commander = "Édouard Mortier"	# Édouard Mortier
+			infantry = 8000
+			losses = 22	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.11.16 = {
+	battle = {
+		name = "Hollabrunn"
+		location = 1770
+		attacker = {
+			commander = "Pierre de Bagration"
+			infantry = 7000
+			losses = 34	# percent
+			country = RUS
+		}
+		defender = {
+			commander = "Maréchal Murat"
+			infantry = 20600
+			losses = 5	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.11.16 = {
+	battle = {
+		name = "Schöngrabern"
+		location = 134
+		attacker = {
+			commander = "Piotr Ivanovitch Bagration" 	# Pyotr Bagration
+			infantry = 7300
+			losses = 34	# percent
+			country = RUS
+		}
+		defender = {
+			commander = "Joachim Murat"	# Joachim Murat
+			infantry = 21000
+			losses = 6	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1805.12.2 = {
+	battle = {
+		name = "Austerlitz"
+		location = 265
+		attacker = {
+			commander = "Aleksandr I Pavlovich" 	# Aleksandr I Pavlovich
+			infantry = 73000
+			losses = 21	# percent
+			country = RUS
+		}
+		defender = {
+			commander = "Napoléon I"	# Napoléon Bonaparte
+			infantry = 65000
+			losses = 2	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# Treaty of Schönbrunn
+1805.12.15 = {
+	rem_attacker = PRU
+	rem_attacker = HAN
+}
+
+# Traité de Pressburg
+1805.12.26 = {
+	rem_defender = FRA
+	rem_defender = NED
+	rem_defender = BAD
+	rem_defender = ETR
+	rem_defender = SPA
+	rem_defender = WUR
+	rem_defender = BAV
+	rem_defender = ITA
+	rem_attacker = HAB
+	rem_attacker = RUS
+	rem_attacker = GBR
+	rem_attacker = NAP
+	rem_attacker = SWE
+}

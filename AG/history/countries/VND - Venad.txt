@@ -1,0 +1,646 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = hinduism
+primary_culture = malayalam
+capital = 537	# Padmanabhapuram
+
+# Travancore/Venad #
+1383.1.1 = {
+	monarch = {
+		name = "Chêra Udaya Varmâ"
+		dynasty = "Chêramân"
+		DIP = 3
+		ADM = 1
+		MIL = 2
+	}
+}
+
+1400.1.1 = {
+	heir = {
+		name = "Mootha"
+		monarch_name = "Mûtha"
+		dynasty = "Chêramân"
+		birth_date = 1400.1.1
+		death_date = 1458.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Mûtha"
+		dynasty = "Chêramân"
+		DIP = 3
+		ADM = 3
+		MIL = 0
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Srî Vîra Mârtanda Varmâ"
+		monarch_name = "Srî Vîra Mârtanda Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1440.1.1
+		death_date = 1471.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1458.1.1 = {
+	monarch = {
+		name = "Srî Vîra Mârtanda Varmâ"
+		dynasty = "Chêramân"
+		DIP = 1
+		ADM = 2
+		MIL = 1
+	}
+}
+
+1458.1.1 = {
+	heir = {
+		name = "Âditya Varmâ"
+		monarch_name = "Âditya Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1450.1.1
+		death_date = 1478.1.1
+		claim = 95
+		ADM = 0
+		DIP = 4
+		MIL = 2
+	}
+}
+
+1471.1.1 = {
+	monarch = {
+		name = "Âditya Varmâ" 
+		dynasty = "Chêramân"
+		DIP = 4
+		ADM = 0
+		MIL = 2
+	}
+}
+
+1471.1.1 = {
+	heir = {
+		name = "Âditya Varmâ"
+		monarch_name = "Âditya Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1460.1.1
+		death_date = 1504.1.1
+		claim = 95
+		ADM = 3
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1478.1.1 = {
+	monarch = {
+		name = "Ravi Varmâ"
+		dynasty = "Chêramân"
+		DIP = 0
+		ADM = 3
+		MIL = 0
+	}
+}
+
+1478.1.1 = {
+	heir = {
+		name = "Srî Vîra Ravi Varmâ"
+		monarch_name = "Srî Vîra Ravi Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1478.1.1
+		death_date = 1528.1.1
+		claim = 95
+		ADM = 0
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1504.1.1 = {
+	monarch = {
+		name = "Srî Vîra Ravi Varmâ"
+		dynasty = "Chêramân"
+		DIP = 3
+		ADM = 0
+		MIL = 1
+	}
+}
+
+1504.1.1 = {
+	heir = {
+		name = "Mârtanda Varmâ"
+		monarch_name = "Mârtanda Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1504.1.1
+		death_date = 1537.1.1
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1528.1.1 = {
+	monarch = {
+		name = "Mârtanda Varmâ"
+		dynasty = "Chêramân"
+		DIP = 2
+		ADM = 1
+		MIL = 0
+	}
+}
+
+1528.1.1 = {
+	heir = {
+		name = "Udaya Mârtanda Varmâ"
+		monarch_name = "Udaya Mârtanda Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1515.1.1
+		death_date = 1550.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1537.1.1 = {
+	monarch = {
+		name = "Udaya Mârtanda Varmâ"
+		dynasty = "Chêramân"
+		DIP = 3
+		ADM = 3
+		MIL = 1
+	}
+}
+
+1537.1.1 = {
+	heir = {
+		name = "Kerala Varmâ"
+		monarch_name = "Kerala Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1530.1.1
+		death_date = 1552.1.1
+		claim = 95
+		ADM = 1
+		DIP = 5
+		MIL = 1
+	}
+}
+
+1550.1.1 = {
+	monarch = {
+		name = "Kerala Varmâ"
+		dynasty = "Chêramân"
+		DIP = 5
+		ADM = 1
+		MIL = 1
+	}
+}
+
+1550.1.1 = {
+	heir = {
+		name = "Âditya Varmâ"
+		monarch_name = "Âditya Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1540.1.1
+		death_Date = 1567.1.1
+		claim = 95
+		ADM = 3
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1553.1.1 = {
+	monarch = {
+		name = "Âditya Varmâ"
+		dynasty = "Chêramân"
+		DIP = 0
+		ADM = 3
+		MIL = 2
+	}
+}
+
+1553.1.1 = {
+	heir = {
+		name = "Udaya Mârtanda Varmâ"
+		monarch_name = "Udaya Mârtanda Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1530.1.1
+		death_date = 1594.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 0
+	}
+}
+
+1567.1.1 = {
+	monarch = {
+		name = "Udaya Mârtanda Varmâ"
+		dynasty = "Chêramân"
+		DIP = 2
+		ADM = 2
+		MIL = 0
+	}
+}
+
+1570.1.1 = {
+	heir = {
+		name = "Srî Vîra Kulashêkhara"
+		monarch_name = "Srî Vîra Kulashêkhara"
+		dynasty = "Chêramân"
+		birth_date = 1570.1.1
+		death_date = 1604.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1594.1.1 = {
+	monarch = {
+		name = "Srî Vîra Kulashêkhara"
+		dynasty = "Chêramân"
+		DIP = 1
+		ADM = 2
+		MIL = 2
+	}
+}
+
+1594.1.1 = {
+	heir = {
+		name = "Srî Vîra Varmâ"
+		monarch_name = "Srî Vîra Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1580.1.1
+		death_date = 1606.1.1
+		claim = 95
+		ADM = 4
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1604.1.1 = {
+	monarch = {
+		name = "Srî Vîra Varmâ"
+		dynasty = "Chêramân"
+		DIP = 1
+		ADM = 4
+		MIL = 0
+	}
+}
+
+1604.1.1 = {
+	heir = {
+		name = "Ravi Varmâ"
+		monarch_name = "Ravi Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1580.1.1
+		death_date = 1619.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1606.1.1 = {
+	monarch = {
+		name = "Ravi Varmâ"
+		dynasty = "Chêramân"
+		DIP = 0
+		ADM = 0
+		MIL = 0
+	}
+}
+
+1606.1.1 = {
+	heir = {
+		name = "Unni Kerala Varmâ"
+		monarch_name = "Unni Kerala Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1600.1.1
+		death_date = 1625.1.1
+		claim = 95
+		ADM = 3
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1619.1.1 = {
+	monarch = {
+		name = "Unni Kerala Varmâ"
+		dynasty = "Chêramân"
+		DIP = 1
+		ADM = 3
+		MIL = 3
+	}
+}
+
+1619.1.1 = {
+	heir = {
+		name = "Ravi Varmâ"
+		monarch_name = "Ravi Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1600.1.1
+		death_date = 1631.1.1
+		claim = 95
+		ADM = 4
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1625.1.1 = {
+	monarch = {
+		name = "Ravi Varmâ"
+		dynasty = "Chêramân"
+		DIP = 0
+		ADM = 4
+		MIL = 2
+	}
+}
+
+1625.1.1 = {
+	heir = {
+		name = "Unni Kerala Varmâ"
+		monarch_name = "Unni Kerala Varmâ II"
+		dynasty = "Chêramân"
+		birth_date = 1615.1.1
+		death_date = 1661.1.1
+		claim = 95
+		ADM = 1
+		DIP = 4
+		MIL = 1
+	}
+}
+
+1631.1.1 = {
+	monarch = {
+		name = "Unni Kerala Varmâ II"
+		dynasty = "Chêramân"
+		DIP = 4
+		ADM = 1
+		MIL = 1
+	}
+}
+
+1640.1.1 = {
+	heir = {
+		name = "Âditya Varmâ"
+		monarch_name = "Âditya Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1640.1.1
+		death_date = 1678.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1661.1.1 = {
+	monarch = {
+		name = "Âditya Varmâ"
+		dynasty = "Chêramân"
+		DIP = 0
+		ADM = 0
+		MIL = 3
+	}
+}
+
+1661.1.1 = {
+	heir = {
+		name = "Ravi Varmâ"
+		monarch_name = "Ravi Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1660.1.1
+		death_date = 1704.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+		
+1678.1.1 = {
+	monarch = {
+		name = "Ravi Varmâ"
+		dynasty = "Chêramân"
+		DIP = 2
+		ADM = 3
+		MIL = 2
+	}
+}
+
+1678.1.1 = {
+	heir = {
+		name = "Unni Kerala Varmâ"
+		monarch_name = "Unni Kerala Varmâ III"
+		dynasty = "Chêramân"
+		birth_date = 1678.1.1
+		death_Date = 1718.1.1
+		claim = 95
+		ADM = 2
+		DIP = 4
+		MIL = 2
+	}
+}
+
+1704.1.1 = {
+	monarch = {
+		name = "Unni Kerala Varmâ III"
+		dynasty = "Chêramân"
+		DIP = 4
+		ADM = 2
+		MIL = 2
+	}
+}
+
+1704.1.1 = {
+	heir = {
+		name = "Âditya Varmâ"
+		monarch_name = "Âditya Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1704.1.1
+		death_date = 1721.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1718.1.1 = {
+	monarch = {
+		name = "Âditya Varmâ"
+		dynasty = "Chêramân"
+		DIP = 3
+		ADM = 3
+		MIL = 0
+	}
+}
+
+1718.1.1 = {
+	heir = {
+		name = "Rama Varmâ"
+		monarch_name = "Rama Varmâ"
+		dynasty = "Chêramân"
+		birth_date = 1700.1.1
+		death_date = 1729.1.27
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1721.1.1 = {
+	monarch = {
+		name = "Rama Varmâ"
+		dynasty = "Chêramân"
+		DIP = 1
+		ADM = 0
+		MIL = 1
+	}
+}
+
+1721.1.1 = {
+	heir = {
+		name = "Mârtanda Varmâ"
+		monarch_name = "Mârtanda Varmâ I"
+		dynasty = "Chêramân"
+		birth_date = 1700.1.1
+		death_date = 1758.7.7
+		claim = 95
+		ADM = 4
+		DIP = 5
+		MIL = 6
+	}
+}
+
+1729.1.27 = {
+	monarch = {
+		name = "Mârtanda Varmâ I"
+		dynasty = "Chêramân"
+		DIP = 5
+		ADM = 4
+		MIL = 6
+	}
+}
+
+1729.1.27 = {
+	heir = {
+		name = "Rama Varmâ"
+		monarch_name = "Rama Varmâ II"
+		dynasty = "Chêramân"
+		birth_date = 1729.1.1
+		death_date = 1798.2.17
+		claim = 95
+		ADM = 2
+		DIP = 4
+		MIL = 3
+	}
+}
+
+1758.7.7 = {
+	monarch = {
+		name = "Rama Varmâ II"
+		dynasty = "Chêramân"
+		DIP = 4
+		ADM = 2
+		MIL = 3
+	}
+}
+
+1758.7.7 = {
+	heir = {
+		name = "Bâlâ Rama Varmâ"
+		monarch_name = "Bâlâ Rama Varmâ I"
+		dynasty = "Chêramân"
+		birth_date = 1750.1.1
+		death_date = 1810.1.1
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1798.2.17 = {
+	monarch = {
+		name = "Bâlâ Rama Varmâ I"
+		dynasty = "Chêramân"
+		DIP = 0
+		ADM = 1
+		MIL = 0
+	}
+}
+
+1798.2.17 = {
+	heir = {
+		name = "Gouri Lakshmî Bâi"
+		monarch_name = "Gouri Lakshmî Bâi"
+		dynasty = "Chêramân"
+		female = yes
+		birth_date = 1780.1.1
+		death_date = 1815.1.1
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1810.1.1 = {
+	monarch = {
+		name = "Gouri Lakshmî Bâi"
+		dynasty = "Chêramân"
+		DIP = 2
+		ADM = 1
+		MIL = 2
+		female = yes
+	}
+}
+
+1810.1.1 = {
+	heir = {
+		name = "Gouri Parvati Bâi"
+		monarch_name = "Gouri Parvati Bâi"
+		dynasty = "Chêramân"
+		birth_date = 1800.1.1
+		death_Date = 1829.1.1
+		female = yes
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+		
+
+1815.1.1 = {
+	monarch = {
+		name = "Gouri Parvati Bâi"
+		dynasty = "Chêramân"
+		DIP = 2
+		ADM = 2
+		MIL = 2
+		female = yes
+	}
+}

@@ -1,0 +1,157 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 165  132  57 }
+
+historical_idea_groups = {
+	administrative_ideas
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Bukûri Yongson #1" = 10
+	"Dudu Mentemu #1" = 10
+	"Cungshan #0" = 10
+	"Tolo #0" = 10
+	"Sibeoci Fiyanggû #0" = 10	
+	"Fuman #0" = 10
+	"Giocangga #0" = 10
+	"Taksi #0" = 20
+	"Nurhachi #0" = 20
+	"Hong Taiji #0" = 20
+	"Dorgon #0" = 10
+	"Hooge #0" = 10
+	"Fulin #0" = 20
+	"Hiowan Yei #0" = 20
+	"In Jen #0" = 20	
+	"Hung-li #0" = 20
+	"Yongyan #0" = 20
+	"Minning #0" = 20	
+	"Fanca #0" = 10
+	"Shurhachi #0" = 10
+	"Jirgalang #0" = 10
+	"Tulishen #0" = 10
+	"Murhachi #0" = 10
+	"Daishan #0" = 5
+	"Abatai #0" = 5
+	"Ajige #0" = 5
+	"Dodo #0" = 5
+	"Ulhicun #0" = 5
+	"Toimo #0" = 5
+	"Shiduo #0" = 5
+	"Hungshi #0" = 5
+	"Duwanhûwa #0" = 5
+	"Sushun #0" = -5
+	"Sose #0" = -5
+	"Dzai-Tiyan #0" = -5
+	"I-hsin #0" = -5
+	"Akjan #0" = 2
+	"Ayan #0" = 2
+	"Baggodo #0" = 2
+	"Yuetuo #0" = 2
+	"Dorgide #0" = 2
+	"Eje #0" = 2
+	"Miankai #0" = 2
+	"Niowanggiyan #0" = 2
+	"Fodo #0" = 2
+	"Maca #0" = 2
+	"Jabsan #0" = 2
+	"Jakdan #0" = 2
+	"Ulushun #0" = 10 
+	"Hûlushun #0" = 2 
+	"Ilushun #0" = 2
+	"Delushun #0" = 2
+	"Ûri #0" = 2
+	"Fulushun #0" = 2
+	"Jalushun #0" = 2
+	"Yelu #0" = 2
+	"Muduri #0" = 2
+	"Mujin #0" = 2
+	"Oori #0" = 2
+	"Radi #0" = 2
+	"Talman #0" = 2
+	"Wehe #0" = 2
+	"Yongyi #0" = 2
+	"Zhanhung #0" = 2
+	"Zhenghu #0" = 2
+	"Zhengrong #0" = 2
+	"Zhongcheng #0" = 2
+	"Zhongchun #0" = 2
+	"Zhongho #0" = 2
+	"Zhonghu #0" = 2
+	"Zhonghung #0" = 2
+	"Zongqian #0" = 2
+	"Zhongxian #0" = 2
+	"Zhongyong #0" = 2
+	"Zhongyu #0" = 2	
+	"Fen #0" = -1
+	"Jian #0" = -1
+	"Wen #0" = -1
+}
+
+leader_names = {
+	"Aisin Gioro" Aihui	Arakta 
+	Baica Boduri 
+	Cemgun Cibukinut Castiglione
+	Dagiya Donggiya Dorgon
+	Ecolo Ergi
+	Feiya Futa Fuzhi
+	Gingciri Git Gûwalgiya Gengyao
+	Hegiya Heseri Heshen Hooge
+	Io "Irgen Gioro" 
+	Jakuta Jurk 
+	Keyere Kuicelik
+	Ledi Lu Lang
+	Magiya Moketo 
+	Namutu Niohuru Nurhachi
+	Pan Po 
+	Rao Ruburi 
+	Si Socoro 
+	Taicut Tukdun Taiji
+	U Ula
+	Verbiest
+	Wang Wenggit 
+	Xueqin
+	Yan Yehe Yanwu Yuan Yang
+	Zhongxian Zongxi Zhen
+}
+
+ship_names = {
+	"Aisin Gioro" Niuhuru Yehenala Heseri
+	Uya Waliuha Janggiya Guwalgiya Tunggiya
+	Magiya Hata Ula Huifa Haixi
+}
+
+army_names = {
+	"Zhenghuangqi" "Xianghuangqi" "Zhengbaiqi" "Xiangbaiqi"	"Zhenghongqi" 	"Xianghongqi" "Zhenglanqi" "Xianglanqi" "Lüying" 
+	"Shi Wei" "Shi Jun" "Zhongguo Jun" "Nü Zhen Jun" "Jin Cháo Jun" "Hòu Jin Jun" "Pi Xiu Jun" "Xiong Shi" "San Jun" "Zhong Jun" "Bu Dui Jun" "Bing Tuan Jun" "Lu Jun" "Dui Jun" "Biao Kè Jun" "Hou Wei Jun" "Liu Shou Jun" "Yi Jun" "Er Jun" "Sì Jun" "Wu Jun" "Liù Jun" "Qi Jun" "Ba Jun" "Jiu Jun" "$PROVINCE$ Jun"
+}
+
+fleet_names = {
+	"Nü Zhen Hai Jun" "Jin Hai Jun" "Hòu Jin Hai Jun" "Shi Hai Jun" "Hua xia Hai Jun" "Zhong Hua Hai Jun" "Zhong guo Hai Jun" "Jian dui" "Chuan dui" "Bo Hai Jun" "$PROVINCE$ Hai Jun"
+}
+

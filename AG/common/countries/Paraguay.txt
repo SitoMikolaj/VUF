@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 75  188  60 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Fulgencio #0" = 20
+	"José #0 Gaspar" = 20
+	"Juan #0 José" = 15
+	"Manuel #0 Antonio" = 15
+	"Carlos #0 Antonio" = 10
+	"Mariano #0" = 10
+	"Abel #0" = 2
+	"Agustín #0" = 2
+	"Alberto #0" = 2
+	"Álvaro #0" = 2
+	"Antonio #0" = 2
+	"Asdrúbal #0" = 2
+	"Bartolomé #0" = 2
+	"Carlos #0" = 2
+	"Daniel #0" = 2
+	"David #0" = 2
+	"Domingo #0" = 2
+	"Emiliano #0" = 2
+	"Enrique #0" = 2
+	"Evaristo #0" = 2
+	"Fabricio #0" = 2
+	"Fernando #0" = 2
+	"Fidel #0" = 2
+	"Gabriel #0" = 2
+	"José #0" = 2
+	"Juan #0" = 2
+	"Leonardo #0" = 2
+	"Manuel #0" = 2
+	"Marcos #0" = 2
+	"Miguel #0" = 2
+	"Narciso #0" = 2
+	"Octavio #0" = 2
+	"Pablo #0" = 2
+	"Patricio #0" = 2
+	"Pedro #0" = 2
+	"Roberto #0" = 2
+	"Rufino #0" = 2
+	"Santiago #0" = 2
+	"Tadeo #0" = 2
+	"Ulíses #0" = 2
+	
+	"Paloma #0" = -1
+	"Reina #0" = -1
+	"Xiomara #0" = -1
+}
+
+leader_names = {
+	Alberti Álvarez "de Alvear" Artigas Azcuenaga Balcarce Bazán Belgrano Brown Bustos
+	Cabral Castro Chiclana Costa Derqui Dorrego González Goyeneche Guazurary "de Güemes"
+	Heredia Jonte "Kaunitz de Holmberg" "de Laprida" Larrea "de las Heras" López
+	Mansilla Matheu Monteagudo Moreno Paso Paz Peña Pérez Planes Posadas "de Pueyrredón"
+	Ramírez Riglos Robinson Rodríguez Rondeau "de Rosas"
+	Saavedra Sáenz "de San Martín" Sarratea Urquiza Warnes
+}
+
+ship_names = {
+	"Asunción"
+	"Gaspar"
+	"El Plata"
+	"Fulgencio"
+	Independencia
+	Libertad "Yegros"
+	Moreno 
+	"Gran Chaco"
+	Rivalda
+}
+
+army_names = {
+	"Ejército de Paraguay" "Ejército de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina de guerra" "Armada de $PROVINCE$"
+}

@@ -1,0 +1,18 @@
+name = "Guerre de Gujarat"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1537.1.1 = {
+	add_attacker = GUJ
+	add_defender = POR
+}
+
+# Gujaratis resign
+1546.4.1 = {
+	rem_attacker = GUJ
+	rem_defender = POR
+}

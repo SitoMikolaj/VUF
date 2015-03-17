@@ -1,0 +1,37 @@
+name = "Première guerre des Osage"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1833.1.1 = {
+	add_attacker = OSA # les Winibagos assimilés aux Illiwineks
+	add_defender = USA
+}
+
+1833.4.1 = {
+	battle = {
+		name = "Cutthroat Gap"
+		location = 902
+		attacker = {
+			commander = "Black Eagle"
+			cavalry = 600
+			losses = 0	# percent
+			country = OSA
+		}
+		defender = {
+			commander = "John Lee"
+			infantry = 300
+			losses = 60	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1834.1.1  = {
+	rem_attacker = OSA
+	rem_defender = USA
+}

@@ -1,0 +1,348 @@
+government = constitutional_republic
+#aristocracy_plutocracy = 0
+#centralization_decentralization = -1
+#innovative_narrowminded = -1
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -2
+#quality_quantity = 0
+#serfdom_freesubjects = 3
+religion = catholic
+primary_culture = cosmopolitan_french
+technology_group = western
+capital = 986	# Quebec city
+
+
+# Gouverneur général de Nouvelle France
+
+1534.7.24 = {
+	monarch = {
+           name = "Redolf Chanion"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1541.1.15 = {
+	monarch = {
+           name = "Jean-François de la Rocque"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1543.9.1 = {
+	monarch = {
+           name = "(Conseil de Nouvelle France)"
+		   regent = yes
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1598.1.12 = {
+	monarch = {
+           name = "Troilus de Mesgouez"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1606.2.25 = {
+	monarch = {
+           name = "Jean de Biencourt"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1608.7.3 = {
+	leader = {	name = "Samuel Champlain" type = conquistador	rank = 5 fire = 4	shock = 4	manuever = 4	siege = 0 death_date = 1635.12.25 }
+}
+
+1608.7.3 = {
+	leader = {	name = "Pierre Dugua de Mons" type = conquistador	rank = 3 fire = 5	shock = 3	manuever = 2	siege = 4 death_date = 1628.1.2 }
+}
+
+1614.8.2 = {
+	monarch = {
+           name = "Émery de Caen"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1626.7.2 = {
+	monarch = {
+           name = "Samuel de Champlain"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1629.7.22 = {
+	monarch = {
+           name = "Lewis Kirke"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1632.3.4 = {
+	monarch = {
+           name = "Émery de Caen"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1633.3.1 = {
+	monarch = {
+           name = "Samuel de Champlain"
+          adm = 2
+           dip = 3
+           mil = 3
+      }
+}
+
+1635.12.25 = {
+	monarch = {
+           name = "Marc Antoine de Châteaufort"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1636.6.11 = {
+	monarch = {
+           name = "Charles Huault de Montmagny"
+            adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1648.8.19 = {
+	monarch = {
+           name = "Louis d'Ailleboust de Coulonge"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1651.10.14 = {
+	monarch = {
+           name = "Jean de Lauzon"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1656.9.14 = {
+	monarch = {
+           name = "Charles de Lauzon de Charney"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1657.7.11 = {
+	monarch = {
+           name = "Pierre de Voyer d'Argenson"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1661.8.30 = {
+	monarch = {
+           name = "Pierre du Bois d'Avaugour"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1663.8.15 = {
+	monarch = {
+           name = "Charles Augustin de Saffray"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1665.9.12 = {
+	monarch = {
+           name = "Daniel de Rémy de Courcelles"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1672.9.12 = {
+	monarch = {
+           name = "Louis de Frontenac"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1682.10.9 = {
+	monarch = {
+           name = "Joseph-Antoine de La Barre"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1685.3.10 = {
+	monarch = {
+           name = "Jacques-René de Denonville"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1689.8.12 = {
+	monarch = {
+           name = "Louis de Frontenac"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1698.11.28 = {
+	monarch = {
+           name = "Louis-Hector de Callière Bonnevue"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1700.1.1 = { leader = {	name = "Pierre Morpain"	type = admiral		rank = 4	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1749.8.20 } }
+
+1703.6.27 = {
+	monarch = {
+           name = "Philippe de Rigaud"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1725.10.10 = {
+	monarch = {
+           name = "Charles LeMoyne de Longueuil"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1726.9.13 = {
+	monarch = {
+           name = "Charles de Beauharnois"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1730.1.1 = { leader = {	name = "Paul Marin de la Malgue"	type = general	rank = 5	fire = 2	shock = 3	manuever = 2	siege = 1	death_date = 1753.10.29 } }
+
+1746.1.1 = { leader = {	name = "Jean-Baptiste Nicolas Roch"	type = general	rank = 2	fire = 2	shock = 2 manuever = 2	siege = 2	death_date = 1759.9.22 } }
+
+1747.9.19 = {
+	monarch = {
+           name = "Michel de La Galissonière"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1749.8.15 = {
+	monarch = {
+           name = "Jacques-Pierre de la Jonquière"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1752.3.2 = {
+	monarch = {
+           name = "Michel-Ange Duquesne de Menneville"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1755.7.10 = {
+	monarch = {
+           name = "Pierre de Rigaud"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+# Gouverneurs britannique depuis
+
+1764.8.10 = {
+	monarch = {
+           name = "James Murray"
+          adm = 2
+           dip = 3
+           mil = 3
+      }
+}
+
+1768.4.12 = {
+	monarch = {
+           name = "Guy Carleton"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1778.6.27 = {
+	monarch = {
+           name = "Frederick Haldimand"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}
+
+1786.4.22 = {
+	monarch = {
+           name = "Guy Carleton"
+           adm = 2
+           dip = 1
+           mil = 1
+      }
+}

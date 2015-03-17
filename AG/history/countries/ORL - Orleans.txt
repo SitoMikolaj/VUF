@@ -1,0 +1,152 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = -5
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 5
+#land_naval = -4
+#quality_quantity = -3
+#serfdom_freesubjects = -3
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 184	# Orléans
+fixed_capital = 184 # Cannot move capital away from this province & no power cost to move to it
+
+# seconde création du duché
+
+1392.1.1 = {
+	monarch = {
+		name = "Louis I"
+		dynasty = "de Valois"		
+		birth_date = 1372.3.13
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1394.11.24 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "de Valois"
+		birth_date = 1394.11.24
+		death_date = 1465.1.5
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1407.1.1 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "de Valois"
+		birth_date = 1394.11.24
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1462.6.27 = {
+	heir = {
+		name = "Louis"
+		monarch_name = "Louis II"
+		dynasty = "de Valois"
+		birth_date = 1462.6.27
+		death_date = 1515.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1465.1.5 = {
+	monarch = {
+		name = "(Régent Louis)" # le roi Louis XI
+		dynasty = "de Valois"
+		birth_date = 1423.7.3
+		adm = 4
+		dip = 6
+		mil = 2
+		regent = yes
+	}
+}
+
+1465.1.5 = {
+	heir = {
+		name = "Louis"
+		monarch_name = "Louis II"
+		dynasty = "de Valois"
+		birth_date = 1462.6.27
+		death_date = 1515.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1478.6.27 = {
+	monarch = {
+		name = "Louis II" # Louis XII de France
+		dynasty = "de Valois"
+		birth_date = 1462.6.27
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+# Troisième Apanage du duché par François Ier pour son troisième fils
+
+1536.8.10 = {
+	monarch = {
+		name = "Charles II"
+		dynasty = "de Valois"
+		birth_date = 1522.1.22
+		adm = 2
+		dip = 2
+		mil = 2
+		
+	}
+}
+
+# 4° création de l'apanage par Henri II pour son second fils
+
+1549.2.3 = {
+	monarch = {
+		name = "Louis III"
+		dynasty = "de Valois"
+		birth_date = 1549.2.3
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1550.6.27 = {
+	monarch = {
+		name = "Charles III" # Futur roi Charles IX
+		dynasty = "de Valois"
+		birth_date = 1550.6.27
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1560.12.5 = {
+	monarch = {
+		name = "Henri I" # Futur roi Henri III
+		dynasty = "de Valois"
+		birth_date = 1551.9.19
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}

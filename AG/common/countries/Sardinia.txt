@@ -1,0 +1,126 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 117  146  167 }
+
+historical_idea_groups = {
+	maritime_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Mariano #4" = 20
+	"Guglielmo #0" = 20
+	"Pietro #3" = 15
+	"Ugo #3" = 15
+	"Federigo #1" = 15
+	"Barisone #3" = 10
+	"Andrea #1" = 10
+	"Giovanni #1" = 10
+	"Gonario #2" = 5
+	"Beatrice #0" = -5
+	"Agostino #0" = 2
+	"Amedeo #0" = 2
+	"Andrea #0" = 2
+	"Arsenio #0" = 2
+	"Benedetto #0" = 2
+	"Benvenuto #0" = 2
+	"Bonaventura #0" = 2
+	"Carlo #0" = 2
+	"Cesare #0" = 2
+	"Costanzo #0" = 2
+	"Cosimo #0" = 2
+	"Crsitoforo #0" = 2
+	"Dario #0" = 2
+	"Davide #0" = 2
+	"Edmondo #0" = 2
+	"Emanuele #0" = 2
+	"Felice #0" = 2
+	"Gaspare #0" = 2
+	"Gennaro #0" = 2
+	"Giulio #0" = 2
+	"Ilario #0" = 2
+	"Lazzaro #0" = 2
+	"Lorenzo #0" = 2
+	"Luciano #0" = 2
+	"Nestore #0" = 2
+	"Patrizio #0" = 2
+	"Santo #0" = 2
+	"Sebastiano #0" = 2
+	"Simone #0" = 2
+	"Vittorio #0" = 2
+	
+	"Celeste #0" = -1
+	"Giacinta #0" = -1
+	"Romilda #0" = -1
+}
+
+leader_names = {
+	Alfieri "d'Appiani d'Aragona" "Arborio Mella" Asinari d'Attalaya
+	Balbo Benso "de Bette" "Boncompagni Ludovisi" Borromeo Bosco Botta Broglia "di Busca"
+	Cafasso "di Cardé" "del Carreto" Casati "di Cavour" Chiodo "Cisa Asinari" Cottolengo
+	Delitalia "Doria di Cirié" 
+	"Facchinetti de Nuce" Ferrero-Fiesco 
+	"Gaetani dell'Aquila" Galletti Gioberti 
+	"Homo dei Moura" 
+	Lascaris Ludovisi "Luserna Campiglione" "di Luserna"
+	"del Marco" "de Maretta" Micca 
+	Ossorio "d'Ottaiano"
+	"di Paesana" Pallavicini Pignatelli
+	"de Savoie" Solaro 
+	Taparelli Tassoni "della Torre" Trivulzio "de Tutavila"
+	Vico
+}
+
+ship_names = { 
+	"Alfonso il Benigno" Alghero Aquila Ardita Asinara Assemini
+	"Beata Margherita" "Bella Genovese" Benvenuto Bilanciella 
+	Cagliari Campidano Capitana Capoterra Caprera Carbonia-Iglesias Carloforte "Carlo Felice" Carolina Cedrino Coghinas "Commercio di Genova" Cristina
+	"Dolomiti di Oliena"
+	"Eleanor Arborea"
+	Falco Favorita Flumendosa Forte 
+	Generoso "Giacomo II" "Giovanni il Galantuomo" "Giudice Ugone"
+	Intrepida 
+	"Lago di Baratz"
+	"Maria Luisa" "Maria Teresa" "Martino l'Umano" "Medio Campidano" Monserrato "Monte Albo" "Monte Rasu" "Monti di Limbara" "Monti di Alà" 
+	Nereide Nuoro 
+	Ogliastra Olbia-Tempio Oristano Orosei
+	Patrona "Porto Torres" "Punta La Marmora"
+	Quartucciu
+	Sant'Antioco Sant'Elena "Santa Barbara" "Santa Gilla" "Santa Teresa" "San Carlo" "San Effisio" "San Maurizio" "San Michele" "San Pietro" "San Vittore" "San Vittorio" Sardina Sassari "S. Domenico" "S. Maria" "S. Saturnino" Selargiu Serpente Sestu Sinnai Sorso Speditiva 
+	Tavolara Tirso Tritone
+	Veloce Vigilante "Vittorio Emanuele"
+	Zeffiro
+}
+
+army_names = {
+	"Esercito Sardinia" "Esercito de Due Sicile" "Armata de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina Sardinia" "Marina di $PROVINCE$"
+}

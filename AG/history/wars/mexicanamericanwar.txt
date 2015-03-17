@@ -1,0 +1,588 @@
+name = "Guerre du Mexique"
+
+#casus_belli
+war_goal = {
+	type = take_province_nationalist
+	casus_belli = cb_nationalist
+}
+
+# Declaration of War
+1846.4.25 = {
+	add_attacker = USA
+	add_defender = MEX
+}
+
+1846.5.6 = {
+	battle = {
+		name = "Fort Texas"
+		location = 888
+		attacker = {
+			commander = "Jacob Brown"
+			infantry = 500
+			losses = 3	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Mariano Arista"
+			infantry = 4000
+			losses = 20	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1846.5.8 = {
+	battle = {
+		name = "Palo Alto"
+		location = 888
+		attacker = {
+			commander = "Zachary Taylor"
+			infantry = 2400
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Mariano Arista"
+			infantry = 4000
+			losses = 6	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1846.5.9 = {
+	battle = {
+		name = "Resaca de la Palma"
+		location = 884
+		attacker = {
+			commander = "Zachary Taylor"
+			infantry = 2000
+			losses = 6	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Mariano Arista"
+			infantry = 4000
+			losses = 12	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1846.8.15 = {
+	battle = {
+		name = "Santa Fé"
+		location = 881
+		attacker = {
+			commander = "Stephen Watts Kearny"
+			infantry = 1700
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Manuel Armijo"
+			infantry = 3000
+			losses = 2	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1846.9.23 = {
+	battle = {
+		name = "Monterey"
+		location = 861
+		attacker = {
+			commander = "Zachary Taylor"
+			infantry = 6650
+			losses = 8	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Pedro de Ampudia"
+			infantry = 10000
+			losses = 3	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1846.9.30 = {
+	battle = {
+		name = "Los Angeles"
+		location = 869
+		attacker = {
+			commander = "Robert F. Stockton"
+			infantry = 50
+			losses = 6	# percent
+			country = USA
+		}
+		defender = {
+			commander = "José Mariá Flores"
+			infantry = 60
+			losses = 2	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1846.10.9 = {
+	battle = {
+		name = "Dominguez Rancho"
+		location = 869
+		attacker = {
+			commander = "William Mervine"
+			infantry = 50
+			losses = 40	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Jose Antonio Carrillo"
+			infantry = 100
+			losses = 5	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1846.10.26 = {
+	battle = {
+		name = "Tabasco"
+		location = 848
+		attacker = {
+			commander = "Matthew C. Perry"
+			infantry = 250
+			losses = 6	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Juan B. Traconis"
+			infantry = 300
+			losses = 2	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1846.12.6 = {
+	battle = {
+		name = "San Pasquale"
+		location = 869
+		attacker = {
+			commander = "Stephen Watts Kearny"
+			infantry = 140
+			losses = 20	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Andrés Pico"
+			infantry = 150
+			losses = 15	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1846.12.25 = {
+	battle = {
+		name = "El Brazito"
+		location = 879
+		attacker = {
+			commander = "Alexander W. Doniphan"
+			infantry = 850
+			losses = 20	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Andrés Pico"
+			infantry = 1100
+			losses = 20	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.1.8 = {
+	battle = {
+		name = "Rio San Gabriel"
+		location = 869
+		attacker = {
+			commander = "Stephen Watts Kearny"
+			infantry = 600
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "José Mariá Flores"
+			infantry = 160
+			losses = 60	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.1.9 = {
+	battle = {
+		name = "La Mesa"
+		location = 869
+		attacker = {
+			commander = "Stephen Watts Kearny"
+			infantry = 500
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "José Mariá Flores"
+			infantry = 400
+			cavalry = 200
+			losses = 10	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.1.19 = {
+	add_defender = APA
+} # Révolte des Taos
+
+1847.1.24 = {
+	battle = {
+		name = "Cañada"
+		location = 879
+		attacker = {
+			commander = "Sterling Price"
+			infantry = 350
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Pablo Chavez"
+			infantry = 1500
+			losses = 4	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.2.1 = {
+	battle = {
+		name = "Mora"
+		location = 879
+		attacker = {
+			commander = "Israel R. Hendley"
+			infantry = 80
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Manuel Cortez"
+			infantry = 200
+			losses = 20	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.2.5 = {
+	battle = {
+		name = "Taos"
+		location = 879
+		attacker = {
+			commander = "Sterling Price"
+			infantry = 300
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Pablo Chávez"
+			infantry = 400
+			losses = 60	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.2.23 = {
+	battle = {
+		name = "Buena Vista"
+		location = 861
+		attacker = {
+			commander = "Zachary Taylor"
+			infantry = 4500
+			losses = 12	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 20000
+			losses = 15	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.2.28 = {
+	battle = {
+		name = "Sacramento"
+		location = 864
+		attacker = {
+			commander = "Colonel Alexander Doniphan"
+			infantry = 1500
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "General Jose A. Heredia"
+			infantry = 2620
+			cavalry = 1200
+			artillery = 16
+			losses = 15	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.3.29 = {
+	battle = {
+		name = "Veracruz"
+		location = 848
+		attacker = {
+			commander = "Winfield Scott"
+			infantry = 12000
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Juan Morales"
+			infantry = 3360
+			losses = 8	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.4.18 = {
+	battle = {
+		name = "Cerro Gordo"
+		location = 848
+		attacker = {
+			commander = "Winfield Scott"
+			infantry = 8500
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 12000
+			losses = 35	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.4.18 = {
+	battle = {
+		name = "Tuxpan"
+		location = 848
+		attacker = {
+			commander = "Matthew C. Perry"
+			infantry = 1519
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Martin Perfecto de Cos"
+			infantry = 400
+			losses = 15	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.6.16 = {
+	battle = {
+		name = "Tabasco"
+		location = 848
+		attacker = {
+			commander = "Mosquito Fleet"
+			infantry = 1173
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Domingo Echagaray"
+			infantry = 600
+			losses = 5	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.8.20 = {
+	battle = {
+		name = "Contreras"
+		location = 852
+		attacker = {
+			commander = "Winfield Scott"
+			infantry = 8500
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 20000
+			losses = 8	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.8.20 = {
+	battle = {
+		name = "Churubusco"
+		location = 852
+		attacker = {
+			commander = "Winfield Scott"
+			infantry = 8400
+			losses = 15	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 1300
+			losses = 95	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.9.8 = {
+	battle = {
+		name = "Molino del Rey"
+		location = 852
+		attacker = {
+			commander = "Winfield Scott"
+			infantry = 2800
+			losses = 30	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio Léon" 
+			infantry = 12000
+			losses = 15	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.9.13 = {
+	battle = {
+		name = "Chapultepec"
+		location = 852
+		attacker = {
+			commander = "Winfield Scott"
+			infantry = 13000
+			losses = 8	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Nicolás Bravo"
+			infantry = 4876
+			losses = 65	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.9.15 = {
+	battle = {
+		name = "Mexico"
+		location = 852
+		attacker = {
+			commander = "Winfield Scott"
+			infantry = 7200
+			losses = 15	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 16000
+			losses = 40	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.10.9 = {
+	battle = {
+		name = "Huamantla"
+		location = 850
+		attacker = {
+			commander = "Joseph Lane"
+			infantry = 3000
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 2000
+			losses = 25	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1847.10.12 = {
+	battle = {
+		name = "Puebla"
+		location = 882
+		attacker = {
+			commander = "Thomas Childs"
+			infantry = 3500
+			losses = 3	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Joaquín Rea"
+			infantry = 4000
+			losses = 25	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+# Paix
+
+1848.2.2 = {
+	rem_attacker = USA
+	rem_defender = MEX
+	rem_defender = APA
+} # Traité de Gualalupe Hildago

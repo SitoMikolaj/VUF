@@ -1,0 +1,149 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 193  26  14 }
+
+revolutionary_colors = { 5  13  0 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	administrative_ideas
+	exploration_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+	expansion_ideas
+	trade_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henry #3" = 100
+	"Edward #3" = 60
+	"Charles #0" = 40
+	"James #0" = 40
+	"William #2" = 20
+	"Richard #2" = 20
+	"Mary #0" = -20
+	"Philip #0" = 20
+	"Frederick #0" = 10
+	"Anne #0" = -10
+	"Arthur #0" = 10
+	"Matilda #1" = -10
+	"Edgar #1" = 10
+	"Elizabeth #0" = -10
+	"Jane #0" = -10
+	"Thomas #0" = 10
+	"Oliver #0" = 10
+	"George #0" = 10
+	"Margaret #0" = -10
+	"John #1" = 10
+	"Harold #2" = 5
+	"Eadwig #1" = 5
+	"Roger #0" = 2
+	"Stephen #1" = 10
+	"Adam #0" = 2
+	"Alexander #0" = 20
+	"Albert #0" = 2
+	"Alfred #0" = 2
+	"Andrew #0" = 20
+	"Anthony #0" = 20
+	"Benjamin #0" = 2
+	"Christopher #0" = 20
+	"Daniel #0" = 2
+	"David #0" = 2
+	"Francis #0" = 5
+	"Geoffrey #0" = 20
+	"Guy #0" = 2
+	"Hugh #0" = 2
+	"Jeremy #0" = 2
+	"Jonathan #0" = 2
+	"Joseph #0" = 2
+	"Lawrence #0" = 2
+	"Matthew #0" = 2
+	"Samuel #0" = 2
+	"Lionel #0" = 5
+	"Robert #0" = 5
+	"Victoria #0" = -10
+}
+
+leader_names = {
+	"of Albemarle" Amherst Anson "Ashley-Cooper" Alexander Ayescue Alden
+	Buckingham "of Buckingham" Braddock Byron Burgoyne Beresford Brock Benbow Blake Bedford "of Bedford" Boscawen Baffin Button Boyd Butler Byrd Boyle Berkeley "of Baltimore" "de Beauchamp" Beaufort Brandon Benbow
+	Clarence "of Clarence" "de Clifford" Cromwell "of Cumberland" Clinton Cornwallis Clive Cabot Carleton Cavendish Cook Churchill Chaucer Capgrave Caxton Cranmer Cecil Catesby Colston Crowley Cooke Calvert Chancellor
+	Dampier Davis Drake Donne Dryden Defoe Desaguliers Devereux Dudley
+	Essex Erasmus
+	Fairfax Frobisher Fortescue Fawkes Flamsteed Fitzwilliam Fitzjames
+	Gloucester "of Gloucester" Gilbert "of Godolphin" Grew Grenville
+	Howe Howard Herbert Hawke Hood Hastings Hudson Hawkins Harvey Hobbes Hyde Hopkins "of Halifax" Hooke Halley Harley Händel Hutcheson Harrison Hamilton
+	Jonson Johnson Jeffreys
+	Leicester "of Leicester" Lancaster "of Lancaster" Laud Locke
+	"of Marlborough" Middleton Moore More Montgomery Marlowe "of Malmesbury" Milton Minuit Morgan Mowbray Monck Mathews
+	Northumberland Norfolk Neville Newton
+	"of Ormonde"
+	Procter Poyning Paulet Pym Pepys Purcell Paterson Pope Pitt Phips Penn Plantagenêt Percy
+	Rooke Rodney Raleigh Roe Recorde Rolfe "of the Rhine" Radisson Russell
+	Salisbury "of Salisbury" Somerset Suffolk Saunders Smith Sidney Spenser Shakespeare "of Stafford" "of Shaftesbury" Sydenham Savile Swift Skelton Salesbury Stuart
+	Talbot Tarleton Tyndale Taverner Tudor
+	Uxbridge Ussher
+	Villiers
+	Warwick "of Warwick" Wolfe Warham Wolsey "of Winchester" Walsingham Wentworth Wren Walpole "of Wolterton" Wesley Willis "de la Warr" Willoughby
+	York "of York" Yonge
+}
+
+ship_names = {
+	Abberton Abercromby Abergavenny Abigail Abingdon Abundance Acasta Achates Acheron Achilles Acorn Acriss Actaeon Active Acute Adamant Adder Addison Adelphi Adrian Advance Adventure Advice Aeneas Aeolus Africa African Agamemnon Agase Aggressor Aid Aimwell Aislabie Ajax Alacrity Alarm Albacore Alban Albany Albatross Albemarle Albion Alborough Alcide Alcmene Aldborough Alderney Alecto Alert Alexander Alfred Algerine Allegiance Alliance Alligator "Alnwick Castle" Alpheus Althea Alum Amaranthe Amazon Amboyna Ambuscade Amelia America Amethyst Amity Amphion Amphitrite Anaconda Anacreon Andromache Andromeda Andrew Anglesea Anna Anne "Anne Gallant" "Anne Galley" "Anne Royal" Anson Ant Antelope Apelles Apollo Aquilon Arab Arabella Arachne Araxes Arcadia "Archduke Charles" Archangel Archer Ardent Arethusa Argo Argonaut Argyle Ariadne Ariel "Ark Royal" Armide Arniston Arran Arrogant Arrow Artois Arundel Ascension Asia Asp Assault Assistance Association Assurance Astell Astrea Atalanta Atlantic Atlas Attack Attendant Attentive Audacious August Augusta Augustine Aurora Auspicious Autumn Avenger Avon
+	Bacchante Bacchus Badger Bann Banterer Barbara Barbette Barfleur Barham Baring Barkworth Barrosa Barwell Basing Basilisk Bawdon Beagle Bear Beaver Beaufort Beaulieu Beaumont Beckenham Bedford "Bedford Galley" Bee Belisarius Belle Belleisle Bellerophon Bellette Belliqueux Bellmont Bellona Belvedere Belvidera Belzebub Benbow Benjamin Berbice Bergere "Berkeley Castle" Berrington Berwick Bessborough Betsy Betty Beulah Bezan Bideford Bishop Biter Bittern Blackamoor "Black Prince" Blackwall Blake Blanche Blandford Blast Blaze Blazer Blessing Blonde Bloodhound Blossom Boadicea Boddam Boddington Bold Bolton Bonaventure Bonetta Boreas Borer Boscawen Bouncer Bounty Bowden Bowen Boxer Boyd Boyne Bradford Bramble Brave Brazen Bream Bridgewater Bridgman Brilliant Briseis Brisk Bristol Britannia "British King" Britomart Briton Brothers Broxbornebury Bruizer Brune Brunswick Bucephalus Buckhurst Buckingham Buckinghamshire Bull Bulldog Bulwark Burford Burlington Busbridge Bustard Bustler Busy Bute Buzzard
+	Cadmus Cadogan Caernarvon "Caldicot Castle" Caldwell Caledonia Caledonian Calliope Calypso Cambrian Cambridge Camden Camel Cameleon Camilla Campbell Camperdown Canning Cannon Canopus Canso Canterbury Capelin Captain Captivity Carcass Cardigan Cardonnell Carlebury Carlisle Carlton Carmarthen Carnatic Carnation Carolina Caroline Carouse Carrier Carron Carysfort Cassandra Castle "Castle Eden" "Castle Huntley" Castilian Castor Catherine Cato Cecilia Censor Centaur Centurion Cephalus Cerberus Ceres Cesar Challenger Chambers Champion Chance Chandos Chapman Charger Charity Charles "Charles II" "Charles and Henry" "Charles Galley" Charlestown Charlotte Charlton "Charming Jenny" "Charming Molly" Charon Charwell Charybdis Chaser Chatham Cheerful Cheerly Cheriton Cherub Chester Chesterfield Chestnut Chichester Childers "Childs Play" China Cholmondeley Christ Christopher "Christopher of the Tower" Chubb Circe "City of London" Cirencester Clarence Clarkson Claudia Claw Cleopatra Cleveland Clinker Clinton Clio Clive Clove Clyde Coast Coaster Cockatrice Cockchafer Codrington Colchester Coldstream Colebrooke Colossus Colpoys Combatant Combustion Comet Comfort Compton Comus Concord Confiance Conflagration Conflict Confounder Conqueror Conquest Consent Constance Constant "Constant Friend" "Constant Reformation" "Constant Warwick" Constitution Content Contest Contractor Convert Convertine Convulsion Conway Cordelia Cormorant Cornelia Cornwall Cornwallis Coronation Corsair Corso Cossack "Countess of Sutherland" Courier Courser Coutts Coventry Coverdale Cracker Crafty Craggs Crane Crash Crescent Cretan Crispiana Crocodile Crocus Cronwall Crown "Crown Prince" Cruizer Cruttenden Cuckoo Cuffnells "Cullands Grove" Culloden Cumberland Cumbrian Cupid Curlew Curtana Cuttle Cyane Cyclops Cydnus Cygnet Cynthia Cyrene Cyrus 
+	Daedalus Danae Daphne Daring Darling Dart Dartmouth Dasher Dashwood Dauntless Dawsonne "Deal Castle" Deale Decade Decker Decoy Dee Defence Defender Defiance Degrave Delight Denham Deptford Derby Derwent Desparate Despatch Destiny Devastation Devaynes Devonshire Dexterous Diadem Diamond Diana Dictator Dido Diligence Diligent Diomede Director Discovery Dispatch Dixmunde Dolphin Doddington Donegal Dorcas Doris Dorothy Dorrill Dorset Dorsetshire Dotterel Dove Dover "Dover Castle" Dragon "Dragon's Claw" Drake Dreadnought Driver Dromedary Druid Dryad Duchess Duff Duke "Duke of Buccleugh" "Duke of Cambridge" "Duke of Clarence" "Duke of Cumberland" "Duke of Dorset" "Duke of Gloucester" "Duke of Grafton" "Duke of Kingston" "Duke of Montrose" "Duke of Newcastle" "Duke of Portland" "Duke of Richmond" "Duke of York" Dunbar Duncan Dungeness Dunkirk Dunwich "Dursley Galley" Durrington Dutton Dwarf 
+	Eagle "Earl Balcarras" "Earl Camden" "Earl Cornwallis" "Earl Fitzwilliam" "Earl Howe" "Earl Mansfield" "Earl Mornington" "Earl of Abergavenny" "Earl of Ashburnham" "Earl of Chatham" "Earl of Chesterfield" "Earl of Dartmouth" "Earl of Elgin" "Earl of Hertford" "Earl of Holderness" "Earl of Lincoln" "Earl of Middlesex" "Earl of Mornington" "Earl of Oxford" "Earl of Pembroke" "Earl of Sandwich" "Earl of Wycombe" "Earl Spencer" "Earl St Vincent" "Earl Talbot" "Earl Temple" Earnest Eastcourt Eatkins Eaton Echo Eclipse Eden Edgar Edgebaston Edgecote Edward "Edward Howard" Egeria Eleanor Electra Elephant Elias Eling Eliza Elizabeth "Elizabeth Bonaventure" Elk Elligood Elphinstone Eltham Elven Emerald Employment Emulous Encounter Endeavour Endymion Enfield Enterprise Ephira Erebus Escort Esk Espiegle Espoir Essex Esther Estridge Ethalion Etingdon Euphrates Europa Europe European Eurotas Euryalus Eurydice Etna Excellent Exchange Exertion Exeter Expectation Expedition Experiment Explosion Express Eyles
+	Fagons Fairfax Fairford Fairlie Fairy Falcon Falkland Falmouth Fame Fancy Fanny Farewell Faversham Favourite Fawn Fearless Featherstone Felicity Felix Fellowship Ferret Ferreter Fervent Feversham Fierce Firebrand Firedrake Firefly Firm "Five Brothers" Flamborough Flamer Fleet Flirt Flora Flour Fly "Flying Eagle" "Flying Fish" Folkestone Forbes Force Fordwich Foresight Forester Formidable "Fort Diamond" "Fort St George" "Fort William" Forte Forth Fortitude Fortune Forward Foudroyant Foulis "Four Brothers" Fowey Fox Foxhound Francis Frederick Friends Friendship Frisk Frolic Fubbs Furious Furnace Fury Fuze 
+	Gabriel "Gabriel Royal" Gainsborough Galatea Gallant Gannet Ganymede Garland Gaspe Gatton George Georgiana Gift "Gift of God" Gilwell Gipsy Gladiator Glatton Globe Glory Gloucester Godfrey Godolphin Godspeed Goelen "Golden Fleece" "Golden Grove" "Golden Phoenix" Goldfish Goliath "Good Design" "Good Fortune" "Good Hope" Goodfellow Goodgrace Goree Gorgon Gosfright Goshawk Gosport Gossamer Grace "Grace Dieu" Grafton Grampus Granby "Grand Mistress" Granicus Grant Grantham Grappler Grasshopper "Great Barbara" "Great Bark" "Great Charity" "Great Elizabeth" "Great Harry" "Great London" "Great Nicholas" "Grand Turk" Greenwich Grenville Greyhound Griffin Griper Grosvenor Growler Guardian Guernsey Guest Guildford Guinea 
+	Haddock Haeslingfield Halcyon Halifax Hamadryad Halsewell Hampshire "Hampton Court" Hannah Hannibal Happy "Happy Entrance" "Happy Return" Harcourt Hardy Hare Harlequin Harleston Hart Hardwicke Harman Harmony Harpy Harrier Harriet Harrington Harrison Hartwell Harwich Hastings Hasty Haughty Havick Havoc Hawk Hawke Hazard Head Heartsease Hearty Heathcote Hebe Hecate Hecla Hector Helder Helena Helicon Henrietta "Henrietta Maria" Henry "Henry and William" Herald Herbert Herbus Herculean Hercules Herefordshire Hermes Hermione Herne Hero Heroine Heron Hertford Hesper Hester Heston Hibernia Hillsborough Hinchinbrooke Hind Hobart Hogue Holderness Holly Holmes Holyghost Hope Hopewell Horatio Hornet Horsenden Hosiander Hotspur Houghton Hound Howe Howland Huddart Humber Hunter Huntingdon Hurley Hussar Hyacinth Hyaena Hydra Hyperion  
+	Icarus Ilchester Illustrious Imogene Implacable Impregnable Incendiary Inconstant Increase Indefatigable India Indian Indignant Indispensable Infernal Inflexible Inglis Inquiry Insolent Inspector Intelligent Intelligence Intrepid Investigator Inveterate Invincible Iphegenia Ipswich Iris Irresistible Isis Ister "Isle of Wight" Islip
+	Jackal Jamie James "James Galley" "James and Elizabeth" "James and Mary" "James Royal" Jane Janus Jason Jasper Jersey Jesus Jewel Johanna John "John Baptist" "John Bull" Jolly Jonah Jonas Josiah Julia Juliana Juniper Juno Junon Jupiter Justinian
+	Katherine "Katherine Forteleza" Kempthorn Kennington Kent "King George" "King William" Kingfish Kingfisher Kingsmill Kingston Kinsale Kitchen Kite
+	Lacedaemonian "Lady Burgess" "Lady Campbell" "Lady Carrington" "Lady Castlereagh" "Lady Jane Dundas" "Lady Lushington" "Lady Melville" Lamprey Lancaster Landrail Langport Lanneret Lansdown Lapwing Lark Larkins Lascelles Latham Latona Launceston Laura Laurel Lavinia Leander Leda Lee Leghorn Leighton Lenox Leonidas Leopard "Lesser James" Lethieullier Levant Leven Leveret Leviathan Liffey Ligaera Lightning Lily Lincoln Linnet Lion Lioness "Lion's Claw" Litchfield Little "Little Belt" "Little James" "Little Josiah" "Little London" "Little Victory" Lively Liverpool Lizard Locko Locust London Looe "Lord Anson" "Lord Camden" "Lord Castlereagh" "Lord Clive" "Lord Duncan" "Lord Eldon" "Lord Forbes" "Lord Hawkesbury" "Lord Holland" "Lord Keith" "Lord Lynedoch" "Lord Macartney" "Lord Mansfield" "Lord Melville" "Lord Mulgrave" "Lord Nelson" "Lord North" "Lord Thurlow" "Lord Walsingham" Love "Love and Friendship" Lowestoffe "Lowther Castle" "Loyal Adventure" "Loyal Bliss" "Loyal Captain" "Loyal Cooke" "Loyal Eagle" "Loyal Hester" "Loyal London" "Loyal Merchant" "Loyal Subject" Lucifer Ludlow "Ludlow Castle" Lurcher Lyell Lyme Lynn Lynx Lyra
+	Macclesfield Macedonian Machine Mackerel Magnanime Magnet Magnificent Magpie Maida Maidstone Majestic Major Mallard Manly Manship "Marchioness of Ely" "Marchioness of Exeter" Margate Margaret Maria Marigold Mariner Marlborough "Marquis of Ely" "Marquis of Hastings" "Marquis of Huntley" "Marquis of Lansdown" "Marquis of Rockingham" "Marquis of Wellesley" "Marquis of Wellington" Mars "Marston Moor" Martial Martha Martin Mary "Mary Galley" "Mary Gonson" "Mary Hampton" "Mary Rose" "Mary Royal" "Mary Sandwich" Massingbird Mastiff Matilda Mayflower Maynard Mead Meander Medea Mediator Medina Medusa Medway Megaera Melampe Melampus Meleager Melpomene Melville "Melville Castle" Menai Menelaus Mentor Mercury Meredith Merhonour Merlin Mermaid Merope Mersey Metcalfe Meteor Michael Midas Middlesex Milbrook Milford Minerva Minion Minotaur Minstrel Minx Mistletoe Monarch Mongoose Monk Monkey Monmouth Montagu Montfort Moon Moor Mordant Morgiana Morice Morley "Morning Star" Moro Morris Morse Mortar Moselle Mulgrave Mullet Muros Musquito Mutine Myrmidon Myrtle
+	Naiad Namur Nancy Nantwich Narcissus Naseby Nassau Nathaniel Nautilus Navy Nelson Nemesis Neptune Nereus Nestor Netley Newark Newbury Newcastle Niger Nightingale Nimble Nimrod Niobe Nisus Noble Nonpareil Nonsuch Norfolk Normanton Norris "North Star" Northampton Northington Northumberland Norwich Nottingham Nymph
+	Oaklander Oberon Ocean Ockham "Old James" "Old President" Oley Olympia Onslow Onyx Opossum "Orange Tree" Orestes Orford Orion Orlando Ormonde Orontes Orpheus Orwell Osprey Ossory Osterley Ostrich Otter "Owen Glendower" Oxford
+	Pactolus Palsgrave Pallas Pandora Panther Paragon Parthian Partridge Patriot Paul Paulina Peacock Pearl Pegasus Peggy Pelham Pelican Pelorus Pelter Pembroke Pendennis Penelope Penguin Penzanze "Peregrine Galley" Perseus Perseverance Persian Pert Peter "Peter Pomegranate" Peterel Phaeton Pheasant Philomel Phipps Phoebe Phoenix Phosphorus Pickle Piercer Pigeon Pigmy Pigot Pike Pilchard Pilot Pincher Pioneer Pitt Placentia Plantagenet Plover Plumper Pluto Plymouth Podargus Polyphemus Pomona Ponsborne Poole Porcupine Porpoise Portfield Portland Portsmouth Portsea Potton Pouncer Powerful President Preston Prevost Prime Primrose Prince "Prince Edward" "Prince Frederick" "Prince George" "Prince Henry" "Prince of Wales" "Prince Regent" "Prince Royal" "Prince William" "Prince William Henry" Princess "Princess Amelia" "Princess Anne" "Princess Augusta" "Princess Caroline" "Princess Charlotte" "Princess Louisa" "Princess Mary" "Princess of Wales" "Princess Royal" Procris Prometheus Proselyte Proserpine Prospero Prosperpine Protector Providence Prudent "Prudent Mary"
+	Quail Queen "Queen Caroline" "Queen Charlotte" "Queen Mab" Queenborough
+	Raccoon Racehorse Racer Rainbow Raisonable Raleigh Rambler Ramillies Ranelagh Ranger Rapid Rapier Rattler Raven Ravensworth Raymond Ready Rebecca Rebow Rebuff Recovery Recruit Redbreast Redbridge "Red Lion" Redoubtable Redpole Redwing Reformation Refuge Regard Regent Regulus Reindeer Relief Renown Repulse Reserve Resistance Resolute Resolution Restoration Resource Retaliation Retreat Retribution Return Revenge Reynard Richard Richmond Rifleman Ringdove Rippon "Rising Eagle" "Rising Sun" Robust Rochester Rochford Rockingham Rodney Roebuck Rolla Roman "Roman Emperor" Romney Romulus Rook Rosamond Rose Rosario Rover "Royal Admiral" "Royal Anne" "Royal Bishop" "Royal Captain" "Royal Caroline" "Royal Charles" "Royal Charlotte" "Royal Duke" "Royal Escape" "Royal Exchange" "Royal George" "Royal Henry" "Royal James" "Royal Katherine" "Royal Mary" "Royal Oak" "Royal Prince" "Royal Sovereign" "Royal William" Royalist Ruby Rupert Russell Ruth Rye 
+	Sabine Sabrina Safeguard "Saint Albans" "Saint Andrew" "Saint Christopher" "Saint David" "Saint Esprit" "Saint George" "Saint Lawrence" "Saint Matthew" "Saint Michael" "Saint Patrick" "Saint Vincent" Salamander Saldanha Salisbury Sally Salorman Saltash Samaritan Sampson Samson Samuel Sandfly Sandwich Sapphire Sappho Saracen Sarah Sardine Sarpedon Sarum Satisfaction Satelite Saturn Saudadoes Savage "Scaleby Castle" Scarborough Sceptre Scipio Scorpion Scourge "Scourge of Malice" Scout Scylla Sea-Lark Seaflower Seaford Seagull Seahorse Sedgemoor Sedgwick Selby Semiramis Seneca Sensible Sentinel Serapis Serpent Severn Seymour Shaftesbury Shallow Shamrock Shark Sharpshooter Shearwater Sheerness Shelburne Sheldrake Sherbourne Shoreham Shrewsbury Sibyl "Sir Edward Hawke" "Sir Francis Drake" "Sir John Colpoys" "Sir Thomas Paisley" Siren Sirius "Skelton Castle" Skipjack Skylark Slaney Snake Snap Snapper Snipe Society Solebay Solomon Somerset Sommers Sophie Sorlings Southampton "Southsea Castle" Sovereign "Sovereign of the Seas" Sparkler Sparrow Sparrowhawk Spartan Spartiate Speaker Speedwell Speedy Spence Spencer Spey Spy Sphynx Spider Spiteful Spitfire Sprightly Squirrel Stafford Stag Standard Stanhope Star Starling "Starling Adventure" Stately Statira Staunch Steady "Striling Castle" Stork Stormont Strafford Streatham Strenuous "Stringer Galley" Strombolo Subtle Success Suffolk Sulivan Sulphur Sultan Sun Sunderland Superb Supply Surly Surprise Surrey Susan Susannah Sussex Sutherland Swaggerer Swallow Swallowfield Swan Sweepstakes Swift Swiftsure Swinger Sybille Sylph Sylvia 
+	Talbot Tamar Tanais Tankerville Tarrier Tartar Tartarus Taunton "Taunton Castle" Tavistock Tavy Teazer Tees Temeraire Temple Terpsichore Terrible Terror Thais Thalia Thames Theban Theseus Thetis Thisbe Thistle Thistleworth Thomas Thomasine Thorn Thorndon Thracian Thrasher "Three Brothers" Thrush Thunder Thunderer Tiber Tickler Tiger "Tiger's Whelp" Tigress Tigris Tilbury Toddington Torbay Torrington Tottenham Towey Townsend Tramontana Transfer Transit Travers Tremendous Trent Trial Tribune Trident Trimmer Trinculo Trinity "Trinity Royal" Triton Triumph Trojan "True Briton" Trumball Truroe Trusty Tryal Turbulent Tuscan "Tuscan Galley" Tweed Tyne Tyrian 
+	Ulysses Umpire Undaunted Unicorn Union Unique Unite Unity "Upton Galley" Uranie Urchin Urgent 
+	Valentine Valiant Valorous Vanguard Variable Venerable Vengeance Vengeur Venturer Venus Vesta Vestal Vesuvius Veteran Victor Victorious Victory Vigilant Vindictive Vine Violet Viper Virgin Vixen Volage Volcano Volunteer Vulcan Vulture 
+	Wager Wakefield "Walmer Castle" Walpole Walthamstow Wanderer Warley Warren Warrior Warspite Warwick Wasp Watchful Waterwitch Weazle Welcome Welfare Wellesley Wellington Wentworth Westmoreland Wexford Weymouth Whale "White Bear" Whiting Widgeon Wildboar "William and Mary" William Williamson Wilmington Winchelsea Winchelsey Winchester Windham Windsor "Windsor Castle" Winsby Winterton Wizard Wolf Wolverine Woodcot Woodford Woodlark Woolwich Worcester Wrangler
+	Yarmouth York
+	Zealous Zebra Zenobia Zephyr 
+}
+
+army_names = {
+	"Royal Army" "Army of England" "Army of Scotland" "Army of Ireland" "Army of Wales" "Guard Royal" "New Model Army" "Army of the Eastern" "Army of the Southern" "Army of the Western" "Army of the Nothern" "Yeomanry Army" "Territorial Army" "Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Royal Navy" "Home Fleet" "Blue Squadron" "Red Squadron" "White Squadron" "North Sea Squadron" "Channel Squadron" "Atlantic Fleet" "Eastern Fleet" "East Indies Fleet" "China Station" "Grand Fleet" "Mediterranean Fleet" "Reserve Fleet" "Western Fleet" "$PROVINCE$ Station"
+}

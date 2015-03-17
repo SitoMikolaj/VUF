@@ -1,0 +1,127 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 36  109  194 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	humanist_ideas
+	quantity_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Sikandar #1" = 20
+	"Sher #0" = 20
+	"'Alâ' ad-Dîn Fîrûz #2" = 20
+	"Rukn ad-Dîn Barbak #0" = 10
+	"Jalâl ad-Dîn Fâteh #0" = 10
+	"Nâsir ad-Dîn Mahmûd #1" = 20
+	"Nâsir ad-Dîn Nasrat #0" = 10
+	"Jalâl ad-Dîn Muhammad #1" = 10
+	"Islâm #0" = 10
+	"Mîrzâ Muhammad #0" = 10
+	"Shams ad-Dîn Yûsuf #1" = 10
+	"Shams ad-Dîn Ahmad #1" = 10
+	"Shams ad-Dîn Muhammad #0" = 10
+	"Mîr Muhammad Ja'far #0" = 10
+	"Shihab ad-Dîn Bâyazîd #1" = 5
+	"Mîr Qâsim 'Alî #0" = 5
+	"Sayf ad-Dîn Hamza #1" = 5
+	"Ghiyâs ad-Dîn A'zam #1" = 5
+	"Ghiyâs ad-Dîn Mahmûd #0" = 5
+	"Ghîyâth ad-Dîn Bahâdur #0" = 5
+	"Ghîyâth ad-Dîn Jalâl #0" = 5
+	"Dâ'ûd #0" = 5
+	"Sulayman #0" = 5
+	"Murshid Qulî #0" = 5
+	"Shujâ ad-Dîn Muhammad #0" = 5
+	"A'zam #0" = 2
+	"Ahmad #0" = 2
+	"Abû Nasr #0" = 2
+	"Barbak #0" = 2
+	"Farîd #0" = 2
+	"Yûsuf #0" = 2
+	"Husayn #0" = 2
+	"Fîrûz #0" = 2
+	"Nasrat #0" = 2
+	"Fâteh #0" = 2
+	"Bâyazîd #0" = 2
+	"Nâsir #0" = 2
+	"Ghiyâs ad-Dîn #0" = 2
+	"Mîrzâ #0" = 2
+	"Râja #0" = 2
+	"Hamza #0" = 2
+	"Mâlika Bibi #0" = -1
+	"Sharat #0" = -1
+	"Kamalâ #0" = -1
+}
+
+leader_names = {
+	Âzâd
+	"ad-Dawla"
+	Ganesha
+	Bose
+	Chodhurî
+	Das
+	Debshikdar
+	Gângulî
+	Ghosh
+	Karrânî
+	Khân
+	Majumdâr
+	Mukerjhî
+	Pâl
+	Roi
+	Saraswoti
+	Sarkâr
+	Sen
+	Shâhî
+	Shaykh
+	Sûrî
+	Thâkur
+	Waddedar
+	Zamîndâri
+}
+
+ship_names = {
+	"Abû Bakr" "'Alî Khân" Bhâgîrathî
+	Brôhmôputrô "Chingri Mâch" Chôttogram
+	Durbar Durdashâ Fâtima Gangâ
+	"Hilsa Mâch" Hughlî "Ilish Mâch"
+	Jalangi Yâsmin Kalkâtâ Machli
+	"Kâli Meghanâ" "Kâli Nauk" "Lâl Nauk"
+	Mâladâ Meghnâ Monglâ Murshidâbâd
+	"Nauk-i Islâm" "Nawâber Nauk" "Nil Nauk"
+	"Nil Sagor" Osman Pôdda "Rui Mach"
+	"Sagorer Bâhini" "Shâhîd" "Sheikher Nauk"
+	"Sonar Bangladesh" "Shundorbôn Bahini"
+	"Shundorbôn Nauk" Taslîma
+}
+
+army_names = {
+	"Shena Bahini" "Bangla Bahini" "Ganesa Bahini" "Ilyas Bahini" "Habshis Bahini" "Husaini Bahini" "Suri Bahini" "Karani Bahini" "Nawabs Bahini"	
+}
+
+fleet_names = {
+	"Nou Bahini" "Bangla Nou Bahini"
+}

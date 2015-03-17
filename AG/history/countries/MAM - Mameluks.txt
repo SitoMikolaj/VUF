@@ -1,0 +1,500 @@
+government = iqta
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+historical_rival = TUR
+historical_rival = TIM
+capital = 361 # Cairo
+
+1382.11.26 = {
+	monarch = {
+		name = "Barquq"
+		dynasty = "Burji"
+		birth_date = 1353.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_piety = 0.5
+}
+
+1389.1.1 = {
+	monarch = {
+		name = "Al-Salih Hajji"
+		dynasty = "Bahrit"
+		birth_date = 1363.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_piety = 0.5
+}
+
+1390.2.1 = {
+	monarch = {
+		name = "Barquq"
+		dynasty = "Burji"
+		birth_date = 1353.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_piety = 0.5
+}
+
+1390.2.1 = {
+	heir = {
+		name = "al-Nasr Faraj"
+		monarch_name = "al-Nasr Faraj"
+		dynasty = "Burji"
+		birth_date = 1389.1.1
+		death_date = 1412.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1399.6.1 = {
+	monarch = {
+		name = "al-Nasr Faraj"
+		dynasty = "Burji"
+		birth_date = 1386.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_piety = 0.5
+}
+
+1405.6.1 = {
+	monarch = {
+		name = "Abd al-Azîz"
+		dynasty = "Burji"
+		birth_date = 1389.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1405.9.1 = {
+	monarch = {
+		name = "al-Nasr Faraj"
+		dynasty = "Burji"
+		birth_date = 1386.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_piety = 0.5
+}
+
+1412.5.7 = {
+	monarch = {
+		name = "Al-Mustain"
+		dynasty = "Abbassid"
+		birth_date = 1370.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+1412.7.1 = {
+	monarch = {
+		name = "Shaikh al-Mahmudi"
+		dynasty = "Burji"
+		birth_date = 1366.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1412.7.1 = {
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim"
+		dynasty = "Burji"
+		birth_date = 1390.1.1
+		death_date = 1420.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}
+
+1420.1.1 = {
+	heir = {
+		name = "al-Muzaffar Ahmad"
+		monarch_name = "al-Muzaffar Ahmad"
+		dynasty = "Burji"
+		birth_date = 1420.1.1
+		death_date = 1421.8.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1421.1.14 = {
+	monarch = {
+		name = "Tatar"
+		dynasty = "Burji"
+		birth_date = 1370.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1421.1.14 = {
+	heir = {
+		name = "al-Muzaffar Ahmad"
+		monarch_name = "al-Muzaffar Ahmad"
+		dynasty = "Burji"
+		birth_date = 1420.1.1
+		death_date = 1421.8.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1421.8.1 = {
+	monarch = {
+		name = "Tatar"
+		dynasty = "Burji"
+		birth_date = 1360.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1421.8.1 = {
+	heir = {
+		name = "Muhammad I"
+		monarch_name = "Muhammad I"
+		dynasty = "Burji"
+		birth_date = 1411.1.1
+		death_date = 1422.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1421.11.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Burji"
+		birth_date = 1411.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1422.1.1 = {
+	monarch = {
+		name = "Barsbai"
+		dynasty = "Burji"
+		birth_date = 1370.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1423.1.1 = {
+	heir = {
+		name = "Yusuf"
+		monarch_name = "Yusuf I"
+		dynasty = "Burji"
+		birth_date = 1423.1.1
+		death_date = 1439.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1438.6.8 = {
+	monarch = {
+		name = "Yusuf I"
+		dynasty = "Burji"
+		birth_date = 1423.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1438.9.8 = {
+	monarch = {
+		name = "Jaqmaq"
+		dynasty = "Burji"
+		birth_date = 1373.1.1
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1438.9.8 = {
+	heir = {
+		name = "Uthman"
+		monarch_name = "Uthman I"
+		dynasty = "Burji"
+		birth_date = 1425.1.1
+		death_date = 1454.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1453.2.13 = {
+	monarch = {
+		name = "Uthman I"
+		dynasty = "Burji"
+		birth_date = 1425.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1453.3.13 = {
+	monarch = {
+		name = "Inâl"
+		dynasty = "Burji"
+		birth_date = 1380.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1453.3.13 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad I"
+		dynasty = "Burji"
+		birth_date = 1430.1.1
+		death_date = 1462.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1460.1.1 = {
+	monarch = {
+		name = "Ahmad I"
+		dynasty = "Burji"
+		birth_date = 1430.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1461.2.25 = {
+	monarch = {
+		name = "Khûshqadam"
+		dynasty = "Burji"
+		birth_date = 1420.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1467.10.10 = {
+	monarch = {
+		name = "Bilbay"
+		dynasty = "Burji"
+		birth_date = 1420.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1468.5.1 = {
+	monarch = {
+		name = "Timurbugha"
+		dynasty = "Burji"
+		birth_date = 1420.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1468.7.1 = {
+	monarch = {
+		name = "Qâ'itbay"
+		dynasty = "Burji"
+		birth_date = 1418.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1468.7.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad II"
+		dynasty = "Burji"
+		birth_date = 1460.1.1
+		death_date = 1498.10.30
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1496.7.8 = {
+	monarch = {
+		name = "Muhammad II"
+		dynasty = "Burji"
+		birth_date = 1460.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1498.10.30 = {
+	monarch = {
+		name = "Qânsûh I"
+		dynasty = "Burji"
+		birth_date = 1473.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1500.6.29 = {
+	monarch = {
+		name = "Jânbalat"
+		dynasty = "Burji"
+		birth_date = 1455.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1501.1.26 = {
+	monarch = {
+		name = "Tuman Bay I"
+		dynasty = "Burji"
+		birth_date = 1460.1.1
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1501.4.26 = {
+	monarch = {
+		name = "Qânsûh II"
+		dynasty = "Burji"
+		birth_date = 1446.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+		leader = {	name = "Al Kansur"             	type = general	rank = 0	fire = 1	shock = 4	manuever = 5	siege = 0 }
+	}
+}
+
+1516.8.25 = {
+	monarch = {
+		name = "Tûmân Bay II"
+		dynasty = "Burji"
+		birth_date = 1477.1.1
+		adm = 0
+		dip = 0
+		mil = 2
+		leader = {	name = "Tûmân Bay II"		type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 1 }
+	}
+}
+
+1768.1.1 = {
+	monarch = {
+		name = "Alî l-Kabîr"
+		dynasty = "Beg"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1773.5.2 = {
+	monarch = {
+		name = "Mehmed"
+		dynasty = "Beg"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1775.6.11 = {
+	monarch = {
+		name = "Murad"
+		dynasty = "Beg"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1792.1.1 = { leader = {	name = "Ibrâhîm Bey"           	type = general	rank = 1	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1804.3.14 } }
+
+1792.1.1 = { leader = {	name = "Murad Bey"             	type = general	rank = 2	fire = 1	shock = 3	manuever = 4	siege = 0	death_date = 1801.4.22 } }
+
+1801.4.23 = {
+	monarch = {
+		name = "Osman"
+		dynasty = "Bardisi"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1804.3.14 = {
+	monarch = {
+		name = "Muhammad 'Alî"
+		dynasty = "Muhammad"
+		adm = 6
+		dip = 4
+		mil = 6
+		leader = { name = "Mehmet Ali"		type = general	rank = 0	fire = 1	shock = 4	manuever = 5	siege = 0 }
+	}
+}

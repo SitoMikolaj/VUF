@@ -1,0 +1,168 @@
+#Pirates
+
+graphical_culture = westerngfx
+
+color = { 10  10  10 }
+
+monarch_names = {
+	"Pedro Gilbert #0" = 1
+	"Abraham Blauvelt #0" = 1
+	"Alexander White #0" = 1
+	"Anne #0" = -10
+	"Arudj Barberoussa #0" = 1
+	"Assan Reis #0" = 1
+	"Edward Teach #0" = 1
+	"Jean-Bernard de Pointis #0" = 1
+	"Bartholomeus de Jager #0" = 1
+	"Bartholomew Roberts #0" = 1
+	"Bartolomeo Português #0" = 1
+	"Benito Bonito #0" = 1
+	"Benito de Soto #0" = 1
+	"Benjamin Hornigold #0" = 1
+	"Bernard Claesen Speirdyke #0" = 1
+	"Bill Johnston #0" = 1
+	"Black Caesar #0" = 1
+	"Bully Hayes #0" = 1
+	"Capitain Archembeau #0" = 1
+	"Catherine Hagerty #0" = -1
+	"Charlotte Badger #0" = -1
+	"Charles Gibbs #0" = 1
+	"Charles Harris #0" = 1
+	"Charles Swan #0" = 1
+	"Charles Vane #0" = 1
+	"Charlotte de Berry #0" = -1
+	"Cheung Po Tsai #0" = 1
+	"Chevalier du Plessis #0" = 1
+	"Ching Shih #0" = 1
+	"Christopher Moody #0" = 1
+	"Chui A-poo #0" = 1
+	"Claes Compaan #0" = 1
+	"Cornelius Essex #0" = 1
+	"Daniel Elfrith #0" = 1
+	"Daniel Montbars #0" = 1
+	"David Marteen #0" = 1
+	"Dirk Chivers #0" = 1
+	"Dominique You #0" = 1
+	"Eduardo Blomar #0" = 1
+	"Edward England #0" = 1
+	"Edward Jordan #0" = 1
+	"Maria Lindsey #0" = -1
+	"Éric de Poméranie #0" = 1
+	"Filips van Zuylen #0" = 1
+	"Flora Burn #0" = -1
+	"Francis Spriggs #0" = 1
+	"François le Clerc #0" = 1
+	"François l'Ollonais #0" = 1
+	"George d'Hout #0" = 1
+	"Giorgio Adorno #0" = 1
+	"Gráinne O'Malley #0" = 1
+	"Guillaume Le Testu #0" = 1
+	"Hendrick Jacobszoon #0" = 1
+	"Henri Caesar #0" = 1
+	"Henry Every #0" = 1
+	"Hippolyte de Bouchard #0" = 1
+	"Howell Davis #0" = 1
+	"Ingela Gathenhielm #0" = -1
+	"Jacques Tavernier #0" = 1
+	"James Kelly #0" = 1
+	"Jan Jacobsen #0" = 1
+	"Jean Ango #0" = 1
+	"Jean Bart #0" = 1
+	"Jean du Casse #0" = 1
+	"Jean Florin #0" = 1
+	"Jean Foccard #0" = 1
+	"Jean Hamelin  #0" = 1
+	"Jérome Valbué #0" = 1
+	"John Davis #0" = 1
+	"John Evans #0" = 1
+	"John Morris #0" = 1
+	"John Taylor #0" = 1
+	"Jorgen Jorgensen #0" = 1
+	"Joseph Baker #0" = 1
+	"Juan Garcia #0" = 1
+	"Khayr ad-Din Barbarossa #0" = 1
+	"Laurens de Graaf #0" = 1
+	"Lewis Scot #0" = 1
+	"Lionel Wafer #0" = 1
+	"Mansel Alcantra #0" = 1
+	"Mary Read #0" = -1
+	"Matsuura Takanobu #0" = 1
+	"Michel de Grammont #0" = 1
+	"Miguel Henríquez #0" = 1
+	"Moise Vauquelin #0" = 1
+	"Murat Rais #0" = 1
+	"Nathaniel Butler #0" = 1
+	"Nathaniel Gordon #0" = 1
+	"Nathaniel North #0" = 1
+	"Nicholas Alvel #0" = 1
+	"Olivier Levasseur #0" = 1
+	"Olivier van Noort #0" = 1
+	"Pedro de la Plesa #0" = 1
+	"Pedro Menéndez de Avilés #0" = 1
+	"Peter Easton #0" = 1
+	"Peter Love #0" = 1
+	"Philippe Bequel #0" = 1
+	"Pier Gerlofs Donia #0" = 1
+	"Pierre Bot #0" = 1
+	"Pierre le Picard #0" = 1
+	"Pierre Lelong #0" = 1
+	"Pieter Schouten #0" = 1
+	"Rahmah ibn Jabir al-Jalahimah #0" = 1
+	"Richard Allen #0" = 1
+	"Richard Hawkins #0" = 1
+	"Roche Braziliano #0" = 1
+	"Salih Reis #0" = 1
+	"Samuel Bellamy #0" = 1
+	"Shap Ng-tsai #0" = 1
+	"Christopher Chapman #0" = 1
+	"Francis Drake #0" = 1
+	"Henry Morgan #0" = 1
+	"John Hawkins #0" = 1
+	"Michael Geare #0" = 1
+	"Thomas Cavendish #0" = 1
+	"Thomas Howard #0" = 1
+	"Thomas Tew #0" = 1
+	"Tuanku Abbas #0" = 1
+	"Turgut Reis #0" = 1
+	"Vincenzo Alessandri #0" = 1
+	"Wang Zhi #0" = 1
+	"William Kidd #0" = 1
+	"William Aleyn #0" = 1
+	"William Dampier #0" = 1
+	"William Knight #0" = 1
+	"Woodes Rogers #0" = 1
+	"Zheng Zhilong #0" = 1
+}
+	
+leader_names = {
+	Alvel Cavendish "de Bouff" Brower Barton
+	Hein Noort Easton Rais Verney Rous Reis
+	Davis Collier Greaves Bellamy Every Vane
+	Rogers Taylor Vorley Kelly Howard Halsey
+}
+
+ship_names = {
+	"Adventure Galley" "Ady Gil" "Ambrose Light" "Adventure Prize" Adventure Amity Antélope "Anne Ager" Aurora Aeolus Albatross
+	"Black Pearl" "Bachelor's Delight" "Black Joke" Blanco Blessing Bravo Benjamin Barsheba Bartholomew "Black Hawk" "Black Swan"
+	"Captain's Horror" "Cour Valant" Caroline Cythera Charles Cassandra
+	"Death" "Disgraceful Strumpet" "Dragon's Gold" Delight Desire Defiance Diamant Dainty Dorothée Dulcibella
+	"Executioner" Eagle Elizabeth "Étoile du Matin" Endeavour "Edinburgh Trader" Elsinore Esther
+	Fancy "Flying Dragon" Fortune "Fliegender Holländer" Félicité "Fame's Revenge" "Flying King" Falcon Faucon
+	Gift "Golden Hind" "Good Fortune" "Golden Fleece" Gloria Goliath
+	"Jolly Roger" "John and Marshall" Jacob "Jolly Mon"
+	"Happy Delivery" "Happoy Return" "Hai Peng" Henrietta
+	"Indian Queen" "L'Impératrice" "L'Intrépide" "L'Intercepteur"
+	"Killer's Fearful Storm" Katherine
+	Liberty "Little Ranger" "Loyal Fortune" Lark "La Paix" "Le Loup" "Le Lion" Lydia Lorelei Liparus
+	Mayflower Mocha "Most Holy Trinity" "Murderer's Death" "Mac Rae" Monticello Marianne Mary Margaret "Merry Christmas" "Morning Star"
+	"New York Revenge" "Night Rambler" Nautilus Neptune "Ning-po"
+	"One Piece" Oxford Orca
+	"Privateer's Strumpet" Pink Postillon Pearl Pembroke Prosperous Pélican Poseidon Proteus Prince
+	"Queen Anne's Revenge" "Quedagh Merchant"
+	Ranger Revenge "Rising Sun" Rover "Royal Fortune" "Royal James" "Royal Rover" "Rose Pink" Roebuck Raleigh
+	"Sunny" Scowerer "Sea King" "Snap Dragon" Soldado Speaker "Speedy Return" "Sudden Death" Saladin "Speaking Trumpet" Speakwell Sultana "Sea Nymph" Squirrel "Sainte Marie" Swallow "San Pablo"
+	Tiger Tigre "The Damned Killer" "The Dark Dagger" "The Dirty Blade" "The Dirty Scream" "The Doom of the Ocean" "The Dreaming Demon" "The Fallen Raider" "The Fear of the Demon" "The Foul Whore" "The Gold Cutlass" "The Hell-born" "The Horrid Compass" "The Horrible Raider" "The Howling Wolf" "The Lustful Hangman" "The Nightmare" "The Poison Death" "The Serpent" "The Vicious Murderer" "The Vile Saber" Trompeuse Trident Titan Tornado
+	Ulysse
+	Victory Venganza Valhalla Vénus Vipère
+	"Whydham Galley" William Whydah Wolf
+}

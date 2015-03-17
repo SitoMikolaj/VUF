@@ -1,0 +1,834 @@
+government = feudal_monarchy 
+mercantilism = 0.1
+primary_culture = bengali
+religion = sunni
+technology_group = indian
+capital = 563	# Pandua
+
+#Sultans of Bengal
+1390.1.1 = {
+	monarch = {
+		name = "Ghiyâs ad-Dîn A'zam"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1390.1.1 = {
+	heir = {
+		name = "Hamza"
+		monarch_name = "Sayf ad-Dîn Hamza"
+		dynasty = "al-Ilyâshâhiyyûn"
+		birth_date = 1390.1.1
+		death_date = 1411.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+ 
+ 
+
+1410.1.1 = {
+	monarch = {
+		name = "Sayf ad-Dîn Hamza"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1410.1.1 = {
+	heir = {
+		name = "Bâyazîd"
+		monarch_name = "Shihâb ad-Dîn Bâyazîd"
+		dynasty = "al-Ilyâshâhiyyûn"
+		birth_date = 1390.1.1
+		death_Date = 1414.1.1
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Shihâb ad-Dîn Bâyazîd"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 1
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1412.1.1 = {
+	heir = {
+		name = "Fîrûz"
+		monarch_name = "'Alâ' ad-Dîn Fîrûz"
+		dynasty = "al-Ilyâshâhiyyûn"
+		birth_date = 1390.1.1
+		death_Date = 1415.1.1
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1414.1.1 = {
+	monarch = {
+		name = "'Alâ' ad-Dîn Fîrûz"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 2
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Râja Ganesha"
+		dynasty = "Ganesha"
+		ADM = 1
+		DIP = 4
+		MIL = 3
+	}
+}
+
+1415.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Jalâl ad-Dîn Muhammad"
+		dynasty = "Ganesha"
+		birth_date = 1400.1.1
+		death_date = 1433.1.1
+		claim = 95
+		ADM = 3
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1418.1.1 = {
+	monarch = {
+		name = "Jalâl ad-Dîn Muhammad"
+		dynasty = "Ganesha"
+		ADM = 3
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1418.1.1 = {
+	heir = {
+		name = "'Ahmâd"
+		monarch_name = "Shams ad-Dîn 'Ahmâd"
+		dynasty = "Ganesha"
+		birth_date = 1410.1.1
+		death_date = 1435.1.1
+		claim = 95
+		ADM = 2
+		DIP = 4
+		MIL = 1
+	}
+}
+
+1433.1.1 = {
+	monarch = {
+		name = "Shams ad-Dîn 'Ahmâd"
+		dynasty = "Ganesha"
+		ADM = 2
+		DIP = 4
+		MIL = 1
+	}
+}
+
+1435.1.1 = {
+	monarch = {
+		name = "Nâsir ad-Dîn Mahmûd"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1435.1.1 = {
+	heir = {
+		name = "Barbak"
+		monarch_name = "Rukn ad-Dîn Barbak"
+		dynasty = "al-Ilyâshâhiyyûn"
+		birth_date = 1430.1.1
+		death_date = 1474.1.1
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1459.1.1 = {
+	monarch = {
+		name = "Rukn ad-Dîn Barbak"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1459.1.1 = {
+	heir = {
+		name = "Yûsuf"
+		monarch_name = "Shams ad-Dîn Yûsuf"
+		dynasty = "al-Ilyâshâhiyyûn"
+		birth_Date = 1459.1.1
+		death_Date = 1481.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1474.1.1 = {
+	monarch = {
+		name = "Shams ad-Dîn Yûsuf"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1474.1.1 = {
+	heir = {
+		name = "Sikandar"
+		monarch_name = "Sikandar II"
+		dynasty = "al-Ilyâshâhiyyûn"
+		birth_date = 1460.1.1
+		death_date = 1482.1.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1481.1.1 = {
+	monarch = {
+		name = "Sikandar II"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1481.1.1 = {
+	heir = {
+		name = "Jalâl ad-Dîn Fâteh"
+		monarch_name = "Jalâl ad-Dîn Fâteh"
+		dynasty = "al-Ilyâshâhiyyûn"
+		birth_date = 1460.1.1
+		death_date = 1487.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1482.1.1 = {
+	monarch = {
+		name = "Jalâl ad-Dîn Fâteh"
+		dynasty = "al-Ilyâshâhiyyûn"
+		ADM = 3
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1487.1.1 = {
+	monarch = {
+		name = "Shâhzâda Barbak"
+		dynasty = "al-Habshiyyûn"
+		ADM = 0
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1487.1.1 = {
+	heir = {
+		name = "Sayf ad-Dîn Fîrûz"
+		monarch_name = "Sayf ad-Dîn Fîrûz"
+		dynasty = "al-Habshiyyûn"
+		birth_date = 1460.1.1
+		death_date = 1490.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1488.1.1 = {
+	monarch = {
+		name = "Sayf ad-Dîn Fîrûz"
+		dynasty = "al-Habshiyyûn"
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1488.1.1 = {
+	heir = {
+		name = "Nâsir ad-Dîn Mahmûd"
+		monarch_name = "Nâsir ad-Dîn Mahmûd II"
+		dynasty = "al-Habshiyyûn"
+		birth_date = 1488.1.1
+		death_date = 1491.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1490.1.1 = {
+	monarch = {
+		name = "Nâsir ad-Dîn Mahmûd II"
+		dynasty = "al-Habshiyyûn"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1490.1.1 = {
+	heir = {
+		name = "Shams ad-Dîn Muzaffar"
+		monarch_name = "Shams ad-Dîn Muzaffar"
+		dynasty = "al-Habshiyyûn"
+		birth_Date = 1465.1.1
+		death_date = 1493.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1491.1.1 = {
+	monarch = {
+		name = "Shams ad-Dîn Muzaffar"
+		dynasty = "al-Habshiyyûn"
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
+}
+
+#Coup by Wazir of Shams-ad-Din Muzaffar Shah
+
+1493.1.1 = {
+	monarch = {
+		name = "'Alâ' ad-Dîn Husayn"
+		dynasty = "al-Husaynshâhiyyûn"
+		ADM = 3
+		DIP = 2
+		MIL = 4
+	}
+}
+
+1500.1.1 = {
+	heir = {
+		name = "Nâsir ad-Dîn Nasrat"
+		monarch_name = "Nâsir ad-Dîn Nasrat"
+		dynasty = "al-Husaynshâhiyyûn"
+		birth_date = 1500.1.1
+		death_date = 1533.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1519.1.1 = {
+	monarch = {
+		name = "Nâsir ad-Dîn Nasrat"
+		dynasty = "al-Husaynshâhiyyûn"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1519.1.1 = {
+	heir = {
+		name = "'Alâ' ad-Dîn Fîrûz"
+		monarch_name = "'Alâ' ad-Dîn Fîrûz III"
+		dynasty = "al-Husaynshâhiyyûn"
+		birth_date = 1519.1.1
+		death_date = 1533.3.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1533.1.1 = {
+	monarch = {
+		name = "'Alâ' ad-Dîn Fîrûz III"
+		dynasty = "al-Husaynshâhiyyûn"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1533.1.1 = {
+	heir = {
+		name = "Ghiyâs ad-Dîn Mahmûd"
+		monarch_name = "Ghiyâs ad-Dîn Mahmûd"
+		dynasty = "al-Husaynshâhiyyûn"
+		birth_Date = 1510.1.1
+		death_date = 1538.4.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1533.3.1 = {
+	monarch = {
+		name = "Ghiyâs ad-Dîn Mahmûd"
+		dynasty = "al-Husaynshâhiyyûn"
+		ADM = 1
+		DIP = 1
+		MIL = 3
+	}
+}
+
+#Suri Dynasty
+
+1538.1.1 = {
+	monarch = {
+		name = "Sher Shâh"
+		dynasty = "Sûrî"
+		ADM = 6
+		DIP = 4
+		MIL = 6
+	leader = {	name = "Sher Shâh Sûrî"	type = general	rank = 0	fire = 2	shock = 5	manuever = 5	siege = 2}
+	}
+}
+
+1538.4.1 = {
+	heir = {
+		name = "Islâm Shâh"
+		monarch_name = "Islâm Shâh"
+		dynasty = "Sûrî"
+		birth_date = 1510.1.1
+		death_date = 1545.4.23
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1545.5.22 = {
+	monarch = {
+		name = "Islâm Shâh"
+		dynasty = "Sûrî"
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1545.5.23 = {
+	heir = {
+		name = "Shams ad-Dîn Muhammad"
+		monarch_name = "Shams ad-Dîn Muhammad"
+		dynasty = "Sûrî"
+		birth_date = 1520.1.1
+		death_date = 1555.1.1
+		claim = 45
+		ADM = 3
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1553.1.1 = {
+	monarch = {
+		name = "Shams ad-Dîn Muhammad"
+		dynasty = "Sûrî"
+		ADM = 3
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1553.1.1 = {
+	capital = 563 # Gauda
+	heir = {
+		name = "Ghiyâth ad-Dîn Bahâdur"
+		monarch_name =  "Ghiyâth ad-Dîn Bahâdur"
+		dynasty = "Sûrî"
+		birth_date = 1530.1.1
+		death_Date = 1561.1.1
+		claim = 95
+		ADM = 4
+		DIP = 2
+		MIL = 4
+	}
+}
+
+1555.1.1 = {
+	monarch = {
+		name = "Ghiyâth ad-Din Bahâdur"
+		dynasty = "Sûrî"
+		ADM = 4
+		DIP = 2
+		MIL = 4
+	}
+}
+
+1555.1.1 = {
+	heir = {
+		name = "Ghiyâth ad-Dîn Jalâl"
+		monarch_name = "Ghiyâth ad-Dîn Jalâl"
+		dynasty = "Sûrî"
+		birth_date = 1530.1.1
+		death_date = 1564.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1561.1.1 = {
+	monarch = {
+		name = "Ghiyâth ad-Dîn Jalâl"
+		dynasty = "Sûri"
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}
+
+#Sultans of Bengal
+
+1564.1.1 = {
+	monarch = {
+		name = "Sulaymân Khân"
+		dynasty = "Karrânî"
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
+}
+
+1564.1.1 = {
+	heir = {
+		name = "Dâ'ûd"
+		monarch_name = "Dâ'ûd"
+		dynasty = "Karrânî"
+		birth_date = 1550.1.1
+		death_Date = 1576.7.12
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1572.1.1 = {
+	monarch = {
+		name = "Dâ'ûd"
+		dynasty = "Karrânî"
+		ADM = 2
+		DIP = 2
+		MIL = 3
+	}
+}
+1576.7.12 = {
+	capital = 563 # Gauda
+}
+#Mughal occupation
+#1575.1.1 = {
+#	monarch = {
+#		name = "Vizier"
+#		dynasty = "Chisti" #Governor of Bengal
+#		ADM = 2
+#		DIP = 2
+#		MIL = 2
+#		}
+#	capital = 563	# Dacca
+#}
+
+#Nawabs of Bengal
+
+1707.3.15 = {
+	monarch = {
+		name = "Murshid Qulî"
+		dynasty = "Nâsirî"
+		ADM = 5
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1707.3.15 = {
+	heir = {
+		name = "Shujâ ad-Dîn Muhammad"
+		monarch_name = "Shujâ ad-Dîn Muhammad"
+		dynasty = "Nâsirî"
+		birth_date = 1670.1.1
+		death_date = 1739.8.26
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1726.1.1 = {
+	monarch = {
+		name = "Shujâ ad-Dîn Muhammad"
+		dynasty = "Nâsirî"
+		ADM = 4
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1726.1.1 = {
+	heir = {
+		name = "'Alâ' ad-Dawla Sarfarâz"
+		monarch_name = "'Alâ' ad-Dawla Sarfarâz"
+		dynasty = "Nâsirî"
+		birth_date = 1700.1.1
+		death_date = 1740.5.13
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1739.3.24 = {
+	monarch = {
+		name = "'Alâ' ad-Dawla Sarfarâz"
+		dynasty = "Nâsirî"
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1739.3.24 = {
+	heir = {
+		name = "'Alî Vardî Khân"
+		monarch_name = "'Alî Vardî Khân"
+		dynasty = "Afshâr"
+		birth_date = 1671.5.10
+		death_date = 1756.4.9
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1740.5.13 = {
+	monarch = {
+		name = "'Alî Vardî Khân"
+		dynasty = "Afshâr"
+		ADM = 4
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1740.5.13 = {
+	heir = {
+		name = "Mîrzâ Mahmûd Sirâj"
+		monarch_name = "Mîrzâ Mahmûd Sirâj"
+		dynasty = "Afshâr"
+		birth_date = 1733.1.1
+		death_date = 1757.7.2
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1756.4.10 = {
+	monarch = {
+		name = "Mîrzâ Mahmûd Sirâj"
+		dynasty = "Afshâr"
+		ADM = 0
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1756.4.10 = {
+	heir = {
+		name = "Mîr Muhammad Ja'far"
+		monarch_name = "Mîr Muhammad Ja'far"
+		dynasty = "Afshâr"
+		birth_date = 1691.1.1
+		death_date = 1765.2.5
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1757.6.24 = {
+	monarch = {
+		name = "Mîr Muhammad Ja'far"
+		dynasty = "Afshâr"
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1757.6.24 = {
+	heir = {
+		name = "Mîr Qâsim 'Alî"
+		monarch_name = "Mîr Qâsim 'Alî"
+		dynasty = "Afshâr"
+		birth_date = 1720.1.1
+		death_Date = 1763.7.8
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1760.10.21 = {
+	monarch = {
+		name = "Mîr Qâsim 'Alî"
+		dynasty = "Afshâr"
+		ADM = 3
+		DIP = 2
+		MIL = 3
+	}
+}
+
+1760.10.21 = {
+	heir = {
+		name = "Mîr Muhammad Ja'far"
+		monarch_name = "Mîr Muhammad Ja'far"
+		dynasty = "Najafî"
+		birth_date = 1691.1.1
+		death_date = 1765.2.5
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1763.7.8 = {
+	monarch = {
+		name = "Mîr Muhammad Ja'far"
+		dynasty = "Najafî"
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1763.7.8 = {
+	heir = {
+		name = "Mîr Phulwâri Najm"
+		monarch_name = "Mîr Phulwâri Najm"
+		dynasty = "Najafî"
+		birth_date = 1730.1.1
+		death_date = 1766.5.9
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1765.2.5 = {
+	monarch = {
+		name = "Mîr Phulwâri Najm"
+		dynasty = "Najafî"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1765.2.5 = {
+	heir = {
+		name = "Sayf ad-Dawla"
+		monarch_name = "Sayf ad-Dawla"
+		dynasty = "Najafî"
+		birth_date = 1730.1.1
+		death_date = 1770.3.11
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1766.5.9 = {
+	monarch = {
+		name = "Sayf ad-Dawla"
+		dynasty = "Najafî"
+		ADM = 1
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1766.5.9 = {
+	heir = {
+		name = "Mubârak ad-Dawla"
+		monarch_name = "Mubârak ad-Dawla"
+		dynasty = "Najafî"
+		birth_date = 1755.1.1
+		death_date = 1793.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1770.3.11 = {
+	monarch = {
+		name = "Mubârak ad-Dawla"
+		dynasty = "Najafî"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}

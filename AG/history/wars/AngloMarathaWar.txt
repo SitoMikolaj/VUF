@@ -1,0 +1,20 @@
+name = "1ère guerre anglo-marathe"
+#casus_belli = cb_liberation
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 529 #Bombay
+}
+
+1777.3.7 = {
+	add_attacker = GBR
+	add_defender = MAR
+	add_defender = GWA
+}
+
+# Traité de Salbai
+1783.2.1 = {
+	rem_attacker = GBR
+	rem_defender = MAR
+	rem_defender = GWA
+}

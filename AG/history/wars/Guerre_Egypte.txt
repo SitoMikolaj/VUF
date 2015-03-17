@@ -1,0 +1,17 @@
+name = "Guerre d'indépendance Egyptienne"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+}
+
+1803.1.1 = {
+	add_attacker = EGY
+	add_defender = TUR
+}
+
+1807.1.1 = {
+	rem_attacker = EGY
+	rem_defender = TUR
+}

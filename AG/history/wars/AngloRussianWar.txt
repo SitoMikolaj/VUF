@@ -1,0 +1,41 @@
+name = "Guerre anglo-russe"
+#casus_belli = cb_trade_war
+war_goal = {
+	type = superiority_trade_mutual
+	casus_belli = cb_trade_war
+}
+
+1807.11.1 = {
+	add_attacker = RUS
+	add_defender = GBR
+}
+
+1808.10.30 = {
+	battle = {
+		name = "Lisbonne"
+		location = 1291
+		attacker = {
+			commander = "Dimitri Nikolaïevitch Senyavine"
+			heavy_ship = 5
+			light_ship = 4
+			transport = 8
+			losses = 2	# percent
+			country = RUS
+		}
+		defender = {
+			commander = "John Major"
+			heavy_ship = 18
+			light_ship = 11
+			transport = 14
+			losses = 1	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+# Paix
+1812.4.1 = {
+	rem_attacker = RUS
+	rem_defender = GBR
+}

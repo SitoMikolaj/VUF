@@ -1,0 +1,71 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 185 172 208 } 
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas	
+	administrative_ideas
+	offensive_ideas
+	quality_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	muslim_cavalry_archers
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Hassan #0" = 20
+	"Dahman #0" = 20
+	"Yahyâ #0" = 10
+	"Bahayou #0" = 10
+	"Bakir #0" = 30
+	"Muhammad #0" = 10
+	"Abu Zakariya #0" = 10
+	"'Abd al-'Azîz #0" = 10
+	"'Abd Allâh #0" = 2
+	"Abdesslam #0" = 2
+	"'Ahmad #0" = 2
+	"Mohand #0" = 2
+	"Boumezrag #0" = 2
+	#"Muhammad #0" = 2
+	"Azis #0" = 2
+	"Zahir #0" = 2
+	
+	"Werdja #0" = -1
+	"Daïa #0" = -1
+}
+
+leader_names = {
+	Atfayyish
+	"Beni Isguen"
+	Tabghurin
+	"al-Afdali"
+	"al-Malshuti"
+	"al-Mus'abi"
+	"bin Yakhlaf"
+	"Lemliki"
+	"Beni Mthar"
+	"Mzabi"
+}
+
+ship_names = {
+	El-Ateuf "Bou Noura" "Beni Isguen" Melika Ghardaia
+	Beriane
+	Barr Muta'al Wali Batin Zahir Akhir Awwal
+	Mu'akhkhir Muqaddim Muqtadir Qadir Samad
+	Wahid Majid Wajed Qayyum Hayy Mumit Muhyi
+	Mu'id Mubdi Muhsi Hamîd Waliyy Matin Qawiyy
+	Wakil Haqq Shahid Ba'ith
+}

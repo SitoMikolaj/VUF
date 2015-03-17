@@ -1,0 +1,568 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = hinduism
+primary_culture = avadhi
+capital = 559	# Bundelkhand
+
+#Malikzadas of Kalpi
+1399.1.1 = {
+	monarch = {
+		name = "Nasir ad-Dîn Mahmûd Shâh"
+		dynasty = "Malikzada"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+	capital = 2059 #Kalpi
+	religion = sunni
+}
+
+1399.1.1 = {
+	heir = {
+		name = "Qadir"
+		monarch_name = "Qadir Shâh"
+		dynasty = "Malikzada"
+		birth_date = 1380.1.1
+		death_Date = 1432.1.1
+		claim = 95
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}
+
+1411.1.1 = {
+	monarch = {
+		name = "Qadir Shâh"
+		dynasty = "Malikzada"
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}
+
+1411.1.1 = {
+	heir = {
+		name = "Fath ad-Dîn Jalal"
+		monarch_name = "Fath ad-Dîn Jalal Shâh"
+		dynasty = "Malikzada"
+		birth_date = 1390.1.1
+		death_Date = 1439.1.1
+		claim = 95
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+}
+
+1432.1.1 = {
+	monarch = {
+		name = "Fath ad-Dîn Jalal Shâh"
+		dynasty = "Malikzada"
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+}
+
+1432.1.1 = {
+	heir = {
+		name = "Nasir"
+		monarch_name = "Nasir Khan"
+		dynasty = "Malikzada"
+		birth_date = 1400.1.1
+		death_Date = 1460.1.1
+		claim = 95
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}
+
+1439.1.1 = {
+	monarch = {
+		name = "Nasir Khan"
+		dynasty = "Malikzada"
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}
+
+#Rajas of Orchha & Mahoba
+1479.1.1 = {
+	monarch = {
+		name = "Malkhan Singh"
+		dynasty = "Chandelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+	capital = 559
+	religion = hinduism
+}
+
+1479.1.1 = {
+	heir = {
+		name = "Rudra-Pratâp Singh"
+		monarch_name = "Rudra-Pratâp Singh"
+		dynasty = "Bundelâ"
+		birth_date = 1468.1.1
+		death_date = 1531.1.1
+		claim = 95
+		ADM = 5
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1501.1.1 = {
+	monarch = {
+		name = "Rudra-pratâp Singh"
+		dynasty = "Bundelâ"
+		ADM = 5
+		DIP = 3
+		MIL = 3
+	}
+
+}
+
+1501.1.1 = {
+	heir = {
+		name = "Bhârtî Chandra"
+		monarch_name = "Bhârtî Chandra I"
+		dynasty = "Bundelâ"
+		birth_date = 1501.1.1
+		death_date = 1554.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1531.1.1 = {
+	monarch = {
+		name = "Bhârtî Chandra I"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+
+}
+
+1531.1.1 = {
+	heir = {
+		name = "Madhukar"
+		monarch_name = "Madhukar Shâh"
+		dynasty = "Bundelâ"
+		birth_date = 1531.1.1
+		death_date = 1592.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1554.1.1 = {
+	monarch = {
+		name = "Madhukar Shâh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+
+}
+
+1554.1.1 = {
+	heir = {
+		name = "Râm Shâh"
+		monarch_name = "Râm Shâh"
+		dynasty = "Bundelâ"
+		birth_date = 1554.1.1
+		death_date = 1592.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1592.1.1 = {
+	monarch = {
+		name = "Râm Shâh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+
+}
+
+1592.1.1 = {
+	heir = {
+		name = "Bir Singh Deo"
+		monarch_name = "Bir Singh Deo I"
+		dynasty = "Bundelâ"
+		birth_date = 1580.1.1
+		death_Date = 1626.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1604.1.1 = {
+	monarch = {
+		name = "Bir Singh Deo I"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1604.1.1 = {
+	heir = {
+		name = "Jujhar Singh"
+		monarch_name = "Jujhar Singh"
+		dynasty = "Bundelâ"
+		birth_date = 1604.1.1
+		death_Date = 1635.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1626.1.1 = {
+	monarch = {
+		name = "Jujhar Singh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1626.1.1 = {
+	heir = {
+		name = "Devî Singh"
+		monarch_name = "Devî Singh"
+		dynasty = "Bundelâ"
+		birth_date = 1616.1.1
+		death_Date = 1641.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1635.1.1 = {
+	monarch = {
+		name = "Devî Singh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1635.1.1 = {
+	heir = {
+		name = "Pahâr Singh"
+		monarch_name = "Pahâr Singh"
+		dynasty = "Bundelâ"
+		birth_date = 1610.1.1
+		death_Date = 1653.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1641.1.1 = {
+	monarch = {
+		name = "Pahâr Singh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1641.1.1 = {
+	heir = {
+		name = "Sujân Singh"
+		monarch_name = "Sujân Singh I"
+		dynasty = "Bundelâ"
+		birth_date = 1621.1.1
+		death_date = 1672.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1653.1.1 = {
+	monarch = {
+		name = "Sujân Singh I"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1653.1.1 = {
+	heir = {
+		name = "Indramani Singh"
+		monarch_name = "Indramani Singh"
+		dynasty = "Bundelâ"
+		birth_date = 1652.1.1
+		death_date = 1675.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1672.1.1 = {
+	monarch = {
+		name = "Indramani Singh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1672.1.1 = {
+	heir = {
+		name = "Jaswant Singh"
+		monarch_name = "Jaswant Singh"
+		dynasty = "Bundelâ"
+		birth_date = 1650.1.1
+		death_date = 1684.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1675.1.1 = {
+	monarch = {
+		name = "Jaswant Singh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1675.1.1 = {
+	heir = {
+		name = "Baghwat Singh"
+		monarch_name = "Baghwat Singh"
+		dynasty = "Bundelâ"
+		birth_date = 1665.1.1
+		death_Date = 1689.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1684.1.1 = {
+	monarch = {
+		name = "Baghwat Singh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+
+}
+
+1684.1.1 = {
+	heir = {
+		name = "Udwat Singh"
+		monarch_name = "Udwat Singh"
+		dynasty = "Bundelâ"
+		birth_Date = 1660.1.1
+		death_date = 1735.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1689.1.1 = {
+	monarch = {
+		name = "Udwat Singh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+
+}
+
+1689.1.1 = {
+	heir = {
+		name = "Prithvî Singh"
+		monarch_name = "Prithvî Singh"
+		dynasty = "Bundelâ"
+		birth_date = 1689.1.1
+		death_date = 1752.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1735.1.1 = {
+	monarch = {
+		name = "Prithvî Singh"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1735.1.1 = {
+	heir = {
+		name = "Sawant Singh Mahendra"
+		monarch_name = "Sawant Singh Mahendra"
+		dynasty = "Bundelâ"
+		birth_date = 1730.1.1
+		death_date = 1765.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1752.1.1 = {
+	monarch = {
+		name = "Sawant Singh Mahendra"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1752.1.1 = {
+	heir = {
+		name = "Hâtisingh Mahendra"
+		monarch_name = "Hâtisingh Mahendra"
+		dynasty = "Bundelâ"
+		birth_date = 1740.1.1
+		death_date = 1768.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1765.1.1 = {
+	monarch = {
+		name = "Hâtisingh Mahendra"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1765.1.1 = {
+	heir = {
+		name = "Man Singh Mahendra"
+		monarch_name = "Man Singh Mahendra"
+		dynasty = "Bundelâ"
+		birth_date = 1750.1.1
+		death_date = 1775.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1768.1.1 = {
+	monarch = {
+		name = "Man Singh Mahendra"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1768.1.1 = {
+	heir = {
+		name = "Bhârtî Chandra Mahndra"
+		monarch_name = "Bhârtî Chandra II Mahndra"
+		dynasty = "Bundelâ"
+		birth_date = 1760.1.1
+		death_date = 1776.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+
+1775.1.1 = {
+	monarch = {
+		name = "Bhârtî Chandra II Mahndra"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1775.1.1 = {
+	heir = {
+		name = "Vikramajit Mahendra"
+		monarch_name = "Vikramajit Mahendra"
+		dynasty = "Bundelâ"
+		birth_date = 1760.1.1
+		death_date = 1834.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1776.1.1 = {
+	monarch = {
+		name = "Vikramajit Mahendra"
+		dynasty = "Bundelâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+
+}

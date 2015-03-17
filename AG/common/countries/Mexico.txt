@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 219  124  139 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Agustín #0" = 20
+	"Ángel #0" = 10
+	"Felipe #0" = 10
+	"Jesús #0" = 10
+	"Salvador #0" = 10
+	"Alfredo #0" = 2
+	"Álvaro #0" = 2
+	"Armando #0" = 2
+	"Arturo #0" = 2
+	"Blas #0" = 2
+	"Calixto #0" = 2
+	"Carlos #0" = 2
+	"Daniel #0" = 2
+	"Elías #0" = 2
+	"Emiliano #0" = 2
+	"Enrique #0" = 2
+	"Eugenio #0" = 2
+	"Félix #0" = 2
+	"Francisco #0" = 2
+	"Gerardo #0" = 2
+	"Horacio #0" = 2
+	"Ignacio #0" = 2
+	"Jaime #0" = 2
+	"José Manuel #0" = 2
+	"José María #0" = 2
+	"José Miguel #0" = 2
+	"José Sixto #0" = 2
+	"Lucio #0" = 2
+	"Manuel #0" = 2
+	"Marcos #0" = 2
+	"Melchor #0" = 2
+	"Natalio #0" = 2
+	"Osvaldo #0" = 2
+	"Porfirio #0" = 2
+	"Ramón #0" = 2
+	"Sandalio #0" = 2
+	"Toribio #0" = 2
+	"Vicente #0" = 2
+	"Víctor #0" = 2
+	"Zacarías #0" = 2
+	
+	"Laura #0" = -1
+	"Marciela #0" = -1
+	"Perla #0" = -1
+}
+
+leader_names = {
+	Aldama Allende Álvarez Benavente Bravo Bustamante Cárdenas Carranza Comonfort
+	Díaz Domingo Echávarri Elías Elizondo Galeana García Gómez Gonzalez Guerrero
+	Hidalgo Huerta Iglesias Itúrbide Juárez "León de la Barra" "Lerdo de Tejada" López
+	Madero Matamoros Mejía Mendoza Mina Miramón Mora Morelos Moreno Negrete
+	Obregón Ortíz Pino "Ramírez de Arellano" Rayón "Ruíz de Apodaca" "Santa Anna" Suárez
+	Torres Victoria Villa Zaragoza "de Zavala"
+}
+
+ship_names = {
+	Abasolo Allende
+	Bravo
+	Durango
+	Galeana Guanjuato
+	Ilhunicamina
+	Juarez
+	Netzahualcoyotl
+	Romero
+	Serria Sonora
+	Veracruz Victoria 
+}
+
+army_names = {
+	"Ejército Mexica" "Ejército Realista" "Ejército Insurgente" "Ejército Trigarante" "Ejército Nacional" "Ejército del Noroeste" "Ejército del Norte" "Ejército del Sur" "Ejército de $PROVINCE$"
+}
+
+fleet_names = {
+	"Armada de México" "Armada del Golfo" "Armada de Tuxpan" "Armada de Veracruz" "Armada del Pacífico" "Armada de Manzanillo" "Armada de Colima" "Armada de $PROVINCE$"
+}

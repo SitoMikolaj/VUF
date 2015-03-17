@@ -1,0 +1,121 @@
+graphical_culture = easterngfx
+
+color = { 81 123 210 }
+
+historical_idea_groups = {
+	defensive_ideas
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	naval_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+leader_names = {
+	Apraksin
+	Bagration "Barclay de Tolly" Bibikoff Bodisco Boruffsin
+	Golitzin
+	Kaibula Kamenski Kolzoff
+	Mensjikov Mustislavski
+	"Ostermann Tolstoy"
+	Paletskij
+	Rajevski
+	Schuvalov Sjeremetjev Sjtjenjatvev
+	Tiesenhusen
+	Vasiljevitj "von Buxhoevden" "von Knorring" "von Lascy"
+}
+
+monarch_names = {
+	"Ivan #2" = 15
+	"Dmitriy #0" = 2
+	"Yuriy #1" = 15
+	"Andrei #0" = 2
+	"Semen #0" = 2
+	"Boris #0" = 2
+	"Fyodor #1" = 2
+	"Oleg #0" = 2
+	"Afanasiy #0" = 2
+	"Akim #0" = 2
+	"Aleksandr #2" = 5
+	"Alexei #0" = 2
+	"Anatoliy #0" = 2
+	"Arkadiy #0" = 2
+	"Daniil #0" = 2
+	"Dorofey #0" = 2
+	"Feodosiy #0" = 2
+	"Feofilakt #0" = 2
+	"Gavriil #0" = 2
+	"Innokentiy #0" = 2
+	"Iosif #0" = 2
+	"Lavrentiy #0" = 2
+	"Makariy #0" = 2
+	"Matveiy #0" = 2
+	"Mikhail #1" = 5
+	"Nazariy #0" = 2
+	"Nikifor #0" = 2
+	"Onisim #0" = 2
+	"Pavel #0" = 2
+	"Prokopiy #0" = 2
+	"Pyotr #0" = 2
+	"Radomir #0" = 2
+	"Saveliy #0" = 2
+	"Sergei #0" = 2
+	"Terentiy #0" = 2
+	"Valeriy #0" = 2
+	"Yakim #0" = 2
+	"Yevgeniy #0" = 2
+	"Yaroslav #3" = 10
+	"Yaropolk #1" = 10
+	"Vyacheslav #2" = 10
+	"Vsevolod #3" = 15
+	"Igor #1" = 5
+	"Izyaslav #3" = 10
+	"Rostislav #3" = 10
+	"Vladimir #4" = 20
+	"Mstislav #2" = 5
+	"Gleb #1" = 2
+	"Roman #1" = 2
+	"Ryurik #1" = 2
+	"Svyatoslav #1" = 2
+	"Ingvar #1" = 2
+	"Stanislav #1" = 2
+	
+	"Aleksandra #0" = -1
+	"Alla #0" = -1
+	"Bronislava #0" = -1
+	"Svetlana #0" = -1
+	"Yuliya #0" = -1
+	"Yaroslava #0" = -1
+	"Vladislava #0" = -1
+	"Lyudmila #0" = -1
+	"Nadejda #0" = -1
+	"Rostislava #0" = -1
+}
+
+ship_names = {
+	"Svyatoy Muchenik" "Aleksandr Nevskiy" "Arkhangel Mikhail"
+	Rurik "Ivan Kalita" Moscha Volga Schorna Coluna
+	Cortiza Mosnisk Olescho Piersek Troitzkoy Wolok
+	Klin Iausa
+}

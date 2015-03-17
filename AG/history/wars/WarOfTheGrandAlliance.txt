@@ -1,0 +1,217 @@
+name = "Guerre de la Ligue d'Augsbourg"
+#casus_belli = cb_conquest type = take_capital_conquest
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 1768 # Lienz
+}
+
+1688.9.24 = {
+	add_attacker = FRA
+	add_attacker = OJI
+	add_attacker = ABE
+	add_attacker = MIK
+	add_defender = HAB
+	add_defender = BAV
+	add_defender = BRA
+	add_defender = NED
+	add_defender = PAL
+	add_defender = POR
+	add_defender = SAX
+	add_defender = SPA
+	add_defender = SWE
+	add_defender = DAN
+	add_defender = TRI
+	add_defender = KOL
+	add_defender = BAD
+	add_defender = HES
+	add_defender = HAN
+	add_defender = PRU
+	add_defender = WUR
+	add_defender = FRN
+	add_defender = MAI
+}
+
+1689.5.1 = {
+	add_defender = ENG
+	add_defender = IRE
+	add_defender = SCO
+	add_defender = LOR
+	add_defender = SAV
+	add_defender = IRO
+	add_defender = MAH
+	add_defender = OTT
+}
+
+1690.7.1 = {
+	battle = {
+		name = "Fleurus"
+		location = 91
+		attacker = {
+			commander = "Francois Henri de Montmorency-Bouteville"	# Francois Henri de Montmorency-Boutewille
+			infantry = 30000
+			cavalry = 15000
+			artillery = 65
+			losses = 7	# percent
+			country = FRA
+		}
+		defender = {
+			commander = "Georg Friedrich zu Waldeck"	# Prince of Waldeck
+			infantry = 24600
+			cavalry = 12400
+			artillery = 50
+			losses = 25	# percent
+			country = HAB
+		}
+		result = win
+	}
+}
+
+1690.8.18 = {
+	battle = {
+		name = "Staffarda"
+		location = 103
+		attacker = {
+			commander = "Nicolas Catinat de la Fauconnerie"	# Nicolas Catinat
+			infantry = 18000
+			losses = 10	# percent
+			country = FRA
+		}
+		defender = {
+			commander = "Eugenio de Savoie"	# Duke of Savoy
+			infantry = 17000
+			losses = 40	# percent
+			country = SAV
+		}
+		result = win
+	}
+}
+
+1692.8.3 = {
+	battle = {
+		name = "Steinkerque"
+		location = 92
+		attacker = {
+			commander = "François-Henri de Montmorency-Bouteville"	# Duc de Luxembourg
+			infantry = 55000
+			cavalry = 25000
+			losses = 11	# percent
+			country = FRA
+		}
+		defender = {
+			commander = "William III"	# William III
+			infantry = 56000
+			cavalry = 24000
+			losses = 13	# percent
+			country = NED
+		}
+		result = win
+	}
+}
+
+1693.7.26 = {
+	battle = {
+		name = "Neerwinden"
+		location = 92
+		attacker = {
+			commander = "Francois-Henri de Montmorency-Bouteville"	# Francois Henri de Montmorency-Boutewille
+			infantry = 44000
+			cavalry = 26000
+			artillery = 75
+			losses = 14	# percent
+			country = FRA
+		}
+		defender = {
+			commander = "William III"	# William III
+			infantry = 30000
+			cavalry = 20000
+			artillery = 100
+			losses = 36	# percent
+			country = NED
+		}
+		result = win
+	}
+}
+
+1693.10.4 = {
+	battle = {
+		name = "La Marsaille"
+		location = 103
+		attacker = {
+			commander = "Nicolas Catinat de la Fauconnerie"	# Nicolas Catinat
+			infantry = 24000
+			cavalry = 11000
+			artillery = 22
+			losses = 8	# percent
+			country = FRA
+		}
+		defender = {
+			commander = "Vittorio Amedeo II"	# The Duke of Savoy
+			infantry = 21000
+			cavalry = 95000
+			artillery = 30
+			losses = 3	# percent
+			country = SAV
+		}
+		result = win
+	}
+}
+
+1694.5.27 = {
+	battle = {
+		name = "la rivière Ter"
+		location = 212
+		attacker = {
+			commander = "Anne-Jules de Noailles"	# Duc de Noailles
+			infantry = 24000
+			losses = 2	# percent
+			country = FRA
+		}
+		defender = {
+			commander = "Juan Manuel Fernández Pacheco y Zúñiga"	# Marquis of Villena-Escalona
+			infantry = 20000
+			losses = 30	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+# Traité de Turin
+1696.8.29 = {
+	rem_defender = SAV
+}
+
+# Paix
+1697.9.20 = {
+	rem_attacker = FRA
+	rem_attacker = OJI
+	rem_attacker = ABE
+	rem_attacker = MIK
+	rem_defender = ENG
+	rem_defender = HAB
+	rem_defender = BAV
+	rem_defender = BRA
+	rem_defender = NED
+	rem_defender = PAL
+	rem_defender = POR
+	rem_defender = SAX
+	rem_defender = SPA
+	rem_defender = SWE
+	rem_defender = IRE
+	rem_defender = SCO
+	rem_defender = LOR
+	rem_defender = DAN
+	rem_defender = TRI
+	rem_defender = KOL
+	rem_defender = BAD
+	rem_defender = HES
+	rem_defender = HAN
+	rem_defender = PRU
+	rem_defender = WUR
+	rem_defender = FRN
+	rem_defender = MAI
+	rem_defender = IRO
+	rem_defender = MAH
+	rem_defender = OTT
+}

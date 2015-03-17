@@ -545,8 +545,8 @@ NMilitary = {
 	NAVAL_SUPPLY_RANGE = 150, 						-- Supply range for ships.
 	REBEL_TRADITION_GAIN = 0.5, 					-- _MDEF_REBEL_TRADITION_GAIN_; Factor of army/navy tradition gained from fighting rebels and pirates.
 	REBEL_SUPPORT_MODIFIER = 0.5,
-	NOMAD_LOOT_MULTIPLIER = 2.0, 					-- _MDEF_NOMAD_LOOT_MULTIPLIER_;How much more money the horde gets from looting
-	NOMAD_LOOT_TRADITION = 0.005,	 				-- _MDEF_NOMAD_LOOT_TRADITION_;Military tradition a horde gets from looting territory
+	NOMAD_LOOT_MULTIPLIER = 4.0, 					-- _MDEF_NOMAD_LOOT_MULTIPLIER_;How much more money the horde gets from looting
+	NOMAD_LOOT_TRADITION = 0.01,	 				-- _MDEF_NOMAD_LOOT_TRADITION_;Military tradition a horde gets from looting territory
 	NOMAD_HOME_SHOCK_BONUS = 0.25, 					-- _MDEF_NOMAD_HOME_SHOCK_BONUS_; Shock damage multiplier for nomads on plains in home territory
 	SUPPLYLIMIT_BASE_MULTIPLIER = 6.0, 				-- 
 	WAR_LENGTH_DAMAGE_MODIFIER = 0.01,				-- How much (by percentage) the damage dealt will be increased each day of the combat
@@ -584,6 +584,7 @@ NMilitary = {
 	MIN_RECRUIT_TIME_MODIFIER = 0.2,					-- Recruit time cannot be lower than this * base
 	PRESTIGE_FROM_LAND = 10,					-- Maximum base prestige from land battles (unmodified).
 	PRESTIGE_FROM_NAVAL = 10,					-- Maximum base prestige from naval battles (unmodified).
+	SEA_EXPLORE_SPEED = 5,						-- Can to some extent determine exploration speed of seas and coasts by specifying how long a ship pauses between exploration targets.
 },
 
 NAI = {

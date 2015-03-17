@@ -1,0 +1,105 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 195  149  155 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Janusz #0" = 40
+	"Boleslaw #3" = 20
+	"Konrad #2" = 20
+	"Stanislaw #0" = 20
+	"Kazimierz #2" = 15
+	"Ziemowit #6" = 10
+	"Trojden #2" = 10
+	"Albert #0" = 2
+	"Aleksy #0" = 2
+	"Andrzej #0" = 2
+	"Bartlomiej #0" = 2
+	"Bogumil #0" = 2
+	"Bronislaw #0" = 2
+	"Dawid #0" = 2
+	"Dominik #0" = 2
+	"Emil #0" = 2
+	"Eugeniusz #0" = 2
+	"Ferdynand #0" = 2
+	"Grzegorz #0" = 2
+	"Gustaw #0" = 2
+	"Igor #0" = 2
+	"Iwan #0" = 2
+	"Konstanty #0" = 2
+	"Krystian #0" = 2
+	"Lech #0" = 2
+	"Lucjusz #0" = 2
+	"Ludwik #0" = 2
+	"Lukasz #0" = 2
+	"Maksym #0" = 2
+	"Mariusz #0" = 2
+	"Mieszko #0" = 2
+	"Miroslaw #0" = 2
+	"Oskar #0" = 2
+	"Patryk #0" = 2
+	"Radoslaw #0" = 2
+	"Rafal #0" = 2
+	"Sylwester #0" = 2
+	"Szymon #0" = 2
+	"Wiktor #0" = 2
+	"Zygfryd #0" = 2
+	
+	"Anatola #0" = -1
+	"Jadzia #0" = -1
+	"Michalina #0" = -1
+}
+
+leader_names = { 
+	Jagiellon
+	Kedzierzawy
+	Leszczynski Lubomirski
+	Piast Poniatowski Premyslid
+	Radziwill
+	Sapieha
+	Wisniowiecki 
+}
+
+ship_names = {
+	Narew Wkra Wisla Bzura Pilica
+	Radomka Bug Liwiec Biebrza Warszawa
+	Lowicz Mlawa Kolno Wizna
+}
+
+army_names = {
+	"Armia Mazowieckie" "Wojsko Województwo" "Wojsko $PROVINCE$"
+}
+
+fleet_names = {
+	"Marynarka Mazowieckie" "Marynarka $PROVINCE$"
+}

@@ -1,0 +1,114 @@
+graphical_culture = easterngfx
+
+color = { 205 38 38 }
+
+historical_idea_groups = {
+	defensive_ideas
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	naval_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+leader_names = {
+	Apraksin
+	Bagration "Barclay de Tolly" Bibikoff Bodisco Boruffsin
+	Golitzin
+	Kaibula Kamenski Kolzoff
+	Mensjikov Mustislavski
+	"Ostermann Tolstoy"
+	Paletskij
+	Rajevski
+	Schuvalov Sjeremetjev Sjtjenjatvev
+	Tiesenhusen
+	Vasiljevitj "von Buxhoevden" "von Knorring" "von Lascy"
+}
+
+monarch_names = {
+	"Vasiliy #1" = 5
+	"Ivan #0" = 2
+	"Dmitriy #0" = 2
+	"Yuriy #1" = 5
+	"Andrei #2" = 10
+	"Semen #0" = 2
+	"Fyodor #0" = 2
+	"Afanasiy #0" = 2
+	"Akim #0" = 2
+	"Aleksandr #2" = 5
+	"Alexei #0" = 2
+	"Anatoliy #0" = 2
+	"Arkadiy #0" = 2
+	"Boris #0" = 10
+	"Daniil #0" = 2
+	"Dorofey #0" = 2
+	"Feodosiy #0" = 2
+	"Feofilakt #0" = 2
+	"Gavriil #0" = 2
+	"Innokentiy #0" = 2
+	"Iosif #0" = 2
+	"Lavrentiy #0" = 2
+	"Makariy #0" = 2
+	"Matveiy #0" = 2
+	"Mikhail #0" = 2
+	"Nazariy #0" = 2
+	"Nikifor #0" = 2
+	"Oleg #0" = 2
+	"Onisim #0" = 2
+	"Pavel #0" = 2
+	"Prokopiy #0" = 2
+	"Pyotr #0" = 2
+	"Radomir #0" = 2
+	"Saveliy #0" = 2
+	"Sergei #0" = 2
+	"Terentiy #0" = 2
+	"Valeriy #0" = 2
+	"Yakim #0" = 2
+	"Yevgeniy #0" = 2
+	"Vladimir-Ivan #1" = 5
+	"Vladimir #2" = 70
+	"Vsevolod #3" = 20
+	"Igor #1" = 5
+	"Rostislav #1" = 5
+	"Yaroslav #2" = 10
+	"Yaropolk #1" = 5
+	"Davyd #1" = 5
+	"Mstislav #3" = 10
+	"Roman #2" = 5
+	"Izyaslav #1" = 5
+	"Svyatoslav #4" = 5
+	"Svyatopolk #1" = 5
+	"Lev #1" = 2
+	
+	"Agafya #0" = -1
+	"Svetlana #0" = -1
+	"Yuliya #0" = -1
+}
+
+ship_names = {
+	"Dmitri Donskoi" "Vasiliy I" "D. Aleksandrovich"
+	Rurik "Ivan Kalita" Moscha Volga Schorna Coluna
+	Cortiza Mosnisk Olescho Piersek Troitzkoy Wolok
+	Klin Iausa
+}

@@ -1,0 +1,120 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 40  164  157 } 
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	religious_ideas
+	maritime_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Alexios #3" = 20
+	"Ioannes #3" = 20
+	"Manuel #2" = 20
+	"David #0" = 20
+	"Basileios #1" = 15
+	"Skantarios #0" = 15
+	"Andronikos #3" = 10
+	"Mikhael #1" = 10
+	"Georgios #1" = 10
+	"Aineias #0" = 2
+	"Alexandros #0" = 2
+	"Ambrosios #0" = 2
+	"Aristoteles #0" = 2
+	"Bartholomaios #0" = 2
+	"Chrysanthos #0" = 2
+	"Diogenes #0" = 2
+	"Dionysos #0" = 2
+	"Eirenaios #0" = 2
+	"Elpidios #0" = 2
+	"Gregorios #0" = 2
+	"Hektor #0" = 2
+	"Herakles #0" = 2
+	"Hermes #0" = 2
+	"Iason #0" = 2
+	"Iosephos #0" = 2
+	"Kastor #0" = 2
+	"Kreon #0" = 2
+	"Matthaios #0" = 2
+	"Nestor #0" = 2
+	"Nikolaos #0" = 2
+	"Nikomedes #0" = 2
+	"Orestes #0" = 2
+	"Palaemon #0" = 2
+	"Pavlos #0" = 2
+	"Pelagios #0" = 2
+	"Petros #0" = 2
+	"Philemon #0" = 2
+	"Philippos #0" = 2
+	"Prokopios #0" = 2
+	"Stefanos #0" = 2
+	"Theodoros #0" = 2
+	"Timotheos #0" = 2
+	
+	"Agape #0" = -1
+	"Photine #0" = -1
+	"Sotiria #0" = -1
+}
+
+leader_names = {
+	Kamil
+	Akyel
+	Atan
+	Yattara
+	Cimsir
+	Sungur
+	Bulut
+	Riza
+	Zengin
+	Sait
+}
+
+ship_names = {
+	Amisus Anna "Alexios I" "Andronikos I" 
+	Basileios
+	Chersonesos
+	"Heraclea Pontica"
+	Irene
+	"Ioannes I" "Ioannes II"
+	Kersh
+	"Manouel I"
+	Perateia Paphlagonia
+	Sinope Sougdeia
+	Trebizond "Theodora"
+}
+
+army_names = {
+	"Trapezous Stratos" "Basilikos Stratos" "Anadolu Stratos" "$PROVINCE$ Stratos"
+}
+
+fleet_names = {
+	"Trapezous Naftikòs" "Anadolu Naftikòs" "$PROVINCE$ Naftikòs"
+}

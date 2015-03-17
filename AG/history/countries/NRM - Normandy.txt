@@ -1,0 +1,30 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -1
+#centralization_decentralization = 2
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = 3
+#quality_quantity = 2
+#serfdom_freesubjects = -3
+technology_group = western
+primary_culture = normand
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+capital = 168	# Caen
+
+
+# Louis XI contraint d'apanager son frère par les grand féodaux
+
+1465.10.5 = {
+	monarch = {
+		name = "Charles II"
+		dynasty = "de Valois"
+		birth_date = 1446.12.26
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+# Mais Charles II perd le controle du duché en 1 an

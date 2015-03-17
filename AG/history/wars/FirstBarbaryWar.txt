@@ -1,0 +1,84 @@
+name = "Première guerre de Barbarie"
+#casus_belli = cb_insult
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1801.5.14  = {
+	add_attacker = MOR
+	add_attacker = TRP
+	add_attacker = ALG
+	add_defender = USA
+	add_defender = SWE
+}
+
+1803.10.1 = {
+	battle = {
+		name = "Tripoli"
+		location = 1313
+		attacker = {
+			commander = "Hassan Bey"	# Hassan Bey
+			heavy_ship = 8
+			losses = 2	# percent
+			country = TRP
+		}
+		defender = {
+			commander = "Edward Preble"	# Edward Preble
+			heavy_ship = 7
+			losses = 2	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1804.7.14 = {
+	battle = {
+		name = "Baie de Tripoli"
+		location = 1313
+		attacker = {
+			commander = "Hassan Bey"
+			galley = 2
+			transport = 19
+			losses = 10	# percent
+			country = TRP
+		}
+		defender = {
+			commander = "Edward Preble"
+			light_ship = 16
+			losses = 5	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1805.4.27 = {
+	battle = {
+		name = "Derne"
+		location = 1313
+		attacker = {
+			commander = "Hassan Bey"	# Hassan Bey
+			infantry = 700
+			losses = 25	# percent
+			country = TRP
+		}
+		defender = {
+			commander = "William Eaton"	# William Eaton
+			infantry = 4000
+			losses = 3	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+# Traité avec Tripoli
+1805.6.10 = {
+	rem_attacker = MOR
+	rem_attacker = TRP
+	rem_attacker = ALG
+	rem_defender = USA
+	rem_defender = SWE
+}

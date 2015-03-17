@@ -1,0 +1,124 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 100  50  150 }
+revolutionary_colors = { 15  6  16 } #Parthenopean Republic
+
+historical_score = 120
+
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	economic_ideas
+	maritime_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Carlo #3" = 80
+	"Ferrante #0" = 80
+	"Filippo #0" = 60
+	"Alfonso #0" = 40
+	"Federigo #0" = 20
+	"Ladislao #0" = 20
+	"Gioachino #0" = 20
+	"Giovanna #1" = -15
+	"Achille #0" = 15
+	"Gabriele #0" = 15
+	"Alberto #0" = 10
+	"Antonio #0" = 10
+	"Cesare #0" = 10
+	"Francesco #0" = 10
+	"Giovanni #0" = 10
+	"Giuseppe #0" = 10
+	"Leopoldo #0" = 10
+	"Adriano #0" = 2
+	"Alessandro #0" = 2
+	"Alfredo #0" = 2
+	"Bartolomeo #0" = 2
+	"Benedetto #0" = 2
+	"Claudio #0" = 2
+	"Enzo #0" = 2
+	"Fabio #0" = 2
+	"Fabrizio #0" = 2
+	"Gaspare #0" = 2
+	"Leandro #0" = 2
+	"Marco #0" = 2
+	"Martino #0" = 2
+	"Nestore #0" = 2
+	"Paolo #0" = 2
+	"Pietro #0" = 2
+	"Raniero #0" = 2
+	"Roberto #0" = 2
+	"Salvatore #0" = 2
+	"Vicenzo #0" = 2
+}
+
+leader_names = {
+	"degli Albizzi" Allori "d'Appiani d'Aragona" "d'Asburgo"
+	Barberini Bartolini Benciveni Bizzelli Boncompagni "Botta-Adorno" Buontalenti Buti Butteri Bon
+	"di Campofregoso" Cercignani Chiastavelli Chigi Corsini "Cybo-Malaspina"
+	Eustachi
+	"di Farnese" 
+	Gori Grimaldi "Grimaldi di Busca"
+	Lanzi Lessi Ludovisi 
+	Malaspina Mancinetti "di Medici" "del Moro" Metastasio "da Messina" Murat
+	Nasini
+	Orsini Piccolomini 
+	Pico Pierallini Pieroni Piombante Pontelli Pergolesi
+	Rivani Rospigliosi "del Rosso" 
+	Savaranola Soderini Scarlatti
+	Tempesta
+	Terreni Tonelli Traballesi "de Tonti"
+	Ulivelli 
+	Vasari Vico
+	Zucchi
+}
+
+ship_names = {
+	Albizi Amalia Arcetri Arezzo
+	Bellosguardo Bisenzio Brava "Brava di Napoli" 
+	Capri Careggi Cerere "Corso Donati" "Cosimo de Medici" Costanza Cristina "Capitana dei Bandinelli" "Capitana di Sicilia" Cingana 
+	"Dante Alighieri" "Dino Compagni" Determinada
+	Fiesole "Filippo Brunelleschi" Firenze "Fiume Arno" Fiamma Fortuna 	"Fiume Greve" "Francesco Petrarca"
+	Galluzzo "Giano della Bella" Gioacchino Giotto Gusmana
+	Idra Impruneta Invidia 
+    Leonessa Lomellina Lupa Luna
+	Medici Minerva Mugnone Marchesa Mendoza 
+	Napoli
+	Orsanmichele
+	Padrona Pistoia Prato "Padrona di Davide Imperiale" "Padrona di Sicilia" 
+	Regina Ripoli
+	"San Giorgio" "San Jacopo" "San Nicola" "Santa Caterina" "Sant'Andrea" "Sant'Angelo" Sicilia Speranza 	Sagittaria "San Carlo" "San Ferdinando" "San Frediano" "San Filippo" "San Giovanni Battista" "San Giuseppe" "San Leopoldo" "San Lorenzo" "San Luigi Gonzaga" 
+    "San Marco" "Santa Barbara" "Santa Lucia " "Santa Maria del Fiore" "Santa Trinita" "Sant'Amalia"  "Santissima Concezione" Scandicci Settignano "Sesto Fiorentino"
+	Terana Terzolle Turca
+	"Vieri de Cerchi" Vittoria
+}
+
+army_names = {
+	"Esercito reale" "Esercito Napoletano" "Esercito de Sicilio" "Esercito Due Sicile" "Armata di $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina Réale" "Marina di $PROVINCE$"
+}

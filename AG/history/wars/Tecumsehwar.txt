@@ -1,0 +1,42 @@
+name = "Révolte de Tecumseh"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1811.8.1 = {
+	add_attacker = SHA	
+	add_attacker = MMI
+	add_attacker = ILL
+	add_defender = USA
+}
+
+1811.11.11 = {
+	battle = {
+		name = "Tippecanoe"
+		location = 943
+		attacker = {
+			commander = "Tenskwatawa" 
+			cavalry = 700
+			losses = 20	# percent
+			country = SHA
+		}
+		defender = {
+			commander = "William Henry Harrison"
+			infantry = 850
+			cavalry = 90
+			losses = 20	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1811.11.12 = {
+	rem_attacker = MMI
+	rem_attacker = SHA	
+	rem_attacker = ILL
+	rem_defender = USA
+} # La confédération indienne éclate

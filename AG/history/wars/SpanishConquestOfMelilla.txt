@@ -1,0 +1,20 @@
+name = "Conquête de Melilla"
+#casus_belli = cb_colonial
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 335 # Melilla
+}
+
+1497.1.1 = {
+	add_attacker = CAS
+	add_attacker = ARA
+	add_defender = FEZ
+}
+
+#Paix et fin de la guerre
+1497.9.17 = {
+	rem_attacker = CAS
+	rem_attacker = ARA
+	rem_defender = FEZ
+}

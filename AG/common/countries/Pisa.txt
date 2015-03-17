@@ -1,0 +1,123 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 177  150  109 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Gabriele Maria #0" = 20
+	"Gherardo #0 Leonardo" = 20
+	"Jacopo #1" = 15
+	"Emanuele #0" = 15
+	"Alessandro #0" = 5
+	"Belisario #0" = 5
+	"Adriano #0" = 2
+	"Alessio #0" = 2
+	"Baldovino #0" = 2
+	"Beniamino #0" = 2
+	"Biagio #0" = 2
+	"Bonaventura #0" = 2
+	"Celio #0" = 2
+	"Constantino #0" = 2
+	"Damiano #0" = 2
+	"Danilo #0" = 2
+	"Eros #0" = 2
+	"Eustachio #0" = 2
+	"Evangelista #0" = 2
+	"Fortunato #0" = 2
+	"Gennaro #0" = 2
+	"Giancarlo #0" = 2
+	"Giovanni #0" = 20
+	"Giustino #0" = 2
+	"Innocenzo #0" = 2
+	"Leonardo #0" = 2
+	"Leone #0" = 2
+	"Marco #0" = 2
+	"Mauro #0" = 2
+	"Orfeo #0" = 2
+	"Pasquale #0" = 2
+	"Pietro #0" = 2
+	"Roberto #0" = 2
+	"Sergio #0" = 2
+	"Severino #0" = 2
+	"Ugo #0" = 2
+	"Valerio #0" = 2
+	"Vincenzo #0" = 2
+	"Vitale #0" = 2
+	"Vittorio #0" = 2
+	
+	"Ludovica #0" = -1
+	"Mariangela #0" = -1
+	"Petronilla #0" = -1
+}
+
+leader_names = {
+	"dell Agnello" Amelia Appiani "d'Appiani d'Aragona"
+	Barone Bartoli Barzagli Basile Birindelli Brunforte Buonarroti Butteri Borelli
+	Capitani Chiellini Conti Cavalieri
+	Dini 
+	Fibonacci 
+	Galilei Gambacorta Ganza Gentileschi "della Gherardesca" Gori Greco Grosso Guidi
+	Letta Lombardi 
+	Mancini Marchetti Marianelli 
+	Notaro 
+	Oddo 
+	Pacinotti Pesce "del Piero" Pini Pisano Pontecorvo Pozzi
+	"de Rossi" Ruffo 
+	Sonnino 
+	Tabucchi Tosetti Tumicelli Torricelli
+	"della Ubaldini" Ulivelli 
+	Ventura 
+	Zaccardo
+}
+
+ship_names = {
+	"Andreotto Saraceno"
+	"Bartolo da Sassoferrato" "Bernardo dei Paganelli"
+	"Ugolino della Gherardesca"
+	"Daiberto Pisano"
+	"Fazio della Gherardesca" "Fiumi Arno" "Francesco da Buti" Fiorenza 
+	"Giovanni di Simone" "Giuseppe Setaioli" Grifona
+	"Leonardo Fibonacci"
+	"Monti Pisani" "Morosini da Venezia"
+	Pisana Pace Padrona
+	Rustichello Regina
+	"San Frediano" "San Giovanni Battista" "San Michele" "San Nicola" "Sant'Agata" "Sant'Antonio" "Santa Maria Assunta" "Santa Maria della Spina" "San Paolo a Ripa d'Arno" "S.Piero a Grado" S.Rossore "San Sisto" "Santa Maria" "San Giovanni" Suprema Serena 
+	Toscana Vittoria
+	"Ugolino Caccini"
+}
+
+army_names = {
+	"Esercito Comunale" "Esercito repubblica" "Esercito di Popolo" "Armata di $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina Comunale" "Marina di $PROVINCE$"
+}

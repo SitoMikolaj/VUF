@@ -1,0 +1,217 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -4
+#centralization_decentralization = 5
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -2
+technology_group = western
+primary_culture = english
+religion = reformed
+capital = 922	# Mobile
+
+# Gouverneurs français
+
+1699.1.1 = {
+	monarch = {
+		name = "Pierre Le Moyne"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+1702.1.1 = {
+	monarch = {
+		name = "Jean-Baptiste Le Moyne"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1713.1.1 = {
+	monarch = {
+		name = "Antoine de La Mothe"
+		adm = 7
+		dip = 5
+		mil = 6
+	}
+}
+
+1716.1.1 = {
+	monarch = {
+		name = "Jean-Baptiste Le Moyne"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1717.1.1 = {
+	monarch = {
+		name = "Jean-Michel de L'Épinay"
+		adm = 4
+		dip = 7
+		mil = 5
+	}
+}
+
+1718.1.1 = {
+	monarch = {
+		name = "Jean-Baptiste Le Moyne"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1720.1.1 = { capital = 921 } # Biloxi
+
+1725.1.1 = {
+	monarch = {
+		name = "Pierre-Sidrac de Boisbriand"
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+1727.1.1 = {
+	monarch = {
+		name = "Étienne de Périer"
+		adm = 7
+		dip = 5
+		mil = 4
+	}
+}
+
+1737.1.1 = {
+	monarch = {
+		name = "Jean-Baptiste Le Moyne"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1743.1.1 = {
+	monarch = {
+		name = "Pierre de Rigaud"
+		adm = 8
+		dip = 7
+		mil = 8
+	}
+}
+
+1753.1.1 = {
+	monarch = {
+		name = "Louis de Kerlerec"
+		adm = 5
+		dip = 4
+		mil = 7
+	}
+}
+
+1763.1.1 = {
+	monarch = {
+		name = "Jean-Jacques d'Abbadie"
+		adm = 6
+		dip = 5
+		mil = 7
+	}
+}
+
+1765.1.1 = {
+	monarch = {
+		name = "Charles-Phillipe Aubry"
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+# Gouverneurs espagnols
+
+1766.1.1 = {
+	monarch = {
+		name = "Antonio de Ulloa y Torre"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}
+
+1769.1.1 = {
+	monarch = {
+		name = "Alejandro O'Reilly"
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+1770.1.1 = {
+	monarch = {
+		name = "Luis de Unzaga y Amezaga"
+		adm = 6
+		dip = 6
+		mil = 5
+	}
+}
+
+1777.1.1 = {
+	monarch = {
+		name = "Bernardo de Galvez"
+		adm = 8
+		dip = 5
+		mil = 5
+	}
+}
+
+1785.1.1 = {
+	monarch = {
+		name = "Esteban Rodriguez Miro"
+		adm = 7
+		dip = 5
+		mil = 7
+	}
+}
+
+1792.1.1 = {
+	monarch = {
+		name = "Hector de Carondelet"
+		adm = 6
+		dip = 7
+		mil = 5
+	}
+}
+
+1797.1.1 = {
+	monarch = {
+		name = "Manuel Gayoso de Lemos"
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1799.1.1 = {
+	monarch = {
+		name = "Sebastian Calvo de la Puerta"
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}
+
+1800.1.1 = {
+	monarch = {
+		name = "Juan Manuel de Salcedo"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

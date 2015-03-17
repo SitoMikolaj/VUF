@@ -1,0 +1,1283 @@
+name = "Guerre de 1812"
+#casus_belli = cb_trade_war
+war_goal = {
+	type = superiority_trade_mutual
+	casus_belli = cb_trade_war
+}
+
+1812.6.18 = {
+	add_attacker = USA
+	add_defender = GBR
+	add_defender = SHA	
+	add_defender = ILL
+	add_defender = OJI	
+} # S'y inclue la 2° guerre de Tecumseh et la Guerre de Péoria 
+
+1812.7.17 = {
+	battle = {
+		name = "Mackinac Island"
+		location = 945
+		attacker = {
+			commander = "Porter Hanks"
+			infantry = 61
+			losses = 100	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Charles Roberts"
+			infantry = 600
+			losses = 0	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1812.7.19 = {
+	battle = {
+		name = "Sackett's Harbor"
+		location = 1659
+		attacker = {
+			commander = "Henry Vickers"
+			transport = 5
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Peter Hawks"
+			transport = 2
+			losses = 30	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1812.8.5 = {
+	battle = {
+		name = "Brownstown"
+		location = 945
+		attacker = {		
+			commander = "Thomas Van Horne"
+			infantry = 200
+			losses = 55	# percent#			
+			country = USA
+		}
+		defender = {
+			commander = "Tecumseh"
+			infantry = 25
+			losses = 1	# percent
+			country = SHA
+		}
+		result = loss
+	}
+}
+
+1812.8.9 = {
+	battle = {
+		name = "Maguaga"
+		location = 945
+		attacker = {
+			commander = "James Miller"
+			infantry = 600
+			losses = 15	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Adam Muir"
+			infantry = 200
+			losses = 11	# percent
+			country = SHA
+		}
+		result = loss
+	}
+}
+
+1812.8.15 = {
+	battle = {
+		name = "Fort Dearborn"
+		location = 915
+		attacker = {
+			commander = "Nathan Heald"
+			infantry = 70
+			losses = 100	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Chief Blackbird"
+			infantry = 600
+			losses = 3	# percent
+			country = SHA
+		}
+		result = loss
+	}
+}
+
+1812.8.15 = {
+	battle = {
+		name = "Detroit"
+		location = 944
+		attacker = {
+			commander = "William Hull"	# William Hull
+			infantry = 2500
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Isaac Brock"	# Isaac Brock
+			infantry = 1250
+			losses = 1	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1812.8.19 = {
+	battle = {
+		name = "HMS Guerriere"
+		location = 1571
+		attacker = {
+			commander = "James Rhea"
+			light_ship = 1
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Winamac"
+			light_ship = 1
+			losses = 20	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1812.9.5 = {
+	battle = {
+		name = "Fort Harrisson"
+		location = 943
+		attacker = {
+			commander = "Zachary Taylor"
+			infantry = 50
+			losses = 50	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Stone Eater"
+			infantry = 600
+			losses = 25	# percent
+			country = SHA
+		}
+		result = win
+	}
+}
+
+1812.9.12 = {
+	battle = {
+		name = "Fort Wayne"
+		location = 943
+		attacker = {
+			commander = "James Rhea"
+			infantry = 2300
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Winamac"
+			infantry = 500
+			losses = 5	# percent
+			country = SHA
+		}
+		result = win
+	}
+}
+
+1812.9.21 = {
+	battle = {
+		name = "Raid sur Gananoque"
+		location = 989
+		attacker = {
+			commander = "Benjamin Forsyth"
+			infantry = 200
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Colonel Stone"
+			infantry = 600
+			losses = 0	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1812.10.13 = {
+	battle = {
+		name = "Queenston Heights"
+		location = 986
+		attacker = {
+			commander = "Stephen Van Rensselaer"	# Stephen Van Rensselaer
+			infantry = 1500
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Isaac Brock"	# Isaac Brock 
+			infantry = 1300
+			losses = 1	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1812.10.18 = {
+	battle = {
+		name = "HMS Frolic"
+		location = 1500
+		attacker = {
+			commander = "Thomas Oswald"
+			light_ship = 1
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Samuel Vancouver"
+			light_ship = 1
+			losses = 20	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1812.10.25 = {
+	battle = {
+		name = "HMS Macedonian"
+		location = 1572
+		attacker = {
+			commander = "Isaac Newcomen"
+			light_ship = 1
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "James Davis"
+			light_ship = 1
+			losses = 20	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1812.11.20 = {
+	battle = {
+		name = "Moulin de Lacolle"
+		location = 994
+		attacker = {
+			commander = "Henry Dearborn"	# Henry Dearborn
+			infantry = 6000
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Charles-Michel d'Irumberry de Salaberry"	# Charles de Salaberry
+			infantry = 500
+			losses = 0	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1812.11.22 = {
+	battle = {
+		name = "Wildcat Creek"
+		location = 943
+		attacker = {
+			commander = "Samuel Hopkins"
+			infantry = 1250
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Black Eagle"
+			infantry = 5000
+			losses = 2	# percent
+			country = SHA
+		}
+		result = loss
+	}
+}
+
+1812.12.18 = {
+	battle = {
+		name = "Mississinewa"
+		location = 943
+		attacker = {
+			commander = "John B. Campbell"
+			infantry = 600
+			losses = 10	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Francis Godfroy"
+			infantry = 300
+			losses = 35	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1812.12.29 = {
+	battle = {
+		name = "HMS Java"
+		location = 1528
+		attacker = {
+			commander = "Henry Miller"
+			light_ship = 1
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "John Postman"
+			light_ship = 1
+			losses = 100	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.1.22 = {
+	battle = {
+		name = "Frenchtown"
+		location = 944
+		attacker = {
+			commander = "James Winchester"
+			infantry = 1000
+			losses = 90	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Henry Procter"
+			infantry = 1200
+			losses = 12	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.2.7 = {
+	battle = {
+		name = "Raid sur Elizabethtown"
+		location = 989
+		attacker = {
+			commander = "Benjamin Forsyth"
+			infantry = 200
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Colonel Stone"
+			infantry = 600
+			losses = 35	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.2.22 = {
+	battle = {
+		name = "Ogdensburg"
+		location = 964
+		attacker = {
+			commander = "Benjamin Forsyth"	# Benjamin Forsyth
+			infantry = 250
+			losses = 36	# percent
+			country = USA
+		}
+		defender = {
+			commander = "George MacDonnell"	# George MacDonnell
+			infantry = 500
+			losses = 11	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.2.24 = {
+	battle = {
+		name = "HMS Peacock"
+		location = 1527
+		attacker = {
+			commander = "Henry Hiltman"
+			light_ship = 1
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "James Macadam"
+			light_ship = 1
+			losses = 100	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.4.27 = {
+	battle = {
+		name = "York"
+		location = 986
+		attacker = {
+			commander = "Zebulon M. Pike "	# Zebulon Pike
+			infantry = 2000
+			losses = 16	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Roger Hale Sheaffe"	# Roger Sheaffe
+			infantry = 700
+			losses = 21	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.4.27 = {
+	battle = {
+		name = "Sackett's Harbor"
+		location = 964
+		attacker = {
+			commander = "Jacob Brown"
+			infantry = 1450
+			losses = 10	# percent
+			country = USA
+		}
+		defender = {
+			commander = "George Prevost"
+			infantry = 1570
+			losses = 15	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.5.9 = {
+	battle = {
+		name = "Fort Meigs"
+		location = 946
+		attacker = {
+			commander = "William Henry Harrison"
+			infantry = 2800
+			losses = 45	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Henry Procter"
+			infantry = 1850
+			losses = 8	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.5.25 = {
+	battle = {
+		name = "Fort George"
+		location = 987
+		attacker = {
+			commander = "Henry Dearborn"
+			infantry = 2000
+			losses = 8	# percent
+			country = USA
+		}
+		defender = {
+			commander = "John Vincent"
+			infantry = 1200
+			losses = 20	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.6.1 = {
+	battle = {
+		name = "USS Chesapeake"
+		location = 1572
+		attacker = {
+			commander = "Henry Black"
+			light_ship = 1
+			losses = 100	# percent
+			country = USA
+		}
+		defender = {
+			commander = "John Smith"
+			light_ship = 1
+			losses = 20	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.6.6 = {
+	battle = {
+		name = "Stoney Creek"
+		location = 987
+		attacker = {
+			commander = "John Chandler"	# John Chandler
+			infantry = 3400
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "John Vincent"	# John Vincent
+			infantry = 700
+			losses = 3	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.6.22 = {
+	battle = {
+		name = "Craney Island"
+		location = 950
+		attacker = {
+			commander = "Robert Barraud Taylor"
+			infantry = 2200
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "George Cockburn"
+			infantry = 2000
+			losses = 2	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.6.24 = {
+	battle = {
+		name = "Beaver Dams"
+		location = 987
+		attacker = {
+			commander = "Charles G. Boerstler"
+			infantry = 600
+			losses = 95	# percent
+			country = USA
+		}
+		defender = {
+			commander = "James FitzGibbon"
+			infantry = 450
+			losses = 10	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.8.2 = {
+	battle = {
+		name = "Fort Stephenson"
+		location = 946
+		attacker = {
+			commander = "George Croghan"
+			infantry = 160
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Henry Procter"
+			infantry = 1400
+			losses = 8	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.8.10 = {
+	battle = {
+		name = "St. Michaels"
+		location = 950
+		attacker = {
+			commander = "Perry Benson"
+			infantry = 2200
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "George Cockburn"
+			infantry = 2000
+			losses = 2	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.8.14 = {
+	battle = {
+		name = "USS Argus"
+		location = 1285
+		attacker = {
+			commander = "John Rodgers"
+			light_ship = 1
+			losses = 100	# percent
+			country = USA
+		}
+		defender = {
+			commander = "George Rivers"
+			light_ship = 1
+			losses = 10	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.9.15 = {
+	battle = {
+		name = "HMS Boxer"
+		location = 1492
+		attacker = {
+			commander = "John Rodgers"
+			light_ship = 1
+			losses = 10	# percent
+			country = USA
+		}
+		defender = {
+			commander = "John Adams"
+			light_ship = 1
+			losses = 100	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.9.20 = {
+	battle = {
+		name = "Lake Erié"
+		location = 1660
+		attacker = {
+			commander = "Oliver Hazard Perry"
+			transport = 9
+			losses = 10	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Robert Heriot Barclay"
+			light_ship = 2
+			transport = 4
+			losses = 25	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1813.10.5 = {
+	battle = {
+		name = "Thames"
+		location = 987
+		attacker = {
+			commander = "William Henry Harrison"
+			infantry = 3760
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Henry Procter"
+			infantry = 1300
+			losses = 45	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+# Eclatement de la ligue indienne à la mort de Tecumseh. Fin de la guerre de Péoria
+
+1813.10.21 = {
+	rem_defender = ILL
+	rem_defender = OJI	
+}
+
+1813.10.25 = {
+	battle = {
+		name = "La Châteauguay"
+		location = 994
+		attacker = {
+			commander = "Wade Hampton"	# Wade Hampton
+			infantry = 4000
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Charles-Michel d'Irumberry de Salaberry"	# Charles de Salaberry
+			infantry = 570
+			losses = 1	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.11.11 = {
+	battle = {
+		name = "La ferme Crysler"
+		location = 989
+		attacker = {
+			commander = "James Wilkinson"	# James Wilkinson
+			infantry = 2500
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "William Howe Mulcaster"	# William Mulcaster
+			infantry = 800
+			losses = 4	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1813.12.19 = {
+	battle = {
+		name = "Fort Niagara"
+		location = 958
+		attacker = {
+			commander = "Nathaniel Leonard"
+			infantry = 324
+			losses = 95	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Gordon Drummond"
+			infantry = 562
+			losses = 1	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.3.4 = {
+	battle = {
+		name = "Longwoods"
+		location = 987
+		attacker = {
+			commander = "Andrew Holmes"
+			infantry = 180
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "James Lewis Basden"
+			infantry = 300
+			losses = 25	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.3.30 = {
+	battle = {
+		name = "Lacolle Mills" 
+		location = 990
+		attacker = {
+			commander = "James Wilkinson"
+			infantry = 4000
+			losses = 3	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Major Handcock"
+			infantry = 80
+			losses = 60	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.4.29 = {
+	battle = {
+		name = "HMS Epervier"
+		location = 1503
+		attacker = {
+			commander = "John Rodgers"
+			light_ship = 1
+			losses = 10	# percent
+			country = USA
+		}
+		defender = {
+			commander = "John Adams"
+			light_ship = 1
+			losses = 100	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.5.6 = {
+	battle = {
+		name = "Fort Oswego" 
+		location = 964
+		attacker = {
+			commander = "George Mitchell"
+			infantry = 290
+			losses = 3	# percent
+			country = USA
+		}
+		defender = {
+			commander = "James Lucas Yeo"
+			infantry = 1300
+			losses = 5	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.5.16 = {
+	battle = {
+		name = "Port Dover"
+		location = 987
+		attacker = {
+			commander = "John Campbell"
+			infantry = 750
+			losses = 0	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Gordon Drummond"
+			infantry = 300
+			losses = 0	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.5.30 = {
+	battle = {
+		name = "Big Sandy Creek" 
+		location = 961
+		attacker = {
+			commander = "Melancthon Taylor Woolsey"
+			infantry = 400
+			losses = 3	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Little Rocks"
+			infantry = 153
+			losses = 5	# percent
+			country = SHA
+		}
+		result = win
+	}
+}
+
+1814.6.5 = {
+	rem_defender = SHA	
+}
+
+1814.7.3 = {
+	battle = {
+		name = "Fort Erie"
+		location = 989
+		attacker = {
+			commander = "Jacob Brown"
+			infantry = 4500
+			losses = 0	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Thomas Buck"
+			infantry = 137
+			losses = 90	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.7.5 = {
+	battle = {
+		name = "Chippawa"
+		location = 987
+		attacker = {
+			commander = "Jacob J. Brown"	# Jacob Brown
+			infantry = 3500
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Phineas Riall"	# Phineas Riall
+			infantry = 2000
+			losses = 7	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.7.20 = {
+	battle = {
+		name = "Prairie du Chien"
+		location = 914
+		attacker = {
+			commander = "Joseph Perkins"
+			infantry = 100
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "William McKay"
+			infantry = 650
+			losses = 1	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.7.25 = {
+	battle = {
+		name = "Lundy's Lane"
+		location = 987
+		attacker = {
+			commander = "Jacob Brown"
+			infantry = 1500
+			artillery = 6
+			losses = 45	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Gordon Drummond"
+			infantry = 1700
+			artillery = 4
+			losses = 40	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.8.4 = {
+	battle = {
+		name = "Mackinac Island"
+		location = 945
+		attacker = {
+			commander = "George Croghan"
+			infantry = 700
+			losses = 10	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Robert McDouall"
+			infantry = 300
+			losses = 1	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.8.24 = {
+	battle = {
+		name = "Bladensburg"
+		location = 953
+		attacker = {
+			commander = "William H. Winder"	# William H. Winder
+			infantry = 4500
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Robert Ross"	# Robert Ross
+			infantry = 7000
+			losses = 1	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.9.6 = {
+	battle = {
+		name = "Le lac Champlain"
+		location = 964
+		attacker = {
+			commander = "Thomas Macdonough Jr"	# Thomas MacDonough
+			infantry = 3400
+			losses = 6	# percent
+			country = USA
+		}
+		defender = {
+			commander = "George Prévost"	# George Prevost
+			infantry = 11000
+			losses = 3	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.9.9 = {
+	battle = {
+		name = "Alexandrie"
+		location = 953
+		attacker = {
+			commander = "John Rodgers"
+			infantry = 1500
+			losses = 25	# percent
+			country = USA
+		}
+		defender = {
+			commander = "James Alexander Gordon"
+			infantry = 3000
+			losses = 5	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.9.12 = {
+	battle = {
+		name = "North Point"
+		location = 953
+		attacker = {
+			commander = "Samuel Smith"
+			infantry = 3200
+			losses = 6	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Robert Ross"
+			infantry = 4000
+			losses = 8	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1814.9.14 = {
+	battle = {
+		name = "Fort Bowyer"
+		location = 922
+		attacker = {
+			commander = "Samuel Smith"
+			infantry = 500
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Captain William Percy"
+			infantry = 1000
+			losses = 5	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.9.15 = {
+	battle = {
+		name = "Baltimore"
+		location = 953
+		attacker = {
+			commander = "Samuel Smith"
+			infantry = 12200
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Robert Ross"
+			infantry = 5000
+			losses = 12	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.9.21 = {
+	battle = {
+		name = "Fort Erié"
+		location = 987
+		attacker = {
+			commander = "Edmund P. Gaines"
+			infantry = 2500
+			losses = 30	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Gordon Drummond"
+			infantry = 3000
+			losses = 50	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.9.21 = {
+	battle = {
+		name = "Cook's mills"
+		location = 987
+		attacker = {
+			commander = "Christopher Myers"
+			infantry = 750
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "George Izard"
+			infantry = 1200
+			losses = 3	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1814.11.6 = {
+	battle = {
+		name = "Malcolm's Mills"
+		location = 989
+		attacker = {
+			commander = "Duncan McArthur"
+			infantry = 700
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Bostwick"
+			infantry = 150
+			losses = 10	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+# Andrews Jackson, de sa propre initiative, attaque Pensacola, faisant entrer l'espagne en guerre
+
+1814.11.9 = {
+	add_defender = SPA
+}
+
+1814.11.9 = {
+	battle = {
+		name = "Pensacola"
+		location = 923
+		attacker = {
+			commander = "Andrew Jackson"
+			infantry = 4000
+			losses = 2	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Mateo González Manrique"
+			infantry = 500
+			losses = 1	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+1815.1.8 = {
+	battle = {
+		name = "New Orleans"
+		location = 921
+		attacker = {
+			commander = "Andrew Jackson"
+			infantry = 5000
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Sir Alexander Cochrane"
+			infantry = 11400
+			losses = 20	# percent
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1815.1.15 = {
+	battle = {
+		name = "USS President"
+		location = 1500
+		attacker = {
+			commander = "James Bishop"
+			light_ship = 1
+			losses = 100	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Sir Thomas Hislop"
+			light_ship = 4
+			losses = 10	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1815.2.11 = {
+	battle = {
+		name = "Fort Bowyer"
+		location = 922
+		attacker = {
+			commander = "William Lawrence"
+			infantry = 370
+			losses = 20	# percent
+			country = USA
+		}
+		defender = {
+			commander = "John Lambert"
+			infantry = 1400
+			losses = 2	# percent
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+# Traité de Gand
+1815.2.12 = {
+	rem_attacker = USA
+	rem_defender = GBR
+	rem_defender = SPA
+}
+
+# Le traité date du 24 dec 1814 mais les combats s'arrêtèrent le 12.2.1815

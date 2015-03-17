@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 158  18  20 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	zapotec_tribal_warfare
+	zapotec_plains_warfare
+	zapotec_gunpowder_warfare
+	westernized_zapotec
+	mexican_guerilla_warfare
+}
+
+monarch_names = {
+	"Tariacuri #1" = 20
+	"Hiquingaje #1" = 20
+	"Hiripan #1" = 20
+	"Tangaxuan #1" = 25
+	"Tzitzipandaquare #1" = 15
+	"Zuangua #1" = 15
+	"Huitzimengari #0" = 10
+	"Tangaxoan #0" = 10
+	"Tzimtzincha #0" = 10
+	"Cuinierangari #0" = 2
+	"Bibejw #0" = 2
+	"Binech #0" = 2
+	"Bzojj Chsáaxcejj #0" = 2
+	"Cháalaxa #0" = 2
+	"Chonna Bicu #0" = 2
+	"Coqui #0" = 2
+	"Djoraxa #0" = 2
+	"Gwèibóoné #0" = 2
+	"Gyazob #0" = 2
+	"Gyejj #0" = 2
+	"Ipalnemoani #0" = 2
+	"Ji Jzió #0" = 2
+	"Jituh #0" = 2
+	"Jzió #0" = 2
+	"Láxdaóxo #0" = 2
+	"Lyebe #0" = 2
+	"Mbalaz #0" = 2
+	"Na Yel #0" = 2
+	"Naquichinisa #0" = 2
+	"Naxiñanguiiu #0" = 2
+	"Ngolbex An #0" = 2
+	"Nguiiu Rire #0" = 2
+	"Nisa Ro #0" = 2
+	"Pijje Jzió #0" = 2
+	"Tobi Rusiguunda #0" = 2
+	"Véeni #0" = 2
+	"Veziá #0" = 2
+	"Zne Yel #0" = 2
+	"Zniá #0" = 2
+	"Zyrx #0" = 2
+	"Zyanya #0" = -1
+	"Nayeli #0" = -1
+}
+
+leader_names = {
+	Beljjw Bibejw Binech "Bzojj Chsáaxcejj"
+	Cháalaxa Coqui
+	Djoraxa
+	Gwpeibóoné Gyazob Gyejj
+	"Ji Jzió" Jituh Jzió
+	Láxdaóxo Lyebe
+	Mbalaz
+	"Na Yel" "Ngolbex An"
+	"Pijje Jzió" "Pwuix Dao"
+	Véeni Vziá
+	"Zne Yel" Zniá Zyrx
+}
+
+ship_names = {
+	Atoyac Atzompa
+	Chalchiuhtlicue Chico Cocijo
+	Ipalnemoani
+	"Monte Alban"
+	Necocyautl Nahuatl
+	Oaxaca Omacatl
+	Quetzalcoatl
+	Tlaloc Tezcatlipoca Tecciztecatl
+	Xochiquetzal
+}

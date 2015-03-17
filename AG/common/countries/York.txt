@@ -1,0 +1,125 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 107  170  77 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Thomas #4" = 120
+	"John #2" = 100
+	"William #5" = 60
+	"Richard #0" = 60
+	"Robert #1" = 40
+	"George #0" = 40
+	"Matthew #0" = 40
+	"Henry #1" = 20
+	"Christopher #0" = 20
+	"Edmund #0" = 20
+	"Edward #0" = 20
+	"Edwin #0" = 20
+	"Lancelot #0" = 20
+	"Lawrence #0" = 20
+	"Nicholas #0" = 20
+	"Thobias #0" = 20
+	"Alexander #0" = 2
+	"Ambrose #0" = 2
+	"Andrew #0" = 2
+	"Anthony #0" = 2
+	"Archibald #0" = 2
+	"Benjamin #0" = 2
+	"Daniel #0" = 2
+	"David #0" = 2
+	"Francis #0" = 2
+	"Geoffrey #0" = 2
+	"Guy #0" = 2
+	"Horatio #0" = 2
+	"Hugh #0" = 2
+	"Isaac #0" = 2
+	"James #0" = 2
+	"Jeremy #0" = 2
+	"Jonathan #0" = 2
+	"Joseph #0" = 2
+	"Lewis #0" = 2
+	"Nehemiah #0" = 2
+	"Oliver #0" = 2
+	"Samuel #0" = 20
+	"Sydney #0" = 2
+	
+	"Alaina #0" = -1
+	"Victoria #0" = -1
+	"Elisabeth #0" = -1
+}
+
+leader_names = {
+	Aislabie Armytage Aske
+	Barwick Beaumont Belasis Bingley Bosville Bowes Bulmer 
+	Clifford Constable Conyers Craven
+	Darcy Drax Duncombe
+	Fairfax Furnival
+	Grimston		
+	Harland Hillyard Hotham Howard Hutton
+	Ingilby
+	Lacy Langdale Legard
+	Mallory Metcalfe
+	Neville Norton
+	Scargill Scrope Sheffield Spencer Stanhope Strickland Sykes
+	Tempest Thorp
+	Warren Wentworth
+	Yorke
+}
+
+ship_names = {
+        Allerton
+        Beverley Bridlington Brigantia
+        Calderdale Cleveland Craven
+        Dalesman "Duke of York"
+        Eboracum "East Riding"
+        Flamborough Fountains
+        Halifax Hallam Holderness Humber
+        Ingleborough
+        "Kingston-upon-Hull"
+        Masham Middleham
+        "North Riding" "North Sea" Northallerton
+        Pennine Pontefract
+        Richmond Ripon "River Ouse"
+        Scarborough Scoresby Standard Swale
+        "Vale of York"
+        Wensleydale "West Riding" Wharfe "Whitby Castle" "White Rose"
+        York
+}
+
+army_names = {
+	"Army of York" "Duke Army" "White Rose Army" "North Riding Army" "West Riding Army" "East Riding Army" "Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Duke Navy" "Navy of Yorkshire" "$PROVINCE$ Fleet"
+}

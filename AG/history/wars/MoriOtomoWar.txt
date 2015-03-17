@@ -1,0 +1,17 @@
+name = "Guerre des clans Mori-Otomo"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1557.1.1 = {
+	add_attacker = MRI
+	add_defender = OTM
+}
+
+1569.1.1 = {
+	rem_attacker = MRI
+	rem_defender = OTM
+}

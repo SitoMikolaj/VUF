@@ -1,0 +1,168 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = -5
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 5
+#land_naval = -4
+#quality_quantity = -3
+#serfdom_freesubjects = -3
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 1879	# Alencon
+fixed_capital = 1879 # Cannot move capital away from this province & no power cost to move to it
+
+1361.1.1 = {
+	monarch = {
+		name = "Pierre II"
+		dynasty = "de Valois"
+		birth_date = 1340.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1384.5.26 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean I"
+		dynasty = "de Valois"
+		claim = 95
+		birth_date = 1384.5.26
+		death_date = 1415.10.25
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1404.9.20 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Valois"
+		birth_date = 1384.5.26
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1409.3.2 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean II"
+		dynasty = "de Valois"
+		claim = 95
+		birth_date = 1409.3.2
+		death_date = 1476.9.8
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+}
+
+1415.10.25 = {
+	monarch = {
+		name = "(Régente Marie)"
+		dynasty = "de Montfort"
+		birth_date = 1391.1.1
+		adm = 0
+		mil = 2
+		dip = 4
+		regent = yes
+		female = yes
+	}
+}
+
+1415.10.25 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean II"
+		dynasty = "de Valois"
+		claim = 95
+		birth_date = 1409.3.2
+		death_date = 1476.9.8
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+}
+
+1425.3.2 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Valois"
+		birth_date = 1409.3.2
+		adm = 0
+		mil = 2
+		dip = 4
+	}
+}
+
+1454.1.1 = {
+	heir = {
+		name = "René"
+		monarch_name = "René I"
+		dynasty = "de Valois"
+		birth_date = 1454.1.1
+		death_date = 1492.11.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1476.9.8 = {
+	monarch = {
+		name = "René"
+		dynasty = "de Valois"
+		birth_date = 1454.1.1
+		adm = 1
+		mil = 1
+		dip = 3
+	}
+}
+
+1489.1.1 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles IV"
+		dynasty = "de Valois"
+		birth_date = 1489.1.1
+		death_date = 1525.4.12
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1492.1.1 = {
+	monarch = {
+		name = "Charles IV"
+		dynasty = "de Valois"
+		birth_date = 1489.1.1
+		adm = 4
+		mil = 3
+		dip = 2
+	}
+}
+
+# Apanage de Charles IX
+
+1574.5.30 = {
+	monarch = {
+		name = "François I" # 1° dauphin, son frère, duc d'Anjou
+		dynasty = "de Valois"
+		birth_date = 1555.3.18
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+# 1584 To royal Domain
+

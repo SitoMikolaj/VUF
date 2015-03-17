@@ -1,0 +1,19 @@
+name = "Guerre de Winnebago"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1827.6.27 = {
+	add_attacker = ILL # les Winibagos assimilés aux Illiwineks
+	add_defender = USA
+}
+
+# Série de multiples petits raids et guerillas d'une dizaine de commandos indiens difficile à retranscrire ici sous le nom de batailles.
+
+1828.3.30  = {
+	rem_attacker = ILL
+	rem_defender = USA
+}

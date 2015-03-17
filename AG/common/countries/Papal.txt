@@ -1,0 +1,166 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 211  220  178 }
+revolutionary_colors = { 1  0  5 } #Roman Republic (1798-1799)
+
+historical_score = 50
+
+historical_idea_groups = {
+	administrative_ideas
+	diplomatic_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Clemens #6" = 30
+	"Innocentius #6" = 30
+	"Pius #1" = 30
+	"Gregorius #11" = 30
+	"Paulus #1" = 30
+	"Alexander #5" = 30
+	"Benedictus #12" = 30
+	"Leo #9" = 30
+	"Urbanus #6" = 30
+	"Xystus #3" = 30
+	"Iulius #1" = 30
+	"Bonifacius #8" = 30
+	"Hadrianus #5" = 30
+	"Martinus #4" = 30
+	"Nicolaus #4" = 30
+	"Eugenius #3" = 30
+	"Callistus #2" = 30
+	"Marcellus #1" = 30
+	"Celestinus #5" = 30
+	"Honorius #4" = 30
+	"Ioannes #22" = 40
+	"Stephanus #9" = 15
+	"Caelestinus #5" = 10
+	"Felix #4" = 10
+	"Sergius #4" = 10
+	"Anastasius #4" = 10
+	"Silvester #3" = 5
+	"Victor #3" = 5
+	"Lucius #3" = 5
+	"Pelagius  #2" = 5
+	"Adeodatus  #2" = 5
+	"Theodorus  #2" = 5
+	"Marinus  #2" = 5
+	"Agapetus  #2" = 5
+	"Damasus  #2" = 5
+	"Paschalis  #2" = 5
+	"Gelasius  #2" = 5
+	"Ioannes Paulus #0" = 5
+	"Petrus #1" = 5
+	"Linus #1" = 5
+	"Anacletus #1" = 5
+	"Evaristus #1" = 5
+	"Telesphorus #1" = 5
+	"Hyginus #1" = 5
+	"Anicetus #1" = 5
+	"Soterius #1" = 5
+	"Eleuther #1" = 5
+	"Zephyrinus #1" = 5
+	"Pontianus #1" = 5
+	"Anterus #1" = 5
+	"Fabianus #1" = 5
+	"Cornelius #1" = 5
+	"Dionysius #1" = 5
+	"Eutychianus #1" = 5
+	"Caius #1" = 5
+	"Marcellinus #1" = 5
+	"Eusebius #1" = 5
+	"Miltiades #1" = 5
+	"Marcus #1" = 5
+	"Liberius #1" = 5
+	"Siricius #1" = 5
+	"Zosimus #1" = 5
+	"Hilarius #1" = 5
+	"Simplicius #1" = 5
+	"Symmachus #1" = 5
+	"Hormisdas #1" = 5
+	"Silverius #1" = 5
+	"Vigilius #1" = 5
+	"Sabinianus #1" = 5
+	"Severinus #1" = 5
+	"Vitalianus #1" = 5
+	"Donus #1" = 5
+	"Agatho #1" = 5
+	"Conon #1" = 5
+	"Sisinnius #1" = 5
+	"Constantinus #1" = 5
+	"Zacharias #1" = 5
+	"Valentinus #1" = 5
+	"Formosus #1" = 5
+	"Romanus #1" = 5
+	"Lando #1" = 5
+	"Franciscus #0" = 5
+}
+
+leader_names = {
+	Abano Adria Agno Alvise Anconna Argenta Alberti Accolti Aldobrandini Algardi
+	Bardolino Barilla Bassano Belfuno Belluno Bembo Brenta Brescia Buonarroti Borromeo Bellarmino Bruno Bernini "de Blazio" Bembo Borgia
+	"Capitana di Sua Santità" Casanova Cassandro Castiglione Cento Chiogga Commachio Contarini Corfini Corleone Cornaro Cremona "di Castrozza" "da Carpi" Cardano Cesalpino "Ciocchi del Monte" "da Caravaggio" Carracci "Caffarelli-Borghese" Carissimi Corelli Consalvi "di Cristoforo Vannucci" Castelli Colonna
+	Dolfin Domenichino
+	Emo Erizzo Ermelli "d'Este"
+	Feltre Ferme Ferrara Fiume Flangini Foscarini Friuli Foppa
+	Garda Gardone Giudica Giustani Gorizia Grado Grimani Gritti Germonio Galilei Giustiniani Gentileschi Grimaldi Galvani
+	Idro Iseo Isonzo
+	Lando Latisana Legnago Lido Lignano Lissa Livenza Loredano
+	Magno Mantova Meduna Memmo Mestre Mincio Modigliano Molini Monfalcone Manuzio Michelangelo Merisi Malpighi
+	Oglio
+	Padova Panaro Pesaro Pezzini Piave "Ponte Vechio" Pontebba Pordenone Pramaggiore Priuli "da Palestrina"
+	Raguse Rovereto Rovigo Ruzzini Riccioli
+	"San Paulo" Schio Serio Sugaina Sanzio Steffani Scarlatti
+	Tagliamento Tartaro Tolmezzo Toscani Trento Trevisano Treviso Trieste
+	Udine
+	Valieri Verona Vicenza Vittorio Valla
+	Zara Zustiniani Zampieri
+}
+
+ship_names = {
+	Abraham Adam Angeli Archangeli "Archangelus Gabriel" "Archangelus Michael" "Archangelus Raphael"
+	"Capitana di Sua Santità" Cherubim "Corpus Christi" "David Rex" Dominationes
+	"Episcopus Romanus" Eva "Franciscus Assisiensis" 
+	Grifona 
+	Hierosalyma
+	"Iesu Christus Salvator" "Ioannes Baptista" Iob Isaac 
+	Moyses 
+	Noe
+    "Patrona pontificia" "Pater et Pastor" Pax "Pontifex Maximus" Potestates Principatus 
+	Regina
+	"Salomon Rex" "Sancta Birgitta" "Sancta Maria" "Sancta Fermina" "Sanctus Alexander" "Sanctus Ambrosius" "Sanctus Andreas" "Sanctus Anselmus" "Sanctus Augustinus" "Sanctus Bartholomeus" "Sanctus Bernardus" "Sanctus Bonaventura" "Sanctus Cassianus" "Sanctus Cyprianus" "Sanctus Dominicus" "Sanctus Ferdinandus" "Sanctus Franciscus" "Sanctus Hieronymus" "Sanctus Hilarius" "Sanctus Hippolytus" "Sanctus Iohannes" "Sanctus Iosephus" "Sanctus Isidorus" "Sanctus Iudas" "Sanctus Leo I" "Sanctus Linus" "Sanctus Lucas" 	"Sanctus Mattheus" "Sanctus Matthias" "Sanctus Patricius" "Sanctus Paulus" "Sanctus Petronius" "Sanctus Petrus" "Sanctus Philippus" "Sanctus Pius" "Sanctus Simon" "Sanctus Synesius" "Sanctus Thomas" "Sanctus Urbanus I" 
+	Seraphim "St Albertus Magnus" "St Antonius de Padova" "St Basilius Magnus" "St Beda Venerabilis" "St Cathatina Sienensis" "St Ciaranus Maior" "St Ciaranus Minor" "St Ephraem Syrus" "St Gregorius Magnus" "St Iacobus Alphei" "St Iacobus Maior" "St Iohannes Damascena" "St Petrus Chrysologus" "St Petrus Damianus" "St Thomas Aquinas" Serena Suprema  
+	Throni 
+	"Virgo Maria" Virtutes Victoria
+}
+
+army_names = {
+	"Exercitus Romanus" "Garde Suisse" "Garde Noble" "Garde Palatine" "Garde Corse" "Exercitus Vicarius Christi" "Exercitus Universalis Ecclesiae" "Exercitus Pontifex Maximus" "Exercitus Primatus Italiae" "Exercitus Patriarcha Occidentis" "Exercitus de $PROVINCE$"
+}
+
+fleet_names = {
+	"Classis Christi" "Classis Romanus" "Classis Pontificae" "Classis $PROVINCE$"
+}

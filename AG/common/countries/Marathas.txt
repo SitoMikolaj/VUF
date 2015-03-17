@@ -1,0 +1,115 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 67  124  181 }
+
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	reformed_mughal_musketeer
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Shivâjî #0" = 10
+	"Sambhâjî #0" = 10
+	"Râjârâm #0" = 10
+	"Shâhûjî #0" = 10
+	"Bâlâjî #0" = 10
+	"Bâjî Rao #0" = 10
+	"Madhu Rao #0" = 10
+	"Nârâyan Rao #0" = 10
+	"Râgunâth Rao #0" = 10
+	"Pratâp Singh #0" = 10
+	"Firangojî #0" = 2
+	"Kânhojî #0" = 2
+	"Netâjî #0" = 2
+	"Moropant #0" = 2
+	"Bâjî Prabhu #0" = 2
+	"Sûryajî #0" = 2
+	"Tânâjî #0" = 2
+	"Chimâjî #0" = 2
+	"Rânôjî #0" = 2
+	"Râghunâth Râo #0" = 2
+	"Malhâr #0" = 2
+	"Tukojî Râo #0" = 2
+	"Haripant #0" = 2
+	"Yashwant Râo  #0" = 2
+	"Târâ Bâî #0" = -10
+	"Soyarâ Bâî #0" = -5
+	"Tukâ Bâî #0" = -1
+}
+
+leader_names = {
+	Bhonsle
+	Bhat
+	Shinde
+	Gâyakavâda
+	Pawar
+	Palkar
+	Shâtavâhana
+	Yâdava
+	Jâdhav
+	Bhoit
+	Holakara
+	Kadam
+	Jagtâp
+	Moit
+	Mâlusare
+	Nikam
+	Dabhad
+	Shirke
+	Môrây
+	Nimbalkar
+	Kâte
+	Chavân
+	Râne
+	Gujar
+	Aher
+	Sâwant
+	Kaushal
+	Khursh
+	Narsala
+	Krishnamma
+	Lôlâksi
+	Maruthi
+	Nâgarâj
+	Ramiyâ
+}
+
+ship_names = {
+	Agni Bhîma Brahmâ Devî Durgâ
+	Ganesha Gâyatrî Hanumân Îndra
+	Jalsena "Kâla Jahâzî" Kali Kubera
+	Krishna Lakshmî "Lâl Jahâzî" Nausenâ
+	"Nav ka Yudh" "Nîla Jahâzî" Pârvatî
+	Râdhâ Râtri Sâgar Sarasvatî Shiva
+	Sîtâ Sôma Sûrya Varuna Vâyu Vîshnu Yama
+}
+
+army_names = {
+	"Raja Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

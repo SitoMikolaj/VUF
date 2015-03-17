@@ -1,0 +1,17 @@
+name = "Guerre de Bali"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1771.1.1 = {
+	add_attacker = NED
+	add_defender = BLI
+}
+
+1772.7.1 = {
+	rem_attacker = NED
+	rem_defender = BLI
+}

@@ -1,0 +1,110 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 210  106  47 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Narasimha Deva #3" = 30
+	"Bhanu Deva #3" = 30
+	"Kapilesvara #0" = 30
+	"Pratâprudra #3" = 30
+	"Kalua Deva #3" = 30
+	"Govindaraja Vidyâdhara #3" = 30
+	"Chakrapretâpa #0" = 30
+	"Nârashima Jana #0" = 30
+	"Raghurâma Chhotra #0" = 30
+	"Mukunda Deva Harishandra #0" = 30
+	"Râmchandra Deva #0" = 30
+	"Râmchandra #0" = 20
+	"Purushottama Deva #0" = 20
+	"Mukunda Deva #0" = 10
+	"Nârsimha Deva #0" = 10
+	"Gangâdar Deva #0" = 10
+	"Bâlabhadra Deva #0" = 10
+	"Divya Simha Deva #0" = 10
+	"Hari Krishna Deva #0" = 10
+	"Gapînâth Deva #0" = 10
+	"Padmanabha #0" = 10
+	"Vîra Kishor Deva #0" = 10
+	"Devendravarman #0" = 2
+	"Anantavarman #0" = 2
+	"Ananga #0" = 2
+	"Bhima #0" = 2
+	"Narasimha #0" = 2
+	"Bhanu #0" = 2
+	"Narayan #0" = 2
+	"Gopinath #0" = 2
+	"Rudra #0" = 2
+	"Mukunda #0" = 2
+	"Bira #0" = 2
+	"Jagat #0" = 2
+	"Saheb #0" = 2
+	"Kumar #0" = 2
+	"Giriraj Kumari #0" = -1
+	"Suratarangini Devî #0" = -1
+	"Krishnapriya #0" = -1
+	"Bishnupriya #0" = -1
+	"Tikayet Devî #0" = -1
+}
+
+leader_names = {
+	Bhowarbar
+	Bidyadhar
+	Dassa
+	Deo
+	Kalinga
+	Gajapati
+	Patra
+	Rai
+	Ratha
+	Roy
+	Santra
+	Singhar
+	Sinha
+	Uria
+	Vansa
+	Deva
+	Velama
+	Vasireddy
+	Reddy
+	Nayudu
+	Poosapati
+}
+
+ship_names = {
+	Baitarani Balasore Balugaon Behrampur
+	Bhubeneswar Brahmani Chandipur Chilka
+	Cuttack Durga Gopalpur Jagannath
+	Juggernaut Kalijai Konark Lakshmi
+	Mahanadi Nalabana Paradeep Parvati
+	Puri Radha Sarasvati Satapada
+}
+
+army_names = {
+	"Rajah Camuu" "Suryavamsi Camuu" "Gajapati Camuu" "Keshari Camuu" "Garjat Camuu" "Mughalbandi Camuu" "Jaleshwar Camuu" "Bhadrakh Camuu" "Cuttack Camuu" "Srikakulam Camuu" "Kalinga Dandapat Camuu" "Rajamundry Camuu" "Godavari Camuu"  "$PROVINCE$ Camuu"
+	}
+
+fleet_names = {
+	"Raajya Nausenaa" "Suryavamsi Nausenaa" "Gajapati Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa"
+	}

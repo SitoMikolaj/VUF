@@ -1,0 +1,238 @@
+name = "Première Guerre arabique"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+}
+
+1802.1.1 = {
+	add_attacker = NAJ
+	add_defender = TUR
+}
+
+1803.9.3 = {
+	battle = {
+		name = "La Mecque"
+		location = 385
+		attacker = {	 
+			commander = "Ali Hassan"
+			infantry = 15000
+			losses = 5	# percent
+			country = NAJ
+		}
+		defender = {	
+			commander = "Osman Pasha"
+			infantry = 8000
+			losses = 20	# percent
+			country = TUR
+		}
+		result = win
+	}
+}
+
+1806.9.3 = {
+	battle = {
+		name = "Médine"
+		location = 384
+		attacker = {
+			commander = "Ali Hassan"
+			infantry = 25000
+			losses = 8	# percent
+			country = NAJ
+		}
+		defender = {	 
+			commander = "Ismail Pasha"		
+			infantry = 10000
+			losses = 20	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1811.9.3 = {
+	battle = {
+		name = "Yanbu'"
+		location = 383
+		attacker = {
+			commander = "Saud AL-Kabeer"
+			infantry = 15000
+			losses = 15	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Ahmed Toussoune Pacha"
+			infantry = 20000
+			losses = 10	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1812.1.1 = {
+	battle = {
+		name = "Al-Safra"
+		location = 384
+		attacker = {
+			commander = "Saud AL-Kabeer"
+			infantry = 10000
+			losses = 8	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Tusun Pasha"
+			infantry = 8000
+			losses = 25	# percent
+			country = TUR
+		}
+		result = win
+	}
+}
+
+1812.6.1 = {
+	battle = {
+		name = "Médine"
+		location = 384
+		attacker = {	 
+			commander = "Nedjmedine Ahmed"
+			infantry = 10000
+			losses = 15	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Ahmed Toussoune Pacha"
+			infantry = 20500
+			losses = 10	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1813.1.1 = {
+	battle = {
+		name = "Jeddah"
+		location = 385
+		attacker = {
+			commander = "Saud AL-Kabeer"
+			infantry = 2000
+			losses = 40	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Tusun Pasha"
+			infantry = 25000
+			losses = 1	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1813.1.20 = {
+	battle = {
+		name = "La Mecque"
+		location = 385
+		attacker = {	 
+			commander = "Saud AL-Kabeer"
+			infantry = 15000
+			losses = 15	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Ahmed Toussoune Pacha"
+			infantry = 18500
+			losses = 10	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1814.1.1 = {
+	battle = {
+		name = "Ta'if"
+		location = 384
+		attacker = {	 
+			commander = "Saud AL-Kabeer"
+			infantry = 20000
+			losses = 15	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Mohammed 'Ali Pacha" 
+			infantry = 30500
+			losses = 10	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1815.1.10 = {
+	battle = {
+		name = "Koulakh"
+		location = 393
+		attacker = {	 
+			commander = "Saud AL-Kabeer"
+			infantry = 20000
+			losses = 15	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Mohammed 'Ali Pacha" 
+			infantry = 30500
+			losses = 10	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1818.1.1 = {
+	battle = {
+		name = "Najd"
+		location = 392
+		attacker = {
+			commander = "Abdullah I"
+			infantry = 6000
+			losses = 83	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Ibrahim Pasha"
+			infantry = 30000
+			losses = 3	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1818.9.3 = {
+	battle = {
+		name = "Dariya"
+		location = 392
+		attacker = {
+			commander = "Abdullah I"
+			infantry = 30000
+			losses = 25	# percent
+			country = NAJ
+		}
+		defender = {
+			commander = "Ibrahim 'Ali Pacha" 
+			infantry = 40500
+			losses = 10	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+# Abdullah fait une reddition totale
+1818.9.9 = {
+	rem_attacker = NAJ
+	rem_defender = TUR
+}

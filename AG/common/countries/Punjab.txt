@@ -1,0 +1,147 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 187  79  86 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Jassa Ahuwalia #0" = 20
+	"Lahina #0" = 20
+	"Ranjit #0" = 20
+	"Bhag #0" = 10
+	"Kharak #0" = 10
+	"Duleep #0" = 10
+	"Fâteh #0" = 5
+	"Maha #0" = 5
+	"Sobha #0" = 5
+	"Narnak #0" = 5
+	"Angad #0" = 5
+	"Amar #0" = 5
+	"Ram #0" = 5
+	"Arjan #0" = 5
+	"Gobind #0" = 5
+	"Rai #0" = 5
+	"Krishan #0" = 5
+	"Bahâdur #0" = 5
+	"Sardar Badar #1" = 1
+	"Balbir #0" = 2
+	"Bhalla #0" = 2
+	"Daya #0" = 2
+	"Dharem #0" = 2
+	"Fakir #0" = 2
+	"Gahunia #0" = 2
+	"Gian #0" = 2
+	"Nihang  #0" = 2
+	"Granth #0" = 2
+	"Bhai Bachittar #0" = 2
+	"Himmat #0" = 2
+	"Hoora #0" = 2
+	"Ishnar #0" = 2
+	"Jhol #0" = 2
+	"Jhotti #0" = 2
+	"Lohaar #0" = 2
+	"Mokham #0" = 2
+	"Nand #0" = 2
+	"Paramânand #0" = 2
+	"Rajsingh #0" = 2
+	"Sanlib #0" = 2
+	"Sardul #0" = 2
+	"Shabeg #0" = 2
+	"Sheragila #0" = 2
+	"Sodhî #0" = 2
+	"Sohal #0" = 2
+	"Târâ #0" = 2
+	"Udasi #0" = 2
+	"Chand Kaur #0" = -10
+	"Ratan Kaur #0" = -1
+	"Kanwal Kaur #0" = -1
+	"Datar Kaur #0" = -1
+	"Nand Kaur #0" = -1
+	"Mahtab #0" = -1
+}
+
+leader_names = {
+	Ahluwalia
+	Ramgarhia
+	Kamboh
+	Khatri
+	Naru
+	Minhâs
+	Bahâdur
+	Bara
+	Khân
+	Das
+	Dev
+	Gahunia
+	Paramânand
+	Samma
+	Sheragila
+	Singh
+	Sodhî
+	Sohal
+	Sûmrah
+	Chattari
+	Rathore
+	Mian
+	Rai
+	Chauhan
+	Bhâtiyâ
+	Suleria
+	Lâl
+	Khokhar
+	Jîvan
+	Mâkhdum
+	Bhatta
+	Pakhral
+	Kishtwaria
+	Chandral
+	Jamwal
+	Saran
+	Nâga
+	Pundir
+	Katoch
+	Gâmî
+	Bhangalia
+	Pahore
+}
+
+ship_names = {
+	Biyâs Chanâb Devî Gayatri Guru Sindh
+	Jalsena Jhelam Lakshmi Nausenâ
+	"Nav ka Yudh" Parvati Radha Ratri
+	Ravi Sâgar Satluj Sarasvati Sita
+}
+
+army_names = {
+	"Rajah Aniika" "Panjâb  Aniika" "Beas Aniika" "Chenab Aniika" "Jhelum Aniika" "Ravi Aniika" "Sutlej Aniika" "$PROVINCE$ Aniika"
+	}
+
+fleet_names = {
+	"Raajya Nausenaa" "Panjâb Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa"
+	}

@@ -1,0 +1,31 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = -2
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = 2
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+technology_group = western
+primary_culture = gascon
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+capital = 174 	# Bordeaux
+
+# Louis XI contraint d'apanager son frère par Charles le Téméraire
+
+1468.10.14 = {
+	monarch = {
+		name = "Charles II"
+		dynasty = "de Valois"
+		birth_date = 1446.12.26
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1560.1.1 = { religion = reformed }
+
+1682.1.1 = { religion = catholic }

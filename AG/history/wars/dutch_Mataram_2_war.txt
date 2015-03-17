@@ -1,0 +1,17 @@
+name = "Seconde guerre de Mataram"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1741.7.1 = {
+	add_attacker = MTR
+	add_defender = NED
+}
+
+1743.11.1 = {
+	rem_attacker = MTR
+	rem_defender = NED
+}

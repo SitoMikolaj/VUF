@@ -1,0 +1,99 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 224  146  113 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	offensive_ideas
+	spy_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Muhammad #2" = 20
+	"'Abd Allâh #1" = 20
+	"'Abd al-Malik #1" = 20
+	"Ahmad #0" = 20
+	"Sulaymân #0" = 20
+	"Yazîd #0" = 2
+	"Zaydân #0" = 20
+	"Alim #1" = 15
+	"al-Walîd #0" = 2
+	"Ataullah #0" = 2
+	"Azhar #0" = 2
+	"Barakât #0" = 2
+	"Dawud #0" = 2
+	"Fahd #0" = 2
+	"Faraj #0" = 2
+	"Faruq #0" = 2
+	"Firuz #0" = 2
+	"Habib #0" = 2
+	"Hafiz #0" = 2
+	"Hâkim #0" = 2
+	"Hâshim #0" = 2
+	"Ibrâhîm #0" = 2
+	"Imtiyaz #0" = 2
+	"Jabril #0" = 2
+	"Khalil #0" = 2
+	"Latif #0" = 2
+	"Lutfi #0" = 2
+	"Maram #0" = 2
+	"Muhsin #0" = 2
+	"Najib #0" = 2
+	"Qismat #0" = 2
+	"Qusay #0" = 2
+	"Rashad #0" = 2
+	"Rasul #0" = 2
+	"Ridwan #0" = 2
+	"Shafaqat #0" = 2
+	"Sharif #0" = 2
+	"Yasir #0" = 2
+	"Yûsuf #0" = 2
+	"Zulfiqar #0" = 2
+	
+	"Thana #0" = -1
+	"Selima #0" = -1
+}
+
+leader_names = {
+	Hadji
+	Sediki
+	Alami
+	Aouita
+	Behar
+	Berui
+	Barek
+	Hadda
+	Sellami
+	Bidouane
+}
+
+ship_names = {
+	Majid Wadid Hâkim Wasi Mujib Raqib
+	Karîm Jalil Hasib Muqit Hafiz Kabir Ali
+	Shakur Ghafur Azim Halim Khabir Latif Adl
+}
+
+army_names = {
+	"Jaysh al-Zaouïa" "Jaysh al-Fez" "Jaysh al $PROVINCE$"
+	}
+
+fleet_names = {
+	"Armâdah al-Zaouïa" "Armâdah al-Abyad" "Armâdah al-Muttawasit" "Armâdah al-Fez" "Armâdah Maghribiya" "Armâdah al-Ifriqiya" "Armâdah al-Atlas" "Armâdah al-$PROVINCE$"
+	}

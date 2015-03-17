@@ -1,0 +1,70 @@
+government = despotic_monarchy
+mercantilism = 0.15
+technology_group = indian
+unit_type = sub_saharan
+religion = sunni
+primary_culture = somali
+capital = 2783 #Hobyo
+
+
+1650.1.1 = {
+	monarch = {
+		name= "Yûsuf"
+		dynasty = "Kenadid"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1680.1.1 = {
+	monarch = {
+		name= "Ali"
+		dynasty = "Kenadid"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1720.1.1 = {
+	monarch = {
+		name= "Yûsuf II"
+		dynasty = "Kenadid"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1750.1.1 = {
+	monarch = {
+		name= "Muhammad"
+		dynasty = "Kenadid"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+
+1790.1.1 = {
+	monarch = {
+		name= "'Ahmâd"
+		dynasty = "Kenadid"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+
+1810.1.1 = {
+	monarch = {
+		name= "Ali II"
+		dynasty = "Kenadid"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}

@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = FRA
+random_nation_chance = 0
+
+color = { 194  140  86 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	plutocracy_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {	
+	"Albert #0" = 20
+	"Charles #0" = 20
+	"Gaspard #0" = 15
+	"Jean #0 Baptiste" = 15
+	"Jean #0" = 10
+	"Joseph #0" = 10
+	"Alexandre #0 " = 2
+	"André #0" = 2
+	"Barthélémy #0" = 2
+	"Benoît #0" = 2
+	"Bertrand #0" = 2
+	"Christophe #0" = 2
+	"Clément #0" = 2
+	"Daniel #0" = 2
+	"Denis #0" = 2
+	"Didier #0" = 2
+	"Émile #0" = 2
+	"Eugène #0" = 2
+	"Félix #0" = 2
+	"François #0" = 2
+	"Henri #0" = 2
+	"Isidore #0" = 2
+	"Laurent #0" = 2
+	"Léonard #0" = 2
+	"Louis #0" = 2	
+	"Marc #0" = 2
+	"Narcisse #0" = 2
+	"Olivier #0" = 2
+	"Philippe #0" = 2
+	"Pierre #0" = 2
+	"Raymond #0" = 2
+	"Sébastien #0" = 2
+	"Simon #0" = 2
+	"Thibault #0" = 2
+	"Thierry #0" = 2
+	"Victor #0" = 2
+	"Xavier #0" = 2
+	"Yves #0" = 2
+	"Zépherin #0" = 2
+	
+	"Lucienne #0" = -1
+	"Marielle #0" = -1
+	"Rébecca #0" = -1
+}
+
+leader_names = {
+	Aucoin
+	Béliveau Bergeron Bouchard Boulton Bourque Brisebois
+	Chouniard Cloutier
+	Deveraux
+	Gagné Giguère
+	Lacroix Lambert	Lecavalier Lemieux
+	Roy
+	Ysebeart
+}
+
+ship_names = {
+	"le Montréal"
+	"le Québec"
+	"le Trois-Rivières"
+	"l'Acadie"
+	"le Louisbourg"
+	"le Duquesne"
+	"l'Isle-Royale" "l'Isle Saint-Jean"
+	"la Sainte-Croix"
+	"le Gaspé"
+}
+
+army_names = {
+	"Armée du Québec" "Armée de Montréal" "Armée d'Acadie" "Armée de Nouvelle-France" "Armée des Volontaires" "Armée de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Flotte du Saint-Laurent" "Flotte d'Acadie" "Flotte du Labrador" "Escadre de $PROVINCE$"
+}

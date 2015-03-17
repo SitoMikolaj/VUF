@@ -1,0 +1,354 @@
+name = "Guerre de Cent Ans"
+#casus_belli = cb_claim_throne
+war_goal = {
+	type = take_capital_throne
+	casus_belli = cb_claim_throne
+	tag = FRA
+}
+
+# Henry invades Normandy
+1415.1.1 = {
+	add_attacker = ENG
+	add_defender = FRA
+	add_defender = ORL
+	add_defender = AMG
+	add_defender = PRO
+	add_defender = LOR
+	add_defender = BOU
+	add_defender = AUV
+	add_defender = FOI
+	add_defender = ALE
+	add_defender = MNE
+	add_defender = LMG
+}
+
+1415.10.25 = {
+	battle = {
+		name = "Azincourt"
+		location = 87
+		attacker = {
+			commander = "Henry V"	# Henry V
+			infantry = 6000
+			losses = 2	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jean le Meingre"	# Charles d'Albret
+			infantry = 25000
+			losses = 32	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+# Treaty of Troyes, Philip of Burgundy and Henry V ally after John II's death
+1420.5.21 = {
+	add_attacker = BUR
+	add_attacker = BRI
+}
+
+1421.3.21 = {
+	battle = {
+		name = "Baugé"
+		location = 177
+		attacker = {
+			commander = "Thomas of Lancaster"	# Henry V
+			infantry = 3000
+			losses = 33	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Gilbert Motier de La Fayette"
+			infantry = 5000
+			losses = 2	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1423.7.31 = {
+	battle = {
+		name = "Cravant"
+		location = 192
+		attacker = {
+			commander = "Thomas Montaigu"
+			infantry = 4000
+			losses = 20	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Louis I de Bourbon"
+			infantry = 8000
+			losses = 20	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1423.9.26 = {
+	battle = {
+		name = "Brossinière"
+		location = 177
+		attacker = {
+			commander = "William de la Pole"
+			infantry = 3000
+			losses = 90	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Ambroise de Loré"
+			infantry = 4000
+			losses = 2	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1424.8.17 = {
+	battle = {
+		name = "Verneuil"
+		location = 167
+		attacker = {
+			commander = "John of Lancaster"
+			infantry = 14000
+			losses = 10	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jean II d'Alençon"
+			infantry = 18000
+			losses = 10	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1429.2.12 = {
+	battle = {
+		name = "Rouvray"
+		location = 184
+		attacker = {
+			commander = "John Fastolf"
+			infantry = 1500
+			losses = 2	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jean I d'Orléans"
+			infantry = 4000
+			losses = 10	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1429.5.8 = {
+	battle = {
+		name = "Orléans"
+		location = 184
+		attacker = {
+			commander = "William de la Pole"
+			infantry = 5000
+			losses = 80	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jeanne d'Arc"
+			infantry = 9000
+			losses = 20	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1429.6.12 = {
+	battle = {
+		name = "Jargeau"
+		location = 184
+		attacker = {
+			commander = "William de la Pole"
+			infantry = 5000
+			losses = 40	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jeanne d'Arc"
+			infantry = 3000
+			losses = 20	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1429.6.15 = {
+	battle = {
+		name = "Meung sur Loire"
+		location = 184
+		attacker = {
+			commander = "John Talbot"
+			infantry = 5000
+			losses = 5	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jeanne d'Arc"
+			infantry = 7000
+			losses = 2	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1429.6.17 = {
+	battle = {
+		name = "Beaugency"
+		location = 184
+		attacker = {
+			commander = "John Talbot"
+			infantry = 1500
+			losses = 80	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jeanne d'Arc"
+			infantry = 3000
+			losses = 20	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1429.7.16 = {
+	battle = {
+		name = "Reims"
+		location = 186
+		attacker = {
+			commander = "Henry VI"
+			infantry = 10000
+			losses = 5	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Charles VII"
+			infantry = 40000
+			cavalry = 33000
+			losses = 1	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1435.5.9 = {
+	battle = {
+		name = "Gerberoy"
+		location = 183
+		attacker = {
+			commander = "John FitzAlan"
+			infantry = 3000
+			losses = 5	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jean Xaintrailles"
+			infantry = 1800
+			losses = 2	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# Treaty of Arras
+1435.9.21 = {
+	rem_attacker = BUR
+	rem_attacker = BRI
+	add_defender = BUR
+	add_defender = BRI
+}
+
+1439.1.1 = {
+	rem_defender = BUR
+	rem_defender = BRI
+}
+
+#Special one day war to make sure FRA and BUR starts in truce, balance reasons
+#1441.1.1 = {
+#	add_attacker = BUR
+#	add_attacker = BRI
+#}
+
+#1441.1.2 = {
+#	rem_attacker = BUR
+#	rem_attacker = BRI
+#}
+
+1450.4.15 = {
+	battle = {
+		name = "Formigny"
+		location = 168
+		attacker = {
+			commander = "Thomas Kyriell"	# Thomas Kyriell
+			infantry = 4000
+			losses = 63	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Charles de Bourbon"	# Comte de Clermont
+			infantry = 5000
+			losses = 6	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1453.2.28 = {
+	rem_defender = LOR
+}
+
+1453.7.17 = {
+	battle = {
+		name = "Castillon"
+		location = 174
+		attacker = {
+			commander = "John Talbot"	# John Talbot
+			infantry = 5000
+			cavalry = 500
+			losses = 60	# percent
+			country = ENG
+		}
+		defender = {
+			commander = "Jean Bureau"	# Jean Bureau
+			infantry = 10500
+			cavalry = 1000
+			losses = 1	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1453.7.18 = {
+	rem_attacker = ENG
+	rem_defender = FRA
+	rem_defender = ORL
+	rem_defender = AMG
+	rem_defender = PRO
+	rem_defender = BOU
+	rem_defender = AUV
+	rem_defender = FOI
+	rem_defender = ALE
+	rem_defender = MNE
+	rem_defender = LMG
+}

@@ -1,0 +1,151 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 80  165  10 }
+
+revolutionary_colors = { 6  0  10 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	humanist_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Shrîranga #0" = 60
+	"Narasimha #1" = 40
+	"Venkata #1" = 40
+	"Virûpâksha #0" = 20
+	"Dêvarâya #0" = 20
+	"Vijaya #1" = 20
+	"Praudha #0" = 20
+	"Thimma #0" = 20
+	"Vîra Narasimha #0" = 20
+	"Krishna #0" = 20
+	"Achyuta #0" = 20
+	"Sadâshiva #0" = 20
+	"Tirumala #0" = 20
+	"Râma #0" = 20
+	"Jaggâ #0" = 10
+	"Yethirâja #0" = 10
+	"Aliya Rama #0" = 5
+	"Tuluva #0" = 5
+	"Harihara #1" = 1
+	"Bukkâ #1" = 1
+	"Deva #2" = 1
+	"Râmachandra #1" = 1
+	"Vîra Vijaya Bukkâ #0" = 1
+	"Mallikarjuna #0" = 1
+	"Adarsh #0" = 2
+	"Budhil #0" = 2
+	"Chaitanya #0" = 2
+	"Devarshi #0" = 2
+	"Devilal #0" = 2
+	"Gundâ #0" = 2
+	"Hridaynath #0" = 2
+	"Koshal #0" = 2
+	"Manaprasâda #0" = 2
+	"Mârkandeya #0" = 2
+	"Pranet #0" = 2
+	"Prabuddha #0" = 2
+	"Purandaradâsa #0" = 2
+	"Rishi #0" = 2
+	"Sârasvat #0" = 2
+	"Shivappa #0" = 2
+	"Thanjâvûr #0" = 2
+	"Thirumalai #0" = 2
+	"Timma #0" = 2
+	"Utkarsh #0" = 2
+	"Vikrant #0" = 2
+	"Yachama #0" = 2
+	"Nusrat #0" = 20
+	"Sayyid Khidr #0" = 20
+	"Dawlat Khân #0" = 20
+	"Khidr Khân #0" = 20
+	"Mubârak Shâh #1" = 30
+	"Muhammad Shâh #3" = 40
+	"'Alâ' ud-Dîn 'Alam Shâh #0" = 10
+	"Bahlûl Lûdhî #0" = 20
+	"Sikander #0" = 20
+	"'Ibrâhîm #1" = 20
+	"Sher Shâh #0" = 20
+	"'Islâm Shâh #0" = 20
+	
+	"Bahîga #0" = -1
+	"Duâ #0" = -1
+	"Kânchanâ #0" = -1
+}
+
+leader_names = {
+	Keshaw
+	Ghemawat
+	Dâsari
+	Châttârjî
+	Mâlinî
+	Mallikârjun
+	Chittûr
+	Jeûmal
+	Mayekar
+	Padmesh
+	"'Alî"
+	Âzâd
+	Bhutto
+	Husayn
+	Jahân
+	Khân
+	Lûdhî
+	Lohiyâ
+	Musharif
+	Nagar
+	"Nâzim ud-Dîn"
+	Ra'nâ
+	Sharma
+	Sinân
+	Singh
+	Sharîf
+	"Viqâr ul-Mulk"
+}
+
+ship_names = {
+	Amirtha Amman Arul Bharathapuzha
+	Bhavânî Bhîma Chellam Devî Durgâ
+	Gâyatrî Godvârî Iniyâ Kabanî
+	Kâvêri Krishnâ Lakshmî Madhu
+	Mînâkshî Nalinî Pambar Pârvatî
+	Periyâr Ponni Râdhâ Râtri Sarasvatî
+	Sîtâ Tâmarai Tungabhadra
+	"A'âliyah" Chambal Fâtima Jalsena Gangâ
+	"Kâla Jahâzî" Khân "Lâl Jahâzî"
+	Nausenâ "Nav ka Yudh" Nîknâz
+	"Nîla Jahâzî" Nîlûfa Nûr Sâgar
+	Spiti Yamunâ Yâsmin
+}
+
+army_names = {
+	"Raja Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa"
+	}

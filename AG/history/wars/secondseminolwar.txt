@@ -1,0 +1,257 @@
+name = "Seconde guerre Séminole"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1835.12.28 = {
+	add_attacker = CRE # Assimilé aux Séminoles
+	add_defender = USA
+}
+
+1835.12.28 = {
+	battle = {
+		name = "Dade"
+		location = 927
+		attacker = {
+			commander = "Micanopy"
+			infantry = 180
+			losses = 2	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Francis L. Dade" 
+			infantry = 110
+			losses = 98	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1836.1.1 = {
+	battle = {
+		name = "Withlacoochee"
+		location = 926
+		attacker = {
+			commander = "Micanopy"
+			infantry = 400
+			losses = 2	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Edward Clinch"  
+			infantry = 750
+			losses = 10	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1836.3.6 = {
+	battle = {
+		name = "Camp Izard"
+		location = 926
+		attacker = {
+			commander = "Micanopy"
+			infantry = 1400
+			losses = 15	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Adam Gaines"   
+			infantry = 1100
+			losses = 30	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1836.3.31 = {
+	battle = {
+		name = "Pilaklikaha"
+		location = 927
+		attacker = {
+			commander = "Micanopy"
+			infantry = 400
+			losses = 85	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "James Scott"   
+			infantry = 1000
+			losses = 1	# percent
+			country = USA
+		}
+		result = loss
+	}
+} 
+
+1836.4.10 = {
+	battle = {
+		name = "Fort Alabama"
+		location = 926
+		attacker = {
+			commander = "Micanopy"
+			infantry = 400
+			losses = 5	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "James Scott"   
+			infantry = 500
+			losses = 15	# percent
+			country = USA
+		}
+		result = win
+	}
+} 
+
+1836.4.15 = {
+	battle = {
+		name = "Fort Barnwell"
+		location = 926
+		attacker = {
+			commander = "Micanopy"
+			infantry = 400
+			losses = 5	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "James Scott"  
+			infantry = 500
+			losses = 15	# percent
+			country = USA
+		}
+		result = win
+	}
+} 
+
+1836.4.20 = {
+	battle = {
+		name = "Fort Drane"
+		location = 927
+		attacker = {
+			commander = "Micanopy"
+			infantry = 400
+			losses = 5	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "James Scott"
+			infantry = 500
+			losses = 15	# percent
+			country = USA
+		}
+		result = win
+	}
+} 
+
+1836.11.21 = {
+	battle = {
+		name = "Wahoo swamp"
+		location = 926
+		attacker = {
+			commander = "Osuchee"
+			infantry = 1200
+			losses = 5	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Richard K. Call"
+			infantry = 2500
+			losses = 15	# percent
+			country = USA
+		}
+		result = win
+	}
+} 
+
+1837.12.25 = {
+	battle = {
+		name = "Lake Okeechobee"
+		location = 926
+		attacker = {
+			commander = "Alligator"
+			infantry = 400
+			losses = 5	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Zachary Taylor"
+			infantry = 1100
+			losses = 15	# percent
+			country = USA
+		}
+		result = win
+	}
+} 
+
+1838.1.15 = {
+	battle = {
+		name = "Loxahatchee"
+		location = 926
+		attacker = {
+			commander = "Osuchee"
+			infantry = 200
+			losses = 5	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "Levin Powell"
+			infantry = 100
+			losses = 25	# percent
+			country = USA
+		}
+		result = win
+	}
+} 
+
+1839.7.23 = {
+	battle = {
+		name = "Harney"
+		location = 926
+		attacker = {
+			commander = "Osuchee"
+			infantry = 150
+			losses = 5	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "James Scot"
+			infantry = 60
+			losses = 70	# percent
+			country = USA
+		}
+		result = win
+	}
+} 
+
+1840.8.8 = {
+	battle = {
+		name = "Indian Key"
+		location = 926
+		attacker = {
+			commander = "Osuchee"
+			infantry = 150
+			losses = 5	# percent
+			country = CRE
+		}
+		defender = {
+			commander = "James Scot"
+			infantry = 50
+			losses = 20	# percent
+			country = USA
+		}
+		result = win
+	}
+} 
+
+1842.8.14 = {
+	rem_attacker = CRE
+	rem_defender = USA
+}

@@ -1,0 +1,547 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = rajput
+religion = hinduism
+technology_group = indian
+capital = 519	# Jaipur
+fixed_capital = 519 # Cannot move capital away from this province & no power cost to move to it
+
+1388.1.1 = {
+	monarch = {
+		name = "Narasimha"
+		dynasty = "Kachwaha"
+		DIP = 3
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1388.1.1 = {
+	heir = {
+		name = "Banabîra"
+		monarch_name = "Banabîra"
+		dynasty = "Kachwaha"
+		birth_date = 1370.1.1
+		death_date = 1439.1.1
+		claim = 95
+		DIP = 2
+		MIL = 2
+		ADM = 0
+	}
+}
+
+ 
+
+1427.1.1 = {
+	monarch = {
+		name = "Banabîra"
+		dynasty = "Kachwaha"
+		DIP = 2
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1427.1.1 = {
+	heir = {
+		name = "Uddharana"
+		monarch_name = "Uddharana"
+		dynasty = "Kachwaha"
+		birth_date = 1417.1.1
+		death_date = 1467.1.1
+		claim = 95
+		DIP = 2
+		MIL = 3
+		ADM = 4
+	}
+}
+
+1439.1.1 = {
+	monarch = {
+		name = "Uddharana"
+		dynasty = "Kachwaha"
+		DIP = 2
+		MIL = 3
+		ADM = 4
+	}
+}
+
+1439.1.1 = {
+	heir = {
+		name = "Chandra Sena"
+		monarch_name = "Chandra Sena"
+		dynasty = "Kachwaha"
+		birth_date = 1430.1.1
+		death_date = 1503.1.1
+		claim = 95
+		DIP = 1
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1467.1.1 = {
+	monarch = {
+		name = "Chandra Sena"
+		dynasty = "Kachwaha"
+		DIP = 1
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1467.1.1 = {
+	heir = {
+		name = "Prithvî"
+		monarch_name = "Prithvî Singh"
+		dynasty = "Kachwaha"
+		birth_date = 1430.1.1
+		death_date = 1527.1.1
+		claim = 95
+		DIP = 0
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1503.1.1 = {
+	monarch = {
+		name = "Prithvî Singh"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1503.1.1 = {
+	heir = {
+		name = "Puranmal"
+		monarch_name = "Puranmal"
+		dynasty = "Kachwaha"
+		birth_date = 1440.1.1
+		death_date = 1536.1.1
+		claim = 95
+		DIP = 1
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1527.1.1 = {
+	monarch = {
+		name = "Puranmal"
+		dynasty = "Kachwaha"
+		DIP = 1
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1527.1.1 = {
+	heir = {
+		name = "Bhîmasimha"
+		monarch_name = "Bhîmasimha"
+		dynasty = "Kachwaha"
+		birth_date = 1510.1.1
+		death_date = 1537.1.1
+		claim = 95
+		DIP = 0
+		MIL = 4
+		ADM = 2
+	}
+}
+
+1536.1.1 = {
+	monarch = {
+		name = "Bhîmasimha"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 4
+		ADM = 2
+	}
+}
+
+1536.1.1 = {
+	heir = {
+		name = "Ratnasimha"
+		monarch_name = "Ratnasimha"
+		dynasty = "Kachwaha"
+		birth_date = 1510.1.1
+		death_date = 1537.1.1
+		claim = 95
+		DIP = 1
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1537.1.1 = {
+	monarch = {
+		name = "Ratnasimha"
+		dynasty = "Kachwaha"
+		DIP = 1
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1537.1.1 = {
+	heir = {
+		name = "Aaskaran"
+		monarch_name = "Aaskaran"
+		dynasty = "Kachwaha"
+		birth_date = 1510.1.1
+		death_date = 1548.6.1
+		claim = 95
+		DIP = 3
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1548.1.1 = {
+	monarch = {
+		name = "Aaskaran"
+		dynasty = "Kachwaha"
+		DIP = 3
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1548.1.1 = {
+	heir = {
+		name = "Bharmal"
+		monarch_name = "Bharmal"
+		dynasty = "Kachwaha"
+		birth_date = 1499.1.1
+		death_date = 1574.1.27
+		claim = 95
+		DIP = 3
+		MIL = 3
+		ADM = 2
+	}
+}
+
+1548.6.1 = {
+	monarch = {
+		name = "Bharmal"
+		dynasty = "Kachwaha"
+		DIP = 3
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1548.6.1 = {
+	heir = {
+		name = "Bhagawant Das"
+		monarch_name = "Bhagawant Das"
+		dynasty = "Kachwaha"
+		birth_date = 1540.1.1
+		death_date = 1589.12.10
+		claim = 95
+		DIP = 2
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1573.1.1 = {
+	monarch = {
+		name = "Bhagawant Das"
+		dynasty = "Kachwaha"
+		DIP = 2
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1573.1.1 = {
+	heir = {
+		name = "Man Singh"
+		monarch_name = "Man Singh I"
+		dynasty = "Kachwaha"
+		birth_date = 1540.5.9
+		death_date = 1614.7.6
+		claim = 95
+		DIP = 1
+		MIL = 4
+		ADM = 3
+	}
+}
+
+1589.12.10 = {
+	monarch = {
+		name = "Man Singh I"
+		dynasty = "Kachwaha"
+		DIP = 1
+		MIL = 4
+		ADM = 3
+	}
+}
+
+1589.12.10 = {
+	heir = {
+		name = "Shrî Bhâo Singh"
+		monarch_name = "Shrî Bhâo Singh"
+		dynasty = "Kachwaha"
+		birth_date = 1540.1.1
+		death_date = 1622.1.1
+		claim = 95
+		DIP = 0
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1614.7.6 = {
+	monarch = {
+		name = "Shrî Bhâo Singh"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1614.7.6 = {
+	heir = {
+		name = "Jai Singh"
+		monarch_name = "Jai Singh I"
+		dynasty = "Kachwaha"
+		birth_date = 1611.7.15
+		death_date = 1667.8.28
+		claim = 95
+		DIP = 1
+		MIL = 4
+		ADM = 1
+	}
+}
+
+1622.1.1 = {
+	monarch = {
+		name = "Jai Singh I"
+		dynasty = "Kachwaha"
+		DIP = 1
+		MIL = 4
+		ADM = 1
+	}
+}
+
+1622.1.1 = {
+	heir = {
+		name = "Râm Singh"
+		monarch_name = "Râm Singh I"
+		dynasty = "Kachwaha"
+		birth_date = 1620.1.1
+		death_date = 1688.4.1
+		claim = 95
+		DIP = 0
+		MIL = 3
+		ADM = 3
+	}
+}
+
+1667.8.28 = {
+	monarch = {
+		name = "Râm Singh I"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 3
+		ADM = 3
+	}
+}
+
+1672.1.1 = {
+	heir = {
+		name = "Bishan Singh"
+		monarch_name = "Bishan Singh"
+		dynasty = "Kachwaha"
+		birth_date = 1672.1.1
+		death_date = 1699.12.31
+		claim = 95
+		DIP = 0
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1688.4.1 = {
+	monarch = {
+		name = "Bishan Singh"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 3
+		ADM = 1
+	}
+}
+
+1688.11.4 = {
+	heir = {
+		name = "Jai Singh"
+		monarch_name = "Jai Singh II"
+		dynasty = "Kachwaha"
+		birth_date = 1688.11.4
+		death_date = 1743.9.21
+		claim = 95
+		DIP = 3
+		MIL = 4
+		ADM = 5
+	}
+}
+
+1699.12.31 = {
+	monarch = {
+		name = "Jai Singh II"
+		dynasty = "Kachwaha"
+		DIP = 3
+		MIL = 4
+		ADM = 5
+	}
+}
+
+1721.1.1 = {
+	heir = {
+		name = "Isri Singh"
+		monarch_name = "Isri Singh"
+		dynasty = "Kachwaha"
+		birth_date = 1688.11.4
+		death_date = 1750.1.1
+		claim = 95
+		DIP = 0
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1743.9.21 = {
+	monarch = {
+		name = "Isri Singh"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 2
+		ADM = 0
+	}
+}
+
+1743.9.21 = {
+	heir = {
+		name = "Mâdho Singh"
+		monarch_name = "Mâdho Singh I"
+		dynasty = "Kachwaha"
+		birth_date = 1728.12.1
+		death_date = 1750.1.1
+		claim = 95
+		DIP = 0
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1750.1.1 = {
+	monarch = {
+		name = "Mâdho Singh I"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1762.1.1 = {
+	heir = {
+		name = "Prathvî Singh"
+		monarch_name = "Prathvî Singh II"
+		dynasty = "Kachwaha"
+		birth_date = 1762.1.1
+		death_date = 1778.1.1
+		claim = 95
+		DIP = 0
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1768.1.1 = {
+	monarch = {
+		name = "Prathvî Singh"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 2
+		ADM = 1
+	}
+}
+
+1768.1.1 = {
+	heir = {
+		name = "Pratâp Singh"
+		monarch_name = "Pratâp Singh II"
+		dynasty = "Kachwaha"
+		birth_date = 1764.12.2
+		death_date = 1803.1.1
+		claim = 95
+		DIP = 0
+		MIL = 2
+		ADM = 2
+	}
+}
+
+1778.1.1 = {
+	monarch = {
+		name = "Pratâp Singh"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 2
+		ADM = 2
+	}
+}
+
+1778.1.1 = {
+	heir = {
+		name = "Jagat Singh"
+		monarch_name = "Jagat Singh II"
+		dynasty = "Kachwaha"
+		birth_date = 1764.1.1
+		death_date = 1818.11.21
+		claim = 95
+		DIP = 0
+		MIL = 1
+		ADM = 0
+	}
+}
+
+1803.1.1 = {
+	monarch = {
+		name = "Jagat Singh II"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 1
+		ADM = 0
+	}
+}
+
+1819.4.15 = {
+	heir = {
+		name = "Jai Singh"
+		monarch_name = "Jai Singh III"
+		dynasty = "Kachwaha"
+		birth_date = 1819.4.15
+		death_date = 1835.2.6
+		claim = 95
+		DIP = 0
+		MIL = 1
+		ADM = 0
+	}
+}
+
+1819.4.15 = {
+	monarch = {
+		name = "Jai Singh III"
+		dynasty = "Kachwaha"
+		DIP = 0
+		MIL = 1
+		ADM = 0
+	}
+}

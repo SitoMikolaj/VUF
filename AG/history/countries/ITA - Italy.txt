@@ -1,0 +1,100 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = -3
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+technology_group = western
+religion = catholic
+primary_culture = lombard
+culture_group_union = latin
+capital = 118		# Roma
+
+
+1797.6.29 = { government = constitutional_republic }
+
+## République Cisalpine 
+# Ier Directoire
+
+1797.6.29 = {
+	monarch = {
+		name = "(Giovanni Galeazzo Serbelloni)"
+		adm = 4
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+1797.11.13 = {
+	monarch = {
+		name = "(Giovanni Battista Savoldi)"
+		adm = 4
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+# II° Directoire
+1798.8.31 = {
+	monarch = {
+		name = "(Girolamo Adelasio)"
+		adm = 4
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+1798.10.17 = {
+	monarch = {
+		name = "(Antonio Sabbati)"
+		adm = 4
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+# III° Directoire
+
+1798.12.14 = {
+	monarch = {
+		name = "(Girolamo Adelasio)"
+		adm = 4
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+## Republicca Italiana
+
+1802.6.26 = {
+	monarch = {
+		name = "(Francesco Melzi d'Eril)"
+		adm = 4
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+## Royaume d'Italie
+
+1805.3.18 = { government = constitutional_monarchy }
+
+1805.3.18 = {
+	monarch = {
+		name = "Eugène de Beauharnais"
+		dynasty = "Bonaparte"
+		adm = 7
+		dip = 4
+		mil = 4
+		leader = { name = "Eugène de Beauharnais"	type = general	rank = 0	fire = 3	shock = 3	manuever = 2	siege = 1 }
+	}
+}

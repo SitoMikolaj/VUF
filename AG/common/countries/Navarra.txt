@@ -1,0 +1,120 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 252  233  58 }
+
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Enrique #1" = 40
+	"Carlos #2" = 20
+	"Francisco #0 Febo" = 20
+	"Juana #2" = -10
+	"Juan #1" = 10
+	"Luis #1" = 10
+	"Andrés #0 Febo" = 10
+	"Catalina #0" = -10
+	"Gastón #0" = 10
+	"Leonor #0" = -10
+	"Blanca #1" = -10
+	"Pedro #1" = 5
+	"Buenaventura #0" = 5
+	"Francisco #0" = 5
+	"Godofredo #0" = 5
+	"Jaime #0" = 5
+	"Lanzarote #0" = 5
+	"Leonel #0" = 5
+	"Martín #0" = 5
+	"Sancho #7" = 1
+	"García #5" = 1
+	"Felipe #3" = 1
+	"Teobaldo #2" = 1
+	"Agustín #0" = 2
+	"Alejandro #0" = 2
+	"Álvaro #0" = 2
+	"Andrés #0" = 2
+	"Antonio #0" = 2
+	"Bernardo #0" = 2
+	"César #0" = 2
+	"Cristóbal #0" = 2
+	"Diego #0" = 2
+	"Esteban #0" = 2
+	"Fernando #0" = 2
+	"Gaspar #0" = 2
+	"José #0" = 2
+	"Nicolás #0" = 2
+	"Simón #0" = 2
+	"Íñigo #1" = 5
+	"Fortún #1" = 5
+	"Jiménez #0" = 2
+	"Jimeno Garcés #0" = 2
+	"García Sánchez #3" = 20	
+	"Sancho Garcés #4" = 20
+	"Sancho #5 Ramírez" = 20 	
+	"Pietro #1" = 20
+	"Alfonso #1" = 20
+	"García Ramírez #1" = 20
+}
+
+leader_names = {
+	"de Aguirre" "de Albret" "de Antillón" "de Aranda" "de Armendariz" "de Azagra" "de Azpilcueta"
+	"de Beaumont" "de Beortegui" Bergera "de Borbón" "de Bourbon-Condé"
+	"de Carranza" "de Campomanes"	
+	Elizalde
+	"de Garay" "de Goñi" Goyeneche 
+	"de Heredia" "de Hijar" "de Herrera"
+	"de Jaso" "Jiménez de Rada" Jimeno "de Javier"
+	"de Landívar"
+	Navarro
+	Palafox "Pérez de Zabalza" 
+	"de Salazar" 
+	"de Uribe" "de Ursúa"
+	"de Yanguas" 
+	"de Zárate"
+}
+
+ship_names = {
+	Atlántida "Conde de Evreux" "Conde de Foix" "Conde de Guenduláin" "Conde de Lerín"
+	"Don Jimeno" "Duque de Armagnac" "Duque de Champaña"
+	"El Agramontés" "El Beaomontés" "El Bearnés" "El Cruzado Navarro" "El Montañés" "El Navarro" "El Salvador" "El Trobador" "El Viñador" "Emperador Hispánico" Europa
+	"Mar de Navarra" "Nuestra Sra de Leyre" "Príncipe de Viana"
+	"Reina Juana" "Rey Enrique" "Rey García" "Rey Sancho" "Reyno de Navarra" "Reyno de Pamplona"
+	"San Agustín" "San Andrés" "San Antonio" "San Carlos" "San Enrique" "San Esteban" "San Fermín" "San Francisco" "San Francisco Xabier" "San Gregorio" "San Juan" "San León" "San Miguel Arcángel" "San Raimundo" "San Virila"
+	"Santa Ana" "Santa Catalina" "Santa Juana" "Santa Leonor" "Santísima Trinidad" "Señor de Tudela"
+	Vasconia
+}
+
+army_names = {
+	"Ejército de Navarre" "Ejército Réale" "Guardia Réale" "Ejército de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina Réale" "Armada del Mar" "Armada del $PROVINCE$"
+}

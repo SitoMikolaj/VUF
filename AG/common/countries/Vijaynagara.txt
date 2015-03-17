@@ -1,0 +1,141 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 237  204  3 }
+
+historical_score = 100
+
+historical_idea_groups = {
+	religious_ideas
+	quantity_ideas
+	innovativeness_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Srîranga #0" = 60
+	"Narasimha #1" = 40
+	"Vênkata #1" = 40
+	"Virûpâksha #0" = 20
+	"Dêvarâya #0" = 20
+	"Vijaya #1" = 20
+	"Praudha #0" = 20
+	"Thimma #0" = 20
+	"Vîra Narasimha #0" = 20
+	"Krishna #0" = 20
+	"Achyuta #0" = 20
+	"Sadâshiva #0" = 20
+	"Tirumala #0" = 20
+	"Râma #0" = 20
+	"Jaggâ #0" = 10
+	"Yethi Râja #0" = 10
+	"Aliya Râma #0" = 5
+	"Tuluva #0" = 5
+	"Harihara #1" = 1
+	"Bukka #1" = 1
+	"Dêva #2" = 1
+	"Râmachandra #1" = 1
+	"Vîra Vijaya Bukka #0" = 1
+	"Mallikârjuna #0" = 1
+	"Tirumala Devî #0" = -1
+	"China Devî #0" = -1
+	"Adarsh #0" = 2
+	"Budhil #0" = 2
+	"Chaitanya #0" = 2
+	"Devarsi #0" = 2
+	"Devîlâl #0" = 2
+	"Gûnda #0" = 2
+	"Hridaynath #0" = 2
+	"Kaushal #0" = 2
+	"Manprasâd #0" = 2
+	"Mârkandeya #0" = 2
+	"Pranet #0" = 2
+	"Prabuddha #0" = 2
+	"Purandaradâsa #0" = 2
+	"Rishi #0" = 2
+	"Sârasvat #0" = 2
+	"Shivappa #0" = 2
+	"Narasa #0" = 2
+	"Thirumalai #0" = 2
+	"Gopa #0" = 2
+	"Gopana #0" = 2
+	"Vishwanâtha #0" = 2
+	"Lakshmîdhara #0" = 2
+	"Îshvara #0" = 2
+	"Salukaraya #0" = 2
+	"Saluva Mângo #0" = 2
+	"Manabhusa #0" = 2
+	"Konite Râja #0" = 2
+	"Imadhi #0" = 2
+	"Kempe Gauda #0" = 2
+	"Vyâsarâya #0" = 2
+	"Allasâni Peddana #0" = 2
+	"Nagama #0" = 2
+	"Chellappa #0" = 2
+	"Aryavanata Mudaliyâr #0" = 2
+	"Dandanâyaka #0" = 2
+	"Kanaka #0" = 2
+	"Kumâra #0" = 2
+}
+
+leader_names = {
+	Alupa
+	Nâyak
+	Nâyaka
+	Nayudu
+	Narasa
+	Heuna
+	Kampana
+	Gopana
+	Saluva
+	Kêladi
+	Kamma
+	Tuluva
+	Govindarâya
+	Mangu
+	Timma
+	Timmarasa
+	Tiruvadi
+	Ummattur
+	Paruchuri
+	Velâma
+	Vâsireddi
+	Reddi
+}
+
+ship_names = {
+	Amirtha Amman Arul Bharathapuzha
+	Bhavânî Bhîma Chellam Devî Durgâ
+	Gâyatrî Godvârî Iniyâ Kabanî
+	Kâvêri Krishna Lakshmî Madhu
+	Mînâkshî Nalinî Pambar Pârvatî
+	Periyâr Ponni Râdhâ Râtri Sarasvatî
+	Sîtâ Tâmarai Tungabhadra
+}
+
+army_names = {
+	"Rajah Vaahinii" "Bijanâgara Vaahinii" "Vijayanagara Vaahinii" "Raajya Paalayati" "Kavalu Paalayati" "Mahapradhana Vaahinii" "Karyakartha Vaahinii" "Rayaswami Vaahinii" "Adhikari Vaahinii" "Rajya Vaahinii" "Karnataka Vaahinii" "Bharat Vaahinii" "Hindûsthân Vaahinii" "Sindhi Vaahinii" "Sangama Vaahinii" "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Raajya Nausenaa" "Navigadaprabhu Nausenaa" "Bijanâgara Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa"
+	}

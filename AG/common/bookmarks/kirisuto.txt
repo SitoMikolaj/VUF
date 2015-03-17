@@ -1,0 +1,10 @@
+bookmark =
+{
+	name = "KIRISUTO_NAME"
+	desc = "KIRISUTO_DESC"
+	date = 1578.7.1
+	
+	country = OTM
+	country = JAP
+	
+}

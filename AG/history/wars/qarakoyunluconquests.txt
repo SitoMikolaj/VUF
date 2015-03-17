@@ -1,0 +1,21 @@
+name = "Campagne de Miranshah"
+
+#casus_belli
+war_goal = {
+	type = take_core
+	casus_belli = cb_core
+}
+
+1402.1.1 = {
+	add_attacker = QAR
+	add_attacker = JAI
+	add_defender = KHO
+	}
+	
+# Battle against Miranshah
+1408.4.20 = {
+	rem_attacker = QAR
+	rem_attacker = JAI
+	rem_defender = KHO
+}
+

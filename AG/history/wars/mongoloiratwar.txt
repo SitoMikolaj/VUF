@@ -1,0 +1,17 @@
+name = "Première guerre des Khans"
+
+#casus_belli
+war_goal = {
+	type = take_province_tribal_feud
+	casus_belli = cb_tribal_feud
+}
+
+1409.1.1 = {
+	add_attacker = OIR
+	add_defender = KHA
+}
+
+1416.1.1 = {
+	rem_attacker = OIR
+	rem_defender = KHA
+}

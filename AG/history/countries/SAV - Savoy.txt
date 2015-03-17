@@ -1,0 +1,678 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 205 # Chambéry
+
+1027.1.1 = { government = feudal_county }
+
+1383.3.1 = {
+	monarch = {
+		name = "Amedeo VII"
+		dynasty = "de Savoie"
+		birth_date = 1360.2.24
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1383.9.4 = {
+	heir = {
+		name = "Amedeo"
+		monarch_name = "Amedeo VIII"
+		dynasty = "de Savoie"
+		birth_date = 1383.9.4
+		death_date = 1451.1.7
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1391.11.1 = {
+	monarch = {
+		name = "(Reggente Bona)"
+		dynasty = "de Bourbon"
+		birth_date = 1341.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1391.11.1 = {
+	heir = {
+		name = "Amedeo"
+		monarch_name = "Amedeo VIII"
+		dynasty = "de Savoie"
+		birth_date = 1383.9.4
+		death_date = 1451.1.7
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1393.5.1 = {
+	monarch = {
+		name = "(Reggente Filippo)"
+		dynasty = "de Bourgogne"
+		birth_date = 1342.1.17
+		adm = 2
+		dip = 3
+		mil = 1
+		regent = yes
+	}
+}
+
+1393.5.1 = {
+	heir = {
+		name = "Amedeo"
+		monarch_name = "Amedeo VIII"
+		dynasty = "de Savoie"
+		birth_date = 1383.9.4
+		death_date = 1451.1.7
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1398.9.4 = {
+	monarch = {
+		name = "Amedeo VIII"
+		dynasty = "de Savoie"
+		birth_date = 1383.9.4
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1407.5.1 = {
+	heir = {
+		name = "Antonio"
+		monarch_name = "Antonio I"
+		dynasty = "de Savoie"
+		birth_date = 1407.5.1
+		death_date = 1407.12.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1408.9.30 = {
+	heir = {
+		name = "Antonio"
+		monarch_name = "Antonio I"
+		dynasty = "de Savoie"
+		birth_date = 1408.9.30
+		death_date = 1408.10.30
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1412.3.26 = {
+	heir = {
+		name = "Amedeo"
+		monarch_name = "Amedeo IX"
+		dynasty = "de Savoie"
+		birth_date = 1412.3.26
+		death_date = 1431.8.17
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1416.2.3 = {government = feudal_duchy }
+
+1431.8.17 = {
+	heir = {
+		name = "Ludovico"
+		monarch_name = "Ludovico I"
+		dynasty = "de Savoie"
+		birth_date = 1413.2.21
+		death_date = 1465.1.29
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1434.11.2 = {
+	monarch = {
+		name = "Ludovico I"
+		dynasty = "de Savoie"
+		birth_date = 1413.2.21
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1435.2.1 = {
+	heir = {
+		name = "Amedeo"
+		monarch_name = "Amedeo IX"
+		dynasty = "de Savoie"
+		birth_date = 1435.2.1
+		death_date = 1472.3.30
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1465.1.30 = {
+	monarch = {
+		name = "Amedeo IX"
+		dynasty = "de Savoie"
+		birth_date = 1435.2.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1465.1.30 = {
+	heir = {
+		name = "Carlo"
+		monarch_name = "Carlo I"
+		dynasty = "de Savoie"
+		birth_date = 1456.9.15
+		death_date = 1471.8.8
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1471.8.8 = {
+	heir = {
+		name = "Filiberto"
+		monarch_name = "Filiberto I"
+		dynasty = "de Savoie"
+		birth_date = 1465.8.17
+		death_date = 1482.9.22
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1472.3.31 = {
+	monarch = {
+		name = "(Reggente Iolanda)"
+		dynasty = "de Valois"
+		birth_date = 1434.9.23
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1472.3.31 = {
+	heir = {
+		name = "Filiberto"
+		monarch_name = "Filiberto I"
+		dynasty = "de Savoie"
+		birth_date = 1465.8.17
+		death_date = 1482.9.22
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1481.8.17 = {
+	monarch = {
+		name = "Filiberto I"
+		dynasty = "de Savoie"
+		birth_date = 1465.8.17
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1481.8.17 = {
+	heir = {
+		name = "Carlo"
+		monarch_name = "Carlo I"
+		dynasty = "de Savoie"
+		birth_date = 1468.3.29
+		death_date = 1490.3.13
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1482.9.23 = {
+	monarch = {
+		name = "Carlo I"
+		dynasty = "de Savoie"
+		birth_date = 1468.3.29
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1489.6.23 = {
+	heir = {
+		name = "Carlo"
+		monarch_name = "Carlo II"
+		dynasty = "de Savoie"
+		birth_date = 1489.6.23
+		death_date = 1496.4.16
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1490.3.14 = {
+	monarch = {
+		name = "Carlo II"
+		dynasty = "de Savoie"
+		birth_date = 1489.6.23
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1490.3.14 = {
+	heir = {
+		name = "Filippo"
+		monarch_name = "Filippo II"
+		dynasty = "de Savoie"
+		birth_date = 1438.2.5
+		death_date = 1497.11.7
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1496.4.17 = {
+	monarch = {
+		name = "Filippo II"
+		dynasty = "de Savoie"
+		birth_date = 1438.2.5
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1496.4.17 = {
+	heir = {
+		name = "Filiberto"
+		monarch_name = "Filiberto II"
+		dynasty = "de Savoie"
+		birth_date = 1480.4.10
+		death_date = 1504.9.10
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1497.11.8 = {
+	monarch = {
+		name = "Filiberto II"
+		dynasty = "de Savoie"
+		birth_date = 1480.4.10
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1497.11.8 = {
+	heir = {
+		name = "Carlo"
+		monarch_name = "Carlo III"
+		dynasty = "de Savoie"
+		birth_date = 1486.10.10
+		death_date = 1553.8.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1499.1.1 = {
+	capital = 1875 # Cuneo
+}
+
+1504.9.11 = {
+	monarch = {
+		name = "Carlo III"
+		dynasty = "de Savoie"
+		birth_date = 1486.10.10
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1522.11.19 = {
+	heir = {
+		name = "Adriano"
+		monarch_name = "Adriano I"
+		dynasty = "de Savoie"
+		birth_date = 1522.11.19
+		death_date = 1523.1.10
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1523.12.4 = {
+	heir = {
+		name = "Ludovico"
+		monarch_name = "Ludovico II"
+		dynasty = "de Savoie"
+		birth_date = 1523.12.4
+		death_date = 1536.11.25
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1529.1.1 = {
+	capital = 205 # Chambéry
+}
+
+1536.11.25 = {
+	heir = {
+		name = "Emanuele Filiberto"
+		monarch_name = "Emanuele Filiberto I"
+		dynasty = "de Savoie"
+		birth_date = 1528.7.8
+		death_date = 1580.8.30
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = {	
+			name = "Emanuele Filiberto"
+			type = general
+			rank = 0
+			fire = 4
+			shock = 3
+			manuever = 3
+			siege = 1
+		}
+	}
+}
+
+1538.6.17 = {
+	capital = 102 # Nice
+}
+
+1553.8.18 = {
+	monarch = {
+		name = "Emanuele Filiberto I"
+		dynasty = "de Savoie"
+		birth_date = 1528.7.8
+		adm = 5
+		dip = 5
+		mil = 4
+		leader = {	
+			name = "Emanuele Filiberto"
+			type = general
+			rank = 0
+			fire = 4
+			shock = 3
+			manuever = 3
+			siege = 1
+		}
+	}
+}
+
+1562.1.12 = {
+	heir = {
+		name = "Carlo Emanuele"
+		monarch_name = "Carlo Emanuele I"
+		dynasty = "de Savoie"
+		birth_date = 1562.1.12
+		death_date = 1630.7.26
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+		leader = {	name = "Carlo Emanuele"      	type = general	rank = 0	fire = 2	shock = 4	manuever = 3	siege = 0}
+	}
+}
+
+1563.2.7 = {
+	capital = 103 #Torino
+}
+	
+1580.8.31 = {
+	monarch = {
+		name = "Carlo Emanuele I"
+		dynasty = "de Savoie"
+		birth_date = 1562.1.12
+		adm = 2
+		dip = 3
+		mil = 3
+		leader = {	name = "Carlo Emanuele"      	type = general	rank = 0	fire = 2	shock = 4	manuever = 3	siege = 0}
+	}
+}
+
+1586.1.1 = {
+	heir = {
+		name = "Filippo Emanuele"
+		monarch_name = "Filippo Emanuele I"
+		dynasty = "de Savoie"
+		birth_date = 1586.1.1
+		death_date = 1605.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1605.1.1 = {
+	heir = {
+		name = "Vittorio Amedeo"
+		monarch_name = "Vittorio Amedeo I"
+		dynasty = "de Savoie"
+		birth_date = 1587.5.8
+		death_date = 1637.10.7
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+		leader = {	name = "Vittorio Amedeo I"        	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0}
+	}
+}
+		
+1630.7.27 = {
+	monarch = {
+		name = "Vittorio Amedeo I"
+		dynasty = "de Savoie"
+		birth_date = 1587.5.8
+		adm = 4
+		dip = 4
+		mil = 2
+		leader = {	name = "Vittorio Amedeo I"        	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0}
+	}
+}
+
+1632.9.14 = {
+	heir = {
+		name = "Francesco Giacinto"
+		monarch_name = "Francesco Giacinto"
+		dynasty = "de Savoie"
+		birth_date = 1632.9.14
+		death_date = 1638.10.4
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1637.10.8 = {
+	monarch = {
+		name = "Francesco Giacinto"
+		dynasty = "de Savoie"
+		birth_date = 1632.9.14
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1637.10.8 = {
+	heir = {
+		name = "Carlo Emanuele"
+		monarch_name = "Carlo Emanuele II"
+		dynasty = "de Savoie"
+		birth_date = 1634.6.20
+		death_date = 1675.6.12
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1638.1.1 = { leader = {	name = "Tommaso de Savoie"     	type = general	rank = 1	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1656.1.1 } }
+
+1638.10.5 = {
+	monarch = {
+		name = "(Reggente Cristina Maria)"
+		dynasty = "de Bourbon"
+		birth_date = 1606.2.10
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+		regent = yes
+	}
+}
+
+1638.10.5 = {
+	heir = {
+		name = "Carlo Emanuele"
+		monarch_name = "Carlo Emanuele II"
+		dynasty = "de Savoie"
+		birth_date = 1634.6.20
+		death_date = 1675.6.12
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1648.6.20 = {
+	monarch = {
+		name = "Carlo Emanuele II"
+		dynasty = "de Savoie"
+		birth_date = 1634.6.20
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1666.5.14 = {
+	heir = {
+		name = "Vittorio Amedeo"
+		monarch_name = "Vittorio Amedeo II"
+		dynasty = "de Savoie"
+		birth_date = 1666.5.14
+		death_date = 1732.10.31
+		claim = 95
+		adm = 4
+		dip = 6
+		mil = 5
+		leader = { name = "Vittorio Amedeo II"	type = general	rank = 0	fire = 4	shock = 4	manuever = 2	siege = 2 }
+	}
+}
+
+1675.6.12 = {
+	monarch = {
+		name = "(Reggente Maria Giovanna)"
+		dynasty = "de Savoie"
+		birth_date = 1644.4.11
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1675.6.12 = {
+	heir = {
+		name = "Vittorio Amedeo"
+		monarch_name = "Vittorio Amedeo II"
+		dynasty = "de Savoie"
+		birth_date = 1666.5.14
+		death_date = 1732.10.31
+		claim = 95
+		adm = 4
+		dip = 6
+		mil = 5
+		leader = { name = "Vittorio Amedeo II"	type = general	rank = 0	fire = 4	shock = 4	manuever = 2	siege = 2 }
+	}
+}
+
+1680.5.14 = {
+	monarch = {
+		name = "Vittorio Amedeo II"
+		dynasty = "de Savoie"
+		birth_date = 1666.5.14
+		adm = 4
+		dip = 6
+		mil = 5
+		leader = { name = "Vittorio Amedeo II"	type = general	rank = 0	fire = 4	shock = 4	manuever = 2	siege = 2 }
+	}
+}

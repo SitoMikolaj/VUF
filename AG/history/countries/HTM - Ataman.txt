@@ -1,0 +1,121 @@
+government = tribal_democracy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -3
+technology_group = eastern
+religion = orthodox
+primary_culture = ruthenian
+capital = 1943
+
+1648.1.1 = {
+	monarch = {
+		name = "Bogdan I"
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+1657.1.1 = {
+	monarch = {
+		name = "Khmelnytsky"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1657.8.1 = {
+	monarch = {
+		name = "Vyhovsky"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1659.1.1 = {
+	monarch = {
+		name = "Khmelnytsky"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1663.1.1 = {
+	monarch = {
+		name = "Teteria"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1665.1.1 = {
+	monarch = {
+		name = "Dorochenko"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1669.1.1 = {
+	monarch = {
+		name = "Khanenko"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1672.10.18 = {
+	monarch = {
+		name = "Dorochenko"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1675.1.1 = {
+	monarch = {
+		name = "Khmelnytsky"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1681.1.1 = {
+	monarch = {
+		name = "Ivan Duca"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1685.1.1 = {
+	monarch = {
+		name = "Andry Mohylenko"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1690.1.1 = {
+	monarch = {
+		name = "Samylo Samous"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

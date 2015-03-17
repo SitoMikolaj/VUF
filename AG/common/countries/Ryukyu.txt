@@ -1,0 +1,122 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 90  138  133 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+}
+
+monarch_names = {
+	"Bunei #0" = 30
+	"Sho Shisho #0" = 30
+	"Sho Hashi #0" = 30
+	"Sho Chu #0" = 30
+	"Sho Shitatsu #0" = 30
+	"Sho Kimpuku #0" = 30
+	"Sei #0" = 40
+	"Toku #0" = 20
+	"En Kanamura #0" = 20
+	"Sen-i #0" = 20
+	"Gen #0" = 20
+	"Ei #0" = 20
+	"Nei #0" = 20
+	"Ho #0" = 20
+	"Jo-Ken #0" = 20
+	"Shitsu #0" = 20
+	"Tei #0" = 20
+	"Eki #0" = 20
+	"Kei #0" = 20
+	"Boku #0" = 20
+	"On #0" = 20
+ 	"Ko #0" = 20
+	"Shoken #0" = 5
+	"Taikyu #1" = 1
+	"Shiatsu #1" = 1
+	"Cho #1" = 1
+	"Hashi #1" = 1
+	"Shisho #1" = 1
+	"Chokei #0" = 2
+	"Chuji #0" = 2
+	"Ekei #0" = 2
+	"Genta #0" = 2
+	"Hanzo #0" = 2
+	"Inori #0" = 2
+	"Kaishu #0" = 2
+	"Karou #0" = 2
+	"Kenji #0" = 2
+	"Mugen #0" = 2
+	"Nagato #0" = 2
+	"Noboru #0" = 2
+	"Shojiro #0" = 2
+	"Soun #0" = 2
+	"Takeo #0" = 2
+	"Yayoi #0" = 2
+	"Honkô #0" = -1
+	"Seishin #0" = -1
+	"Ranshitsu #0" = -1
+	"Hekiren #0" = -1
+	"Nansô #0" = -1
+}
+
+leader_names = {
+	Shô
+	Ba
+	Mo
+	Ô
+	Agarie
+	Arakachi
+	Fija
+	Ikegusuku
+	Kanagusuku
+	Nagusuku
+	Shimabuku
+	Tamagusuku
+	Tera
+	Tomigusuku
+	Ufugusuku
+	Yamagusuku	
+	Wibaru
+}      
+
+ship_names = { 
+	Bunei
+	Chûzan
+	Eiso Eiji
+	Gushiku Gihon
+	Hokuzan
+	Nanzan Naafa Nachijin 
+	Shô Sui Shunten Sei Satto
+	Taisei Tamagusuku
+	"Shô En" "Shô Shin" "Shô Hashi" "Shun Bajunki"
+	"Shô Shishô" "Shô Chû" "Shô Shitatsu"
+	"Shô Kinpuku" "Shô Taikyû" "Shô Toku" "Shô Sen'i"
+	"Shô Sei" "Shô Gen" "Shô Ei"
+	"Shô Nei" "Shô Hô" "Shô Ken" "Shô Shitsu"
+}
+
+army_names = {
+	"Gun'tai Ryukyu" "Gun'tai Kuni" "Gun'tai $PROVINCE$"
+}
+
+fleet_names = {
+	"Kan'tei Ryukyu"
+}

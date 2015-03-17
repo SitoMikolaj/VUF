@@ -1,0 +1,158 @@
+government = tribal_democracy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -3
+technology_group = eastern
+religion = orthodox
+primary_culture = ruthenian
+capital = 280
+
+
+1648.1.1 = {
+	monarch = {
+		name = "Bohdan"
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+1657.1.1 = {
+	monarch = {
+		name = "Ioury I"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1657.8.1 = {
+	monarch = {
+		name = "Ivan I"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1659.1.1 = {
+	monarch = {
+		name = "Ioury I"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1660.1.1 = {
+	monarch = {
+		name = "IIakym I Somko"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1663.1.1 = {
+	monarch = {
+		name = "Ivan II Brioukhovetsky"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1668.1.1 = {
+	monarch = {
+		name = "Petro I"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1669.1.1 = {
+	monarch = {
+		name = "Demian I Mnohohrichny"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1672.10.18 = {
+	monarch = {
+		name = "Ivan III Samoïlovytch"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1687.1.1 = {
+	monarch = {
+		name = "Ivan IV Mazepa"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
+
+1699.1.26 = {
+	monarch = {
+		name = "Pylyp Orlyk"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1708.1.1 = {
+	monarch = {
+		name = "Ivan V Skoropadsk"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1722.1.1 = {
+	monarch = {
+		name = "Pylyp Orlyk"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1727.1.1 = {
+	monarch = {
+		name = "Danylo Apostol"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1734.1.1 = {
+	monarch = {
+		name = "Pylyp Orlyk"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1742.1.1 = {
+	monarch = {
+		name = "Kyrylo Rozoumovsky"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

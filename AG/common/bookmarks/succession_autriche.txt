@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "AUSTRIA_SUCCESSION_NAME"
+	desc = "AUSTRIA_SUCCESSION_DESC"
+	date = 1741.1.1
+	
+	country = HAB
+	country = PRU
+	country = FRA
+	country = SPA
+	country = GBR
+	country = NED
+	
+}

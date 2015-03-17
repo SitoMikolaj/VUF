@@ -1,0 +1,118 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 121  162  109 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+ship_names = {
+    Amberry Amounderness
+	Blackburn Bowland
+	Chester
+	Delamere Deva "Duke of Lancaster"
+	Furness Fylde
+	"Henry of Lancaster" Heysham Hornby
+	Irwell
+	"John o' Gaunt"
+	"Lancaster Castle" Lancastrian Leasowe Leyland Liverpool Lonsdale Lune
+	Makerfield Manchester Manxman Mersey "Morecambe Bay"
+	Northwestern
+	Pendle Pennine Preston
+	"Red Rose" Ribble "River Dee"
+	Salford Stopfordian
+	Trafford 
+	"West Derby" Wirral Wyre
+}
+
+monarch_names = {
+	"Charles #0" = 80
+	"Henry #0" = 60
+	"Edmund #0" = 20
+	"Lewis #0" = 20
+	"James #0" = 20
+	"John #0" = 20
+	"Esmé #0" = 10
+	"George #0" = 10
+	"Thomas #0" = 10
+	"Ashton #0" = 2
+	"Bruce #0" = 2
+	"Clarence #0" = 2
+	"Curtis #0" = 2
+	"Darrell #0" = 2
+	"Edgar #0" = 2
+	"Edward #0" = 2
+	"Fulk #0" = 2
+	"Gabriel #0" = 2
+	"Harold #0" = 2
+	"Hector #0" = 2
+	"Jason #0" = 2
+	"Jasper #0" = 2
+	"Keith #0" = 2
+	"David #0" = 2
+	"Malcolm #0" = 2
+	"Michael #0" = 2
+	"Nathan #0" = 2
+	"Ned #0" = 2
+	"Osborn #0" = 2
+	"Patrick #0" = 2
+	"Randall #0" = 2
+	"Richard #0" = 2
+	"Sean #0" = 2
+	"Timothy #0" = 2
+	"Robert #0" = 2
+	"Victor #0" = 2
+	"Walter #0" = 2
+	"William #0" = 2
+	"Xavier #0" = 2
+	"Zachariah #0" = 2
+	
+	"Avaline #0" = -1
+	"Calla #0" = -1
+	"Eryn #0" = -1
+}
+
+leader_names = {
+	Beaufort Bolingbroke
+	Crouchback
+	Dudley
+	Gaunt Grosmont
+	Lancaster
+	Monmouth
+	Percy
+	Sidney
+}
+
+army_names = {
+	"Duke Army" "Army of Lancaster" "Red Rose Army" "Army of Amounderness" "Army of Blackburn" "Army of Leyland" "Army of Lonsdale" "Army of Salford" "Army of Derby" "Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Duke Navy" "Lancashire Fleet" "$PROVINCE$ Fleet"
+}

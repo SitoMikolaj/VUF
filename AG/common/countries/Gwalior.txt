@@ -1,0 +1,85 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 153  237  145 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	aristocracy_ideas
+	quantity_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Bîrsingh Deo #1" = 20
+	"Pulkit #1" = 20
+	"Dûngar Singh #1" = 20
+	"Mân Singh #1" = 20
+	"Uddharan Devî #1" = 20
+	"Vikrâm Devî #1" = 20
+	"Ganapati Devî #1" = 20
+	"Dugarendra Singh #1" = 20
+	"Kalyânmalla #1" = 20
+	"Baijâ Bâî #0" = -10
+	"Chinkurâje #0" = -1
+	"Kamalarâje #0" = -1
+}
+
+leader_names = {
+	Singh
+	Datia
+	Mihir
+	Jasos
+	Bundelâ
+	Bâis
+	Chattar
+	Minhâs
+	Pakhral
+	Pundir
+	Naru
+	Saharan
+	Mori
+	Chauhan
+	Bhaal
+	Tomara
+	Chandrâtreya
+	Katoch
+	Jadûn
+}
+
+ship_names = {
+	Betwâ Devî Durgâ Gangâ Gandak
+	Gâyatrî Ghagra Gomti Jalsena
+	"Kâla Jahâzî" Ken Lakshmî
+	"Lâl Jahâzî" Nausenâ "Nav ka Yudh"
+	"Nîla Jahâzî" Pârvatî Râdhâ
+	Ramgangâ Râtri Sâgar Sarasvatî
+	Satluj Sîtâ Yamunâ
+}
+
+army_names = {
+	"Sultân Prtanyaa" "Gwalior Prtanyaa" "$PROVINCE$ Prtanyaa"
+	}
+
+fleet_names = {
+	"Gwalior Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

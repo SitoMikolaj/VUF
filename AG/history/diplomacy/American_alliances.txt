@@ -1,0 +1,35 @@
+#Pontiac's Rebellion
+alliance = {
+	first = HUR
+	second = SHA
+	start_date = 1763.5.1
+	end_date = 1764.6.1
+}
+
+#######################
+# Mod Montjoie
+#######################
+
+#Mixtecs use royal marriages to infiltrate Zapotec
+royal_marriage = {
+	first = ZAP
+	second = MAY
+	start_date = 1453.1.1
+	end_date = 1471.12.31
+}
+
+#Zapoctec king marries Pelaxilla, sister of Aztec king
+royal_marriage = {
+	first = ZAP
+	second = AZT
+	start_date = 1495.1.1
+	end_date = 1520.1.1
+}
+
+#Zapotecs ally with Mixtecs in face of Aztec threat
+alliance = {
+	first = MAY
+	second = ZAP
+	start_date = 1500.1.1
+	end_date = 1521.12.31
+}

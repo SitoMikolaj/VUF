@@ -1,0 +1,25 @@
+government = native_council
+mercantilism = 0.1
+primary_culture = choctaw
+religion = totemism
+technology_group = north_american
+capital = 920	# Choctaw
+
+1399.1.1 = {
+	monarch = {
+		name = "Pushmataha"
+		adm = 5
+		dip = 5
+		mil = 7
+	}
+}
+
+1444.11.11 = {
+	monarch = {
+		name = "(Conseil indigène)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

@@ -1,0 +1,92 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 98  110  96 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	aristocracy_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Narasimha #0" = 10
+	"Banabîra #0" = 10
+	"Uddharana #0" = 10
+	"Chandra Sena #0" = 10
+	"Prithvî #0" = 10
+	"Puranmal #0" = 10
+	"Bhîmasimha #0" = 10
+	"Ratnasimha #0" = 10
+	"Aaskaran #0" = 10
+	"Bharmal #0" = 10
+	"Bhagawant Das #0" = 10
+	"Man Singh #0" = 20
+	"Shrî Bhâo Singh #0" = 10
+	"Jai Singh #0" = 20
+	"Râm Singh #0" = 10
+	"Bishan Singh #0" = 10
+	"Isri Singh #0" = 10 
+	"Mâdho Singh #0" = 10 
+	"Pratâp Singh #0" = 10 
+	"Jagat Singh #0" = 10 
+	"Bâlâ Bâî #0" = -1
+	"Sohâg Devî #0" = -1
+	"Badna Devî #0" = -1
+	"Champâvatî #0" = -1
+	"Ajab #0" = -1
+}
+
+leader_names = {
+	Chauhan
+	Bhaal
+	Bargujar
+	Katoch
+	Jâdejâ
+	Jadûn
+	Chandrâtreya
+	Singh
+	Tomara
+	Naru
+	Pundir
+	Pakhral
+	Minhâs
+	Kachwaha
+	Chattari
+}
+
+ship_names = {
+	Chambal Devî Durgâ Gâyatrî Ghaggar
+	Godwar Jalsena "Kâla Jahâzî" Lakshmî
+	"Lâl Jahâzî" Lûnî Nausenâ "Mârwar ka Nav"
+	"Mewâr ka Nav" "Nav ka Yudh" "Nîla Jahâzî"
+	Pârvatî Râdhâ Rânî Râtri Sâgar Sarasvatî
+	Sekhâwâtî Sîtâ
+}
+
+army_names = {
+	"Sultân Vaahinii" "Rajyaa Vaahinii" "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Yamuna Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

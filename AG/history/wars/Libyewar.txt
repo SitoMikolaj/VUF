@@ -1,0 +1,38 @@
+name = "Guerre de Libye"
+
+#casus_belli
+war_goal = {
+	type = take_border
+	casus_belli = cb_border_war
+}
+
+1820.2.1 = {
+	add_attacker = EGY
+	add_defender = TRP
+}
+
+1820.8.1 = {
+	battle = {
+		name = "Siwas"
+		location = 355
+		attacker = {
+			commander = "Muhammad Ali"
+			infantry = 4000
+			cavalry = 600
+			losses = 2	# percent
+			country = EGY
+		}
+		defender = {
+			commander = "Hussein Ali"
+			infantry = 1500
+			losses = 58	# percent
+			country = TRP
+		}
+		result = win
+	}
+}
+
+1821.1.1 = {
+	rem_attacker = EGY
+	rem_defender = TRP
+}

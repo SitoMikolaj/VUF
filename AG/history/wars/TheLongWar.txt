@@ -1,0 +1,72 @@
+name = "La Longue Guerre"
+
+#casus_belli = cb_conquest type = take_capital_conquest
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 135 # Sopron
+}
+
+# Guerre officielle le 29 juillet 1593 mais depuis 1591 de nombreuses batailles et attaques mutuelles 
+
+1591.2.1 = {
+	add_attacker = TUR
+	add_defender = HAB
+	add_defender = VEN
+	add_defender = TUS
+	add_defender = PAP
+	add_defender = SAX
+	add_defender = FER
+	add_defender = MAN
+	add_defender = SAV
+	add_defender = RAG
+	add_defender = KNI
+}
+
+# Habsburg-Transylvania alliance
+1595.1.28 = {
+	add_defender = TRA
+}
+
+# Bataille de Keresztes
+1596.10.24 = { 
+	battle = { 
+		name = "Keresztes" 
+		location = 155
+		attacker = { 
+			commander = "Mehmet II" 			#  Mehmet III
+			infantry = 60000
+			cavalry =  30000
+			losses = 25			# percent 
+			country = TUR
+		} 
+		defender = { 
+			commander = "Maximilian von Habsburg"				# Maximilian Habsburg
+			infantry = 30000
+			cavalry = 15000
+			losses = 65			# percent
+			country = HAB
+		} 
+		result = loss
+	} 
+}
+
+# Abdication de Zsigmond Bathori
+1599.3.17 = {
+	rem_defender = TRA
+}
+
+# Paix de Zitava
+1606.11.11 = {
+	rem_attacker = TUR
+	rem_defender = HAB
+	rem_defender = VEN
+	rem_defender = TUS
+	rem_defender = PAP
+	rem_defender = SAX
+	rem_defender = FER
+	rem_defender = MAN
+	rem_defender = SAV
+	rem_defender = RAG
+	rem_defender = KNI
+}

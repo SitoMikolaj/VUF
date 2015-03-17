@@ -1,0 +1,1932 @@
+government = merchant_republic
+#aristocracy_plutocracy = 1
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+mercantilism = 0.25
+#offensive_defensive = 3
+#land_naval = 3
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 101	# Genova
+fixed_capital = 101 # Cannot move capital away from this province & no power cost to move to it
+
+
+1394.8.17 = {
+	monarch = {
+		name = "Antonio Guarco"
+		birth_date = 1360.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+1394.9.3 = {
+	monarch = {
+		name = "Antoniotto Adorno"
+		birth_date = 1340.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+# Domination française sous Charles VI
+
+1397.3.18 = {
+	monarch = {
+		name = "Valérien du Luxembourg"
+		birth_date = 1360.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1398.5.21 = {
+	monarch = {
+		name = "Collart de Colleville"
+		birth_date = 1365.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+1398.9.21 = {
+	monarch = {
+		name = "Jean II le Meingre"
+		birth_date = 1364.1.1
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1409.9.3 = {
+	monarch = {
+		name = "Teodoro II Palaiologos"
+		birth_date = 1370.1.1
+		adm = 2
+		dip = 2 
+		mil = 1
+	}
+}
+
+# Fin de la domination française
+
+1413.3.27 = {
+	monarch = {
+		name = "Giorgio Adorno"
+		birth_date = 1350.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1415.3.29 = {
+	monarch = {
+		name = "Barnaba Guano"
+		birth_date = 1370.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+1415.7.4 = {
+	monarch = {
+		name = "Tomaso Fregoso"
+		birth_date = 1375.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+# Domination milanaise
+
+1422.1.17 = {
+	monarch = {
+		name = "Urbano di Sant'Alosio"
+		birth_date = 1380.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+1422.12.5 = {
+	monarch = {
+		name = "Francesco Bussone"
+		birth_date = 1385.1.1
+		adm = 2
+		dip = 1 
+		mil = 4
+	}
+}
+
+1428.3.3 = {
+	monarch = {
+		name = "Bartolomeo della Capra"
+		birth_date = 1380.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+1432.8.1 = {
+	monarch = {
+		name = "Oldrado di Lampugnano"
+		birth_date = 1390.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+1435.12.25 = {
+	monarch = {
+		name = "Erasmo Trivulzio"
+		birth_date = 1390.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+# Fin de la domination milanaise
+
+1436.3.28 = {
+	monarch = { # Served for one week
+		name = "Isnardo Guarco"
+		birth_date = 1380.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1436.4.3 = {
+	monarch = {
+		name = "Tomaso Fregoso"
+		birth_date = 1375.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1437.3.24 = {
+	monarch = {
+		name = "Battista Fregoso"
+		birth_date = 1380.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+1437.3.25 = {
+	monarch = {
+		name = "Tomaso Fregoso"
+		birth_date = 1375.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1443.1.28 = {
+	monarch = {
+		name = "Raffaele Adorno"
+		birth_date = 1375.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1447.1.4 = {
+	monarch = {
+		name = "Barnaba Adorno"
+		birth_date = 1385.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+1447.1.30 = {
+	monarch = {
+		name = "Giano Fregoso"
+		birth_date = 1405.1.1
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+1447.12.16 = {
+	monarch = {
+		name = "Lodovico Fregoso"
+		birth_date = 1415.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1450.9.5 = {
+	monarch = {
+		name = "Pietro Fregoso"
+		birth_date = 1417.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+# Seconde domination française sous Charles VIII
+
+1458.3.11 = {
+	monarch = {
+		name = "Jean de Lorraine"
+		birth_date = 1424.8.2
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1459.9.11 = {
+	monarch = {
+		name = "Ludovic la Vallée"
+		birth_date = 1425.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+# Fin de la seconde domination française
+
+1461.3.12 = {
+	monarch = {
+		name = "Prospero Adorno"
+		birth_date = 1428.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1461.7.18 = {
+	monarch = {
+		name = "Spinetta Fregoso"
+		birth_date = 1400.1.1
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+1461.7.24 = {
+	monarch = {
+		name = "Lodovico Fregoso"
+		birth_date = 1415.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1462.5.14 = {
+	monarch = {
+		name = "Paolo Fregoso"
+		birth_date = 1427.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1462.6.8 = {
+	monarch = {
+		name = "Lodovico Fregoso"
+		birth_date = 1415.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1463.1.8 = {
+	monarch = {
+		name = "Paolo Fregoso"
+		birth_date = 1427.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+# Seconde domination milanaise
+
+1464.4.16 = {
+	monarch = {
+		name = "Gaspare di Vimercate"
+		birth_date = 1425.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1464.9.18 = {
+	monarch = {
+		name = "Corrado di Fogliano"
+		birth_date = 1425.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1466.9.1 = {
+	monarch = {
+		name = "Sagramoro Visconte"
+		birth_date = 1420.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1468.10.7 = {
+	monarch = {
+		name = "Corrado di Fogliano"
+		birth_date = 1425.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1471.1.3 = {
+	monarch = {
+		name = "Giovanni Pallavicino"
+		birth_date = 1430.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1473.7.7 = {
+	monarch = {
+		name = "Guido Visconte"
+		birth_date = 1430.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1475.10.19 = {
+	monarch = {
+		name = "Gian Francesco Pallavicino"
+		birth_date = 1430.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1477.4.30 = {
+	monarch = {
+		name = "Prospero Adorno"
+		birth_date = 1428.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1478.3.1 = {
+	monarch = {
+		name = "Branda Castiglioni"
+		birth_date = 1430.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+# Fin de la seconde domination milanaise
+
+1478.7.7 = {
+	monarch = {
+		name = "Prospero Adorno"
+		birth_date = 1428.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1478.11.26 = {
+	monarch = {
+		name = "Battista Fregoso"
+		birth_date = 1450.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1483.11.26 = {
+	monarch = {
+		name = "Paolo Fregoso"
+		birth_date = 1455.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+		leader = {	name = "Paolo Fregoso"         	type = general	rank = 2	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1488.9.13 }
+	}
+}
+
+# Troisième domination milanaise
+
+1488.9.13 = {
+	monarch = {
+		name = "Agostino Adorno"
+		birth_date = 1450.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+# Fin de la troisième domination milanaise
+# Troisième domination française de Louis XII
+
+1499.10.26 = {
+	monarch = {
+		name = "Scipione Barbavara"
+		birth_date = 1450.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1499.11.4 = {
+	monarch = {
+		name = "Philippe de Ravenstein"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1507.4.10 = {
+	monarch = { 
+		name = "Paolo da Novi"
+		birth_date = 1440.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1507.5.1 = {
+	monarch = { 
+		name = "Rodolphe de Lannoy"
+		birth_date = 1460.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1507.10.1 = {
+	monarch = { 
+		name = "François de Rochechouard"		
+		birth_date = 1460.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1512.6.29 = {
+	monarch = {
+		name = "Giano Fregoso"
+		birth_date = 1455.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1513.1.1 = { leader = {	name = "Federigo Fregoso"     	type = admiral	rank = 1	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1522.1.1 } }
+
+1513.5.25 = {
+	monarch = {
+		name = "Antoniotto Adorno"
+		birth_date = 1470.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1513.6.21 = {
+	monarch = {
+		name = "Ottaviano Fregoso"
+		birth_date = 1470.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1520.1.1 = { leader = {	name = "Andrea Doria"          	type = admiral	rank = 0	fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1565.1.1 } }
+
+1522.5.31 = {
+	monarch = {
+		name = "Antoniotto Adorno"
+		birth_date = 1470.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1527.8.1 = {
+	monarch = {
+		name = "Teodoro Trivulzio"
+		birth_date = 1480.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1528.10.13 = {
+	monarch = {
+		name = "Oberto Cattaneo"
+		birth_date = 1473.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1531.1.5 = {
+	monarch = {
+		name = "Battista Spinola"
+		birth_date = 1472.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1533.1.5 = {
+	monarch = {
+		name = "Battista Lomellini"
+		birth_date = 1460.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1535.1.5 = {
+	monarch = {
+		name = "Cristoforo Grimaldi"
+		birth_date = 1480.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1537.1.5 = {
+	monarch = {
+		name = "Giovanni Doria"
+		birth_date = 1470.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1539.1.5 = {
+	monarch = {
+		name = "Giannandrea Giustiniani"
+		birth_date = 1494.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1541.1.5 = {
+	monarch = {
+		name = "Leonardo Catteneo"
+		birth_date = 1487.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1543.1.5 = {
+	monarch = {
+		name = "Andrea Centurione"
+		birth_date = 1471.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1545.1.5 = {
+	monarch = {
+		name = "Giovanni Fornari"
+		birth_date = 1494.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1547.1.5 = {
+	monarch = {
+		name = "Benedetto Gentile"
+		birth_date = 1490.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1549.1.5 = {
+	monarch = {
+		name = "Gaspare Grimaldi"
+		birth_date = 1477.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1551.1.5 = {
+	monarch = {
+		name = "Luca Spinola"
+		birth_date = 1489.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1553.1.5 = {
+	monarch = {
+		name = "Giacomo Promontorio"
+		birth_date = 1508.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1555.1.5 = {
+	monarch = {
+		name = "Agostino Pinelli"
+		birth_date = 1492.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1557.1.5 = {
+	monarch = {
+		name = "Pietro Chiavica"
+		birth_date = 1481.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1559.1.5 = {
+	monarch = {
+		name = "Girolamo Vivaldi"
+		birth_date = 1495.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1561.1.5 = {
+	monarch = {
+		name = "Paolo Giudice"
+		birth_date = 1490.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1561.9.27 = {
+	monarch = {
+		name = "Battista Cicala"
+		birth_date = 1484.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1563.10.8 = {
+	monarch = {
+		name = "Givanni Lercari"
+		birth_date = 1505.1.1
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+1565.1.1 = { leader = {	name = "Giovanni Doria"              	type = admiral	rank = 1	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1590.1.1 } }
+
+1565.10.8 = {
+	monarch = {
+		name = "Ottavio Odorico"
+		birth_date = 1499.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1567.10.12 = {
+	monarch = {
+		name = "Simone Spinola"
+		birth_date = 1497.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1569.10.4 = {
+	monarch = {
+		name = "Paolo Giustiniani"
+		birth_date = 1506.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1571.10.7 = {
+	monarch = {
+		name = "Gianotto Lomellini"
+		birth_date = 1519.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1573.10.11 = {
+	monarch = {
+		name = "Giacomo Grimaldi"
+		birth_date = 1503.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1575.10.18 = {
+	monarch = {
+		name = "Prospero Centurione"
+		birth_date = 1510.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1577.10.18 = {
+	monarch = {
+		name = "Giovanni Gentile"
+		birth_date = 1525.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1579.10.21 = {
+	monarch = {
+		name = "Nicolò Doria"
+		birth_date = 1525.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1581.10.22 = {
+	monarch = {
+		name = "Gerolamo de Franchi"
+		birth_date = 1522.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1583.10.22 = {
+	monarch = {
+		name = "Gerolamo Chiavari"
+		birth_date = 1521.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1585.11.5 = {
+	monarch = {
+		name = "Ambrogio di Negro"
+		birth_date = 1519.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1587.11.15 = {
+	monarch = {
+		name = "Davide Vacca"
+		birth_date = 1518.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1589.11.15 = {
+	monarch = {
+		name = "Battista Negrone"
+		birth_date = 1530.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+
+1591.11.16 = {
+	monarch = {
+		name = "Giovanni Giustiniani"
+		birth_date = 1538.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1593.11.28 = {
+	monarch = {
+		name = "Antonio Grimaldi"
+		birth_date = 1534.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1595.11.27 = {
+	monarch = {
+		name = "Matteo Senarega"
+		birth_date = 1534.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1597.12.8 = {
+	monarch = {
+		name = "Lazzaro Grimaldi"
+		birth_date = 1520.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1599.2.15 = {
+	monarch = {
+		name = "Lorenzo Sauli"
+		birth_date = 1535.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1601.2.20 = {
+	monarch = {
+		name = "Agostino Doria"
+		birth_date = 1540.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1603.2.25 = {
+	monarch = {
+		name = "Pietro de Franchi"
+		birth_date = 1545.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1605.2.26 = {
+	monarch = {
+		name = "Luca Grimaldi"
+		birth_date = 1545.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1607.3.7 = {
+	monarch = {
+		name = "Silvestro Invrea"
+		birth_date = 1530.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1607.3.18 = {
+	monarch = {
+		name = "Gerolamo Assereto"
+		birth_date = 1543.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1609.4.2 = {
+	monarch = {
+		name = "Agostino Pinello"
+		birth_date = 1537.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1611.4.7 = {
+	monarch = {
+		name = "Alessandro Giustiniani"
+		birth_date = 1554.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1613.4.22 = {
+	monarch = {
+		name = "Tomaso Spinola"
+		birth_date = 1557.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1615.4.26 = {
+	monarch = {
+		name = "Bernardo Clavarezza"
+		birth_date = 1560.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1617.4.26 = {
+	monarch = {
+		name = "Giovanni Imperiale"
+		birth_date = 1554.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1619.5.3 = {
+	monarch = {
+		name = "Pietro Durazzo"
+		birth_date = 1560.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1621.5.4 = {
+	monarch = {
+		name = "Ambrogio Doria"
+		birth_date = 1550.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1621.6.12 = {
+	monarch = {
+		name = "Giorgio Centurione"
+		birth_date = 1553.4.23
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1623.6.26 = {
+	monarch = {
+		name = "Federico di Franchi"
+		birth_date = 1560.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1625.6.17 = {
+	monarch = {
+		name = "Giacomo Lomellini"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1627.6.29 = {
+	monarch = {
+		name = "Giovanni Chiavari"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1629.6.27 = {
+	monarch = {
+		name = "Andrea Spinola"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1631.6.30 = {
+	monarch = {
+		name = "Leonardo della Torre"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1633.7.6 = {
+	monarch = {
+		name = "Giovanni Doria"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1635.7.12 = {
+	monarch = {
+		name = "Giovanni Francesco I Brignole"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1637.7.14 = {
+	monarch = {
+		name = "Agostino Pallavicini"
+		birth_date = 1577.1.1
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1639.7.29 = {
+	monarch = {
+		name = "Giovanni Durazzo"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1641.8.15 = {
+	monarch = {
+		name = "Agostino de Marini"
+		birth_date = 1572.1.1
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1642.6.20 = {
+	monarch = {
+		name = "Giovanni Lercari"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1644.7.22 = {
+	monarch = {
+		name = "Luca Giustiniani"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1646.7.25 = {
+	monarch = {
+		name = "Giovanni Lomellini"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1648.8.2 = {
+	monarch = {
+		name = "Giacomo de Franchi"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1650.8.24 = {
+	monarch = {
+		name = "Agostino Centurione"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1652.9.9 = {
+	monarch = {
+		name = "Gerolamo de Franchi"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1654.10.10 = {
+	monarch = {
+		name = "Alessandro Spinola"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1656.10.13 = {
+	monarch = {
+		name = "Giulio Sauli"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1658.10.16 = {
+	monarch = {
+		name = "Giovanni Centurione"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1660.10.29 = {
+	monarch = {
+		name = "Gian Frugoni"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1661.3.23 = {
+	monarch = {
+		name = "Antoniotto Invrea"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1663.4.14 = {
+	monarch = {
+		name = "Stefano de Mari"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1665.4.19 = {
+	monarch = {
+		name = "Cesare Durazzo"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1667.5.11 = {
+	monarch = {
+		name = "Cesare Gentile"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1669.6.19 = {
+	monarch = {
+		name = "Francesco Garbarino"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1671.6.28 = {
+	monarch = {
+		name = "Alessandro Grimaldi"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1673.7.6 = {
+	monarch = {
+		name = "Agostino Saluzzo"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1675.7.12 = {
+	monarch = {
+		name = "Antonio da Passano"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1677.7.17 = {
+	monarch = {
+		name = "Giannettino Odone"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1679.7.30 = {
+	monarch = {
+		name = "Agostino Spinola"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1681.8.14 = {
+	monarch = {
+		name = "Luca Invrea"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1683.8.19 = {
+	monarch = {
+		name = "Francesco Imperiale"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1685.8.24 = {
+	monarch = {
+		name = "Pietro Durazzo"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1687.8.28 = {
+	monarch = {
+		name = "Luca Spinola"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1689.8.30 = {
+	monarch = {
+		name = "Oberto della Torre"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1691.9.5 = {
+	monarch = {
+		name = "Giovanni Cattaneo"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1693.9.10 = {
+	monarch = {
+		name = "Francesco Invrea"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1695.9.17 = {
+	monarch = {
+		name = "Bendinelli Negrone"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1697.9.20 = {
+	monarch = {
+		name = "Francesco Sauli"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1699.5.27 = {
+	monarch = {
+		name = "Girolamo de Mari"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1701.6.4 = {
+	monarch = {
+		name = "Federico de Franchi"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1703.6.8 = {
+	monarch = {
+		name = "Antonio Grimaldi"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1705.8.2 = {
+	monarch = {
+		name = "Stefano Ferreti"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1707.8.23 = {
+	monarch = {
+		name = "Domenico de Mari"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1709.9.10 = {
+	monarch = {
+		name = "Vincenzo Durazzo"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1711.9.23 = {
+	monarch = {
+		name = "Francesco Imperiale"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1713.9.23 = {
+	monarch = {
+		name = "Giovanni Giustiniani"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1715.9.27 = {
+	monarch = {
+		name = "Lorenzo Centurione"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1717.9.30 = {
+	monarch = {
+		name = "Benedetto Viale"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1719.10.5 = {
+	monarch = {
+		name = "Ambrogio Imperiale"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1721.10.9 = {
+	monarch = {
+		name = "Cesare de Franchi"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1723.10.14 = {
+	monarch = {
+		name = "Domenico Negrone"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1726.1.19 = {
+	monarch = {
+		name = "Gerolamo Veneroso"
+		birth_date = 1660.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1728.1.23 = {
+	monarch = {
+		name = "Luca Grimaldi"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1730.1.26 = {
+	monarch = {
+		name = "Francesco Balbi"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1732.1.30 = {
+	monarch = {
+		name = "Domenico Spinola"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1734.2.3 = {
+	monarch = {
+		name = "Stefano Durazzo"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1736.2.7 = {
+	monarch = {
+		name = "Nicolò Cattaneo"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1738.2.11 = {
+	monarch = {
+		name = "Constantino Balbi"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1740.1.1 = { leader = {	name = "Gian Francesco II Brignole"	type = general	rank = 3	fire = 2	shock = 2	manuever = 2	siege = 1	death_date = 1746.3.3 } }
+
+1740.2.15 = {
+	monarch = {
+		name = "Nicolò Spinola"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1742.2.19 = {
+	monarch = {
+		name = "Dominco Canevaro"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1744.3.2 = {
+	monarch = {
+		name = "Lorenzo de Mari"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1746.3.4 = {
+	monarch = {
+		name = "Giovanni Francesco II Brignole"
+		adm = 1
+		dip = 3
+		mil = 1
+		leader = {	name = "Giovanni Franscesco"	type = general	rank = 0	fire = 2	shock = 2	manuever = 2	siege = 1	}
+	}
+}
+
+1748.3.7 = {
+	monarch = {
+		name = "Cesare Cattaneo"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1750.3.11 = {
+	monarch = {
+		name = "Agostino Viale"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1752.2.28 = {
+	monarch = {
+		name = "Stefano Lomellini"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1752.7.7 = {
+	monarch = {
+		name = "Giovanni Grimaldi"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1754.6.24 = {
+	monarch = {
+		name = "Gian Veneroso"
+		birth_date = 1701.4.6
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1756.5.17 = {
+	monarch = {
+		name = "Giovanni Grimaldi"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1758.9.23 = {
+	monarch = {
+		name = "Matteo Franzoni"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1760.8.23 = {
+	monarch = {
+		name = "Agostino Lomellini"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1762.11.26 = {
+	monarch = {
+		name = "Rodolfo Brignole"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1765.1.30 = {
+	monarch = {
+		name = "Francesco Rovere"
+		birth_date = 1695.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1767.2.3 = {
+	monarch = {
+		name = "Marcello Durazzo"
+		birth_date = 1710.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1769.2.15 = {
+	monarch = {
+		name = "Giovanni Negrone"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1771.1.27 = {
+	monarch = {
+		name = "Giovanni Cambiaso"
+		birth_date = 1711.7.19
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1772.12.26 = {
+	monarch = {
+		name = "Ferdinando Spinola"
+		birth_date = 1715.8.12
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1773.1.9 = {
+	monarch = {
+		name = "Pier Franco Grimaldi"
+		birth_date = 1715.8.12
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1775.1.30 = {
+	monarch = {
+		name = "Brizio Giustiniani"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1777.2.4 = {
+	monarch = {
+		name = "Giuseppe Lomellini"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1779.3.4 = {
+	monarch = {
+		name = "Giacomo Brignole"
+		birth_date = 1724.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1781.3.9 = {
+	monarch = {
+		name = "Marco Gentile"
+		birth_date = 1723.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1783.5.7 = {
+	monarch = {
+		name = "Giovanni Ayroli"
+		birth_date = 1731.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1785.6.7 = {
+	monarch = {
+		name = "Gian Pallavicino"
+		birth_date = 1722.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1787.7.5 = {
+	monarch = {
+		name = "Raffaele de Ferrari"
+		birth_date = 1732.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1789.6.30 = {
+	monarch = {
+		name = "Alerame Pallavicino"
+		birth_date = 1730.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1791.9.4 = {
+	monarch = {
+		name = "Michelangelo Cambiaso"
+		birth_date = 1738.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1793.9.17 = {
+	monarch = {
+		name = "Giuseppe Doria"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1795.11.18 = {
+	monarch = {
+		name = "Giacomo Brignole"
+		birth_date = 1724.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1797.6.15 = {
+	monarch = {
+		name = "Repubblica Ligure"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1805.6.4 = {
+	monarch = {
+		name = "Girolamo Durazzo"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1814.4.26 = {
+	monarch = {
+		name = "Girolamo Serra"
+		birth_date = 1761.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

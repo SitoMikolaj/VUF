@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 20 188 131 }
+
+historical_idea_groups = {
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	trade_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Heinrich #1" = 40
+	"Johann #1" = 40
+	"Gerhard #2" = 20
+	"Friedrich #1" = 20
+	"Otto #1" = 20
+	"Baldwin #0" = 20
+	"Christoph #0" = 20
+	"Georg #0" = 20
+	"Johann Adolf #0" = 20
+	"Johann Friedrich #0" = 20
+	"Nicolaus #0" = 20
+	"Burkhard #2" = 15
+	"Albrecht #1" = 15
+	"Gottfried #1" = 15
+	"Bernhard #1" = 10
+	"Florent #1" = 10
+	"Adam #0" = 2
+	"Alexander #0" = 2
+	"Andreas #0" = 2
+	"Baldur #0" = 2
+	"Bruno #0" = 2
+	"Clemens #0" = 2
+	"Denis #0" = 2
+	"Eckhard #0" = 2
+	"Ernst #0" = 2
+	"Florian #0" = 2
+	"Gregor #0" = 2
+	"Helmfried #0" = 2
+	"Helmut #0" = 2
+	"Isaak #0" = 2
+	"Joachim #0" = 2
+	"Jürgen #0" = 2
+	"Klaus #0" = 2
+	"Martin #0" = 2
+	"Maximilian #0" = 2
+	"Michael #0" = 2
+	"Rainer #0" = 2
+	"Rudolf #0" = 2
+	"Siegert #0" = 2
+	"Siegmund #0" = 2
+	
+	"Selma #0" = -1
+	"Ulrike #0" = -1
+	"Barbara #0" = -1
+}
+
+leader_names = { 
+	Adler Alers Andreæ
+	Bake Beckröge Bergius Berninghausen Boelken Bollheim Brill "von Bobert"
+	"von Cappeln"
+	Delius Drewers 
+	Engels 
+	Ficke Foukhard Fugger
+	Geffken Gildemeister Grovermann 
+	Happach	Heimbruch Hinke "von Holten" "von Horn" "Holbein der Ältere" "Holbein der Jüngere"
+	Kindt Köhne Krefting 
+	Laporte Löning 
+	Meyer "von Meinertzhagen" 
+	Oelrichs Ordemann 
+	Reiners Rohde 
+	Sanders Schulken	Steinwachs Stucken Scheiner
+	Truernitt   
+	 
+}
+
+ship_names = {
+	Roland
+	Tagenbare
+	Geelbeen
+	"Johann Dove"
+	Honorius
+	Willehad
+	Jever
+	Weserwelle
+	"Heinrich I" Kassel Werra Lahn Fulda
+	Wasserkuppe Stirnberg Hanau Marburg Wetzlar
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}
+
+fleet_names = {
+	"Herzoglichen Flotte" "$PROVINCE$ Flotte"
+}

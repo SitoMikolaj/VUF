@@ -1,0 +1,118 @@
+name = "Rébellion du Haut Canada"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_colonial_independance_war
+}
+
+
+1837.10.23 = {
+	add_attacker = CAN
+	add_defender = GBR
+}
+
+1837.12.7 = {
+	battle = {
+		name = "Montgomery's Tavern"
+		location = 989
+		attacker = {
+			commander = "Anthony Van Egmond"
+			infantry = 210
+			losses = 3	# percent
+			country = CAN
+		}
+		defender = {
+			commander = "James Fitzgibbon"
+			infantry = 1000
+			losses = 1	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1838.3.3 = {
+	battle = {
+		name = "Pelee Island"
+		location = 987
+		attacker = {
+			commander = "Lester Hoadley"
+			infantry = 300
+			losses = 8	# percent
+			country = CAN
+		}
+		defender = {
+			commander = "George Browne"
+			infantry = 126
+			losses = 6	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1838.6.23 = {
+	battle = {
+		name = "Short hill"
+		location = 987
+		attacker = {
+			commander = "Samuel Chandler"
+			infantry = 48
+			losses = 30	# percent
+			country = CAN
+		}
+		defender = {
+			commander = "Robert Bailey"
+			infantry = 17
+			losses = 60	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1838.11.12 = {
+	battle = {
+		name = "Windmill"
+		location = 989
+		attacker = {
+			commander = "Nils von Schoultz"
+			infantry = 250
+			losses = 65	# percent
+			country = CAN
+		}
+		defender = {
+			commander = "Henry Dundas"
+			infantry = 1633
+			losses = 5	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1838.12.4 = {
+	battle = {
+		name = "Windsor"
+		location = 989
+		attacker = {
+			commander = "Lucius Verus Bierce"
+			infantry = 400
+			losses = 25	# percent
+			country = CAN
+		}
+		defender = {
+			commander = "Capt. John Sparks"
+			infantry = 300
+			losses = 3	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1838.12.9 = {
+	rem_attacker = CAN
+	rem_defender = GBR
+}

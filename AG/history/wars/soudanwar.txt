@@ -1,0 +1,57 @@
+name = "Guerre de Soudan"
+
+#casus_belli
+war_goal = {
+	type = take_core
+	casus_belli = cb_core
+}
+
+1820.7.1 = {
+	add_attacker = EGY
+	add_defender = NUB
+}
+
+1820.7.22 = {
+	battle = {
+		name = "Dongola"
+		location = 1228
+		attacker = {
+			commander = "Ismail Pasha"
+			infantry = 7000
+			losses = 5	# percent
+			country = EGY
+		}
+		defender = {
+			commander = "Mahommed Bey"
+			infantry = 10000
+			losses = 15	# percent
+			country = NUB
+		}
+		result = win
+	}
+}
+
+1821.7.22 = {
+	battle = {
+		name = "Kordofan"
+		location = 1219
+		attacker = {
+			commander = "Ismail Pasha"
+			infantry = 10000
+			losses = 5	# percent
+			country = EGY
+		}
+		defender = {
+			commander = "Mahommed Bey"
+			infantry = 15000
+			losses = 15	# percent
+			country = NUB
+		}
+		result = win
+	}
+}
+
+1823.10.20 = {
+	rem_attacker = EGY
+	rem_defender = NUB
+}

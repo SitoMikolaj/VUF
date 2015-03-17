@@ -1,0 +1,22 @@
+name = "Guerre d'Hashiba"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_shogun_annex
+}
+
+1584.4.17 = {
+	add_attacker = JAP
+	add_defender = ODA
+	add_defender = TKG
+}
+
+1584.12.12 = {
+	rem_defender = ODA
+}
+
+1585.1.1 = {
+	rem_attacker = JAP
+	rem_defender = TKG
+}

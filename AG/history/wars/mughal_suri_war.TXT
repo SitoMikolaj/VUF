@@ -1,0 +1,16 @@
+name = "Guerre de Sher Shâh Suri"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1539.1.1 = {
+	add_attacker = BNG
+	add_defender = MUG
+}
+1556.11.5 = {
+	rem_attacker = BNG
+	rem_defender = MUG
+}	#2nd bataille de Panipat - Mongols défont l'arùmée de Suri à Hemu

@@ -1,0 +1,409 @@
+government = feudal_county
+#aristocracy_plutocracy = -1
+#centralization_decentralization = 2
+#innovative_narrowminded = -1
+mercantilism = 0.1
+#offensive_defensive = 3
+#land_naval = -3
+#quality_quantity = 2
+#serfdom_freesubjects = -4
+technology_group = western
+religion = catholic
+primary_culture = occitain
+capital = 204	# Grenoble
+
+1368.12.3 = {
+	monarch = {
+		name = "Charles II" # Roi de france Charles VI
+		dynasty = "de Valois"
+		birth_date = 1368.12.3
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1386.9.6 = {
+	monarch = {
+		name = "Charles III" # 1° dauphin
+		dynasty = "de Valois"
+		birth_date = 1386.9.6
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1386.12.28 = {
+	monarch = {
+		name = "Charles II" # Roi de france Charles VI
+		dynasty = "de Valois"
+		birth_date = 1368.12.3
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1392.2.6 = {
+	monarch = {
+		name = "Charles IV" # 2° dauphin
+		dynasty = "de Valois"
+		birth_date = 1392.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1401.1.13 = {
+	monarch = {
+		name = "Louis I" # 3° dauphin
+		dynasty = "de Valois"
+		birth_date = 1397.1.22
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1415.12.18 = {
+	monarch = {
+		name = "Jean III" # 4° dauphin
+		dynasty = "de Valois"
+		birth_date = 1398.8.31
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1417.4.5 = {
+	monarch = {
+		name = "Charles V" # Roi de France Charles VIII
+		dynasty = "de Valois"
+		birth_date = 1403.2.22
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1423.7.3 = {
+	monarch = {
+		name = "Louis II" # Roi de France Louis XI
+		dynasty = "de Valois"
+		birth_date = 1423.7.3
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+}
+
+1470.6.30 = {
+	monarch = {
+		name = "Charles VI" # Roi de France Charle VIII
+		dynasty = "de Valois"
+		birth_date = 1470.6.30
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}
+
+1492.10.11 = {
+	monarch = {
+		name = "Charles-Orland I" # 1° dauphin
+		birth_date = 1492.10.11
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1495.12.16 = {
+	monarch = {
+		name = "Charles VI" # Roi de France Charle VIII
+		dynasty = "de Valois"
+		birth_date = 1470.6.30
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}
+
+1496.9.8 = {
+	monarch = {
+		name = "Charles VII" # 2° dauphin
+		dynasty = "de Valois"
+		birth_date = 1496.9.8
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1496.10.2 = {
+	monarch = {
+		name = "Charles VI" # Roi de France Charle VIII
+		dynasty = "de Valois"
+		birth_date = 1470.6.30
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}
+
+1497.7.1 = {
+	monarch = {
+		name = "François I" # 3° dauphin
+		dynasty = "de Valois"
+		birth_date = 1497.7.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1498.1.1 = {
+	monarch = {
+		name = "Charles VI" # Roi de France Charle VIII
+		dynasty = "de Valois"
+		birth_date = 1470.6.30
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+}
+
+1498.4.7 = {
+	monarch = {
+		name = "Louis III" # Roi de France Louis XII
+		dynasty = "de Valois"
+		birth_date = 1462.6.27
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}
+
+1515.1.1 = {
+	monarch = {
+		name = "François II" # Roi de France François Ier
+		dynasty = "de Valois"
+		birth_date = 1494.9.12
+		adm = 5
+		dip = 2
+		mil = 4
+		leader = { name = "François" type = general rank = 0 fire = 3 shock = 4 manuever = 4 siege = 1 }
+	}
+}
+
+1518.9.28 = {
+	monarch = {
+		name = "François III" #1° dauphin
+		dynasty = "de Valois"
+		birth_date = 1518.9.28
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1536.8.10 = {
+	monarch = {
+		name = "Henri I" # Roi de France Henri II
+		dynasty = "de Valois"
+		birth_date = 1519.3.31
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1547.3.31 = {
+	monarch = {
+		name = "François IV" # Roi de France François II
+		dynasty = "de Valois"
+		birth_date = 1544.1.19
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1559.7.10 = {
+	monarch = {
+		name = "Charles VIII" # Roi de France Charles IX
+		dynasty = "de Valois"
+		birth_date = 1550.6.27
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1563.6.27 = {
+	monarch = {
+		name = "Henri II" # Roi de France Henri III
+		dynasty = "de Valois"
+		birth_date = 1551.9.19
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1574.5.30 = {
+	monarch = {
+		name = "François V" #" 1° dauphin, son frère, duc d'Anjou
+		dynasty = "de Valois"
+		birth_date = 1551.9.19
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1584.6.10 = {
+	monarch = {
+		name = "Henri II" # Roi de France Henri III
+		dynasty = "de Valois"
+		birth_date = 1551.9.19
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+1589.8.2 = {
+	monarch = {
+		name = "Henri III" # Roi de France Henri IV
+		dynasty = "de Bourbon"
+		birth_date = 1553.12.13
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+1601.9.27 = { 
+	monarch = {
+		name = "Louis IV" # Roi de France Louis XIII
+		dynasty = "de Bourbon"
+		birth_date = 1601.9.27
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1638.9.5 = {
+	monarch = {
+		name = "Louis V" # Roi de France Louis XIV
+		dynasty = "de Bourbon"
+		birth_date = 1638.9.5
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1661.11.1 = {
+	monarch = {
+		name = "Louis VI" # Le Grand Dauphin
+		dynasty = "de Bourbon"
+		birth_date = 1661.11.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1711.4.14 = {
+	monarch = {
+		name = "Louis VII" # Le Petit Dauphin
+		dynasty = "de Bourbon"
+		birth_date = 1682.8.16
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1712.2.18 = {
+	monarch = {
+		name = "Louis VIII" # 3° dauphin
+		dynasty = "de Bourbon"
+		birth_date = 1682.8.16
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1712.3.8 = {
+	monarch = {
+		name = "Louis IX" # Roi de France Louis XV
+		dynasty = "de Bourbon"
+		birth_date = 1710.2.15
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1729.9.4 = {
+	monarch = {
+		name = "Louis X" # 1° dauphin
+		dynasty = "de Bourbon"
+		birth_date = 1729.9.4
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1765.12.20 = {
+	monarch = {
+		name = "Louis XI" # Roi de France Louis XVI
+		dynasty = "de Bourbon"
+		birth_date = 1754.8.23
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1784.10.22 = {
+	monarch = {
+		name = "Louis XII" # 1° dauphin
+		dynasty = "de Bourbon"
+		birth_date = 1784.10.22
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1789.6.4 = {
+	monarch = {
+		name = "Louis XIII" # Roi de France Louis XVII
+		dynasty = "de Bourbon"
+		birth_date = 1785.3.27
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1814.4.11 = {
+	monarch = {
+		name = "Charles IX" # Roi de France Charles X
+		dynasty = "de Bourbon"
+		birth_date = 1757.10.9
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

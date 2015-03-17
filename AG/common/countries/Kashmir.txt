@@ -1,0 +1,122 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 63  150  30 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Sikandar #0" = 10
+	"'Alî Shâh #0" = 10
+	"Zayn al-'Âbidîn #0" = 10
+	"Haydar Shâh #0" = 10
+	"Hasan Shâh #0" = 10
+	"Muhammad Shâh #0" = 10
+	"Sayyîd Hasan #0" = 10
+	"Fath Shâh #0" = 10
+	"Ibrâhîm Shâh #0" = 30
+	"Nâzuk Shâh #0" = 10
+	"Shams ad-Dîn #1" = 10
+	"Isma'îl Shâh #0" = 20
+	"Ghâzî Shâh #0" = 10
+	"Husayn Shâh #0" = 10
+	"Yûsuf Shâh #0" = 10
+	"Lohâr Shâh #0" = 10
+	"Nabîb Shâh #0" = 10
+	"Ya'qûb Shâh #0" = 10
+	"Ibrâhîm #0" = 2
+	"Hasan #0" = 2
+	"Nâzuk #0" = 2
+	"Yûsuf #0" = 2
+	"Ya'qûb #0" = 2
+	"Muhammad #0" = 2
+	"'Alî #0" = 2
+	"Isma'îl #0" = 2
+	"Gulâb #0" = 2
+	"Ranbir #0" = 2
+	"Hari #0" = 2
+	"Pratâp #0" = 2
+	"Kishore #0" = 2
+	"Zorawar #0" = 2
+	"Jonarâja #0" = 2
+	"Prajnâ #0" = 2
+	"Hamza #0" = 2
+	"Kôta #0" = -1
+	"Sibaya #0" = -1
+	"Târâ Devî #0" = -1
+}
+
+leader_names = {
+	Bahâdur
+	Das
+	Dev
+	Gahunia
+	Paramânand
+	Sheragila
+	Singh
+	Sodhî
+	Sohal
+	Rai
+	Lâl
+	Kâshmîrî
+	Jîvan
+	al-Hamadânî
+	Kralawari
+	Bakhsh
+	Mâkhdum
+	Bhatta
+	Pakhral
+	Mir
+	Kishtwaria
+	Chandral
+	Jamwal
+	Mâlik
+	Mehsud
+	Âfarîdi
+	Nâga
+	Pundir
+	Katoch
+	Gâmî
+	Bhangalia
+	Pahore
+}
+
+ship_names = {
+	"A'âliyah" Alisha "'Azîza" Biyâs Chanâb
+	Fâtima Gurû Indus Jalsena Jhelam
+	Khân Nausenâ "Nav ka Yudh" Nîknâz
+	Nîlûfa Ravi Sâgar Satluj Yâsmin Zahira
+}
+
+army_names = {
+	"Kashyapmir Senaa" "Kambojas Senaa"	"Jammu Senaa" "Ladakh Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa"
+	}

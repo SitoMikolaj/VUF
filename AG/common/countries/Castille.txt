@@ -1,0 +1,128 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 193  171  8 }
+
+revolutionary_colors = { 5  8  5 }
+
+historical_idea_groups = {
+	exploration_ideas
+	religious_ideas
+	offensive_ideas
+	expansion_ideas
+	influence_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Enrique #2" = 40
+	"Fernando #4" = 20
+	"Juan #1" = 20
+	"Felipe #0" = 20
+	"Alfonso #11" = 10
+	"Carlos #0" = 10
+	"Isabel #0" = -10
+	"Juana #0" = -10
+	"María #0" = -5
+	"Urraca #1" = -10
+	"Catalina #0" = -5
+	"Sancho #4" = 1
+	"Ramiro #2" = 1
+	"Pedro #1" = 1
+	"Alonso #0" = 2
+	"Álvaro #0" = 2
+	"Bernardo #0" = 2
+	"Bertrán #0" = 2
+	"Cristobal #0" = 2
+	"Diego #0" = 2
+	"Domingo #0" = 2
+	"Esteban #0" = 2
+	"Francisco #0" = 2
+	"García #0" = 2
+	"Gonzalo #0" = 2
+	"Hernando #0" = 2
+	"Ignacio #0" = 2
+	"Miguel #0" = 2
+	"Ramón #0" = 2
+	"Rodrigo #0" = 2
+	"Tomás #0" = 2
+	"Valeriano #0" = 2
+	"Fernan #1" = 2	
+	"Pelayo #1" = 2
+	"Aurelio  #1" = 2
+	"Ordoño #4" = 10
+	"Bermudo #3" = 10
+}
+
+leader_names = {
+	"de Aguirre" "de Alarcón" "de Andrade" "de Ayala" "de Aguilar" 
+	"de Bazán" "de Benavides" "de Balboa"
+	Campomanes "de Castilla" "de la Cerda" Cienfuegos Colón Coronado Cortés "de Córdoba" "de la Cueva" Colón "de Córdoba" "de Aguilar" "de la Cosa"
+	"de Figueroa" Fonseca
+	Gálvez Gómez "de Guzmán" 
+	"Jiménez de Cisneros" Jiménez
+	"de Leiva" "López de Haro" "de Luna"	"de Lara" "de León"
+	"de Mendoza" Manrique "de Madrid"
+	"de Narváez" "de Nebrija" "Nuñez de Balboa" "de Nebrija"
+	"de Ojeda" Orellana Osorio "de Orena"
+	Pimentel Pinzón Pizarro "Ponce de León" Portocarrero "de Pulgar"
+	"de Rojas" Ramírez
+	"de Solís"
+	"de Toledo" Tellez-Girón "de Torquemada"
+	"de la Vega"  "de Velasco" "de Villena" "de Vitoria" Vespucci
+	"de Zúñiga"
+}
+
+ship_names = {
+	Activa Aduana Africa Águila "Águila de Nantes" "Águila Imperial" "Águila Volante" Alavés "Alejandro I" Alerta Algeciras Amalia America Americana Amistad Andalucía "Andalucia Baja" Andaluz Anfitrite "Angel de la Guarda" Anónima Anunciación Anunciada Aquiles Aquilón Aránzazu Ardilla Aretusa Argonauta Arlequina Arrogante Asia "Asiento de Alberto" "Asiento de Diego" "Asiento del Consulado" Astra Astrea Astrolabio Asturias Astuto Asunción Atlante Atlas Atocha Atrevida Atrevido Augusta Aurora "Ave de Gracia" Aventurero Azor
+	Bahama "Barca de Ancique" Batidor Bazana Begoña Bizarra Bizarro Brillante Brújula "Buen Consejo" "Buena Ventura" Bufona Burlandin
+	"Caballo Blanco" "Caballo Marino" Cacafuego Caimán Cambi Campeón Candelaria Capitana "Capitana de Rooco" "Capitana Real" Cargadora "Carlos II" Carlota Carmen Carretina Cartagonova Cartagenero "Casa de Chica" "Casa de Paz Grande" Castilla "Castillo Negro" Castor Catalán Catalina Cazador Ceres Cevallos Ciervo "Ciervo Volante" Chula Cisne Clara Colón Concepción "Concepción de Capitillo" "Concepción de Carasa" "Concepción de Castro" "Concepción de Joanes" "Concepción de Lastero" "Concepción de Napoles" "Concepción de Somariba" "Concepción de Valmaseda" "Concepción Mayor" "Conde de Regla" "Conde de Tolosa" Conquistada Conquistador Constante Contento Cornelia Correo Corzo Cristo Cristóbal Covadonga "Cuervo Marino" 
+	David "Delfin Dorado" Descubridor Descubierta Desperante Diana Diate Dichoso Diligencia Diligente "Diligente Valenciano" Dolores Doncella "Don José" "Don Tomás" Dorada "Dos Hermanos" Dragón Duquesa 
+	"El Águila" "El Bendon" "El Brillante" "El Burlando" "El Capitán" "El Catalán" "El Cazador" "El Chico" "El Conde de Chinchón" "El Cuervo" "El Fuerte" "El Galgo" "El Gato" "El Golondrin" "El Gran Alejandro" "El Gran Grin" "El Ibicenco" "El Jardín de Tritón" "El León" "El Ligero" "El Mallorquin" "El Napolitano" "El Pájaro" "El Pinque" "El Real" "El Real Jorge" "El Retiro" "El Salvador" "El Selerais" "El Superior" "El Trucha" "El Valenciano" "El Viento" "El Volador" Empresa Eneas Eolo "Erima Tulani" Esayas Escolta Esmeralda Espaciosa España Esperanza "Espíritu Santo" Esquevel Estrella "Estrella del Mar" Europa Extremadura 
+	"Falcón Blanco Mayor" "Falcón Blanco Mediano" Fama "Fama Volante" Favorita Fénix "Fernando VII" Ferrolana Ferroleña Fidela Firme Flecha Flor Flora Florencia Florentina Floridablanca "Francisco de Paula" Fuerte Furor
+	Galera "Galera de España" "Galera de Neptuno" "Galera Victoria" Galga "Galgo de Andalucia" Galicia Gallardo Gallega "Galleon del Asiento" "Gallo Indiano" Gálvez Gamo Garzota Gavilán Gaviota Genovés Genovesa Gertrudis Girona Gitano Gloria Glorioso Golondrina Gonzaga "Gran Grifón" "Gran Grin" "Gran Princesa" Graña Griega Grulla Guadelupe Guerrero Guipuzcoa Gusana
+	Halcón Héctor Hércules Hermógenes Hermenegildo Hermiona Héroe Hipómenes 
+	Iberia Ifgenia Ildefonso Incendio Industria "Infanta Amelia" Infante "Infante de Pelayo" "Infante Don Carlos" "Infante Don Francisco" "Infante Don Pelayo" Intrépido Invencible Iris Isabela 
+	Jacinta Jasón "Jesus Maria" "Jesus Maria y Jose" "Joven José" Joaquina Juana Julia Juliana Juno Júpiter
+	"La Begoña" "La Brava" "La Caridad" "La Caridad Inglesa" "La Carlota" "La Castellana" "La Catalina" "La Cazadora" "La Chata" "La Concepción" "La Corona" "La Defensa" "La Diligencia" "La Divina Pastora" "La Española" "La Esperanza" "La Feliz" "La Ferme" "La Flor" "La Flora" "La Furia" "La Galga" "La Garzona" "La Griega" "La Magdalena" "La Manuela" "La Maria" "La Maria de Aguirre" "La Mujer" "La Natividad de N. S." "La Paloma" "La Peregrina" "La Pomona" "La Presa" "La Princesa" "La Rata Encoronada" "La Salutacion Virgen" "La Santisima Trinidad" "La Sênora Sara" "La Tetis" "La Tolosa" "La Trinidad Valencera" "La Via" "La Vigilancia" "La Visitacion de N. S." Lanfranco "Le Ferme" Lealtad Lebrel León Librada Liebre Ligera Limeño Lince "Lobo Marino" "Los Angeles" "Los Santos Reyes" Luz 
+	"Madona del Populo" Magdalena Magnánimo Mahonesa Manuela Maravillas "Maria de Miguel Suso" "María Isabel" "Maria Juan" "Maria San Juan" "Mariana Pérez" Marta Marte Matilda Medea Mejicano Menorquin Mercedes Mercurio Minerva Miño Monarca Montañés Montserrat Mors-aut-Gloria Mosca Mosquito Murciano
+	Nana Neptuna Neptuno Niña Ninfa "Nombre de Dios" "N.S. de Africa" "N.S. de Aránzazu" "N.S. de Atocha" "N.S. de Barrio" "N.S. de Begoña" "N.S. de Belen" "N.S. de Castro" "N.S. de Fresneda" "N.S. de Gracia" "N.S. de Guadalupe" "N.S. de Guazamalaga" "N.S. de Lorenzo" "N.S. de Loreto" "N.S. de Luz" "N.S. de Monteagudo" "N.S. de Montserrat" "N.S. de Socorro" "N.S. de la Almudena" "N.S. de la Alta Gracia" "N.S. de la Antigua" "N.S. de la Anunciación" "N.S. de la Asunción" "N.S. de la Concepción" "N.S. de la Esperanza" "N.S. de la O" "N.S. de la Pastoriza" "N.S. de la Paz" "N.S. de la Presentación" "N.S. de la Purificacion" "N.S. de la Regla" "N.S. de la Rosa" "N.S. de la Soledad" "N.S. de las Esterrallas" "N.S. de las Mercedes" "N.S. de las Viñas" "N.S. de los Dolores" "N.S. de los Remedios" "N.S. de los Reyes" "N.S. de los Tres Reys" "N.S. del Buen Consejo" "N.S. del Buen Suceso" "N.S. del Carmen" "N.S. del Coro" "N.S. del Juncal" "N.S. del Mar" "N.S. del Pilar" "N.S. del Pueblo" "N.S. del Puerto" "N.S. del Rosario" "Nuestra Señora" "Nueva España" "Numancia I"
+	Orfeo Oriente Orión 
+	Padilla Pájaro Palas Palo-Hincado Paloma "Paloma Blanca" "Paloma Indiana" Paraná Patrona Paula Paz Pegaso Pelayo Pena Penélope Peregrina Perla "Perla de España" "Perro Marino" Piedad "Pingue Pintado" "Pinque Pópulo" "Pingue Volante" Pinta Plutón Poder Poderoso Poli Pollux Polonia "Porto Coeli" Postillón Potencia Preciosa Presentación "Primer Rubi" Princesa Principe "Príncipe de Asturias" Pronta Prosperpina Providencia "Proyectadas Asiento" Prueba Puercoespín "Purisma Concepción"
+	Quiter
+	Raposo Rayo "Real Alfonso" "Real Carlos" "Real Enrique" "Real Familia" "Real Felipe" "Real Fenix" "Real Jorge" "Real Juan" "Real Mari" Rebeca Redentora Regazona Regla Reina "Reina Luisa" "Reina Santa Isabel" Relámpago Resolución Retiro "Rey Pelayo" "Rey Rodrigo" Rita Rosa Rosario Rubí 
+	Saeta Sabina Sacramento Saliraquel Saloni Salvador "Salvador del Mundo" "San Agustin" "San Alejandro" "San Ambrosio" "San Andrés" "San Andrés de Escocia" "San Antón" "San Antonio" "San Antonio de Padua" "San Augustin" "San Bartolomé" "San Bernabé" "San Bernardo" "San Blas" "San Bruno" "San Buenaventura" "San Carlos" "San Cosimo" "San Cristóbal" "San Dámaso" "San Daniel" "San Diego de Alcala" "San Dimas" "San Dionisio" "San Enrique" "San Esteban" "San Esteban Apedreado" "San Eugenio" "San Eustaquio" "San Felipe" "San Felipe Apostol" "San Felipe y Santiago" "San Félix" "San Fermin" "San Fernando" "San Fernando el Chico" "San Fernando el Pequeno" "San Francisco" "San Francisco de Asis" "San Francisco de Bayona" "San Francisco de Paula" "San Francisco Javier" "San Fulgencio" "San Gabriel" "San Gedeon" "San Genaro" "San Gerónimo" "San Gil" "San Gregorio" "San Hermenegildo" "San Hipolito" "San Ignacio" "San Ildefonso" "San Isidoro" "San Isidro" "San Jacinto" "San Joaquín" "San Jorge" "San José" "San José y las Ánimas" "San Josef" "San Juan" "San Juan Bautista" "San Juan Carasa" "San Juan de Dios" "San Juan de Gargoriu" "San Juan de Shagun" "San Juan de Sicilia" "San Juan el Chico" "San Juan el Menor" "San Juan Evangelista" "San Juan Nepomuceno" "San Juanico" "San Julián" "San Justo" "San Lazaro" "San Leandro" "San Lesmes" "San Lino" "San Lorenzo" "San Lucas" "San Luis" "San Luis Beltran" "San Luis Gonzaga" "San Marcos" "San Martín" "San Mateo" "San Medel y San Celedón" "San Miguel" "San Nicolás" "San Nicolás de Bari" "San Pablo" "San Pablo la Presa" "San Padro" "San Pascual" "San Pascual Bailón" "San Pastor" "San Paulo" "San Pedro" "San Pedro Apostol" "San Pedro de Alcántara" "San Pedro de la Fortuna" "San Pedro el Grande" "San Pedro Martir" "San Pedro Mayor" "San Pedro Menor" "San Pedro y San Pablo" "San Pío" "San Rafael" "San Raimundo" "San Ramón" "San Salvador" "San Sebastián" "San Telmo" "San Vicente Ferrer" "San Vincente" Sansón "Santa Agnes" 
+	"Santa Águeda" "Santa Amalia" "Santa Ana" "Santa Balbina" "Santa Bárbara" "Santa Beatriz" "Santa Bibiana" "Santa Brígida" "Santa Casilda" "Santa Catalina" "Santa Catalina Martir" "Santa Catalina Virgen" "Santa Cecilia" "Santa Clara" "Santa Cristina" "Santa Cruz" "Santa Dorotea" "Santa Elena" "Santa Engracia" "Santa Escolástica" "Santa Eulalia" "Santa Fe" "Santa Florentina" "Santa Genoveva" "Santa Gertrudis" "Santa Inés" "Santa Irene" "Santa Isabel" "Santa Justa" "Santa Leocadia" "Santa Librada" "Santa Lucía" "Santa Margarita" "Santa Maria" "Santa Maria Buena Ventura" "Santa Maria de la Juncal" "Santa Maria de la Cabeza" "Santa Maria de Tezanos" "Santa Maria de Visón" "Santa María Magdalena" "Santa Maria Montemayor" "Santa Marta" "Santa Matilde" "Santa Mónica" "Santa Natalia" "Santa Paula" "Santa Perpetua" "Santa Petronila" "Santa Polonia" "Santa Quiteria" "Santa Rita" "Santa Rosa" "Santa Rosa de Lima" "Santa Rosa de Palermo" "Santa Rosalía" "Santa Rufina" "Santa Sabina" "Santa Susana" "Santa Tecla" "Santa Teresa" "Santa Trinidad de Scala" "Santa Úrsula" "Santa Victoria" "Santa Yrene" 
+	Santana Santiago "Santiago de Galicia" "Santiago el Mayor" "Santísima Trinidad" "Santissima Madre" "Santo Cristo" "Santo Cristo de Burgos" "Santo Cristo de Maracaibo" "Sto. Cristo del Buen Viaje" "Sto. Cristo de San Roman" "Santo Crucifijo" "Santo Domingo" "Santo Domingo de Polonia" "Santo Espíritu" "Santo Tomás" "Santo Thomas de Aquino" Sebastiana Segunda Septentrión Serio Serpanton Sevillana Sirena Soberano Soberbio "Sol Dorado" Soledad Sorpresa Susana Sutil
+	Tártaro Taumaturgo Terrible Terror Tetis Tholosilla Tigre Toledo Tolosilla Tridente Trinidad Tritón Triunfante Triunfo "Triunfo de Maria" Trueno
+	Unicornio Urquijo
+	Valdés Valeroso Velasco Vencedor Vencejo Venganza Ventura Venus Vichero Victoria Victorioso Vigilante Visitación Viva Vivo Vizcaya Volante Vulcano 
+	Zara Zúñiga
+}
+
+army_names = {
+	"Guardia Réal" "Ejército Réal" "Ejército de Castilla" "Ejército de León" "Ejército de Asturias" "Ejército de Galicia" "Ejército de Toledo" "Tercio de $PROVINCE$"
+}
+
+fleet_names = {
+	"Armada Réal" "Armada del Mar del Sur" "Armada del Mar Océano" "Armada de Vizcaya" "Escuadra de Napoles" "Escuadra de Mallorca" "Escuadra de l'Atlántico" "Escuadra Italiana" "Escuadra de $PROVINCE$"
+}

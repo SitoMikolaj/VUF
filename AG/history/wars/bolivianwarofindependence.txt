@@ -1,0 +1,41 @@
+name = "Guerre de Bolivie"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+}
+
+# Declaration of independence
+1809.7.16 = {
+	add_attacker = PRU # Au lieu de la bolivie, pour le moment remplacé par le pérou
+	add_defender = SPA
+}
+
+1824.12.9 = {
+	battle = {
+		name = "Ayacucho"
+		location = 807
+		attacker = {
+			commander = "Antonio José de Sucre"
+			infantry = 5750
+			artillery = 1
+			losses = 2	# percent
+			country = PRU
+		}
+		defender = {
+			commander = "José Laserna"
+			infantry = 9000
+			artillery = 14
+			losses = 30	# percent
+			country = SPA
+		}
+		result = win
+	}
+}
+
+# Formal Independance
+1825.8.6  = {
+	rem_attacker = PRU # Normalement bolivie
+	rem_defender = SPA
+}

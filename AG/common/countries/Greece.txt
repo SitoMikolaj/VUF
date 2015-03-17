@@ -1,0 +1,107 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 249  206  173 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Georgios #0" = 40
+	"Alexandros #0" = 20
+	"Konstantinos #0" = 20
+	"Pavlos #0" = 15
+	"Andreas #0" = 10
+	"Alexandra #0" = -10
+	"Nikolaos #0" = 10
+	"Aineias #0" = 2
+	"Alexeios #0" = 2
+	"Ambrosios #0" = 2
+	"Bartholomaios #0" = 2
+	"Basileios #0" = 2
+	"Chrysanthos #0" = 2
+	"David #0" = 2
+	"Demetrios #0" = 2
+	"Diogenes #0" = 2
+	"Dionysos #0" = 2
+	"Eirenaios #0" = 2
+	"Elpidios #0" = 2
+	"Gregorios #0" = 2
+	"Hektor #0" = 2
+	"Herakles #0" = 2
+	"Iason #0" = 2
+	"Ioannes #0" = 2
+	"Kastor #0" = 2
+	"Manuel #0" = 2
+	"Matthaios #0" = 2
+	"Nestor #0" = 2
+	"Nikomedes #0" = 2
+	"Orestes #0" = 2
+	"Palaemon #0" = 2
+	"Pelagios #0" = 2
+	"Petros #0" = 2
+	"Philemon #0" = 2
+	"Philippos #0" = 2
+	"Prokopios #0" = 2
+	"Skantarios #0" = 2
+	"Stefanos #0" = 2
+	"Theodoros #0" = 2
+	"Thomas #0" = 2
+}
+
+leader_names = {
+	Argyrus Artavasdus
+	Basileus
+	Diogenes Ducas
+	Monomachus
+	Romanus
+	Stauracius Stratioticus
+	Vataces
+	Zimisces
+}
+
+ship_names = {
+	Hydra
+	Lesbos Limnos
+	Mikonios
+	Pezopoulos
+	Salamis Samos Simitzopoulos
+	Themistoklis
+	Votsis
+}
+
+army_names = {
+	"Ellinikos Stratos" "Elláda Stratos" "Attikí Stratos" "Makedonía Stratos" "Thráki Stratos" "Thessaloniki Stratos" "Aigaío Stratos" "Ipiros Stratos" "Kríti Stratos" "Iónia Nissia Stratos" "Pelopónnissos Stratos" "Thessalía Stratos" "Agion Oros Stratos" "$PROVINCE$ Stratos"
+}
+
+fleet_names = {
+	"Polemikó Naftikó" "Vasilikón Naftikón" "Ellinikos Naftikó" "Aigaío Naftikó" "Mesogeios Naftikó" "Ionio Naftikó" "$PROVINCE$ Naftikó"
+}

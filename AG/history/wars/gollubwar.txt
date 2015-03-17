@@ -1,0 +1,20 @@
+name = "Guerre de Gollub"
+
+#casus_belli
+war_goal = {
+	type = take_border
+	casus_belli = cb_border_war
+}
+
+1422.7.1 = {
+	add_attacker = POL
+	add_attacker = LIT
+	add_defender = TEU
+}
+
+# Traité of Melno
+1422.9.27 = {
+	rem_attacker = POL
+	rem_attacker = LIT
+	rem_defender = TEU
+}

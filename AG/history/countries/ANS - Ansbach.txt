@@ -1,0 +1,559 @@
+government = feudal_county
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = western
+primary_culture = bavarian
+religion = catholic
+capital = 71	# Ansbach
+fixed_capital = 71 # Cannot move capital away from this province & no power cost to move to it
+
+# Margraves
+1398.1.1 = {
+	monarch = {
+		name = "Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1371.9.21
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1414.11.9 = {
+	heir = {
+		name = "Albrecht Achilles"
+		monarch_name = "Albrecht I Achilles"
+		dynasty = "von Hohenzollern"
+		birth_date = 1414.11.9
+		death_date = 1486.3.11
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1440.9.21 = {
+	monarch = {
+		name = "Albrecht I Achilles"
+		dynasty = "von Hohenzollern"
+		birth_date = 1414.11.9
+		dip = 2
+		adm = 2
+		mil = 1
+	}
+}
+
+1460.5.8 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1460.5.8
+		death_date = 1536.4.4
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+# remark = "Also ruler of Brandenburg."
+
+1486.3.11 = {
+	monarch = {
+		name = "Friedrich II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1460.5.8
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1486.3.11 = {
+	heir = {
+		name = "Georg"
+		monarch_name = "Georg I der Fromme"
+		dynasty = "von Hohenzollern"
+		birth_date = 1484.3.4
+		death_date = 1543.12.27
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1533.1.1 = { religion = protestant }
+
+1536.4.4 = {
+	monarch = {
+		name = "Georg I der Fromme"
+		dynasty = "von Hohenzollern"
+		birth_date = 1484.3.4
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1539.4.5 = {
+	heir = {
+		name = "Georg Friedrich"
+		monarch_name = "Georg Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1539.4.5
+		death_date = 1603.4.25
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1543.12.27 = {
+	monarch = {
+		name = "(Regent Aemilia)"
+		dynasty = "von Sachsen"
+		birth_date = 1516.7.27
+		dip = 1
+		adm = 3
+		mil = 1
+		regent = yes
+		female = yes
+	}
+}
+
+1543.12.27 = {
+	heir = {
+		name = "Georg Friedrich"
+		monarch_name = "Georg Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1539.4.5
+		death_date = 1603.4.25
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1555.4.5 = {
+	monarch = {
+		name = "Georg Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1539.4.5
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1583.6.22 = {
+	heir = {
+		name = "Joachim Ernst"
+		monarch_name = "Joachim Ernst I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1583.6.22
+		death_date = 1625.3.7
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1603.4.26 = {
+	monarch = {
+		name = "Joachim Ernst I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1583.6.22
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1608.5.14 = {
+	join_league = protestant
+}
+
+1616.3.1 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich III"
+		dynasty = "von Hohenzollern"
+		birth_date = 1616.3.1
+		death_date = 1634.9.6
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1625.3.7 = {
+	monarch = {
+		name = "(Regent Sophia)"
+		dynasty = "von Solms-Laubach"
+		birth_date = 1594.5.15
+		dip = 2
+		adm = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1625.3.7 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich III"
+		dynasty = "von Hohenzollern"
+		birth_date = 1616.3.1
+		death_date = 1634.9.6
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1632.3.1 = {
+	monarch = {
+		name = "Friedrich III"
+		dynasty = "von Hohenzollern"
+		birth_date = 1616.3.1
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1632.3.1 = {
+	heir = {
+		name = "Albrecht"
+		monarch_name = "Albrecht II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1620.9.18
+		death_date = 1667.10.22
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1634.9.6 = {
+	monarch = {
+		name = "(Regent Sophia)"
+		dynasty = "von Solms-Laubach"
+		birth_date = 1594.5.15
+		dip = 2
+		adm = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1634.9.6 = {
+	heir = {
+		name = "Albrecht"
+		monarch_name = "Albrecht II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1620.9.18
+		death_date = 1667.10.22
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1635.5.30 = {
+	leave_league = protestant
+}
+
+1639.9.18 = {
+	monarch = {
+		name = "Albrecht II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1620.9.18
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1654.10.8 = {
+	heir = {
+		name = "Johann Friedrich"
+		monarch_name = "Johann Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1654.10.8
+		death_date = 1672.10.8
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1667.10.22 = {
+	monarch = {
+		name = "(Vormundschaftsregierung)"
+		regent = yes
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1667.10.22 = {
+	heir = {
+		name = "Johann Friedrich"
+		monarch_name = "Johann Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1654.10.8
+		death_date = 1686.3.22
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1672.10.8 = {
+	monarch = {
+		name = "Johann Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1654.10.8
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1674.5.29 = {
+	heir = {
+		name = "Leopold Friedrich"
+		monarch_name = "Leopold Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1674.5.29
+		death_date = 1676.8.21
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1676.8.21 = {
+	heir = {
+		name = "Christian Albrecht"
+		monarch_name = "Christian Albrecht I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1675.9.18
+		death_date = 1692.10.16
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1686.3.22 = {
+	monarch = {
+		name = "(Vormundschaftsregierung)"
+		regent = yes
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1686.3.22 = {
+	heir = {
+		name = "Christian Albrecht"
+		monarch_name = "Christian Albrecht I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1675.9.18
+		death_date = 1692.10.16
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1691.9.18 = {
+	monarch = {
+		name = "Christian Albrecht I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1675.9.18
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1691.9.18 = {
+	heir = {
+		name = "Georg Friedrich"
+		monarch_name = "Georg Friedrich II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1678.5.3
+		death_date = 1703.3.29
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1692.10.16 = {
+	monarch = {
+		name = "(Vormundschaftsregierung)"
+		regent = yes
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1692.10.16 = {
+	heir = {
+		name = "Georg Friedrich"
+		monarch_name = "Georg Friedrich II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1678.5.3
+		death_date = 1703.3.29
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1694.5.3 = {
+	monarch = {
+		name = "Georg Friedrich II"
+		dynasty = "von Hohenzollern"
+		birth_date = 1678.5.3
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1694.5.3 = {
+	heir = {
+		name = "Wilhelm Friedrich"
+		monarch_name = "Wilhelm Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1686.1.8
+		death_date = 1723.1.7
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1703.3.29 = {
+	monarch = {
+		name = "Wilhelm Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1686.1.8
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1712.5.12 = {
+	heir = {
+		name = "Karl Wilhelm Friedrich"
+		monarch_name = "Karl Wilhelm Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1712.5.12
+		death_date = 1757.8.3
+		claim = 95
+		dip = 2
+		adm = 0
+		mil = 2
+	}
+}
+
+1723.1.7 = {
+	monarch = {
+		name = "(Regent Christiane Charlotte)"
+		dynasty = "von Württemberg"
+		birth_date = 1694.8.20
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+		regent = yes
+	}
+}
+
+1723.1.7 = {
+	heir = {
+		name = "Karl Wilhelm Friedrich"
+		monarch_name = "Karl Wilhelm Friedrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1712.5.12
+		death_date = 1757.8.3
+		claim = 95
+		dip = 2
+		adm = 0
+		mil = 2
+	}
+}
+
+1728.5.12 = {
+	monarch = {
+		name = "Karl Wilhelm Freidrich I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1712.5.12
+		dip = 2
+		adm = 0
+		mil = 2
+	}
+}
+
+1736.2.24 = {
+	heir = {
+		name = "Karl Alexander"
+		monarch_name = "Karl Alexander I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1736.2.24
+		death_date = 1806.1.5
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1757.8.3 = {
+	monarch = {
+		name = "Karl Alexander I"
+		dynasty = "von Hohenzollern"
+		birth_date = 1736.2.24
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+# Merged with Prussia 1791.12.2

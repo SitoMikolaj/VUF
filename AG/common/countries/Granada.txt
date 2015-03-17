@@ -1,0 +1,100 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = {  210 220 175 }
+
+revolutionary_colors = { 1  0  10 }
+
+historical_idea_groups = {
+	defensive_ideas
+	innovativeness_ideas
+	maritime_ideas
+	exploration_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Muhammad #6" = 140
+	"Yûsuf #2" = 60
+	"'Alî #0" = 20
+	"Sa'd #0" = 20
+	"Isma'îl #2" = 10
+	"Nasr #1" = 5
+	"'Abd al-Karîm #0" = 2
+	"Ayman #0" = 2
+	"Barakât #0" = 2
+	"Basir #0" = 2
+	"Dawud #0" = 2
+	"Fahd #0" = 2
+	"Faris #0" = 2
+	"Faruq #0" = 2
+	"Firdaus #0" = 2
+	"Fuad #0" = 2
+	"Haidar #0" = 2
+	"Hâshim #0" = 2
+	"Husam #0" = 2
+	"Iqbal #0" = 2
+	"Jabbar #0" = 2
+	"Ja'far #0" = 2
+	"Jamâl #0" = 2
+	"Junayd #0" = 2
+	"Khaliq #0" = 2
+	"Malik #0" = 2
+	"Mansûr #0" = 2
+	"Mustafa #0" = 2
+	"Najib #0" = 2
+	"Qasim #0" = 2
+	"Qusay #0" = 2
+	"Rahim #0" = 2
+	"Rashîd #0" = 2
+	"Safi #0" = 2
+	"Sakhr #0" = 2
+	"Samir #0" = 2
+	"Tariq #0" = 2
+	"'Umar #0" = 2
+	"Wahid #0" = 2
+	"Zahir #0" = 2
+	
+	"Aliya #0" = -1
+	"Fahima #0" = -1
+	"Haifa #0" = -1
+}
+
+leader_names = {
+	"ibn 'Abd ar-Rahmân" "ibn Abbad" "ibn 'Abd Allâh" "ibn Abi Hafs" "ibn al-Azafi" "ibn Ali"
+	"ibn Hakan" "ibn Hammud" "ibn Hisam" "ibn Husayn"
+	"ibn Idris" "ibn Ishaq" "ibn Isma'il"
+	"ibn Marwan" "ibn Muhammad" "ibn Nasr" "ibn Qasim" "ibn Sa'd" "ibn Sulayman"
+	"ibn 'Umar" "ibn Ummay" "ibn 'Uthmân" "ibn Ya'far" "ibn Yahyà" "ibn Yûsuf"
+}
+
+ship_names = {
+	"Muhammad ibn Nasr" "Muhammad al-Faqih"
+	"Muhammad III" Nasr "Ismail I" "Muhammad IV"
+	"Yûsuf I" "Muhammad V" "Ismail II" "Muhammad VI"
+	"Yûsuf II" "Muhammad VII" "Yûsuf III" "Muhammad VIII"
+	"Muhammad IX" "Yûsuf IV" "Yûsuf V" "Muhammad X"
+}
+
+
+army_names = {
+	"Jaysh al-Amîr" "Jaysh al-Andalus" "Jaysh al-Garnat" "Jaysh al-Bayyana" "Jaysh al-Takurunna" "Jaysh al-Ifriqiya" "Jaysh al $PROVINCE$"
+	}
+
+fleet_names = {
+	"Armâdah al-Amîr" "Armâdah al-Nasari" "Armâdah al-Atlas" "Armâdah al-Abyad" "Armâdah al-Muttawasit" "Armâdah al $PROVINCE$"
+	}

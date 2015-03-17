@@ -1,0 +1,82 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 213 0 39 }
+
+revolutionary_colors = { 1  5  1 }
+
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	mongol_bow
+	mongol_swarm
+	mongol_steppe
+}
+
+monarch_names = {
+	"Bâbur #2" = 20
+	"Mîrzâ #1" = 10
+	"Abû Sa'îd #1" = 10
+	"Shâh Rukh #1" = 10
+	"Ahmad #1" = 10
+	"Mahmûd #1" = 10
+	"Mas'ûd #1" = 10
+	"Bâysunghur #1" = 10
+	"'Alî #1" = 10
+	"Husayn #0" = 10
+	"'Uways #0" = 10
+	"Nâsir #0" = 10
+	"Ulugh #1" = 10
+	"Tîmûr #1" = 1
+	
+	"Fâtin #1" = -1
+}
+
+leader_names = {
+	"'Abbâs"
+	"Abû Bakr"
+	Akbar
+	Jahângîr
+	Jalâl
+	Jâmî
+	Khalîl
+	Muhsin
+	"ud-Dîn"
+	Zamân
+}
+
+ship_names = {
+	Ardabîl
+	Bakhura Baluches Balkh
+	Herât
+	Esfâhân
+	Kermân Kish Khwârizm Kandahâr
+	Lâhôr
+	Marw
+	Nishâbûr
+	Hurmuz
+	Rustam
+	Sikandar Sabzavâr Sûrakh Samarqand
+	"Tîmûr-i Lang" Tabrîz
+	"Shâh Rukh"
+}
+
+army_names = {
+	"Cergi Beg" "Cergi Gurkani" "Cergi Teymourian" "Cergi Amir" "Cergi Barlas" "Cergi $PROVINCE$"
+}
+
+fleet_names = {
+	"Flot Amir" "Flot Gurkani" "Flot Teymourian" "Flot $PROVINCE$"
+}
+
+ 

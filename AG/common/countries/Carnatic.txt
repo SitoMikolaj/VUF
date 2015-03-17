@@ -1,0 +1,86 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 232  79  142 }
+
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	defensive_ideas
+	humanist_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+	trade_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Muhammad Sa'dât #0" = 20
+	"Dust 'Alî #0" = 20
+	"Safdar 'Alî #0" = 20
+	"'Anwar ad-Dîn Muhammad #0" = 20
+	"Muhammad 'Alî Wallajâh #0" = 20
+	"Umdat al-'Umra #0" = 20
+	"'Azîm ad-Dawla #0" = 20
+	"Muhammad #0" = 2
+	"Dâ'ûd #0" = 2
+	"'Alî #0" = 2
+	"Anwar ad-Dîn #0" = 2
+	"'Azîm #0" = 2
+	"'Ismâ'îl #0" = 2
+	"Ghulûm Muhammad #0" = 2
+	"'Abdul #0" = 2
+	"Ghausiyah #0" = -1
+	"Khayr un-Nisâ' #0" = -1
+	"Hydiath un-Nisâ' #0" = -1
+	"Mubârak un-Nisâ' #0" = -1
+	"Mâlik un-Nisâ' #0" = -1
+}
+
+leader_names = {
+	"Khân Wallajâh"
+	"al-'Umra"
+	Khân
+	Bahâdur
+	Khader
+	Reddi
+	Mudaliyâr
+	Rajagopalachari
+	Thondaimân
+	Saluva
+	Chetti
+	Shastrî
+}
+
+ship_names = {
+	Chambal Devî Durgâ Gangâ
+	Gâyatrî Jalsena "Kâla Jahâzî"
+	Lakshmî "Lâl Jahâzî" Nausenâ
+	"Nav ka Yudh" "Nîla Jahâzî"
+	Pârvatî Râdhâ Râtri Sâgar
+	Sarasvatî Sîtâ Spiti Yamunâ
+}
+
+army_names = {
+	"Dekkan Vaahinii" "Mâhârâdjâh Vaahinii" "Karnatakam Vaahinii" "Coleroon Vaahinii" "Tanjore Vaahinii" "Negapatam Vaahinii" "Pennar Vaahinii" "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Karnatakam Nausenaa" "Mâhârâdjâh Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

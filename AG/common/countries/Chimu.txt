@@ -1,0 +1,100 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 39  123  126} 
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	south_american_spearmen
+	south_american_horsemen
+	south_american_warfare
+	south_american_forest_warfare
+	south_american_gunpowder_warfare
+	south_american_reformed_gunpowder_warfare
+	south_american_arquebusier
+	westernized_south_american
+	peruvian_guerilla_warfare
+}
+
+monarch_names = {
+	"Anco Coyuch #0" = 20
+	"Caja Cimcim #0" = 20
+	"Chumun Caur #0" = 20
+	"Guaman Chumu #0" = 20
+	"Michan Caman #0" = 20
+	"Guari Cur #1" = 15
+	"Nancen Pico #1" = 15
+	"Tacaynamo #1" = 10
+	"Aiyotechapun #0" = 2
+	"Buvaovamu #0" = 2
+	"Caja Cápac #0" = 2
+	"Cama Bergu #0" = 2
+	"Chumtiku #0" = 2
+	"Cuyuchi #0" = 2
+	"Docoshamu #0" = 2
+	"Draytonamu #0" = 2
+	"Ehenymacu #0" = 2
+	"Felan Tamuc #0" = 2
+	"Gusmango #0" = 2
+	"Ilsayunamu #0" = 2
+	"Jotiantikaka #0" = 2
+	"Katitika #0" = 2
+	"Litun Orco #0" = 2
+	"Melantonan #0" = 2
+	"Michan Chimor #0" = 2
+	"Muhton Belan #0" = 2
+	"Nartamamu #0" = 2
+	"Nehuametepun #0" = 2
+	"Opolcynamun #0" = 2
+	"Pacatmamu #0" = 2
+	"Puznaymun #0" = 2
+	"Relyen Padnu #0" = 2
+	"Seton Apac #0" = 2
+	"Seran Tugun #0" = 2
+	"Taracun #0" = 2
+	"Troynuremo #0" = 2
+	"Urtyantemu #0" = 2
+	"Vetsalynun #0" = 2
+	"Yetuniamu #0" = 2
+	"Zergoetanu #0" = 2
+	
+	"Maiara #0" = -1
+}
+leader_names = {
+	Guacricaur
+	Tacaynamo
+	Tiso
+	Nancempinco
+	Chilche
+	Maras
+	Luyes
+	Maila
+	Illa
+	Rimac
+}
+
+ship_names = {
+	Viracocha "Apo Inti" 
+	"Chiqui Illapa" Mamquilla Yakumama Mamacocha 
+	Pachakama Waca "Chan Chan" Chimor Chicama Moche 
+	Viru Sipan Huancaco
+}
+
+army_names = {
+	"Awqaq Suyu Curaca" "Awqaq Suyu Hatun-Apu" "Awqaq Suyu Chimu" "Awqaq Suyu Mochica" "Awqaq Suyu Yuncas" "Awqaq Suyu Cie Quic" "Awqaq Suyu Alaec" "Awqaq Suyu Fixlla" "Awqaq Suyu Chan-Chan" "Awqaq Suyu $PROVINCE$"
+}
+
+fleet_names = {
+	"Buki Curaca" "Buki Chimu" "Buki Mochica" "Buki Yuncas"
+}

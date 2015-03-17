@@ -1,0 +1,112 @@
+government = feudal_duchy
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lombard
+religion = catholic
+capital = 1773	# Mystras
+
+
+# Principality of Achaea #
+
+1386.1.1 = {
+	monarch = {
+		name = "Ladislao I"
+		dynasty = "Durazzo"
+		birth_date = 1376.7.14
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1396.1.1 = {
+	monarch = {
+		name = "Pietro I"
+		dynasty = "de Saint-Superan"
+		birth_date = 1358.1.1
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1396.1.1 = {
+	heir = {
+		name = "Maria"
+		monarch_name = "Maria II"
+		dynasty = "Zaccaria"
+		birth_date = 1360.1.1 #Guesstimate
+		death_date = 1404.1.1
+		claim = 75
+		dip = 1
+		adm = 3
+		mil = 1
+		female = yes
+	}
+}
+
+1402.11.1 = {
+	monarch = {
+		name = "Maria II"
+		dynasty = "Zaccaria"
+		birth_date = 1360.1.1
+		dip = 1
+		adm = 3
+		mil = 1
+		female = yes
+	}
+}
+
+1402.11.1 = {
+	heir = {
+		name = "Centurione"
+		monarch_name = "Centurione II"
+		dynasty = "Zaccaria"
+		birth_date = 1380.1.1
+		death_date = 1439.1.1
+		claim = 95
+		dip = 1
+		adm = 0
+		mil = 0
+	}
+}
+
+1404.1.1 = {
+	monarch = {
+		name = "Centurione II"
+		dynasty = "Zaccaria"
+		birth_date = 1380.1.1
+		dip = 1
+		adm = 0
+		mil = 0
+	}
+}
+
+1409.1.1 = {
+	heir = {
+		name = "Thomas"
+		monarch_name = "Thomas I"
+		dynasty = "Palaiologos"
+		birth_date = 1409.1.1
+		death_date = 1465.5.12
+		claim = 75
+		dip = 5
+		adm = 7
+		mil = 3
+	}
+}
+
+1432.1.1 = {
+	monarch = {
+		name = "Thomas I"
+		dynasty = "Palaiologos"
+		birth_date = 1409.1.1
+		dip = 5
+		adm = 7
+		mil = 3
+	}
+}
+
+1432.1.1 = { primary_culture = greek religion = orthodox }
+
+# 1432, Despotate of Morea

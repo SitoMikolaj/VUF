@@ -1,0 +1,136 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 118  193  153 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jean #3" = 20
+	"Antoine #0" = 20
+	"Philippe #0" = 20
+	"Jeanne #0" = -15
+	"Guillaume #0" = 15
+	"Geoffroi #3" = 5
+	"Henri #3" = 5
+	"Wenceslas #1" = 5
+	"Charles #1" = 5
+	"Lambert #1" = 5
+	"Antoon #0" = 2
+	"Christiaan #0" = 2
+	"Christian #0" = 2
+	"Ernest #0" = 2
+	"Frédéric #0" = 2
+	"Frederik #0" = 2
+	"Gaspard #0" = 2
+	"Gérard #0" = 2
+	"Gerhard #0" = 2
+	"Godfried #0" = 2
+	"Hugues #0" = 2
+	"Jan #0" = 2
+	"Joachim #0" = 2
+	"Johannes #0" = 2
+	"Karel #0" = 2
+	"Kasper #0" = 2
+	"Léonard #0" = 2
+	"Lodewijk #0" = 2
+	"Louis #0" = 2
+	"Michaël #0" = 2
+	"Michel #0" = 2
+	"Orland #0" = 2
+	"Robert #0" = 2
+	"Roeland #0" = 2
+	"Roger #0" = 2
+	"Rutger #0" = 2
+	"Thomas #0" = 2
+	"Vincent #0" = 2
+	"Willem #0" = 2	
+		
+	"Marie #0" = -5
+	"Louise #0" = -5
+	"Diane #0" = -5
+	"Élisabeth #0" = -5
+	"Catherine #0" = -5
+	"Claude #0" = -5
+	"Victoire #0" = -5
+	"Christine #0" = -5
+	"Marguerite #0" = -5
+	"Charlotte #0" = -5
+	"Madeleine #0" = -5
+	"Judith #0" = -5
+	"Béatrice #0" = -5
+	"Adélaïde #0" = -5
+	"Emma #0" = -5
+	"Constance #0" = -5
+	"Anne #0" = -5
+	"Aliénor #0" = -5
+	"Isabelle #0" = -5
+	"Blanche #0" = -5
+	"Marie-Thérèse #0" = -5
+	"Marie-Louise #0" = -5
+	"Henriette #0" = -5
+}
+
+leader_names = {	
+	Albers Aylett "de Avesnes" 
+	Bielmacker Bosch
+	Camper 
+	Debruyne Dufay
+	"van Egmont"
+	"de Houtman" 
+	Jansen
+	"van Kahlden"
+	"van Loewen" Leschwein "de Leeuw" 
+	Maas Mons "van Meteren" "van der Most" 
+	"van Noort" 
+	Orthellius 
+	Quellinus 
+	"van Wyhe" "van der Weyden"
+}
+
+ship_names = { 
+	Brussel
+	Dender Doornik
+	Edingen
+	"Godfried I"
+	"Hendrik I" "Hendrik van Leuven" "Hertog Jan" "Hertogin Johanna" 
+	"Jan I" 
+	Mechelen 
+	Namen 
+	"Filips van Saint-Pol"
+	Zenne 
+}
+
+army_names = {
+	"Armée Ducale" "Garde d'Anvers" "Garde de Louvain" "Garde de Bruxelles" "Garde de Nivelles" "Garde de Léau" "Garde de Tirlemont"
+}
+
+fleet_names = {
+	"Flotte Ducale" "Flotte Brabançonne" "Flotte de $PROVINCE$" 
+}

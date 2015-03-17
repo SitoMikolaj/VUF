@@ -1,0 +1,61 @@
+name = "Révolution Brabaçonne"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+}
+
+1789.1.1  = {
+	add_attacker = BRB # Remplace la belgique
+	add_attacker = FLA
+	add_attacker = HAI
+	add_defender = HAB
+}
+
+1789.10.27 = {
+	battle = {
+		name = "Turnhout"
+		location = 92
+		attacker = {
+			commander = "Henri Denain"
+			infantry = 9000
+			losses = 15	# percent
+			country = BRB
+		}
+		defender = {
+			commander = "August von Hoffman"
+			infantry = 10000
+			losses = 30	# percent
+			country = HAB
+		}
+		result = win
+	}
+}
+
+1790.10.24 = {
+	battle = {
+		name = "Narmur"
+		location = 92
+		attacker = {
+			commander = "Jean Marais"
+			infantry = 15000
+			losses = 25	# percent
+			country = BRB
+		}
+		defender = {
+			commander = "Franz von Salzburg"
+			infantry = 25000
+			losses = 10	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1791.1.1   = {
+	rem_attacker = BRB
+	rem_attacker = FLA
+	rem_attacker = HAI
+	rem_defender = HAB
+}

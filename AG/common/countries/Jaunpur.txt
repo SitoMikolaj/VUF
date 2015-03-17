@@ -1,0 +1,91 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 100  94  125 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	quantity_ideas
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Mâlik Qaranful #0" = 20
+	"Mahmûd #0" = 20
+	"Muhammad #0" = 20
+	"Husayn #0" = 20
+	"Ahmad #0" = 20
+	"Burhân #0" = 30
+	#"Husayn #0" = 20
+	"Murtazâ #0" = 20
+	"Ibrâhîm #0" = 10
+	"Bahâdur #0" = 10
+	"Sa'dât #0" = 2
+	"Safdarjung #0" = 2
+	"Haydar #0" = 2
+	"Birjîs Qadra #0" = 2
+	"'Alî #0" = 2
+	"Iqbâl #0" = 2
+	"'Alâ' ud-Dîn #0" = 2
+	"Bhi #0" = 2
+	"Mâlik #0" = 2
+	"Narendra #0" = 2
+	"Bismîllâh #0" = 2
+	"'Ubayd #0" = 2
+	"Fakhr an-Nisâ' #0" = -1
+	"Bîbî Râji #0" = -1
+	"Mâlika-i Jahân #0" = -1
+}
+
+leader_names = {
+	"al-Hindûstânî"
+	Khân
+	Karrânî
+	Chand
+	"al-Awadhî"
+	"ad-Dawla"
+	Khiljî
+	Lûdhî
+	Pundir
+	Sharqî
+	Sarwar
+	"as-Siddiqî"
+}
+
+ship_names = {
+	Bâgmatî Budhi Devî Durga Falgu
+	Gandak Gangâ Gâyatrî Jalsena
+	"Kâli Nauk" Koshî Lakshmî "Lâl Nauk"
+	"Loki Devî" "Manasa Devî" Pârvatî
+	Râdhâ Râtri "Sagorer Bâhini" Sarasvatî
+	Shakti "Shaktir Nauk" "Shasti Ma" Sîtâ
+	Son Trishûl Umâ
+}
+
+army_names = {
+	"Raja Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa"
+	}

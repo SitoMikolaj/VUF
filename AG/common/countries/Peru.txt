@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 124  140  162 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Juan #0" = 20
+	"Manuel #0" = 20
+	"José #0 Bernardo" = 15
+	"José #0 Francisco" = 15
+	"Luis #0 José" = 10
+	"Juan #0 José" = 10
+	"Adalberto #0" = 2
+	"Adán #0" = 2
+	"Agustín #0" = 2
+	"Alberto #0" = 2
+	"Alejandro #0" = 2
+	"Ambrosio #0" = 2
+	"Andrés #0" = 2
+	"Antonio #0" = 2
+	"Augusto #0" = 2
+	"David #0" = 2
+	"Eduardo #0" = 2
+	"Emilio #0" = 2
+	"Felipe #0" = 2
+	"Fernando #0" = 2
+	"Francisco #0" = 2
+	"Francisco Javier #0" = 2
+	"Guillermo #0" = 2
+	"Javier #0" = 2
+	"José #0" = 2
+	"Juan #0 Antonio" = 2
+	"Juan #0 Francisco" = 2
+	"Luis #0" = 2
+	"Mariano #0" = 2
+	"Martín #0" = 2
+	"Miguel #0" = 2
+	"Melchor #0" = 2
+	"Nicolás #0" = 2
+	"Óscar #0" = 2
+	"Pedro #0" = 2
+	"Pedro #0 Pablo" = 2
+	"Remigio #0" = 2
+	"Ricardo #0" = 2
+	"Sergio #0" = 2
+	"Valentín #0" = 2
+	
+	"Pacífica #0" = -1
+	"Valencia #0" = -1
+	"Nereida #0" = -1
+}
+
+leader_names = {
+	Aguilar "Álvarez de Arenales" Angulo Ara Astete Barahona Barrios Béjar
+	"Cacma Condori" Carreño Carrión Castelli "Chimo Capac" Condorcanqui Córdoba
+	Galán Gamarra González Guise "Hurtado de Mendoza" Lara "de Luna"
+	"del Mar" Melgar Mendoza Miller Monteagudo Moscoso "Orco Huaranca"
+	Pallardelli Paz Pizarro Pumacahua Quiroga "del Río" "de la Riva Agüero" Rojas
+	Salaverry Sánchez Suárez "de Sucre" "de la Torre" Tovar Ubalde Unánue
+	Velarde Velasco "Vélez de Cordova" "de Vivanco" "de Zela"
+}
+
+ship_names = {
+	Antofagstsa
+	Callao Casma Chipana
+	"De Los Heroes"
+	Eten
+	Herrera
+	Larrea
+	Mariategui Montero
+	Paita Pisagua
+	"Sanchez Carrion" Santillana 
+	Velarde
+}
+
+army_names = {
+	"Ejército del Peru" "Ejército Libertador" "Legión de la Guardia" "Ejército del Norte" "Ejército del Centro" "Ejército del Sur" "Ejército del Oeste" "Séptima Ejército" "Ejército de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina de guerra" "Armada de Perù" "Fuerza Naval" "Armada de $PROVINCE$"
+}

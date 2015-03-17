@@ -1,0 +1,17 @@
+name = "Première dispute d'Imagawa"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1536.3.18 = {
+	add_attacker = HJO
+	add_defender = IMG
+	}
+	
+1545.11.10 = {
+	rem_attacker = HJO
+	rem_defender = IMG
+	}

@@ -1,0 +1,261 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = -1
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = -2
+#serfdom_freesubjects = 0
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 245	# York
+fixed_capital = 245 # Cannot move capital away from this province & no power cost to move to it
+
+1384.1.1 = {
+	monarch = {
+		name = "Edmund I"
+		dynasty = "of York"
+		birth_date = 1341.6.5
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1384.1.1 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward I"
+		dynasty = "of York"
+		birth_date = 1373.1.1
+		death_date = 1415.10.25
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1402.8.1 = {
+	monarch = {
+		name = "Edward I"
+		dynasty = "of York"
+		birth_date = 1373.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1411.9.21 = {
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard I"
+		dynasty = "of York"
+		birth_date = 1411.9.21
+		death_date = 1460.12.30
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1415.10.25 = {
+	monarch = {
+		name = "(Regent Anne Mortimer)"
+		dynasty = "of Plantagenet"
+		birth_date = 1390.12.27
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1415.10.25 = {
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard I"
+		dynasty = "of York"
+		birth_date = 1411.9.21
+		death_date = 1460.12.30
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1427.9.21 = {
+	monarch = {
+		name = "Richard I"
+		dynasty = "of York"
+		birth_date = 1411.9.21
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1442.4.28 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward IV"
+		dynasty = "of York"
+		birth_date = 1442.4.28
+		death_date = 1483.4.9
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = {	name = "Edward IV"             	type = general	rank = 0	fire = 2	shock = 4	manuever = 4	siege = 0 }
+	}
+}
+
+1460.12.30 = {
+	monarch = {
+		name = "Edward IV"
+		dynasty = "of York"
+		birth_date = 1442.4.28
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = {	name = "Edward IV"             	type = general	rank = 0	fire = 2	shock = 4	manuever = 4	siege = 0 }
+	}
+}
+
+1473.8.17 = {
+	heir = {
+		name = "Richard II"
+		monarch_name = "Richard II"
+		dynasty = "of York"
+		birth_date = 1473.8.17
+		death_date = 1483.6.26 # Mort à la tour de londres
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1473.8.18 = {
+	monarch = {
+		name = "Richard II"
+		dynasty = "of York"
+		birth_date = 1473.8.17
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1494.1.1 = {
+	monarch = {
+		name = "Henry VIII"
+		dynasty = "Tudor"
+		birth_date = 1491.6.28
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1547.1.1 = {
+	monarch = {
+		name = "Richard IV"
+		dynasty = "Tudor"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1605.1.1 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "Stuart"
+		birth_date = 1600.11.19
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1633.1.1 = {
+	monarch = {
+		name = "James II"
+		dynasty = "Stuart"
+		birth_date = 1633.10.14
+		adm = 2
+		dip = 2
+		mil = 3
+		leader = {	name = "James II"             	type = general	rank = 0	fire = 3	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+
+1685.1.1 = {
+	monarch = {
+		name = "Richard V"
+		dynasty = "Stuart"
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1716.1.1 = {
+	monarch = {
+		name = "Ernest Augustus"
+		dynasty = "von Hannover"
+		birth_date = 1674.9.7
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1728.1.1 = {
+	monarch = {
+		name = "Richard VI"
+		dynasty = "von Hannover"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1760.4.1 = {
+	monarch = {
+		name = "Edward Augustus"
+		dynasty = "von Hannover"
+		birth_date = 1739.3.25
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1761.1.1 = {
+	monarch = {
+		name = "Richard VII"
+		dynasty = "von Hannover"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1767.1.1 = {
+	monarch = {
+		name = "Frederick Augustus"
+		dynasty = "von Hannover"
+		birth_date = 1763.8.16
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}

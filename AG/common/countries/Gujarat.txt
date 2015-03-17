@@ -1,0 +1,115 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 231  224  107 }
+
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+	innovativeness_ideas
+	defensive_ideas
+	maritime_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Zafar #0" = 20
+	"Muhammad #0" = 20
+	"Mubârak #0" = 20
+	"Ahmad #0" = 20
+	"Dâ'ûd #0" = 10
+	"Mahmûd #0" = 20
+	"Muzaffar #0" = 20
+	"Bahâdur #0" = 10
+	"Sardâr #0" = 2
+	"Tatâr #0" = 2
+	"Fath #0" = 2
+	"Khalîl #0" = 2
+	"Sikandar #0" = 2
+	"Nâsir #0" = 2
+	"Amarjî #0" = 2
+	"Bhenjî #0" = 2
+	"Hamirjî #0" = 2
+	"Bhav #0" = 2
+	"Nâtwâr #0" = 2
+	"Sidhraj #0" = 2
+	"Rajsinhjî #0" = 2
+	"Fûlâd #0" = 2
+	"Abdûl #0" = 2
+	"Fâtima #0" = -1
+	"Farah #0" = -1
+	"Mumtâz #0" = -1
+}
+
+leader_names = {
+	Desâî
+	Begada
+	Shâh
+	Lakhajî
+	Ravaljî
+	Munshi
+	Muzzafar
+	Parîkh
+	Patel
+	Patidar
+	Mori
+	Hâjî
+	al-Ûzbakî
+	al-Ghîlânî
+	Paramâra
+	Bahâdur
+	Gaurî
+	Jurjânî
+	Khân
+	Mâlik
+	Sultân
+	al-Khurâsânî
+	Fârûqî
+	Changezî
+	Tûrânî
+	Latîf
+	Bhilala
+	Solankî
+	Chattari
+	Kanjar
+	Ghûrî
+	Naru
+	Chudasama
+	Pahore
+	Tomara
+}
+
+ship_names = {
+	Ambikâ Auranga Bhadar Damangangâ
+	Devki Jalsena "Kâla Jahâzî" Khari
+	"Lâl Jahâzî" Lûnî Mahi Mithi
+	Nausenâ Narmadâ "Nav ka Yudh"
+	"Nîla Jahâzî" Pûrna Sâbaramatî
+	Sâgar Saraiya Saraswatî Shetrunji
+	Tâptî Yâsmin
+}
+
+army_names = {
+	"Gujarat Sainya" "Raajiya Sainya" "Ahmedabad Sainya" "Amreli Sainya" "Anand Sainya"  "Banaskantha Sainya" "Bharuch Sainya" "Bhavnagar Sainya" "Dahod Sainya" "Dang Sainya" "Gandhinagar Sainya" "Jamnagar Sainya" "Junagadh Sainya" "Kheda Sainya" "Kutch Sainya" "Mehsana Sainya" "Narmada Sainya" "Navsari Sainya" "Panchmahal Sainya" "Patan Sainya" "Porbandar Sainya" "Rajkot Sainya" "Sabarkantha Sainya" "Surat Sainya" "Surendranagar Sainya" "Vadodara Sainya" "Valsad Sainya" "$PROVINCE$ Sainya"
+	}
+
+fleet_names = {
+	"Gujarat Nausenaa" "Raajiya Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

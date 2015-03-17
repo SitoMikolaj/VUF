@@ -1,0 +1,132 @@
+government = constitutional_republic
+#aristocracy_plutocracy = 0
+#centralization_decentralization = -1
+#innovative_narrowminded = -1
+mercantilism = 0.1
+#offensive_defensive = -1
+#land_naval = -2
+#quality_quantity = 0
+#serfdom_freesubjects = 3
+technology_group = western
+religion = protestant
+primary_culture = english
+capital = 991	# Ottawa
+
+ 1740.1.1 = { leader = {	name = "Paul Mascarene"	type = general	rank = 3	fire = 2	shock = 2	manuever = 2	siege = 1	death_date = 1749.1.1 } }
+ 
+1764.8.10 = {
+	monarch = {
+           name = "James Murray"
+           adm = 4
+           dip = 4
+           mil = 9
+    }
+}
+
+1768.4.12 = {
+	monarch = {
+           name = "Guy Carleton de Dorchester"
+           adm = 7
+           dip = 5
+           mil = 4
+    }
+}
+
+1778.6.27 = {
+	monarch = {
+           name = "Frederick Haldimand"
+           adm = 5
+           dip = 5
+           mil = 4
+    }
+}
+
+1786.4.22 = {
+	monarch = {
+           name = "Guy Carleton de Dorchester"
+           adm = 7
+           dip = 5
+           mil = 4
+    }
+}
+
+1796.12.15 = {
+	monarch = {
+           name = "Robert Prescott"
+           adm = 5
+           dip = 5
+           mil = 5
+    }
+}
+
+1805.8.12 = {
+	monarch = {
+           name = "Thomas Dunn"
+           adm = 5
+           dip = 6
+           mil = 5
+    }
+}
+
+1807.10.24 = {
+	monarch = {
+           name = "James Henry Craig"
+           adm = 6
+           dip = 5
+           mil = 4
+    }
+}
+
+1811.9.14 = {
+	monarch = {
+           name = "George Prevost"
+           adm = 5
+           dip = 6
+           mil = 5
+    }
+}
+
+1815.4.4 = {
+	monarch = {
+           name = "Gordon Drummond"
+           adm = 5
+           dip = 4
+           mil = 4
+    }
+}
+ 
+1816.5.21 = {
+	monarch = {
+           name = "John Wilson"
+           adm = 5
+           dip = 5
+           mil = 4
+    }
+}
+
+1816.7.12 = {
+	monarch = {
+           name = "John Coape Sherbrooke"
+           adm = 5
+           dip = 4
+           mil = 4
+    }
+}
+
+1818.7.30 = {
+	monarch = {
+           name = "Charles de Richmond"
+           adm = 6
+           dip = 4
+           mil = 5
+    }
+}
+
+1819.8.29 = {
+	monarch = {
+           name = "George de Dalhousie"
+           adm = 5
+           dip = 5
+           mil = 5
+    }
+}

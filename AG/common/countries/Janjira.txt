@@ -1,0 +1,115 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 124  62  183 }
+
+historical_idea_groups = {
+	naval_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	economic_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Surur Khân #0" = 10
+	"'Abd al-Karîm Khân #0" = 10
+	"Abdul Samad Surul Khân #0" = 10
+	"Yakut Khân Shazli #0" = 10
+	"Amber Sanak #0" = 10
+	"Yûsuf Khân #0" = 10
+	"Fateh Khân #0" = 10
+	"Qasim Khân #0" = 10
+	"Ambat Yakut Khân #0" = 10
+	"Malik #0" = 2
+	"Sa'adat #0" = 2
+	"Raju #0" = 2
+	"Fath #0" = 2
+	"Abhang #0" = 2
+	"Miran #0" = 2
+	"Afzal #0" = 2
+	"Chengiz #0" = 2
+	"Mullah Mohammad #0" = 2
+	"Hafiz #0" = 2
+	"Hamza #0" = 2
+	"Hamîd #0" = 2
+	"Qasim #0" = 2
+	"Mustafa #0" = 2
+	"Hassan #0" = 2
+	"Dilawar Khân #0" = 2
+	"Jahan #0" = 2
+	"Farrukh #0" = 2
+	"Jalal #0" = 2
+	"Sultan #0" = 2
+	"Mahmûd #0" = 2
+	"Hanif #0" = 2
+	"Imad al-Mulk #0" = 2
+	"Iftikhar al-Mulk #0" = 2
+	"Nasir #0" = 2
+	"'Abd Allah #0" = 2
+	"Rustam #0" = 2
+	"Shams #0" = 2
+	"Khwaja #0" = 2
+	"Khusrau #0" = 2
+	"Ahmadi #0" = -1
+	"Mumtaz #0" = -1
+	"Malika #0" = -1
+}
+
+leader_names = {
+	Ambar
+	Badakshi
+	Bukhari
+	Changezi
+	Gilani
+	Hasanabadi
+	Jurjani
+	Kabuli
+	Kirmani
+	Qummi
+	Uzbek
+	Basri
+	Astarabadi
+	Gawan
+	Ardastani
+	Majmudar
+	Munshi
+	Muzzafar
+	Kudha
+	Banda
+	Parikh
+	Maloji
+	Shahji
+	Bhosle
+	Khân
+	Dakhni
+}
+
+ship_names = {
+	Alia Arusa Bori Fatimah
+	Jalsena Girna "Kala Jahazi"
+	Khân "Lal Jahazi" Narmada Nausena
+	"Nav ka Yudh" Niknaz "Nila Jahazi"
+	Niloufa Noor Panjhra Sagar Salima
+	Shameena Suhalia Tapi Yasmine Zahira
+}

@@ -1,0 +1,114 @@
+#Danzig
+
+graphical_culture = westerngfx
+
+color = { 78  129  151 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	innovativeness_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Franz Joseph #0" = 20
+	"Christian #0" = 15
+	"Karl #0" = 15
+	"Kasimir #0" = 15
+	"Friedrich #0" = 10
+	"Jakob #0" = 10
+	"Joachim #0" = 10
+	"Kaspar #0" = 10
+	"Adolf #0" = 2
+	"Adrian #0" = 2
+	"Albrecht #0" = 2
+	"Andreas #0" = 2
+	"August #0" = 2
+	"Bernhard #0" = 2
+	"Cornelius #0" = 2
+	"Dietrich #0" = 2
+	"Ferdinand #0" = 2
+	"Georg #0" = 2
+	"Gerhard #0" = 2
+	"Günther #0" = 2
+	"Heinrich #0" = 2
+	"Ignatz #0" = 2
+	"Isidor #0" = 2
+	"Joseph #0" = 2
+	"Konstantin #0" = 2
+	"Lorenz #0" = 2
+	"Ludwig #0" = 2
+	"Lukas #0" = 2
+	"Marius #0" = 2
+	"Markus #0" = 2
+	"Matthias #0" = 2
+	"Michael #0" = 2
+	"Nicolaus #0" = 2
+	"Paul #0" = 2
+	"Raphael #0" = 2
+	"Rudolf #0" = 2
+	"Sigmund #0" = 2
+	"Stephan #0" = 2
+	"Thomas #0" = 2
+	"Wenzel #0" = 2
+	
+	"Aniela #0" = -1
+	"Filipa #0" = -1
+	"Renata #0" = -1
+}
+
+leader_names = {	
+	"von Taubeneck"
+	"von Kyau"
+	Knobelsdorf
+	Linkendorf
+	Briesen
+	Riwotzki
+	Schnittern
+	Schach
+	"von Seel"
+	"von Hohenzollern"
+}
+
+ship_names = {
+	Dirschau
+	Starogard
+	Marienwerder
+	Stolp
+	Konitz
+	Lauenburg
+	Neustadt
+	Tuchel
+	Stolpmünde
+	Zoppot
+}
+
+army_names = {
+	"Armia Ducal" "Armia Gdansk" "Hansestadt Armia" "Armia Ksiestwo" "Armia $PROVINCE$"
+}
+
+fleet_names = {
+	"Eskadra Ksiestwo" "Eskadra $PROVINCE$"
+}

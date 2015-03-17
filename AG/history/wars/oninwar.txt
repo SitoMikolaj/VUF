@@ -1,0 +1,42 @@
+name = "Guerre d'Onin"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1467.5.1 = { 
+	add_attacker = HSK
+	add_attacker = OTM
+	add_attacker = HTK
+	add_defender = YMN
+}
+
+1467.9.20 = { #Late September
+	add_defender = OUC
+}
+
+1469.1.1 = { 
+	add_defender = JAP # la guerre dégénère en guerre de succession pour le contrôle du shogunat entre deux héritiers des Ashikaga : Yoshimi et Yoshimasa 
+}
+
+1471.1.1 = {
+	add_attacker = ASA
+}
+
+1474.4.19 = { #Yamana Masatoyo et Hosokawa Masamoto signent la paix
+	rem_attacker = HSK
+	rem_defender = YMN
+}
+
+1475.1.1 = { 
+	rem_defender = JAP
+} # Les Ashikaga se réconcilient mais perdent toutes influences et deviennent des pantins.
+
+1477.12.16 = {
+	rem_defender = OUC 
+	rem_attacker = OTM
+	rem_attacker = HTK
+	rem_attacker = ASA
+	}

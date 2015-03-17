@@ -1,0 +1,240 @@
+government = feudal_county
+#aristocracy_plutocracy = -1
+#centralization_decentralization = -1
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 4
+#land_naval = -4
+#quality_quantity = -1
+#serfdom_freesubjects = 1
+technology_group = western
+religion = catholic
+primary_culture = gascon
+capital = 176	# Pau
+fixed_capital = 176 # Cannot move capital away from this province & no power cost to move to it
+
+1398.1.1 = {
+	monarch = {
+		name = "Isabelle"
+		dynasty ="de Foix"
+		birth_date = 1360.1.1
+		female = yes
+		dip = 3
+		adm = 2
+		mil = 1
+	}
+}
+
+1398.1.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean I"
+		dynasty = "de Foix"
+		birth_date = 1382.1.1
+		death_date = 1436.1.1
+		claim = 95
+		dip = 1
+		adm = 2
+		mil = 2
+	}
+}
+		
+
+1413.1.1 = {
+	monarch = {
+		name = "Jean I"
+		dynasty ="de Foix"
+		birth_date = 1382.1.1
+		dip = 1
+		adm = 2
+		mil = 2
+	}
+}
+
+1423.2.26 = {
+	heir = {
+		name = "Gaston"
+		monarch_name = "Gaston IV"
+		dynasty = "de Foix"
+		claim = 95
+		birth_date = 1423.2.26
+		death_date = 1472.1.1
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1436.5.4 = {
+	monarch = {
+		name = "Gaston IV"
+		dynasty = "de Foix"
+		birth_date = 1423.2.26
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1467.1.1 = {
+	heir = {
+		name = "Gaston"
+		monarch_name = "Gaston V"
+		dynasty = "de Foix"
+		birth_date = 1444.1.1
+		death_date = 1470.11.23
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1470.11.23 = {
+	heir = {
+		name = "François Phébus"
+		monarch_name = "François I Phébus"
+		dynasty = "de Foix"
+		birth_date = 1467.1.1
+		death_date = 1483.1.7
+		claim = 95
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1472.7.26 = {
+	monarch = {
+		name = "François I Phébus"
+		dynasty = "de Foix"
+		birth_date = 1467.1.1
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1472.7.26 = {
+	heir = {
+		name = "Catherine"
+		monarch_name = "Catherine I"
+		dynasty = "de Foix"
+		birth_date = 1468.4.18
+		death_date = 1517.2.12
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1483.1.7 = {
+	monarch = {
+		name = "Catherine I"
+		dynasty = "de Foix"
+		birth_date = 1468.4.18
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1501.10.14 = {
+	heir = {
+		name = "André Phébus"
+		monarch_name = "André I Phébus"
+		dynasty = "de Foix"
+		birth_date = 1501.10.14
+		death_date = 1503.4.17
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1503.4.18 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri II"
+		dynasty = "d'Albret"
+		birth_date = 1503.4.18
+		death_date = 1555.5.25
+		claim = 95
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1517.2.12 = {
+	monarch = {
+		name = "Henri II"
+		dynasty = "d'Albret"
+		birth_date = 1503.4.18
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1528.1.7 = {
+	heir = {
+		name = "Jeanne"
+		monarch_name = "Jeanne I"
+		dynasty = "d'Albret"
+		birth_date = 1528.1.7
+		death_date = 1572.6.9
+		claim = 85
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	monarch = {
+		name = "Jeanne I"
+		dynasty = "d'Albret"
+		birth_date = 1528.1.7
+		dip = 2
+		adm = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1555.5.25 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri IV"
+		dynasty = "de Bourbon"
+		birth_date = 1553.12.13
+		death_date = 1610.5.14
+		claim = 95
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Henri IV"	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+1560.1.1 = { religion = reformed }
+
+1572.6.9 = {
+	monarch = {
+		name = "Henri IV"
+		dynasty = "de Bourbon"
+		birth_date = 1553.12.13
+		adm = 6
+		dip = 6
+		mil = 6
+		leader = {	name = "Henri IV"	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0 }
+	}
+}
+
+#Union with Navarra from 1472

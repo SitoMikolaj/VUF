@@ -1,0 +1,91 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 233  88  88 }
+
+historical_idea_groups = {
+	quantity_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Vîra Pandya #0" = 10
+	"Narasa #0" = 10
+	"Tenna #0" = 10
+	"Naransa Pillai #0" = 10
+	"Kuru Kuru Timmappa #0" = 10
+	"Kattyama Kamaiya #0" = 10
+	"Chimappa #0" = 10
+	"Ayyakarai Veyyapa #0" = 10
+	"Vishvanâtha #0" = 10
+	"Krishnappa #0" = 20
+	"Vîrappa #0" = 10
+	"Muttu Krishnappa #0" = 10
+	"Muttu Vîrappa #0" = 30
+	"Tirumala #0" = 10
+	"Chokkanâtha #0" = 10
+	"Muttu Linga #0" = 10
+	"Vijayaranga Chokkanâtha #0" = 10
+	"Minâkshi #0" = 10 
+	"Yachama #0" = 2
+	"Râghunâtha #0" = 2
+	"Ariyanatha #0" = 2
+	"Chanda #0" = 2
+	"Râmaiyan #0" = 2
+	"Shungrasûbyer #0" = 2
+	"Seshayya #0" = 2
+	"Râmaswâmi #0" = 2
+	"Mankammâl #0" = -10
+	"Mînakshî #0" = -10
+	"Velunatchiyar #0" = -1
+}
+
+leader_names = {
+	Mutaliyâr
+	Rajagopalachari
+	Sastri
+	Dalawa
+	Thondaimân
+	Saluva
+	Saraf
+	Nâyak
+	Chetti
+	Senji
+}
+
+ship_names = {
+	Amirtha Amman Arul Chellam Devî
+	Durgâ Gâyatrî Iniyâ Kâvêri Lakshmî
+	Madhu Mînâkshî Nalinî Palar Pârvatî
+	Pennar Periyâr Ponni Râdhâ Râtri
+	Sarasvatî Sîtâ Tamarai Vaigai
+}
+
+army_names = {
+	"Nâyaka Senaa" "Madhurapuri Senaa" "Pandya Senaa" "Cholas Senaa" "Keralas Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Nâyaka Nausenaa" "Madhurapuri Nausenaa" "Pandya Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

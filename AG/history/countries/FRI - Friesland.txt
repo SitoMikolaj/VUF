@@ -1,0 +1,61 @@
+government = administrative_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+primary_culture = dutch
+religion = catholic
+technology_group = western
+capital = 100	# Groningen
+
+
+1399.1.1 = {
+	monarch = {
+		name = "(Fryske Frijheid)"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1498.1.1 = {
+	monarch = {
+		name = "Albrecht I der Beherzte"
+		dynasty = "von Wettin"
+		birth_date = 1443.7.31
+		dip = 1
+		adm = 2
+		mil = 5
+	}
+}
+
+1500.1.1 = {
+	monarch = {
+		name = "Heinrich"
+		dynasty = "von Wettin"
+		birth_date = 1473.3.16
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1504.5.12 = {
+	monarch = {	
+	name = "Georg der Bärtige"
+		dynasty = "von Wettin"
+		birth_date = 1471.8.27
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1515.1.1 = { leader = { name = "Greate Pier" type = admiral rank = 0 fire = 1 shock = 1 manuever = 2 siege = 0 death_date = 1520.10.28 } }
+
+# Duché vendu en 1515 à Charles Quint

@@ -1,0 +1,107 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 30  131  162 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	african_spearmen
+	niger_kongolese_tribal_warfare
+	bantu_plains_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_mandelaku
+	african_tuareg_cavalry
+	african_mossi_horsemen
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"Dunama #3" = 120
+	"Muhammad #1" = 160
+	"Amir #0" = 20
+	"Ghaji #0" = 20
+	"'Uthmân #0" = 20
+	"'Umar #0" = 20
+	"'Ali #0" = 80
+	"Idris #1" = 60
+	"'Abd Allâh #3" = 20
+	"Ibrâhîm #2" = 40
+	"Hamdan #0" = 20
+	"'Uthmân Kalinuama #0" = 20
+	"'Abd Allâh #1" = 20
+	"Biri #1" = 20
+	"'Abd al-Karîm #0" = 2
+	"Kharut #0" = 2
+	"Kharif #0" = 2
+	"Ya'qub #0" = 2
+	"Salih #0" = 2
+	"Birni Besse #0" = 2
+	"Dalai #0" = 2
+	"Burkomanda #0" = 2
+	"Dalo #0" = 2
+	"'Abd al-Qadir #0" = 2
+	"Wanja #0" = 2
+	"Abû Sekkin #0" = 2
+	"Rifaya #0" = 2
+	"Sharud #0" = 2
+	"Tindhim #0" = 2
+	"Musa #0" = 2
+	"Sulbuta #0" = 2
+	"Ishaq #0" = 2
+	"Kade Alunu #0" = 2
+	"Abû Bakr #0" = 2
+	"Da'ud #0" = 2
+	"Kure #0" = 2
+	"Bikoru #0" = 2
+	"Humayy #0" = 2
+	"Sa'îd #0" = 2
+	"Nasr #0" = 2
+	"Yahyâ #0" = 2
+	"Yûsuf #0" = 2
+	
+	"Fizza #0" = -1
+	"Hadil #0" = -1
+}
+
+leader_names = {
+	Oueddai
+	Ahmat
+	Ardoum
+	Terap
+	Kabadi
+	Yorassem
+	Nahor
+	Deby
+	Djammous
+	Malloum
+}
+
+ship_names = {
+	Dugu Fune Aritso Kature Ayoma Bulu
+	Arki Shu "Bad al-Djel" Hume Dunama
+	Biri Birkoru "Abd al-Djel Selma"
+	"Dunama Dibbalem" Kade "Kachim Biri"
+	Djil Dari "Kure Kura" "Kure Gana"
+}
+
+army_names = {
+	"Jaysh Kanem" "Jaysh Bornu" "Jaysh $PROVINCE$"
+}
+
+fleet_names = {
+	"Armadah Kanem" "Armadah Bornu" "Armadah $PROVINCE$"
+}

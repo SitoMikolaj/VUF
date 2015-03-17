@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "GUERRE_NORDIC_NAME"
+	desc = "GUERRE_NORDIC_DESC"
+	date = 1563.8.13
+	
+	country = DAN	
+	country = SWE
+	country = POL
+	country = HSA
+	country = FRA
+	
+}

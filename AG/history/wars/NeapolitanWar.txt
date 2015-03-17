@@ -1,0 +1,294 @@
+name = "Guerre napolitaine"
+#casus_belli = cb_offensive_call/wargoal defend_country
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 1826 # Lika
+}
+
+1815.3.15 = {
+	add_attacker = NAP
+	add_defender = HAB
+	add_defender = SIC
+	add_defender = TUS	
+}
+
+1815.4.1 = { add_defender = GBR }
+
+1815.4.3 = {
+	battle = {
+		name = "Panaro"
+		location = 106
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 40000
+			losses = 1	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Frédéric Bianchi"
+			infantry = 6600
+			losses = 5	# percent
+			country = HAB
+		}
+		result = win
+	}
+}
+
+1815.4.8 = {
+	battle = {
+		name = "Occhiobello"
+		location = 113
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 25000
+			losses = 10	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Johann Frimont"
+			infantry = 10000
+			losses = 4	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.4.10 = {
+	battle = {
+		name = "Carpi"
+		location = 106
+		attacker = {
+			commander = "Guglielmo Pepe"
+			infantry = 5000
+			losses = 25	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Frédéric Bianchi"
+			infantry = 2500
+			losses = 4	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.4.12 = {
+	battle = {
+		name = "Casaglia"
+		location = 113
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 7000
+			losses = 15	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Johann Frimont"
+			infantry = 4500
+			losses = 5	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.4.21 = {
+	battle = {
+		name = "Ronco"
+		location = 120
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 8000
+			losses = 15	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Adam Albert von Neipperg"
+			infantry = 3000
+			losses = 10	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.4.23 = {
+	battle = {
+		name = "Cesenatico"
+		location = 114
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 3000
+			losses = 15	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Adam Albert von Neipperg"
+			infantry = 600
+			losses = 10	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.4.28 = {
+	battle = {
+		name = "Pesaro"
+		location = 1933
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 3000
+			losses = 15	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Adam Albert von Neipperg"
+			infantry = 400
+			losses = 5	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.5.1 = {
+	battle = {
+		name = "Scapezzano"
+		location = 119
+		attacker = {
+			commander = "Michele Carascosa"
+			infantry = 8256
+			cavalry = 240
+			artillery = 10
+			losses = 5	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Adam Albert von Neipperg"
+			infantry = 15300
+			losses = 5	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.5.2 = {
+	battle = {
+		name = "Tolentino"
+		location = 119
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 25588
+			cavalry = 4790
+			artillery = 58
+			losses = 20	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Vinzenz Ferrerius von Bianchi"
+			infantry = 11938
+			cavalry = 1452
+			artillery = 28
+			losses = 8	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.5.2 = {
+	battle = {
+		name = "Ancona"
+		location = 119
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 1500
+			losses = 80	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Johann Frimont"
+			infantry = 2300
+			artillery = 28
+			losses = 5	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.5.13 = {
+	battle = {
+		name = "Castel di Sangro"
+		location = 120
+		attacker = {
+			commander = "Pignatelli Cerchiara"
+			infantry = 1900
+			losses = 40	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Frédéric Bianchi"
+			infantry = 1000
+			cavalry = 1000
+			losses = 1	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.5.17 = {
+	battle = {
+		name = "San Germano"
+		location = 1934
+		attacker = {
+			commander = "Joachim Murat"
+			infantry = 15000
+			losses = 25	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Frédéric Bianchi"
+			infantry = 8000
+			cavalry = 1000
+			losses = 1	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+1815.5.17 = {
+	battle = {
+		name = "Gaeta"
+		location = 1934
+		attacker = {
+			commander = "Maresciallo di Campo Begani"
+			infantry = 2000
+			losses = 80	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Frédéric Bianchi"
+			infantry = 2500
+			losses = 5	# percent
+			country = HAB
+		}
+		result = loss
+	}
+}
+
+# Traité de Bianchi
+1815.5.20 = {
+	rem_attacker = NAP
+	rem_defender = HAB
+	rem_defender = SIC
+	rem_defender = TUS	
+	rem_defender = GBR 
+}

@@ -1,0 +1,41 @@
+name = "Guerre des Oranges"
+
+#casus_belli
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1801.4.1 = {
+	add_attacker = FRA
+	add_attacker = SPA
+	add_defender = POR
+}
+
+1801.5.20 = {
+	battle = {
+		name = "Olivença"
+		location = 229
+		attacker = {
+			commander = "Juan San Antonio"
+			infantry = 15000
+			losses = 13	# percent
+			country = SPA
+		}
+		defender = {
+			commander = "Isaac Portolo"
+			infantry = 10000
+			losses = 48	# percent
+			country = POR
+		}
+		result = win
+	}
+}
+
+# Traité de Badajoz
+1801.6.6 = {
+	rem_attacker = FRA
+	rem_attacker = SPA
+	rem_defender = POR
+}
+

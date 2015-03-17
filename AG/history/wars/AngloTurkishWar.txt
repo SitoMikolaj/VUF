@@ -1,0 +1,105 @@
+name = "Guerre anglo-turque"
+#casus_belli = cb_warning/defend_country
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 145 # Morea
+}
+
+1807.2.19 = {
+	add_attacker = GBR
+	add_defender = TUR
+}
+
+1807.2.19 = {
+	battle = {
+		name = "Dardannelles"
+		location = 1320
+		attacker = {
+			commander = "John Thomas Duckworth"
+			heavy_ship = 8
+			light_ship = 4
+			transport = 2
+			losses = 30	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Sélim III"
+			light_ship = 14
+			transport = 9
+			losses = 20	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+1807.3.16 = {
+	battle = {
+		name = "Baie d'Alexandrie"
+		location = 1315
+		attacker = {
+			commander = "John Thomas Duckworth"
+			heavy_ship = 6
+			light_ship = 1
+			transport = 5
+			losses = 1	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Sélim III"
+			light_ship = 2
+			transport = 1
+			losses = 100	# percent
+			country = TUR
+		}
+		result = win
+	}
+}
+
+1807.3.16 = {
+	battle = {
+		name = "Alexandrie"
+		location = 358
+		attacker = {
+			commander = "Alexander Mackenzie-Fraser"
+			infantry = 5000
+			cavalry = 600
+			losses = 5	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Muhammad Ali"
+			infantry = 2000
+			losses = 30	# percent
+			country = TUR
+		}
+		result = win
+	}
+}
+
+1808.4.20 = {
+	battle = {
+		name = "Rosetta"
+		location = 358
+		attacker = {
+			commander = "Patrick Wauchope"
+			infantry = 2000
+			losses = 10	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Omar Makram"
+			infantry = 3000
+			losses = 1	# percent
+			country = TUR
+		}
+		result = loss
+	}
+}
+
+# Traité des Dardanelles
+1809.1.5 = {
+	rem_attacker = GBR
+	rem_defender = TUR
+}

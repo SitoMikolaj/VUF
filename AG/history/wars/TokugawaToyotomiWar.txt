@@ -1,0 +1,17 @@
+name = "Guerre des clans Tokugawa-Toyotomi"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_shogun_annex
+}
+
+1583.1.1 = {
+	add_attacker = TKG
+	add_defender = JAP
+}
+
+1586.10.17 = {
+	rem_attacker = TKG
+	rem_defender = JAP
+}

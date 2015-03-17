@@ -1,0 +1,21 @@
+################################
+# Mod Panthéon
+################################
+
+130 = "Istra"
+131 = "Zagorje"
+136 = "Dalmacija"
+137 = "Dubrovnik"
+139 = "Hum"
+140 = "Usora"
+141 = "Srbija "
+142 = "Korfu"
+143 = "Albanija"
+152 = "Varazdin"
+161 = "Vlaska"
+1765 = "Nis"
+1767 = "Slavonija"
+1827 = "Raska"
+1828 = "Jajce"
+1831 = "Travunja "
+1853 = "Bitola" OR 1853 = "Kozani"

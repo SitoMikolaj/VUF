@@ -1,0 +1,108 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 245 200 30 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Jacques #1" = 40
+	"Jean #1" = 40
+	"Henri #2" = 15
+	"Charlotte #0" = -15
+	"Hugues #4" = 10
+	"Guy #1" = 10
+	"Eudes #0" = 10
+	"Philippe #0" = 10
+	"Amalric #2" = 5
+	"Pierre #1" = 5
+	"Aiolos #0" = 2
+	"Bartholomaios #0" = 2
+	"Dionysios #0" = 2
+	"Eusebios #0" = 2
+	"Gregorios #0" = 2
+	"Heliodoros #0" = 2
+	"Hermogenes #0" = 2
+	"Hieronymos #0" = 2
+	"Ioannes #0" = 2
+	"Isidoros #0" = 2
+	"Konstantinos #0" = 2
+	"Kreon #0" = 2
+	"Lavrentios #0" = 2
+	"Matthaios #0" = 2
+	"Nikolaos #0" = 2
+	"Nikomachos #0" = 2
+	"Nomiki #0" = 2
+	"Onesimos #0" = 2
+	"Phamphilos #0" = 2
+	"Pantaleon #0" = 2
+	"Paris #0" = 2
+	"Pelagios #0" = 2
+	"Serafeim #0" = 2
+	"Spyridon #0" = 2
+	"Thaddeos #0" = 2
+	"Theodoros #0" = 2
+	"Urias #0" = 2
+	"Xenocrates #0" = 2
+	"Zacharias #0" = 2
+	"Zenobios #0" = 2
+}
+
+ship_names = {
+	"Agios Georgios"
+	"Kato Yialla"
+	Lachi Leivadi Lempa 
+	Maa Maurvoll
+	Pakhyammos Pomos
+	Symvoulos
+}
+
+leader_names = { 
+	Bragadin 
+	Crispo
+	Doria	
+	Fadrigue
+	Lusignans
+	Melissinos 
+	Plethon
+	Rendis
+	Saraceno 
+	Tocco
+}
+
+army_names = {
+	"Basilikos Stratos" "Kypros Stratos" "Agia Napa Stratos" "Kyrenia Stratos" "Larnaca Stratos" "Limassol Stratos" "Nicosie Stratos" "Paphos Stratos" "$PROVINCE$ Stratos"
+}
+
+fleet_names = {
+	"Basilikos Naftiko" "Kypros Naftiko" "Mesogeios Naftikó" "$PROVINCE$ Naftikó"
+}

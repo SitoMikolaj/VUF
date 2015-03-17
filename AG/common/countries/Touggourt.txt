@@ -1,0 +1,69 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 90 140 190 } 
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	naval_ideas	
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	muslim_cavalry_archers
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"'Abd ar-Rahmân #0" = 10
+	"Ahmed #0" = 10
+	"'Abd al-'Azîz #0" = 10
+	"'Ahmad Amokrane #0" = 10
+	"Sidi El Naceur #0" = 10
+	"Si Betka #0" = 10
+	"Ben Bouzid #0" = 30
+	"Abdesselem #0" = 10
+	"Sidi 'Ahmad #0" = 20
+	"'Abd Allâh #0" = 2
+	"Abdesslam #0" = 2
+	"Mohand #0" = 2
+	"Boumezrag #0" = 2
+	"Muhammad #0" = 2
+	"Azis #0" = 2
+	"Zahir #0" = 2
+	
+	"Werdja #0" = -1
+	"Tabassum #0" = -1
+}
+
+leader_names = {
+	Negib
+	Reis
+	Emin
+	Asker
+	Asim
+	Izzet
+	Nedim
+	Nazhar
+	Halid
+	"an-Nûrî"
+}
+
+ship_names = {
+	Barr Muta'al Wali Batin Zahir Akhir Awwal
+	Mu'akhkhir Muqaddim Muqtadir Qadir Samad
+	Wahid Majid Wajed Qayyum Hayy Mumit Muhyi
+	Mu'id Mubdi Muhsi Hamîd Waliyy Matin Qawiyy
+	Wakil Haqq Shahid Ba'ith
+}

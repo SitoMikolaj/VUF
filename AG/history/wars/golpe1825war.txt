@@ -1,0 +1,39 @@
+name = "Le coup de 1825"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_colonial_independance_war
+}
+
+# 1ère tentative de reconquête du Mexique par l'Espagne 
+
+1825.4.1 = {
+	add_attacker = SPA
+	add_defender = MEX
+}
+
+1825.11.23 = {
+	battle = {
+		name = "San Juan de Ulúa"
+		location = 848
+		attacker = {
+			commander = "José María Coppinger"
+			infantry = 2000
+			losses = 25	# percent
+			country = SPA
+		}
+		defender = {
+			commander = "Pedro Sainz de Baranda"
+			infantry = 500
+			losses = 5	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1826.1.1 = {
+	rem_attacker = SPA
+	rem_defender = MEX
+}

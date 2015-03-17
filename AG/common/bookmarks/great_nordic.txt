@@ -1,0 +1,11 @@
+bookmark =
+{
+	name = "GREAT_NORDIC_WAR_NAME"
+	desc = "GREAT_NORDIC_WAR_DESC"
+	date = 1699.12.10
+	
+	country = RUS
+	country = SWE
+	country = DAN
+	country = PLC
+}

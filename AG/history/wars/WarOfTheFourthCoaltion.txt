@@ -1,0 +1,587 @@
+name = "Guerre de la Quatrième Coalition"
+#casus_belli=cb_imperial
+war_goal = {
+	type = take_capital_revolution
+	casus_belli = cb_crush_the_revolution
+	tag = FRA
+}
+
+1805.12.27 = {
+	add_defender = FRA
+	add_defender = ETR
+	add_defender = NED
+	add_defender = SWI
+	add_defender = ITA
+	add_defender = SPA
+	add_attacker = GBR
+	add_attacker = RUS
+	add_attacker = RAG
+	add_attacker = SWE
+	add_attacker = NAP
+}
+
+1806.1.16 = {
+	battle = {
+		name = "Cap de Bonne espérance"
+		location = 1177
+		attacker = {
+			commander = "General Craig"
+			infantry = 7000
+			losses = 6	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Henri Rochette"
+			infantry = 2000
+			losses = 15	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1806.2.6 = {
+	battle = {
+		name = "San Domingo"
+		location = 1521
+		attacker = {
+			commander = "John Thomas Duckworth"
+			heavy_ship = 7
+			light_ship = 4
+			losses = 10	#percent
+			country = GBR
+		}
+		defender = {
+			commander = "Corentin de Leissegues"
+			heavy_ship = 5
+			light_ship = 2
+			transport = 1
+			losses = 80	#percent			
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1806.3.10 = {
+	battle = {
+		name = "Campo Tenese"
+		location = 120
+		attacker = {
+			commander = " Roger de Damas"
+			infantry = 11000
+			artillery = 30
+			losses = 28	# percent
+			country = NAP
+		}
+		defender = {
+			commander = "Jean Reynier"
+			infantry = 6112
+			cavalry = 300
+			artillery = 10
+			losses = 7	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1806.3.13 = {
+	battle = {
+		name = "Cap verde"
+		location = 1567
+		attacker = {
+			commander = "John Borlase Warren"
+			heavy_ship = 6
+			light_ship = 2
+			transport = 1
+			losses = 10	#percent
+			country = GBR
+		}
+		defender = {
+			commander = "Charles de Linois"
+			heavy_ship = 5
+			losses = 80	#percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+# Ferdinand fuit vers la Sicile
+1806.3.30 = {
+	rem_attacker = NAP
+	add_attacker = SIC
+}
+
+1806.6.24 = {
+	battle = {
+		name = "Buenos Aires"
+		location = 778
+		attacker = {
+			commander = "Home Riggs Popham"
+			infantry = 1668
+			losses = 5	#percent
+			country = GBR
+		}
+		defender = {
+			commander = "Jacques de Liniers"
+			infantry = 2500
+			artillery = 15
+			losses = 10	#percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1806.7.4 = {
+	battle = {
+		name = "Maida"
+		location = 123
+		attacker = {
+			commander = "John Stuart"	# John Stuart
+			infantry = 5100
+			losses = 1	#percent
+			country = GBR
+		}
+		defender = {
+			commander = "Jean-Louis-Ébénézer Reynier"	# Reynier
+			infantry = 6112
+			cavalry = 128
+			artillery = 4
+			losses = 30	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1806.7.10 = {
+	battle = {
+		name = "Siège de Gaete"
+		location = 121
+		attacker = {
+			commander = "Louis de Hesse-Philippsthal"
+			infantry = 7000
+			losses = 90	# percent
+			country = RUS
+		}
+		defender = {
+			commander = "André Masséna"
+			infantry = 12000
+			artillery = 30
+			losses = 8	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# La Confederation du Rhin est contrainte d'aider la France
+1806.7.12 = {
+	add_defender = BAV
+	add_defender = BAD
+	add_defender = HES
+	add_defender = ANH
+	add_defender = WUR
+}
+
+1806.8.20 = {
+	battle = {
+		name = "Buenos Aires"
+		location = 778
+		attacker = {
+			commander = "Home Riggs Popham"
+			infantry = 1668
+			losses = 55	#percent
+			country = GBR
+		}
+		defender = {
+			commander = "Jacques de Liniers"
+			infantry = 2500
+			artillery = 15
+			losses = 10	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# Prusse entre en guerre contre la France soutenu par la Saxe et Brunswick
+1806.8.26 = {
+	add_attacker = PRU
+	add_attacker = BRU
+	add_attacker = SAX
+}
+
+# Würzburg rejoint la Confédération du Rhin
+1806.9.15 = {
+	add_defender = WBG
+}
+
+1806.10.9 = {
+	battle = {
+		name = "Schleiz"
+		location = 1762
+		attacker = {
+			commander = "Louis Ferdinand de Prusse"
+			infantry = 2600
+			artillery = 8
+			losses = 10	#percent
+			country = PRU
+		}
+		defender = {
+			commander = "Jean-Baptiste Bernadotte"
+			infantry = 4000
+			artillery = 5
+			losses = 10	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1806.10.10 = {
+	battle = {
+		name = "Saalfeld"
+		location = 62
+		attacker = {
+			commander = "Louis Ferdinand von Preussen"	# John Stuart
+			infantry = 8000
+			losses = 5	#percent
+			country = PRU
+		}
+		defender = {
+			commander = "Jean Lannes"	# Louis Ferdinand
+			infantry = 12000
+			artillery = 15
+			losses = 2	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1806.10.14 = {
+	battle = {
+		name = "Auerstedt"
+		location = 62
+		attacker = {
+			commander = "Herzog von Brunswick"
+			infantry = 60500
+			artillery = 230
+			losses = 25	#percent
+			country = BRU
+		}
+		defender = {
+			commander = "Louis Nicolas Davout"
+			infantry = 22000
+			cavalry = 4000
+			artillery = 44
+			losses = 40	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1806.10.14 = {
+	battle = {
+		name = "Iéna"
+		location = 63
+		attacker = {
+			commander = "Frédéric Louis de Hohenlohe-Ingelfingen"
+			infantry = 55000
+			artillery = 120
+			losses = 50	#percent
+			country = PRU
+		}
+		defender = {
+			commander = "Napoléon Ier"
+			infantry = 54000
+			cavalry = 4000
+			artillery = 173
+			losses = 10	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1806.10.14 = {
+	battle = {
+		name = "Loubeck"
+		location = 1762
+		attacker = {
+			commander = "Général Blücher"
+			infantry = 20000
+			losses = 25	#percent
+			country = PRU
+		}
+		defender = {
+			commander = "Maréchal Bernadotte"
+			infantry = 30000
+			losses = 5	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# Traité de Poznan
+1806.12.11 = {
+	rem_attacker = SAX
+	add_defender = SAX
+}
+
+# Mecklenburg rejoint la Confederation du Rhin
+1806.12.15 = {
+	add_defender = MKL
+}
+
+1806.12.26 = {
+	battle = {
+		name = "Golymin"
+		location = 257
+		attacker = {
+			commander = "Dmitri Vladimirovitch Golitsyne"
+			infantry = 35000
+			artillery = 128
+			losses = 14	#percent
+			country = RUS
+		}
+		defender = {
+			commander = "Joachim Murat"
+			infantry = 25000
+			losses = 28	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1806.12.26 = {
+	battle = {
+		name = "Pultusk"
+		location = 257
+		attacker = {
+			commander = "Levin August von Bennigsen"	# Dmitriy Vladimirovich Golitsyn
+			infantry = 18000
+			losses = 4	#percent
+			country = RUS
+		}
+		defender = {
+			commander = "Jean Lannes"	# Joachim Murat
+			infantry = 38000
+			losses = 2	#percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1807.2.2 = {
+	battle = {
+		name = "Madonado"
+		location = 773
+		attacker = {
+			commander = "Home Riggs Popham"
+			infantry = 6000
+			losses = 5	#percent
+			country = GBR
+		}
+		defender = {
+			commander = "Jacques de Liniers"
+			infantry = 2000
+			artillery = 15
+			losses = 10	#percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1807.2.7 = {
+	battle = {
+		name = "Eylau"
+		location = 42
+		attacker = {
+			commander = "Levin August von Bennigsen" # Levin August Theophil
+			infantry = 67000
+			artillery = 450
+			losses = 38	#percent
+			country = RUS
+		}
+		defender = {
+			commander = "Napoléon I"	# Napoléon Bonaparte
+			infantry = 45000
+			artillery = 200
+			losses = 55	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1807.2.16 = {
+	battle = {
+		name = "Ostrolenka"
+		location = 257
+		attacker = {
+			commander = "Ivan Nikolaïevitch Essen"
+			infantry = 25000
+			artillery = 7
+			losses = 10	#percent
+			country = RUS
+		}
+		defender = {
+			commander = "Anne Jean Marie René Savary"
+			infantry = 20000
+			losses = 6	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# Suède signe l'armistice
+1807.5.18 = {
+	rem_attacker = SWE
+}
+
+1807.6.10 = {
+	battle = {
+		name = "Heilsberg"
+		location = 42
+		attacker = {
+			commander = "Levin August von Bennigsen"	# Levin August Theophil
+			infantry = 115000
+			losses = 7	#percent
+			country = RUS
+		}
+		defender = {
+			commander = "Napoléon I"	# Joachim Murat
+			infantry = 220000
+			losses = 5	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1807.6.14 = {
+	battle = {
+		name = "Friedland"
+		location = 42
+		attacker = {
+			commander = "Levin August von Bennigsen"	# Levin August Theophil
+			infantry = 60000
+			artillery = 120
+			losses = 33	#percent
+			country = RUS
+		}
+		defender = {
+			commander = "Napoléon I"	# Napoléon Bonaparte
+			infantry = 80000
+			artillery = 120
+			losses = 10	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1807.6.24 = {
+	battle = {
+		name = "Dantzig"
+		location = 43
+		attacker = {
+			commander = "Friedrich von Kalckreuth"
+			infantry = 20000
+			losses = 55	#percent
+			country = PRU
+		}
+		defender = {
+			commander = "François Joseph Lefebvre"
+			infantry = 27000
+			cavalry = 3000
+			losses = 2	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1807.7.2 = {
+	battle = {
+		name = "Kolberg"
+		location = 48
+		attacker = {
+			commander = "Ferdinand von Schill" 
+			infantry = 1500
+			losses = 20	#percent
+			country = PRU
+		}
+		defender = {
+			commander = "Jean Dubois" 
+			infantry = 5200
+			losses = 5	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1807.7.6 = {
+	battle = {
+		name = "Buenos Aires"
+		location = 778
+		attacker = {
+			commander = "John Whitelocke"
+			infantry = 11000
+			losses = 30	#percent
+			country = GBR
+		}
+		defender = {
+			commander = "Jacques de Liniers"
+			infantry = 9000
+			artillery = 15
+			losses = 10	#percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+# Premier traité de Tilsit
+1807.7.7 = {
+	rem_attacker = RUS
+}
+
+# Second Traité de Tilsit
+1807.7.9 = {
+	rem_attacker = PRU
+	rem_attacker = BRU
+}
+
+# Fin de la Coalition de facto alors que débute la guerre d'Espagne
+1807.10.24 = {
+	rem_attacker = GBR
+	rem_attacker = SIC
+	rem_attacker = RAG
+	rem_defender = FRA
+	rem_defender = ETR
+	rem_defender = BAV
+	rem_defender = BAD
+	rem_defender = HES
+	rem_defender = ANH
+	rem_defender = WUR
+	rem_defender = WBG
+	rem_defender = SAX
+	rem_defender = MKL
+	rem_defender = SPA
+	rem_defender = NED
+	rem_defender = SWI
+	rem_defender = ITA
+}

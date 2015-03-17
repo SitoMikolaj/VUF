@@ -1,0 +1,17 @@
+name = "Guerre d'Hosokawa"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1506.1.1 = {
+	add_attacker = HSK
+	add_defender = HTK
+}
+
+1507.1.1 = {
+	rem_attacker = HSK
+	rem_defender = HTK
+}

@@ -1,0 +1,97 @@
+#Country Name: Please seefilename.
+
+graphical_culture = muslimgfx
+
+color = { 212 175 55 }
+
+historical_idea_groups = {
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
+	defensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	administrative_ideas
+	economic_ideas
+
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	african_hill_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"Ahmad #0" = 60
+	"Abû Bakr #0" = 40
+	"'Abd al-Karîm #0" = 40
+	"'Uthmân #0" = 20
+	"Mahmûd #0" = 30
+	"'Abd Allâh #0" = 20
+	"Ibrâhîm #0" = 20
+	"Lîban #0" = 20
+	"Alî #0" = 30
+	"Omar #0" = 20
+	"Hassan #0" = 20
+	"Fakhr ad-Dîn #0" = 20
+	"Mahamud #0" = 20
+	"Abdul #0" = 20
+	"Yûsuf Ali #0" = 2 
+	"Khalid #0" = 2
+	"Husayn #0" = 2 
+	"Qaddâf #0" = 2
+	"Mukhtar #0" = 2
+	"Baziwi #0" = 2
+	"Barakât #0" = 2
+	"Rashîd #0" = 2
+	"Ayûb #0" = 2
+	
+	"Jamilah #0" = -1
+	"Zeinab #0" = -1
+}
+
+leader_names = {
+	"'Abd Allâh"
+	"'Abd al-Karîm"
+	"Abû Bakr"
+	Ahmad
+	Ayûb
+	Dalmar
+	Ghedi
+	Gurey
+	Hassan
+	Khalid
+	Liban
+	Mahad
+	Mosa
+	Muhammad
+	Omar
+	Rahim
+	Saad
+	Sâdiq
+	Sharif
+}
+
+ship_names = {
+	"'Abd al-'Azîz" Aura Awash Berahle Banaadir
+	Chifra Dallol Dubti Dulecha Elidar Ewa
+	Gewane Hamar Koneba Mille Muqdisho
+	Semera Shibis Simurobi Xamar Yalo
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

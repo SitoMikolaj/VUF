@@ -1,0 +1,19 @@
+name = "Seconde guerre Teutonique"
+
+#casus_belli
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+1431.1.1 = {
+	add_attacker = TEU
+	add_defender = POL
+}
+
+# Traité de Brzesc Kujawski
+
+1435.12.1 = {
+	rem_attacker = TEU
+	rem_defender = POL
+}

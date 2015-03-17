@@ -1,0 +1,373 @@
+government = feudal_county
+mercantilism = 0.1
+primary_culture = hessian
+religion = catholic
+technology_group = western
+capital = 83	# Nassau
+
+# Maison de Nassau-Weilburg 
+
+1355.1.1 = {
+	monarch = {
+		name = "Johann I"
+		dynasty = "von Nassau"
+		birth_date = 1309.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1368.1.1 = {
+	heir = {
+		name = "Philipp"
+		monarch_name = "Philipp I"
+		dynasty = "von Nassau"
+		birth_date = 1368.1.1
+		death_date = 1429.7.2
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1375.9.20 = {
+	monarch = {
+		name = "Philipp I"
+		dynasty = "von Nassau"
+		birth_date = 1368.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1388.1.1 = {
+	heir = {
+		name = "Philipp"
+		monarch_name = "Philipp II"
+		dynasty = "von Nassau"
+		birth_date = 1388.1.1
+		death_date = 1416.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1418.3.12 = {
+	heir = {
+		name = "Philipp"
+		monarch_name = "Philipp II"
+		dynasty = "von Nassau"
+		birth_date = 1418.3.12
+		death_date = 1492.3.19
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1429.7.2 = {
+	monarch = {
+		name = "Philipp II"
+		dynasty = "von Nassau"
+		birth_date = 1418.3.12
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1441.1.1 = {
+	heir = {
+		name = "Johann"
+		monarch_name = "Johann II"
+		dynasty = "von Nassau"
+		birth_date = 1441.1.1
+		death_date = 1480.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1480.1.1 = {
+	heir = {
+		name = "Ludwig"
+		monarch_name = "Ludwig I"
+		dynasty = "von Nassau"
+		birth_date = 1466.1.1
+		death_date = 1523.5.28
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1492.3.19 = {
+	monarch = {
+		name = "Ludwig I"
+		dynasty = "von Nassau"
+		birth_date = 1418.3.12
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1504.9.20 = {
+	heir = {
+		name = "Philipp"
+		monarch_name = "Philipp III"
+		dynasty = "von Nassau"
+		birth_date = 1504.9.20
+		death_date = 1559.10.4
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1523.5.28 = {
+	monarch = {
+		name = "Philipp III"
+		dynasty = "von Nassau"
+		birth_date = 1504.9.20
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1527.1.1 = { religion = protestant }
+
+1537.12.26 = {
+	heir = {
+		name = "Albrecht"
+		monarch_name = "Albrecht I"
+		dynasty = "von Nassau"
+		birth_date = 1537.12.26
+		death_date = 1593.11.11
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1559.10.4 = {
+	monarch = {
+		name = "Albrecht I"
+		dynasty = "von Nassau"
+		birth_date = 1537.12.26
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1568.8.9 = {
+	heir = {
+		name = "Ludwig"
+		monarch_name = "Ludwig II"
+		dynasty = "von Nassau"
+		birth_date = 1568.8.9
+		death_date = 1627.11.8
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1593.11.11 = {
+	monarch = {
+		name = "Ludwig II"
+		dynasty = "von Nassau"
+		birth_date = 1568.8.9
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1607.11.15 = {
+	heir = {
+		name = "Ernst Kasimir"
+		monarch_name = "Ernst Kasimir I"
+		dynasty = "von Nassau"
+		birth_date = 1607.11.15
+		death_date = 1655.4.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1608.5.14 = {
+	join_league = protestant
+}
+
+1627.11.8 = {
+	monarch = {
+		name = "Ernst Kasimir I"
+		dynasty = "von Nassau"
+		birth_date = 1607.11.15
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1640.4.16 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich I"
+		dynasty = "von Nassau"
+		birth_date = 1640.4.16
+		death_date = 1675.9.8
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1648.10.24 = {
+	leave_league = protestant
+}
+
+1655.4.1 = {
+	monarch = {
+		name = "Friedrich I"
+		dynasty = "von Nassau"
+		birth_date = 1607.11.15
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+} 
+
+1664.6.13 = {
+	heir = {
+		name = "Johann Ernst"
+		monarch_name = "Johann Ernst I"
+		dynasty = "von Nassau"
+		birth_date = 1664.6.13
+		death_date = 1719.2.27
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1675.9.8 = {
+	monarch = {
+		name = "Johann Ernst I"
+		dynasty = "von Nassau"
+		birth_date = 1664.6.13
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1685.9.17 = {
+	heir = {
+		name = "Karl August"
+		monarch_name = "Karl August I"
+		dynasty = "von Nassau"
+		birth_date = 1685.9.17
+		death_date = 1753.11.9
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1719.2.27 = {
+	monarch = {
+		name = "Karl August I"
+		dynasty = "von Nassau"
+		birth_date = 1685.9.17
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1735.1.16 = {
+	heir = {
+		name = "Karl Christian"
+		monarch_name = "Karl Christian I"
+		dynasty = "von Nassau"
+		birth_date = 1735.1.16
+		death_date = 1788.11.28
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1753.11.8 = {
+	monarch = {
+		name = "Karl Christian I"
+		dynasty = "von Nassau"
+		birth_date = 1735.1.16
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1765.10.25 = {
+	heir = {
+		name = "Friedrich Wilhelm"
+		monarch_name = "Friedrich Wilhelm I"
+		dynasty = "von Nassau"
+		birth_date = 1765.10.25
+		death_date = 1816.1.9
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1788.11.28 = {
+	monarch = {
+		name = "Friedrich Wilhelm I"
+		dynasty = "von Nassau"
+		birth_date = 1765.10.25
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1792.6.14 = {
+	heir = {
+		name = "Wilhelm"
+		monarch_name = "Wilhelm I"
+		dynasty = "von Nassau"
+		birth_date = 1792.6.14
+		death_date = 1839.8.30
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1806.7.12 = { government = feudal_duchy }

@@ -1,0 +1,16 @@
+bookmark =
+{
+	name = "SENGOKU_NAME"
+	desc = "SENGOKU_DESC"
+	date = 1532.6.1
+	
+	country = ODA
+	country = DTE
+	country = HSK
+	country = HTK
+	country = IMG
+	country = OUC
+	country = SMZ
+	country = TKD
+	country = UES
+}

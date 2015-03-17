@@ -1,0 +1,18 @@
+name = "Conquête de Chimu"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+
+1468.1.1 = {
+	add_attacker = INC
+	add_defender = CHM
+}
+
+1471.9.1 = {
+	rem_attacker = INC
+	rem_defender = CHM
+}

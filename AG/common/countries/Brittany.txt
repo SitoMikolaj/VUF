@@ -1,0 +1,129 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 118  99  151 }
+
+historical_score = 25
+
+historical_idea_groups = {
+	naval_ideas
+	trade_ideas
+	religious_ideas
+	exploration_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"François #0" = 60
+	"Jean #4" = 40
+	"Arthur #2" = 20
+	"Pierre #2" = 20
+	"Anne #0" = -10
+	"Claude #0" = -10
+	"Henri #0" = 10
+	"Charles #1" = 5
+	"Gilles #0" = 5
+	"Richard #0" = 5
+	"Corentin #0" = 2
+	"Daniel #0" = 2
+	"Erwan #0" = 2
+	"Gaël #0" = 2
+	"Gwenaël #0" = 2
+	"Gwilherm #0" = 2
+	"Loïc #0" = 2
+	"Mikael #0" = 2
+	"Ronan #0" = 2
+	"Gwenvred #0" = -10
+	"Yann #0" = 2
+	"Morvan #1" = 5
+	"Nominoë #1" = 5
+	"Érispoë #1" = 5
+	"Salomon #1" = 5
+	"Drogon #1" = 5
+	"Guérech #1" = 5
+	"Hoël #2" = 10
+	"Alain #4" = 20
+	"Berthe #1" = -10
+	"Conan #4" = 15
+	"Constance #1" = -10
+	"Geoffroy #2" = 5
+	"Alix #1" = -10
+	"Jeanne #2" = -10
+	"Olivier #0" = 5
+	"Isabelle #0" = -10
+	"Philippe #0" = 5
+	"Louis #0" = 5	
+}
+
+leader_names = {
+	d'Ancenis d'Angennes d'Argentré
+	"de Bain" "de Beaudiez" "de Beaumetz" "de Boisguéhenneuc" "de Bouëtiez"
+	"de Châteaubriand" "de Châtillon" "de Coatgoureden" "de Coëtivy" "de Coëtmen" "Couasnon de la Barillière" "de Craon" 
+	"de Dol"
+	d'Elbène
+	"de Francheville"
+	"de Goulaine" "de Gourcuff"
+	"de Halgoët" "de La Haye-Saint-Hilaire" 
+	"Kalbean de Cardelan" "de Kerdrel" "de Kerellec" "de Kergoulay" "de Kerguenech" "de Kerguerron" "de Kersauzon" "de Kersulguen" 
+	"de Lamballe" "de Locmaria" 
+	"de Machecoul" Madec "de Malestroit" "de Mercœur" "de Monfort"
+	"de la Nouë-Bogat"
+	"de Penguem" "de Penhoadic" "de Penthièvre" "de Pontbriand" 
+	"de Rieux" "de Rodellec" "de Rohan" "de Roscoat" "de Rostrenen" "de Richemont"
+	"de Saint-Hoularn" "de Saint-Meleuc" "de Sévigné"
+	"de Talhouët" "de Tasher de la Pagerie" "de Tintériac" "de Tonquedec" "de Tournemine" "de Tréméreuc" "de la Trémoille" "de Trogoff" "de Tromelin"
+	"de Vitré"
+}
+
+ship_names = {
+	"l'Achille" "l'Actif" "l'Active" "l'Admirable" "l'Aglaé"
+	"l'Aimable" "l'Alcide" "l'Algésiras" "l'Alose" "l'Amazone"
+	"l'Ambition" "l'Amphion" "l'Anémone" "l'Annibal" "l'Apollon"
+	"l'Argonaute" "l'Artésien" "l'Audacieux" "l'Auguste" "l'Avenant"
+	"la Badine" "la Barbue" "le Beaumont" "la Bécasse" "le Belliqueux"
+	"la Bergère" "la Berryer" "le Bien-Aimé" "le Bienfaisant" "le Bon"
+	"la Bretagne" "la Bretonne" "le Brillant" "le Brutus" "le Caché"
+	"le Célèbre" "le Centaure" "le Chameau" "le Comte" "le Courageux"
+	"le Défenseur" "le Diadème" "le Diamant" "le Dictateur" "le Diligent"
+	"le Dragon" "le Duc" "l'Élephant" "l'Élisabeth" "l'Émérillon"
+	"l'Entreprenant" "l'Éole" "le Fleuron" "le Formidable" "le Fortuné"
+	"le Foudroyant" "le Fougueux" "le Fourgon" "le Furieux" "le Glorieux"
+	"la Grande Hermine" "l'Impétueux" "l'Indien" "l'Indomptable" "le Jupiter"
+	"le Léopard" "la Loire" "le Massiac" "le Neptune" "le Nestor"
+	"l'Orion" "le Pégase" "la Petite Hermine" "le Portefaix" "le Profond"
+	"la Protée" "le Rolland" "le Saint-Guillaume" "la Sarcelle" "le Sévère"
+	"le Six-Corps" "le Solide" "le Solitaire" "le Souverain" "la Sphère"
+	"le Sphinx" "le Superbe" "le Tardif" "le Téméraire" "le Terrible"
+	"le Thésée" "le Tonnant" "le Triomphant" "le Triton" "l'Union"
+	"le Vaillant" "le Vengeur" "la Victoire" "le Vigilant" "la Volante"
+}
+
+army_names = {
+         "Lu g'Breizh" "Lu g'Dug" "Lu g'Breizh-Izel" "Lu g'Breizh-Uhel"  "Lu g'Goueled Breizh" "Lu g'Gorre Breizh" "Lu Ar-c'hont" "Lu g' $PROVINCE$" 
+}
+
+fleet_names = {
+	"Morlu g'Dug" "Morlu g'Breizh" "Morlu Ar-c'hont" "Morlu $PROVINCE$"
+}

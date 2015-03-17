@@ -1,0 +1,215 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = georgian
+religion = orthodox
+technology_group = eastern
+capital = 2203 # Kakheti
+
+1490.1.1 = {
+	monarch = {
+		name = "Aleksandre I"
+		dynasty = "Bagrationi"
+		birth_date = 1445.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1511.4.27 = {
+	monarch = {
+		name = "Giorgi I"
+		dynasty = "Bagrationi"
+		birth_date = 1464.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1513.1.1 = {
+	monarch = {
+		name = "Levan I"
+		dynasty = "Bagrationi"
+		birth_date = 1500.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1574.1.1 = {
+	monarch = {
+		name = "Aleksandre II"
+		dynasty = "Bagrationi"
+		birth_date = 1527.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1601.10.1 = {
+	monarch = {
+		name = "David I"
+		dynasty = "Bagrationi"
+		birth_date = 1527.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1602.10.21 = {
+	monarch = {
+		name = "Aleksandre II"
+		dynasty = "Bagrationi"
+		birth_date = 1527.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1605.3.12 = {
+	monarch = {
+		name = "Konstantine I"
+		dynasty = "Bagrationi"
+		birth_date = 1572.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1605.12.22 = {
+	monarch = {
+		name = "Teimouraz I"
+		dynasty = "Bagrationi"
+		birth_date = 1587.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1614.1.1= {
+	monarch = {
+		name = "Jesse I"
+		dynasty = "Bagrationi"
+		birth_date = 1590.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1616.1.1 = {
+	monarch = {
+		name = "Teimouraz I"
+		dynasty = "Bagrationi"
+		birth_date = 1587.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1648.1.1 = {
+	monarch = {
+		name = "Rostom I"
+		dynasty = "Bagrationi"
+		birth_date = 1567.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1658.11.17 = {
+	monarch = {
+		name = "Artchil I"
+		dynasty = "Bagrationi"
+		birth_date = 1647.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1664.1.1= {
+	monarch = {
+		name = "Erekle I"
+		dynasty = "Bagrationi"
+		birth_date = 1642.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1703.1.1= {
+	monarch = {
+		name = "David II"
+		dynasty = "Bagrationi"
+		birth_date = 1678.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1722.1.1= {
+	monarch = {
+		name = "Konstantine II"
+		dynasty = "Bagrationi"
+		birth_date = 1690.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1732.1.1 = {
+	monarch = {
+		name = "Teimouraz II"
+		dynasty = "Bagrationi"
+		birth_date = 1680.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1736.1.1 = {
+	monarch = {
+		name = "Aleksandre III"
+		dynasty = "Bagrationi"
+		birth_date = 1700.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1738.1.1 = {
+	monarch = {
+		name = "Teimouraz II"
+		dynasty = "Bagrationi"
+		birth_date = 1680.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1744.7.9 = {
+	monarch = {
+		name = "Erekle II"
+		dynasty = "Bagrationi"
+		birth_date = 1721.10.7
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

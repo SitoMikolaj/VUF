@@ -1,0 +1,19 @@
+name = "Guerre sino-vietnamienne"
+
+#casus_belli
+war_goal = {
+	type = take_border
+	casus_belli = cb_border_war
+}
+
+
+1407.1.1 = {
+	add_attacker = MNG
+	add_defender = DAI
+}
+
+# Conquer of Annam
+1413.1.1 = {
+	rem_attacker = MNG
+	rem_defender = DAI
+} 

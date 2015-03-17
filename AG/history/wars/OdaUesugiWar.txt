@@ -1,0 +1,17 @@
+name = "Guerre des clans Oda-Uesugi"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1574.1.1 = {
+	add_attacker = ODA
+	add_defender = UES
+}
+
+1582.6.2 = {
+	rem_attacker = ODA
+	rem_defender = UES
+}

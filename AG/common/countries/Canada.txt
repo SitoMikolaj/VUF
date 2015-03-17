@@ -1,0 +1,151 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = GBR
+random_nation_chance = 2
+
+color = { 94  117  55 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	plutocracy_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jeffery #0" = 5
+	"Samuel #0" = 40
+	"James #0" = 5
+	"Guy #0" = 20
+	"Frederick #0" = 20
+	"Robert #0" = 20
+	"Thomas #0" = 20
+	"George #0" = 20
+	"Charles #0" = 40
+	"Louis #0" = 20
+	"Jean #0" = 5
+	"Pierre #0" = 5
+	"Daniel #0" = 20
+	"Augustin #0" = 5
+	"Joseph #0" = 5
+	"Jacques #0" = 5
+	"Philippe #0" = 5
+	"Roland #0" = 5
+	"Michel #0" = 5
+	"Gordon #0" = 5
+	
+	"Alexander #0" = 2
+	"Amable #0" = 2
+	"Antoine #0" = 2
+	"Benjamin #0" = 2
+	"Christopher #0" = 2
+	"David #0" = 2
+	"David William #0" = 2
+	"Edward #0" = 2
+	"Ephraim #0" = 2
+	"François #0" = 2
+	"Gabriel #0" = 2
+	"Guillaume #0" = 2
+	"Hubert #0" = 2
+	"Hugh #0" = 2
+	"Hyacinthe #0" = 2
+	"Ignace #0" = 2
+	"Isaac #0" = 2
+	"Jacob #0" = 2
+	"Jean-Baptiste #0" = 2
+	"Charles-Michel #0" = 2
+	"Jeremiah #0" = 2
+	"John #0" = 2
+	"Louis-Joseph #0" = 2
+	"Louis-Hippolyte #0" = 2
+	"Mathew #0" = 2
+	"Nathaniel #0" = 2
+	"Nicolas #0" = 2
+	"Parshall #0" = 2
+	"Peter #0" = 2
+	"Philip #0" = 2
+	"Pierre-Louis #0" = 2
+	"Richard #0" = 2
+	"René #0" = 2
+	"Solomon #0" = 2
+	"Timothy #0" = 2
+	"William #0" = 2
+
+	"Laura #0" = -1
+	"Maria #0" = -1	
+	"Victoria #0" = -1
+	"Charlotte #0" = -1
+	"Adrienne #0" = -1
+	"Marguerite #0" = -1
+}
+
+leader_names = { 
+	Allsopp Amherst Auldjo
+	Baby Barnes Beasley Bédard Bégin Bell Bernier Berthelot Black Boileau Boisseau Booth Bouc Boucher Boudreau Bowen Brodeur Brock Bronson Browne By
+	Caldwell Campbell Carleton Cartier Chartier Cherrier Coffin Cornwall Craig Craigie Cuthbert
+	Dalhousie Dambourgés Dartigny 
+	"D'Arcy" "de Bonne" "de Lavaltrie" "de Lorimier" "de Lotbinière" "de Rocheblave" "de Rouville" "de Salaberry" "de Tonnancour" 
+	Digé Dorion Dorland Ducharme Duchesnay Dufour Dumont Dunière Dunn Dupré Duplessis Dumas Durocher Duvernay
+	Éthier
+	Fairfield Fisher Foucher Fraser French Frobisher
+	Grant Gray Godefroy Gouin Guerout Guy
+	Hardison Hart Harwood Hébert Henry Hertel Huot
+	Ingersoll Irvine
+	Jessup Jodoin Jordan Jones
+	Lacroix Lafontaine Larocque Lebreton "le Comte" Lee Lees Lester Lynd
+	Macnider Macomb Malhiot Marcoux Martineau McBeath McCrae McDonell McGill McGillivray McKee McLeod Menut Millet Monk Montour Moore Mure Murray
+	Nelson
+	Panet Papineau Paquet Pawling Perrault Périnault Pettit Pierreville Planté Prescott Prévost
+	Raby Richardson Richmond Riel Rivard Robinson Rogers Roy
+	"Saint-Martin" Secord Sewell Shaw Sherbrooke Sirois Smith Spencer Stanley Stuart Street Swayze
+	Taché Taschereau Terry Thompson Tod
+	"Van Alstine" Vanier Viger
+	Walker White Wilkinson
+	Young
+}
+
+ship_names = {
+	Cabot Champlain Cartier
+	Acadia Hochelaga Stadacona Laurentian
+	Québec Ontario
+	Athabaskan Cayuga Huron Iroquois Micmac Algonquin Sioux Ojibwa Onondaga
+	Saguenay "St. Maurice" Ottawa Chaudière Richelieu "St. Laurent" Gatineau Margaree
+	Restigouche Saskatchewan Qu'Appelle "St. Francis" "St. Croix" Niagara
+	Bonaventure Manitoulin Anticosti Baffin Miscou Magdalen
+	Gaspe Fundy Labrador Chaleur Chignecto Fortune Miramichi Quinte Thunder Ungava
+	"Cape Breton"
+	Memphrémagog "Bras d'Or" Nipigon
+	Preserver Protecteur
+	Cormorant Lynx Badger Caribou Otter Wolf Grizzly Raccoon Loon "Blue Heron" Mallard Vison Renard Elk Beaver Ambler Husky Reindeer Moose Outarde 
+	}
+
+army_names = {
+	"Canadian Forces" "Canadian Army" "Army of $PROVINCE$"
+}
+
+fleet_names = {
+	"Canadian Navy" "$PROVINCE$ Squadron"
+}

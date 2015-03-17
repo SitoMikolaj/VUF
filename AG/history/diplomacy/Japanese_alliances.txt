@@ -1,0 +1,328 @@
+# Japanese vassal
+vassal = {
+	first = JAP
+	second = RYU
+	start_date = 1609.4.5
+	end_date = 1879.1.1
+}
+
+alliance = {
+	first = HJO
+	second = IMG
+	start_date = 1554.1.1
+	end_date = 1568.1.1
+}
+
+alliance = {
+	first = HJO
+	second = TKD
+	start_date = 1554.1.1
+	end_date = 1568.1.1
+}
+
+alliance = {
+	first = IMG
+	second = TKD
+	start_date = 1554.1.1
+	end_date = 1568.1.1
+}
+
+royal_marriage = {
+	first = IMG
+	second = TKD
+	start_date = 1552.1.1
+	end_date = 1568.1.1
+}
+
+royal_marriage = {
+	first = HJO
+	second = TKD
+	start_date = 1553.1.1
+	end_date = 1568.1.1
+}
+
+royal_marriage = {
+	first = HJO
+	second = IMG
+	start_date = 1554.1.1
+	end_date = 1568.1.1
+}
+
+# Daimyo Vassals
+vassal = {
+	first = JAP
+	second = AMA
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = ASA
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = CSK
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = DTE
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = HJO
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = HSK
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = HTK
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = IKE
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = IMG
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = MAE
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = MRI
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = ODA
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = OTM
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = OUC
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = SBA
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = SMZ
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = TKD
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = TKG
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = UES
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = JAP
+	second = YMN
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+##################
+# Montjoie
+##################
+
+vassal = {
+	first = HSK
+	second = JAP
+	start_date = 1494.1.1
+	end_date = 1508.1.1
+	}
+
+vassal = {
+	first = HSK
+	second = JAP
+	start_date = 1522.1.1
+	end_date = 1546.1.1
+	}
+
+# Coup d'état de Sue Harukata
+# Ouchi-Mori
+alliance = {
+	first = OUC
+	second = MRI
+	start_date = 1453.1.1
+	end_date = 1555.1.1 
+}
+
+vassal = {
+	first = OUC
+	second = MRI
+	start_date = 1453.1.1
+	end_date = 1555.1.1
+}
+
+#Soun Hojo soumet les Imagawa
+vassal = {
+	first = IMG
+	second = HJO
+	start_date = 1453.1.1
+	end_date = 1492.1.1 
+}
+
+alliance = {
+	first = HJO
+	second = TKD
+	start_date = 1453.1.1 
+	end_date = 1519.1.1
+}
+
+#Soun Hojo Envahit les Imagawa qui s'allient aux Takeda
+alliance = {
+	first = IMG
+	second = TKD
+	start_date = 1519.1.1 
+	end_date = 1560.1.1 
+}
+
+alliance = {
+	first = UES
+	second = IMG
+	start_date = 1545.1.1
+	end_date = 1552.1.1
+}
+
+alliance = {
+	first = ODA
+	second = TKG
+	start_date = 1562.1.11
+	end_date = 1582.6.2
+}
+
+alliance = {
+	first = TKD
+	second = IMG
+	start_date = 1554.1.1
+	end_date = 1564.1.1
+}
+
+# La guerre de Kyushu
+alliance = {
+	first = JAP
+	second = OTM
+	start_date = 1587.1.1 
+	end_date = 1588.1.1
+	}
+
+vassal = {
+	first = JAP
+	second = OTM
+	start_date = 1588.1.1
+	end_date = 1600.10.21 #Bataille de Sekigahara
+	}
+
+alliance = {
+	first = JAP
+	second = SMZ
+	start_date = 1588.1.1 
+	end_date = 1600.10.21 #Bataille de Sekigahara
+	}
+
+alliance = {
+	first = JAP
+	second = DTE
+	start_date = 1588.1.1 
+	end_date = 1600.10.21 #Bataille de Sekigahara
+	}
+
+alliance = {
+	first = JAP
+	second = OTM
+	start_date = 1588.1.1 
+	end_date = 1600.10.21 #Bataille de Sekigahara
+	}
+
+# Règne des Tokugawa en tant que Shogun
+
+vassal = {
+	first = JAP
+	second = DTE #Date Masamune is granted the fief of Sendai for his aid
+	start_date = 1600.10.21 #Bataille deSekigahara
+	end_date = 1636.1.1 #Date Masamune dies
+	}
+
+# Vassal des Shimazu-Japon
+vassal = {
+	first = JAP
+	second = SMZ
+	start_date = 1609.1.1
+	end_date = 1879.1.1
+}
+
+vassal = {
+	first = SMZ
+	second = RYU
+	start_date = 1609.1.1 #Tokugawa allowed the Shimazu to annex Ryuku after their losses at Sekigahara
+	end_date = 1619.1.1
+}

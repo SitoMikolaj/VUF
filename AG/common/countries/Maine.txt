@@ -1,0 +1,119 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 126  200  120 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Louis #0" = 80
+	"Charles #1" = 60
+	"Louis-Philippe #0" = 40
+	"Philippe #0" = 40
+	"Gaston #0" = 20
+	"Henri-Alexandre #0" = 20
+	"Nicolas #0" = 20
+	"Alexandre-Louis #0" = 10
+	"Claudine #0" = -10
+	"François #0" = 10
+	"Jean #0" = 5		
+	"Antoine Philippe #0" = 5
+	"Hugues #2" = 1
+	"Robert #1" = 1
+	"Alexandre #0" = 2
+	"Ambroise #0" = 2
+	"Armand #0" = 2
+	"Barthélemy #0" = 2
+	"Bernard #0" = 2
+	"Denis #0" = 2
+	"Eudes #0" = 2
+	"Gui #0" = 2
+	"Guillaume #0" = 2
+	"Gustave #0" = 2
+	"Henri #0" = 2
+	"Jacques #0" = 2
+	"Jean-Baptiste #0" = 2
+	"Jean-Philippe #0" = 2
+	"Jules #0" = 2
+	"Marc #0" = 2
+	"Maurice #0" = 2
+	"Maximiliem #0" = 2
+	"Michel #0" = 2
+	"Pierre #0" = 2
+	"Raoul #0" = 2
+	"René #0" = 2
+	"Samuel #0" = 2
+	"Thibaut #0" = 2
+	"Xavier #0" = 2
+		
+	"Jeanne #0" = -5
+	"Marie #0" = -5
+	"Louise #0" = -5
+	"Diane #0" = -5
+	"Élisabeth #0" = -5
+	"Catherine #0" = -5
+	"Claude #0" = -5
+	"Victoire #0" = -5
+	"Christine #0" = -5
+	"Marguerite #0" = -5
+	"Charlotte #0" = -5
+	"Madeleine #0" = -5
+	"Judith #0" = -5
+	"Béatrice #0" = -5
+	"Adélaïde #0" = -5
+	"Emma #0" = -5
+	"Constance #0" = -5
+	"Anne #0" = -5
+	"Aliénor #0" = -5
+	"Isabelle #0" = -5
+	"Blanche #0" = -5
+	"Marie-Thérèse #0" = -5
+	"Marie-Louise #0" = -5
+	"Henriette #0" = -5
+}
+
+ship_names = {
+	"la Ferté-Bernard" "la Jouanne" "la Mayenne" "la Sarthe" "la Vaige" "la Vègre" 
+	"le Bas-Maine" "le Beauclerc" "le Beaugency" "le Cénoman" "le Charnie" "le Château-du-Loir" "la Colmont" "les Coëvrons" "l'Écommoy" "l'Ernée" "l'Evre" "l'Évron" "le Foulques" "le Griffon" "le Haut-Maine" "l'Huisne" "le Laval" "le Loir" "le Maine" "le Maners" "le Mans" "le Mont des Avaloirs" "le Perseigne" "le Plantagenêt" "le Ragenold" "le Rorgon" "le Sablé-sur-Sarthe" "le Sillé-le Guillaume" "le Vicoin" 
+}
+
+leader_names = {
+	"de Ferté-Bernard" "de Jouanne" "de Mayenne" "de Sarthe" "de Vaige" "de Vègre" 
+	"de Beauclerc" "de Beaugency" "de Cénoman" "de Charnie" "de Château-du-Loir" "de Colmont" "de Coëvrons" "d'Écommoy" "d'Ernée" "d'Evre" "d'Évron" "d'Huisne" "de Laval" "de Loir" "de Maners" "du Mans" "du Mont des Avaloirs" "de Perseigne" "de Sablé-sur-Sarthe" "de Sillé-le Guillaume" "de Vicoin" 
+}
+
+army_names = {
+    "Armée Ducale" "Armée du Maine" "Armée de la Loir" "Armée de Mayenne" "Armée de Sarthe" "Armée des Coëvrons" "Armée de Laval" "Armée du Mans" "Armée de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Flotte Ducale" "Flotte du Maine" "Flotte de Mayenne"
+}

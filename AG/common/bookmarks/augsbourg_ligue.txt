@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "AUGSBOURG_LIGUE_NAME"
+	desc = "AUGSBOURG_LIGUE_DESC"
+	date = 1689.5.1
+	
+	country = FRA
+	country = ENG
+	country = HAB
+	country = SPA
+	country = TUR
+	country = NED
+	
+}

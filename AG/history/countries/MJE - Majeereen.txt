@@ -1,0 +1,99 @@
+government = despotic_monarchy
+mercantilism = 0.15
+technology_group = indian
+unit_type = sub_saharan
+religion = sunni
+primary_culture = somali
+capital = 2788 #Hafun
+
+
+1650.1.1 = {
+	monarch = {
+		name= "Mahmûd I"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1680.1.1 = {
+	monarch = {
+		name= "'Uthmân I"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1720.1.1 = {
+	monarch = {
+		name= "Yûsuf I"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1740.1.1 = {
+	monarch = {
+		name= "Mahmûd II"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name= "Mahmûd III"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1769.1.1 = { # Correction de bug
+	monarch = {
+		name= "Yûsuf II"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1780.1.1 = {
+	monarch = {
+		name= "Yûsuf III"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1810.1.1 = {
+	monarch = {
+		name= "Mahmûd IV"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+
+1815.1.1 = {
+	monarch = {
+		name= "'Uthmân II"
+		dynasty = "Harti"
+		dip = 1
+		mil = 1
+		adm = 1
+	}
+}
+

@@ -1,0 +1,325 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 2
+#innovative_narrowminded = -2
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = 2
+#quality_quantity = 2
+#serfdom_freesubjects = -2
+primary_culture = breton
+religion = catholic
+technology_group = western
+capital = 172	# Nantes
+
+
+1365.4.12 = {
+	monarch = {
+		name = "Jean IV"
+		dynasty = "de Montfort"
+		birth_date = 1339.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1389.12.24 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean V"
+		dynasty = "de Montfort"
+		birth_date = 1389.12.24
+		death_date = 1442.8.29
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1399.11.1 = {
+	monarch = {
+		name = "(Régent Phillipe le Hardi)"
+		dynasty = "de Bourgogne"
+		birth_date = 1342.1.17
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+1399.11.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean V"
+		dynasty = "de Montfort"
+		birth_date = 1389.12.24
+		death_date = 1442.8.29
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1405.12.24 = {
+	monarch = {
+		name = "Jean V"
+		dynasty = "de Montfort"
+		birth_date = 1389.12.24
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1414.5.11 = {
+	heir = {
+		name = "François"
+		monarch_name = "François I"
+		dynasty = "de Montfort"
+		birth_date = 1414.5.11
+		death_date = 1450.7.18
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1442.8.29 = {
+	monarch = {
+		name = "François I"
+		dynasty = "de Montfort"
+		birth_date = 1414.5.11
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1442.8.29 = {
+	heir = {
+		name = "Pierre"
+		monarch_name = "Pierre II"
+		dynasty = "de Montfort"
+		birth_date = 1418.7.7
+		death_date = 1457.9.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1450.7.18 = {
+	monarch = {
+		name = "Pierre II"
+		dynasty = "de Montfort"
+		birth_date = 1418.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1450.7.20 = {
+	heir = {
+		name = "Artur"
+		monarch_name = "Artur III"
+		dynasty = "de Montfort"
+		birth_date = 1393.8.24
+		death_date = 1458.12.26
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+		
+1457.9.23 = {
+	monarch = {
+		name = "Artur III"
+		dynasty = "de Montfort"
+		birth_date = 1393.8.24
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = { name = "Arthur de Richemont" type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 1 }
+	}
+}
+
+1457.9.23 = {
+	heir = {
+		name = "François"
+		monarch_name = "François II"
+		dynasty = "de Montfort"
+		birth_date = 1433.6.23
+		death_date = 1488.9.9
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1458.12.27 = {
+	monarch = {
+		name = "François II"
+		dynasty = "de Montfort"
+		birth_date = 1433.6.23
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1463.6.29 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean VI"
+		dynasty = "de Montfort"
+		birth_date = 1463.6.29
+		death_date = 1463.8.25
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1477.1.25 = {
+	heir = {
+		name = "Anne"
+		monarch_name = "Anne I"
+		dynasty = "de Montfort"
+		birth_date = 1477.1.25
+		death_date = 1514.1.9
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1488.9.10 = {
+	monarch = {
+		name = "(Régent Jean)"
+		dynasty = "de Rieux"
+		birth_date = 1447.6.27
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+1488.9.10 = {
+	heir = {
+		name = "Anne"
+		monarch_name = "Anne I"
+		dynasty = "de Montfort"
+		birth_date = 1477.1.25
+		death_date = 1514.1.9
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1491.11.17 = {
+	monarch = {
+		name = "Anne I"
+		dynasty = "de Montfort"
+		birth_date = 1477.1.25
+		adm = 5
+		dip = 4
+		mil = 1
+		female = yes
+	}
+}
+
+1492.10.11 = {
+	heir = {
+		name = "Charles-Orland" # Fils de Charles 8
+		monarch_name = "Charles I"
+		dynasty = "de Valois"
+		birth_date = 1492.10.11
+		death_date = 1495.12.16
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1499.10.14 = {
+	heir = {
+		name = "Claude"
+		monarch_name = "Claude I"
+		dynasty = "de Valois"
+		birth_date = 1499.10.14
+		death_date = 1525.7.20
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1514.1.10 = {
+	monarch = {
+		name = "Claude I"
+		dynasty = "de Valois"
+		birth_date = 1499.10.14
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}
+
+1518.2.28 = {
+	heir = {
+		name = "François"
+		monarch_name = "François III"
+		dynasty = "de Valois"
+		birth_date = 1518.2.28
+		death_date = 1536.8.10
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1524.7.21 = {
+	monarch = {
+		name = "François III"
+		dynasty = "de Valois"
+		birth_date = 1518.2.28
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1524.7.21 = {
+	heir = {
+		name = "Henri"
+		monarch_name = "Henri II"
+		dynasty = "de Valois"
+		birth_date = 1519.3.31
+		death_date = 1559.7.10
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

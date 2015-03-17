@@ -1,0 +1,116 @@
+government = daimyo
+primary_culture = japanese
+religion = shinto
+technology_group = chinese
+capital = 1030	# owari
+
+1490.1.1 = {
+	monarch = {
+		name = "Tatsukatsu"
+		dynasty = "Oda"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1520.1.1 = {
+	monarch = {
+		name = "Nobusada"
+		dynasty = "Oda"
+		birth_date = 1490.1.1
+#		death_date = 1538.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1520.1.1 = {
+	heir = {
+		name = "Nobuhide"
+		monarch_name = "Nobuhide"
+		dynasty = "Oda"
+		birth_date = 1510.1.1
+		death_date = 1551.4.8
+		claim = 80
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1527.1.1 = { 
+	monarch = {
+		name = "Nobuhide"
+		dynasty = "Oda"
+		birth_date = 1510.1.1
+#		death_date = 1551.4.8
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1534.6.23 = {
+	heir = {
+		name = "Nobunaga"
+		monarch_name = "Nobunaga"
+		dynasty = "Oda"
+		birth_date = 1534.6.23
+		death_date = 1582.6.21
+		claim = 90
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1551.1.1 = { leader = {	name = "Akechi Mitsuhide"  type = general	rank = 3 fire = 0 shock = 3	manuever = 2 siege = 0	death_date = 1582.6.21 } }
+	
+1551.4.8 = { 
+	monarch = {
+		name = "Nobunaga"
+		dynasty = "Oda"
+		birth_date = 1534.6.23
+#		death_date = 1582.6.21
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}
+
+1557.1.1 = {
+	heir = {
+		name = "Nobutada"
+		monarch_name = "Nobutada"
+		dynasty = "Oda"
+		birth_date = 1557.1.1
+		death_date = 1582.6.21
+		claim = 90
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1568.1.1 = { leader = {	name = "Asai Nagamasa"  type = general	rank = 3 fire = 1 shock = 3	manuever = 2 siege = 0	death_date = 1570.1.1 } }
+
+1568.9.26 = { set_country_flag = yamashiro_taken }
+1568.10.18 = { set_country_flag = shogun_puppet }
+
+1569.1.1 = { leader = {	name = "Kuki Yoshitaka"  type = admiral	rank = 4 fire = 4 shock = 3	manuever = 4 siege = 0	death_date = 1582.6.21 } }
+
+1570.1.1 = { leader = {	name = "Shibata Katsuie"  type = general	rank = 3 fire = 1 shock = 3	manuever = 1 siege = 0	death_date = 1583.6.11 } }
+	
+1582.6.21 = { 
+	monarch = {
+		name = "Hidenobu"
+		dynasty = "Oda"
+		birth_date = 1580.1.1
+#		death_date = 1605.6.24
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

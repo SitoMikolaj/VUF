@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 211  172  185 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Carlo #0" = 40
+	"Leonardo #1" = 20
+	"Giovanni #1" = 10
+	"Antonio #0" = 10
+	"Carlo Antonio #0" = 10
+	"Restaiano Gioachinno #0" = 10
+	"Akakios #0" = 2
+    "Alexandros #0" = 2
+	"Anargyros #0" = 2
+	"Anastasios #0" = 2
+    "Andreas #0" = 2
+	"Angelos #0" = 2
+    "Aniketos #0" = 2
+	"Apostolos #0" = 2
+	"Argyros #0" = 2
+	"Athanasios #0" = 2
+	"Charalampos #0" = 2
+	"Chrysanthos #0" = 2
+	"Demetrios #0" = 2
+    "Dimosthenes #0" = 2
+	"Dionysios #0" = 2
+	"Dorotheos #0" = 2
+	"Efsthathios #0" = 2
+	"Eleftherios #0" = 2
+	"Elias #0" = 2
+	"Emmanouil #0" = 2
+	"Evangelos #0" = 2
+	"Georgios #0" = 2
+	"Gregorios #0" = 2
+	"Ioannes #0" = 2
+	"Konstantinos #0" = 2
+	"Nikodemos #0" = 2
+	"Pavlos #0" = 2
+	"Petros #0" = 2
+	"Philippos #0" = 2
+	"Photios #0" = 2
+	"Stephanos #0" = 2
+	"Theophylaktos #0" = 2
+	"Vasilis #0" = 2
+	"Vlasis #0" = 2
+	
+	"Xenia #0" = -1
+	"Zinovia #0" = -1
+	"Melina #0" = -1
+}
+
+leader_names = { 
+	Balbi Bouas 
+	Capodistria 
+	Fadrigue Flamburiari
+	Gentilini Giallina Giorgio
+	Kourkoumelis
+	Marmora Minotto
+	Soranzo 
+	Pieri Prosalendi
+	Sordina Spathas
+	Theotokis Tocco
+	Voulgaris
+	Zorzi
+}
+
+ship_names = {
+	"Akra Mounta" "Akra Liakas" "Akra Gerogompos" "Akra Agiou Andreou"
+	"Kaplos Lagana" "Kolpos Argostolion" "Kolpos Myrtou" Kefallonia 
+	"Prothumos Zakynthou"
+	"Steno Ithoakis"
+}
+ army_names = {
+	"Armata de Corfu" "Armata de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina de Corfu" "Marina de $PROVINCE$"
+}

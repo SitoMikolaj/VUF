@@ -1,0 +1,624 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = korean
+religion = confucianism
+technology_group = chinese
+capital = 735	# Hanseong
+
+1392.7.18 = {
+	monarch = {
+		name = "Taejo" #Taejo
+		dynasty = "Yi"
+		birth_date = 1335.10.11
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+
+1392.7.18 = {
+	heir = {
+		name = "Bang-gwa"
+		monarch_name = "Jeongjong"
+		dynasty = "Yi"
+		birth_date = 1357.7.1
+		death_date = 1419.9.26
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1398.9.5 = {
+	monarch = {
+		name = "Jeongjong" #Jeongjong
+		dynasty = "Yi"
+		birth_date = 1357.7.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1398.9.5 = {
+	heir = {
+		name = "Bang-won"
+		monarch_name = "Taejong"
+		dynasty = "Yi"
+		birth_date = 1367.6.13
+		death_date = 1422.5.30
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1400.11.13 = {
+	monarch = {
+		name = "Taejong"
+		dynasty = "Yi"
+		birth_date = 1367.6.13
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1400.11.13 = {
+	heir = {
+		name = "Do"
+		monarch_name = "Sejong Daewang"
+		dynasty = "Yi"
+		birth_date = 1397.5.7
+		death_date = 1450.5.18
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1418.9.18 = {
+	monarch = {
+		name = "Sejong Daewang" #Sejong Daewang
+		dynasty = "Yi"
+		birth_date = 1397.5.7
+		adm = 6
+		dip = 5
+		mil = 5
+	}
+}
+
+1418.9.18 = {
+	heir = {
+		name = "Hyang"
+		monarch_name = "Munjong"
+		dynasty = "Yi"
+		birth_date = 1414.11.15
+		death_date = 1452.6.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1450.5.18 = {
+	monarch = {
+		name = "Munjong" #Munjong
+		dynasty = "Yi"
+		birth_date = 1414.11.15
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1450.5.18 = {
+	heir = {
+		name = "Hong-wi"
+		monarch_name = "Danjong"
+		dynasty = "Yi"
+		birth_date = 1441.7.23
+		death_date = 1457.12.24
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1452.6.12 = {
+	monarch = {
+		name = "Danjong" #Danjong
+		dynasty = "Yi"
+		birth_date = 1441.7.23
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1452.6.12 = {
+	heir = {
+		name = "Yu"
+		monarch_name = "Sejo"
+		dynasty = "Yi"
+		birth_date = 1417.9.29
+		death_date = 1468.9.8
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1455.6.11 = {
+	monarch = {
+		name = "Sejo" #Sejo
+		dynasty = "Yi"
+		birth_date = 1417.9.29
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1455.6.11 = {
+	heir = {
+		name = "Gwang"
+		monarch_name = "Yejong"
+		dynasty = "Yi"
+		birth_date = 1450.2.12
+		death_date = 1469.12.31
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1468.9.8 = {
+	monarch = {
+		name = "Yejong" #Yejong
+		dynasty = "Yi"
+		birth_date = 1450.2.12
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1468.9.8 = {
+	heir = {
+		name = "Hyeol"
+		monarch_name = "Seongjong"
+		dynasty = "Yi"
+		birth_date = 1457.8.20
+		death_date = 1494.1.20
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1469.12.31 = {
+	monarch = {
+		name = "(Jeonghui Wanghu)"
+		dynasty = "Yi"
+		birth_date = 1418.12.8
+		adm = 3
+		dip = 3
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1469.12.31 = {
+	heir = {
+		name = "Hyeol"
+		monarch_name = "Seongjong"
+		dynasty = "Yi"
+		birth_date = 1457.8.20
+		death_date = 1494.1.20
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1476.8.20 = {
+	monarch = {
+		name = "Seongjong" #Seongjong
+		dynasty = "Yi"
+		birth_date = 1457.8.20
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1479.10.24 = {
+	heir = {
+		name = "Yung"
+		monarch_name = "Yeonsan-gun"
+		dynasty = "Yi"
+		birth_date = 1479.10.24
+		death_date = 1506.11.20
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1494.1.20 = {
+	monarch = {
+		name = "Yeonsan-gun" #Yeonsangun
+		dynasty = "Yi"
+		birth_date = 1476.10.24
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1494.1.20 = {
+	heir = {
+		name = "Yeok"
+		monarch_name = "Jungjong"
+		dynasty = "Yi"
+		birth_date = 1488.4.16
+		death_date = 1544.11.29
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1506.11.20 = {
+	monarch = {
+		name = "Jungjong" #Jungjong
+		dynasty = "Yi"
+		birth_date = 1488.4.16
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1515.3.10 = {
+	heir = {
+		name = "Ho"
+		monarch_name = "Injong"
+		dynasty = "Yi"
+		birth_date = 1515.3.10
+		death_date = 1545.8.8
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1544.11.29 = {
+	monarch = {
+		name = "Injong" #Injong
+		dynasty = "Yi"
+		birth_date = 1515.3.10
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1544.11.29 = {
+	heir = {
+		name = "Hwan"
+		monarch_name = "Myeongjong"
+		dynasty = "Yi"
+		birth_date = 1534.7.3
+		death_date = 1567.8.3
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1545.8.8 = {
+	monarch = {
+		name = "(Munjeong)" 
+		dynasty = "Yi"
+		birth_date = 1502.2.1
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+		female = yes
+	}
+}
+
+1545.8.8 = {
+	heir = {
+		name = "Hwan"
+		monarch_name = "Myeongjong"
+		dynasty = "Yi"
+		birth_date = 1534.7.3
+		death_date = 1567.8.3
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1561.7.3 = {
+	monarch = {
+		name = "Myeongjong" #Myeongjong
+		dynasty = "Yi"
+		birth_date = 1534.7.3
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1561.7.3 = {
+	heir = {
+		name = "Yeon"
+		monarch_name = "Seonjo"
+		dynasty = "Yi"
+		birth_date = 1552.12.26
+		death_date = 1608.3.17
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1567.8.3 = {
+	monarch = {
+		name = "Seonjo" #Seonjo
+		dynasty = "Yi"
+		birth_date = 1552.12.26
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1575.4.25 = {
+	heir = {
+		name = "Hon"
+		monarch_name = "Gwanghaegun"
+		dynasty = "Yi"
+		birth_date = 1575.4.25
+		death_date = 1641.8.7
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1576.1.1 = { leader = {	name = "Yi Sun-Sin"		type = admiral	rank = 1	fire = 6	shock = 6	manuever = 6	siege = 0	death_date = 1598.11.1 } }
+
+1608.3.17 = {
+	monarch = {
+		name = "Gwanghaegun" #Gwanghaegun
+		dynasty = "Yi"
+		birth_date = 1575.4.25
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1608.3.17 = {
+	heir = {
+		name = "Injo"
+		monarch_name = "Injo"
+		dynasty = "Yi"
+		birth_date = 1595.12.7
+		death_date = 1649.6.17
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1623.4.13 = {
+	monarch = {
+		name = "Injo" #Injo
+		dynasty = "Yi"
+		birth_date = 1595.12.7
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1623.4.13 = {
+	heir = {
+		name = "Ho"
+		monarch_name = "Hyojong"
+		dynasty = "Yi"
+		birth_date = 1619.7.3
+		death_date = 1659.6.23
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1649.6.17 = {
+	monarch = {
+		name = "Hyojong" #Hyojong
+		dynasty = "Yi"
+		birth_date = 1619.7.3
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1649.6.17 = {
+	heir = {
+		name = "Yon" 
+		monarch_name = "Hyeonjong"
+		dynasty = "Yi"
+		birth_date = 1641.3.15
+		death_date = 1675.9.17
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1659.6.23 = {
+	monarch = {
+		name = "Hyeonjong" #Hyeonjong
+		dynasty = "Yi"
+		birth_date = 1641.3.15
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1661.8.15 = {
+	heir = {
+		name = "Sun"
+		monarch_name = "Sukjong"
+		dynasty = "Yi"
+		birth_date = 1661.8.15
+		death_date = 1720.7.13
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1675.9.17 = {
+	monarch = {
+		name = "Sukjong" #Sukjong
+		dynasty = "Yi"
+		birth_date = 1661.8.15
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+1688.11.20 = {
+	heir = {
+		name = "Yun"
+		monarch_name = "Gyeongjong"
+		dynasty = "Yi"
+		birth_date = 1688.11.20
+		death_date = 1724.10.11
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1720.7.13 = {
+	monarch = {
+		name = "Gyeongjong" #Gyeongjong
+		dynasty = "Yi"
+		birth_date = 1688.11.20
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1720.7.13 = {
+	heir = {
+		name = "Geum"
+		monarch_name = "Yeongjo"
+		dynasty = "Yi"
+		birth_date = 1694.9.13
+		death_date = 1776.3.5
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1724.10.7 = {
+	monarch = {
+		name = "Yeongjo" #Yeongjo
+		dynasty = "Yi"
+		birth_date = 1694.9.13
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1752.9.22 = {
+	heir = {
+		name = "San"
+		monarch_name = "Jeongjo"
+		dynasty = "Yi"
+		birth_date = 1752.9.22
+		death_date = 1800.6.28
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+
+1776.3.10 = {
+	monarch = {
+		name = "Jeongjo" #Jeongjo
+		dynasty = "Yi"
+		birth_date = 1752.9.22
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1790.7.29 = {
+	heir = {
+		name = "Gong"
+		monarch_name = "Sunjo"
+		dynasty = "Yi"
+		birth_date = 1790.7.29
+		death_date = 1834.12.13
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1800.6.28 = {
+	monarch = {
+		name = "Sunjo" #Sunjo
+		dynasty = "Yi"		
+		birth_date = 1790.7.29
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}

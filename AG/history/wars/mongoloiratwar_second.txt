@@ -1,0 +1,17 @@
+name = "Seconde guerre des Khans"
+
+#casus_belli
+war_goal = {
+	type = take_province_tribal_feud
+	casus_belli = cb_tribal_feud
+}
+
+1418.1.1 = {
+	add_attacker = KHA
+	add_defender = OIR
+}
+
+1424.1.1 = {
+	rem_attacker = KHA
+	rem_defender = OIR
+}

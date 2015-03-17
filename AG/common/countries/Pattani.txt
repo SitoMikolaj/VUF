@@ -1,0 +1,77 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 140  134  164 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	quantity_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Râja Isma'il Shâh #0" = 20
+	"Muzaffar Shâh #0" = 20
+	"Mansûr Shâh #0" = 20
+	"Patik Siam #0" = 20
+	"Bahadur Shâh #0" = 20
+	"Râja Hijau #0" = 20
+	"Râja Buru #0" = 20
+	"Râja Ungku #0" = 20
+	"Râja Kening #0" = 20
+	"Râja Bakalan #0" = 20
+	"Râja Emas Kelantan #0" = 20
+	"Râja Dewi Perachu #0" = 20
+	"Shâh 'Alam #0" = 20
+	"Râja Laksmana Dajang #0" = 20
+	"Râja Emas Jayam Baginda #0" = 20
+	"Alung Yunus #0" = 20
+	"Râja Yunus #0" = 20
+	"Râja Long Nuh #0" = 20
+	
+	"Malai #0" = -1
+}
+
+leader_names = {
+	Mahidol
+	Nitaya
+	Pichit
+	Prem
+	Puarborn
+	Samak
+	Sarit
+	Sunthorn
+	Thawan
+	Traivut
+}
+
+ship_names = {
+	Pattani Yala Narathiwat "Sai Buri"
+	"Na Thawi" "Sungai Kolok" 
+	Yaring Thepha Tumpat "Bukit Ulu"
+}
+
+army_names = {
+	"Laskar Sultan" "Laskar Patani" "Laskar $PROVINCE$" 
+}
+
+fleet_names = {
+	"Angkatan Laut Sultan" "Angkatan Laut Patani" "Angkatan Laut $PROVINCE$" 
+}

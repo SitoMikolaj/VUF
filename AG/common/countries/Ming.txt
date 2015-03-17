@@ -1,0 +1,150 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 179  128  104 }
+
+revolutionary_colors = { 5  8  1 } #Inspired by the Five Color Flag
+
+historical_score = 1300
+
+historical_idea_groups = {
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+	humanist_ideas
+	quantity_ideas
+	influence_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Hongwu #0" = 10
+	"Jianwen #0" = 10
+	"Yongle #0" = 10
+	"Hongxi #0" = 10
+	"Xuande #0" = 10
+	"Zhengtong #0" = 10
+	"Jingtai #0" = 10
+	"Tianshun #0" = 10
+	"Chenghua #0" = 10
+	"Hongzhi #0" = 10
+	"Zhengde #0" = 10
+	"Jiajing #0" = 10
+	"Longqing #0" = 10
+	"Wanli #0" = 10
+	"Taichang #0" = 10
+	"Tianqi #0" = 10
+	"Chongzhen #0" = 10
+	"Hongguang #0" = 10
+	"Longwu #0" = 10
+	"Yongli #0" = 10
+	"Ai #0" = 10
+	"Aichong #0" = 10
+	"An #0" = 10
+	"Dao #0" = 10
+	"Daohuai #0" = 10
+	"Ding #0" = 10
+	"Duan #0" = 10
+	"Gong #0" = 10
+	"Hejian #0" = 10
+	"Huai #0" = 10
+	"Huaichong #0" = 10
+	"Huaihui  #0" = 10
+	"Huaixian #0" = 10
+	"Huan #0" = 10
+	"Hui #0" = 10
+	"Huizhao #0" = 10
+	"Jian #0" = 10
+	"Jing #0" = 10
+	"Li #0" = 10
+	"Liang #0" = 10
+	"Ling #0" = 10
+	"Min #0" = 10
+	"Mu #0" = 10
+	"Muzong #0" = 10
+	"Qisi #0" = 10
+	"Shaowu #0" = 10
+	"Xian #0" = 10
+	"Xianchong #0" = 10
+	"Xianghuai  #0" = 10
+	"Xianmin #0" = 10
+	"Yi #0" = 10
+	"Yin #0" = 10
+	"Yiwen #0" = 10
+	"Yixun #0" = 10
+	"Zhao #0" = 10
+	"Zhuang #0" = 10
+	"Zhuangjin #0" = 10
+}
+
+leader_names = {
+	Baoqing Baoyu Baoyuan "von Bell"
+	Chonghe Chongzhen Chongning Chunxi Chunyu "Cui Cai" Cheng "Cheng'en"
+	Daguan Deyu Duangong Duanping Deng
+	Huang Hongguang Hongwu Hongxi Hongzhi Huangyu 
+	Fang Fa Feng
+	Gao Guodao
+	Jiading Jiajing Jianlong Jianwen Jianyan Jiaxi Jiayu Jingde Jingding Jingkang Jingtai Jingyan Jingyu Jin
+	Kaibo Kaiqing Kaixi Kangding 
+	Lei Liu Lin "Li Wang" Longqing Longwu Longxing Luo Liang Li
+	Mingdao Ma
+	Qiandao Qiande Qianxing Qingli Qingyuan Qichang Qi
+	Ricci
+	Shaoding Shaowu Shaosheng Shaoxi Shaoxing "Sun Ma" Song Shen Shizhen Shimin	
+	Taichang Tian Tiansheng Tianxi Tang
+	Wanli Wu Wang
+	Xianchun Xianping Xiangxing Xining Xuanhe Xu Xiao "Xie He" Xiake
+	Yang Yongxi Yuanfeng Yuanfu Yuanyu "Yang Wu" Yi Yin Yuan Yangming Ying
+	Zhang Zhengtong Zhengde Zhenghe Zhidao Zhihe Zhiping "Zhang Liu" "Zhao Chen" Zhu Zheng Zhao Zhou Zhenming Zhongxian Zongxi
+}
+
+ship_names = {
+	Anhui
+	Beijing "Bo Qian" "Baochuan" Bei "Bei Song" Bohai Beipan "Bao Jiang" "Bei Lao-ye"
+	Chendo "Chang Jiang" "Cao Xu" "Cheng Ho" Chun Chishui "Chi You" "Can Nü" "Cao Guojiu"
+	"Dantai Mieming" "Da Ming Guo" "Dong Zhou" "Dong Han" "Dong Jin" Dadu Dong "Dong Hai" "Di Jun"
+	Fuzhou "Fu Buji" "Fan Xu" Fuxi Fujian "Feng Meng"
+	Gaodi Guilin Guangzhou Guiyang "Gungye Chang" "Gongxi Ai" "Gao Chai" "Gongbo Liao" "Gongxi Chi" "Gongsun Long" Guo Gonggong Gansu Guangdong Guangxi Guizhou Gui Gu Goku "Guan Yin"
+	Huidi Hangzhou "Huang Di" Henan Hubei Hunan "Heilong Jiang" "Huang He" "Hai He" Hongshui He Hainan "Huang Hai" "He Bo" "Heng'e" "Hei Lao-Ye" "Han Xiang" "He Xiangu"
+	louchuan
+	Jinan Jin Jiangsu Jiangxi Jialing "Jing Wei"
+	"Kong Fuzi" Ku Kunlun "Kua Fu" "Kui Xing"
+	"Liang Zhan" Liao Liu Long Lian "Li Tieguai" "Lü Tongbin" "Lan Caihe"
+	"Meng Zi" "Min Sun" Ming
+	Nanjing Nanchang "Nangong Kuo" "Nan Bei Chao" Nan "Nan Song" "Nán Hai" Nuwa Nanpan Nugua	
+	"Qidiao Kai" Qiu Qin "Qin Pi" Qilin
+	"Ran Geng" "Ran Yong" "Ran Ru" Rong
+	"Sima Geng" "Shang Zhu" Sui "San Huang Wudì" Shang "San Guo" "Shi Guó" Shennong Shun Shaohao Shaanxi Shandong Shanxi Sichuan "Shen Nong" "Shou Lao"
+	Taiyuan Tang Taihao Taishan	
+	Wendi Wuchang "Wuma Shi" "Wu Dai" 	
+	Xi'an "Xijiang" "Xunzi" Xia "Xi Zhou" "Xi Han" Xin "Xi Jin" "Xi Jiang" Xun Xi "Xi Wang Mu" "Xuan Nü" "Xing Tian" "Xi He" "Xiang Yao" "Xuan Zang"
+	Yai Yunnan "Yan Hui" "Yuan Xian" "Yan Xing" "Yu Ruo" "Yan Wuyao" "Yang Guang" Yuan "Yu Di" Yao Yandi "Yangzi Jiang" You Yong Yu "Yan Di" Yi "Ying Long" "Yue Fei"
+	"Zeng He" Zhaodi Zhangdi Ziyu Zilu Zigong Zixia Zizhang "Zeng Shen" "Zeng Dian" Zhou Zhan Zhurong Zhuanxu Zhejiang Zhili "Zhu Jiang" Zuo "Zao Jun" "Zhongli Quan" "Zhang Guolao"
+}
+
+army_names = {
+	"Shi Wei" "Shi Jun" "Zhongguo Jun" "Míng Cháo Jun" "Pi Xiu Jun" "Xiong Shi" "San Jun" "Zhong Jun" "Bu Dui Jun" "Bing Tuan Jun" "Lu Jun" "Dui Jun" "Biao Kè Jun" "Hou Wei Jun" "Liu Shou Jun" "Yi Jun" "Er Jun" "Sì Jun" "Wu Jun" "Liù Jun" "Qi Jun" "Ba Jun" "Jiu Jun" "$PROVINCE$ Jun"
+}
+
+fleet_names = {
+	"Shi Hai Jun" "Hua xia Hai Jun" "Zhong Hua Hai Jun" "Zhong guo Hai Jun" "Jian dui" "Chuan dui" "Jin Hai Jun" "Bo Hai Jun" "$PROVINCE$ Hai Jun"
+}

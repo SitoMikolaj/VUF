@@ -1,0 +1,135 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 154  129  35 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	mughal_musketeer
+	mughal_mansabdar
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Raghujî #0" = 20
+	"Janojî #0" = 20
+	"Sabajî #0" = 20
+	"Mudhojî #1" = 20
+	"Shivâjî #0" = 20
+	"Sambhâjî #0" = 20
+	"Râjârâm #0" = 20
+	"Râmajara #0" = 20
+	"Shâhû #0" = 30
+	"Sundar #0" = 2
+	"Krishna #0" = 2
+	"Barman #0" = 2
+	"Biwarta #0" = 2
+	"Jagannâth #0" = 2
+	"Nârâyana #0" = 2
+	"Bebarta #0" = 2
+	"Chandra #0" = 2
+	"Dâmodar #0" = 2
+	"Jadunath #0" = 2
+	"Pradîp #0" = 2
+	"Bâjî Prabhu #0" = 2
+	"Sûryajî #0" = 2
+	"Tânâjî #0" = 2
+	"Chimâjî #0" = 2
+	"Rânôjî #0" = 2
+	"Râghunâth Râo #0" = 2
+	"Malhâr #0" = 2
+	"Tukojî Râo #0" = 2
+	"Haripant #0" = 2
+	"Yashwant Râo  #0" = 2
+	"Darya Bâî #0" = -4
+	"Baka Bâî #0" = -1
+	"Sâvitrî Bâî #0" = -1
+	"Umâ Bâî #0" = -1
+	"Annapûrnâ Bâî #0" = -1
+}
+
+leader_names = {
+	Virmânî
+	Sugrîva
+	Purujit
+	Rajal
+	Nirmal
+	Muthuswâmi
+	Vish
+	Virâj
+	Tyâgî
+	Lâhirî
+	Bhonsle
+	Sindhe
+	Singh
+	Deo
+	Gangâbansî
+	Pûsapâti
+	Ghumsur
+	Parmâr
+	Pattanâyaka
+	Sâmant
+	Rawat
+	Deb
+	Bhanja
+	Vidyâdhar
+	Mâlusare
+	Nikam
+	Dabhad
+	Shirke
+	Môrây
+	Nimbalkar
+	Kâte
+	Chavân
+	Râne
+	Gujar
+	Aher
+	Sâwant
+	Kaushal
+	Khursh
+	Narsala
+	Krishnamma
+	Lôlâksi
+	Maruthi
+	Nâgarâj
+	Ramiyâ
+}
+
+ship_names = {
+	Agni Bhîma Brahmâ Devî Durgâ
+	Ganesha Gâyatrî Hanumân
+	Îndra Jalsena "Kâla Jahâzî"
+	Kali Kubera Krishna Lakshmî
+	"Lâl Jahâzî" Nausenâ "Nav ka Yudh"
+	"Nîla Jahâzî" Pârvatî Râdhâ Râtri
+	Sâgar Sarasvatî Shiva Sîtâ Sôma
+	Sûrya Varuna Vâyu Vîshnu Yama
+}
+
+army_names = {
+	"Mahârâja Vaahinii" "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Mahârâja Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

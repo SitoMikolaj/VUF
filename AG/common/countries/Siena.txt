@@ -1,0 +1,127 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 165  171  115 }
+
+historical_idea_groups = {
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	religious_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Borghese #0" = 20
+	"Cesare #0" = 20
+	"Pandolfo #0" = 20
+	"Rafaello #0" = 20
+	"Francesco #0" = 20
+	"Fabio #0" = 20
+	"Gian Galeazzo #0" = 20
+	"Giovanni Maria #0" = 20
+	"Carlo #2" = 15
+	"Azzone #0" = 15
+	"Filippo Maria #0" = 15
+	"Gaspare #0" = 15
+	"Adriano #0" = 2
+	"Alessio #0" = 2
+	"Baldovino #0" = 2
+	"Beniamino #0" = 2
+	"Biagio #0" = 2
+	"Constantino #0" = 2
+	"Damiano #0" = 2
+	"Danilo #0" = 2
+	"Eustachio #0" = 2
+	"Evangelista #0" = 2
+	"Fortunato #0" = 2
+	"Gennaro #0" = 2
+	"Gianpaolo #0" = 2
+	"Giovanni #0" = 2
+	"Giustino #0" = 2
+	"Innocenzo #0" = 2
+	"Marco #0" = 2
+	"Mauro #0" = 2
+	"Orfeo #0" = 2
+	"Pasquale #0" = 2
+	"Rinaldo #0" = 2
+	"Roberto #0" = 2
+	"Sergio #0" = 2
+	"Severino #0" = 2
+	"Ugo #0" = 2
+	"Valerio #0" = 2
+	"Vincenzo #0" = 2
+	"Vitale #0" = 2
+	
+	"Elsa #0" = -1
+	"Giulia #0" = -1
+	"Lucrezia #0" = -1
+}
+
+leader_names = {
+	Accarigi Alighieri Amelia 
+	Barone Barzagli Borghese Borgia "di Betto Pinturicchio" Bazzi
+	Castro Cecchereni Compagnoni 
+	Damiani "Di Stefano"
+	Fossombroni 
+	Galilei Gallo Gentile "Golia di Siena" Griccioli Grosso Guerra "di Giorgio"
+	Idoni
+	Labriola
+	Nardi Neri 
+	Oddo Orlando 
+	Palumbo Pannocchieschi Petrucci Pianella Piccolomini "del Piero" Pirlo "da Porcari" Poliziano
+	Quercegrossa 
+	Riario "de Rossi" 
+	Salimbeni "da Sangallo" Segni "da Staggia"
+	Testa Torricelli 
+	Uccello
+	Vagliagli Visconti Vitali Viviani
+	Zaccardo Zeti
+}
+
+ship_names = {
+	"Ambrogio Lorenzetti" Asciano
+	"Bartolomeo Guidi" "Bonaguida Lucari"
+	"Carlo IV" "Castelnuovo Berardenga" Chianti  Costalpino "Crete Senesi"
+	Donatello "Duccio di Buoninsegna" 
+	Elsa
+	"fiumi Arbia" "Francesco di Rinaldo"
+	"Ghibellini" "Giovanni di Balduccio"
+	"Isola d'Arbia" 
+	Merse "Minuccio di Rinaldo" "Misser santo Micchele arcangelo" Montagnola
+	Montaperti Monteriggioni "Monteroni d'Arbia"
+	"Orlando Bonsignori"
+	"San Bernardino" "San Domenico" "San Francesco" "San Galgano"
+	"San Giovanni" "San Miniato" "Sant'Ansano" "Santa Caterina"
+	"Santa Maria dei Servi" "Santissima Annunziata" Senius Sovicille 
+	"Taverne d'Arbia" 
+}
+
+army_names = {
+	"Esercito del popolo" "Esercito Comunale" "Guardia della Città" "Armata di $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina di Siena" "Marina di $PROVINCE$"
+}

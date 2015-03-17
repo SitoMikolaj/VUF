@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "EMPIRE_NAPOLEON_NAME"
+	desc = "EMPIRE_NAPOLEON_DESC"
+	date = 1805.8.9
+	
+	country = FRA
+	country = GBR
+	country = HAB
+	country = RUS
+	country = PRU
+	country = TUR
+	
+}

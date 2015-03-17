@@ -1,0 +1,267 @@
+government = elective_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -3
+technology_group = western
+primary_culture = prussian
+culture_group_union = germanic
+religion = catholic
+capital = 50	# Berlin
+
+1347.10.11 = {
+	monarch = {
+		name = "Karl IV"
+		dynasty = "von Luxemburg"
+		birth_date = 1316.5.14
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1378.11.29 = {
+	monarch = {
+		name = "Václav IV"
+		dynasty = "von Luxemburg"
+		birth_date = 1361.2.26
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1400.8.20 = {
+	monarch = {
+		name = "Ruprecht III"
+		dynasty = "von Wittelsbach"		
+		birth_date = 1352.5.5
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+1410.5.18 = {
+	monarch = {
+		name = "Jobst I"
+		dynasty = "von Luxemburg"
+		birth_date = 1351.12.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1411.1.18 = {
+	monarch = {
+		name = "Zsigmond I"
+		dynasty = "von Luxemburg"
+		birth_date = 1368.2.14	
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1437.12.9 = {
+	monarch = {
+		name = "Albrecht II"
+		dynasty = "von Habsburg"
+		birth_date = 1397.8.10
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+1439.10.27 = {
+	monarch = {
+		name = "Friedrich III"
+		dynasty = "von Habsburg"
+		birth_date = 1415.9.21
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1493.8.21 = {
+	monarch = {
+		name = "Maximilian I"
+		dynasty = "von Habsburg"
+		birth_date = 1459.3.22
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1519.1.12 = {
+	monarch = {
+		name = "Karl II" 
+		dynasty = "von Habsburg"
+		birth_date = 1500.2.24
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+
+1556.1.16 = {
+	monarch = {
+		name = "Ferdinand I"
+		dynasty = "von Habsburg"
+		birth_date = 1503.3.10
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1564.7.27 = {
+	monarch = {
+		name = "Maximilian II"
+		dynasty = "von Habsburg"
+		birth_date = 1527.7.31
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1576.10.14 = {
+	monarch = {
+		name = "Rudolf II"
+		dynasty = "von Habsburg"
+		birth_date = 1552.7.18
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1612.1.22 = {
+	monarch = {
+		name = "Matthias I"
+		dynasty = "von Habsburg"
+		birth_date = 1557.2.24
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1619.3.22 = {
+	monarch = {
+		name = "Ferdinand II"
+		dynasty = "von Habsburg"
+		birth_date = 1578.7.9
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1637.2.15 = {
+	monarch = {
+		name = "Ferdinand III"
+		dynasty = "von Habsburg"
+		birth_date = 1608.7.13
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1658.7.1 = {
+	monarch = {
+		name = "Leopold I"
+		dynasty = "von Habsburg"
+		birth_date = 1640.6.9
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+1705.5.7 = {
+	monarch = {
+		name = "Josef I"
+		dynasty = "von Habsburg"
+		birth_date = 1678.7.26
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1711.4.19 = {
+	monarch = {
+		name = "Karl VI"
+		dynasty = "von Habsburg"
+		birth_date = 1685.10.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1740.10.22 = {
+	monarch = {
+		name = "Karl VII"
+		dynasty = "von Wittelsbach"
+		birth_date = 1697.8.6
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1745.1.20 = {
+	monarch = {
+		name = "Franz I"
+		dynasty = "de Lorraine"
+		birth_date = 1708.12.8
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1765.8.18 = {
+	monarch = {
+		name = "Josef II"
+		dynasty = "von Habsburg"
+		birth_date = 1741.3.13
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+1790.2.20 = {
+	monarch = {
+		name = "Leopold II"
+		dynasty = "von Habsburg"
+		birth_date = 1747.5.5
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1792.3.3 = {
+	monarch = {
+		name = "Franz II"
+		dynasty = "von Habsburg"
+		birth_date = 1768.2.12
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

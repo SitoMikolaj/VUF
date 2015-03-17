@@ -1,0 +1,141 @@
+#Country Name: Seeee the Name of this File.
+
+graphical_culture = westerngfx
+
+color = { 156  179  189 }
+
+historical_score = 1000
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	trade_ideas
+	plutocracy_ideas
+	administrative_ideas
+	maritime_ideas
+	naval_ideas
+	innovativeness_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ernst #0" = 20
+	"Friedrich #0" = 20
+	"Konrad #0" = 15
+	"Otto #0" = 15
+	"Hermann #0" = 10
+	"Philipp #0" = 10
+	"Adalbert #0" = 2
+	"Albrecht #0" = 2
+	"Alexander #0" = 2
+	"Baldur #0" = 2
+	"Barnabas #0" = 2
+	"Burkhard #0" = 2
+	"Diederick #0" = 2
+	"Dieter #0" = 2
+	"Eckbert #0" = 2
+	"Erwin #0" = 2
+	"Fabian #0" = 2
+	"Florian #0" = 2
+	"Gottschalk #0" = 2
+	"Gregor #0" = 2
+	"Hagan #0" = 2
+	"Hartwin #0" = 2
+	"Herbert #0" = 2
+	"Jeremias #0" = 2
+	"Joseph #0" = 2
+	"Julius #0" = 2
+	"Jürgen #0" = 2
+	"Kuno #0" = 2
+	"Kurt #0" = 2
+	"Markus #0" = 2
+	"Martin #0" = 2
+	"Niklas #0" = 2
+	"Oskar #0" = 2
+	"Reinhard #0" = 2
+	"Siegfried #0" = 2
+	"Thomas #0" = 2
+	"Valentin #0" = 2
+	"Viktor #0" = 2
+	"Wenzel #0" = 2
+	"Wilfried #0" = 2
+	
+	"Amalie #0" = -1
+	"Helene #0" = -1
+	"Juliane #0" = -1
+}
+
+leader_names = {
+	Abendroth Ackermann Adler Ahlers Alpers Alt 
+	Amsinck Baasch Backer Bagebuhr Bastian Billing 
+	Boetefeur Dabelstein "de Greve" Dreyer Eggers 
+	Engel "von der Fechte" Framhein Gevert Gossler 
+	Grünewaldt Hansen Heinsohn Henckell Heuer Horwege
+	Imbeck Jarchow Kehrhahn Kellinghusen Kindt 
+	"von Lengerke" Lieb Merck Meyer Muhl Nanne 
+	Olbers Pape Pollnau Rosenbaum Rosendahl Schmerse
+	Schmidt Schuberth Schuemann Soltau Steetz Thelemann 
+	Tiedemann Vick Vilter Vollmer "von Düten" 
+}
+
+ship_names = {
+	"Adler von Lübeck"
+	"Lisa von Lübeck"
+	"Morian"
+	"Peter von Danzig"
+	"Bunte Kuh"
+	"Hauke Haien"
+	"Gödecke Michels"
+	Heiligenbeil
+	Bartenstein
+	"Furcht un Schreck"
+	"Fliegender Geist"
+	"Frech Haas"
+	Hechtenvisch
+	Igzorn
+	Seewolff
+	Störtebecker
+	Fenrizwulf
+	"Adler von Wismar"
+	"Lisa von Wismar"
+	"Peter von Wismar"
+	"Christofer von Wismar"
+	"George von Wismar"
+	"Kateryn von Wismar"
+	"Mary von Wismar"
+	"Nicholus von Wismar"
+	"Adler von Rostock"
+	"Lisa von Rostock"
+	"Peter von Rostock"
+	"Christofer von Rostock"
+	"George von Rostock"
+	"Kateryn von Rostock"
+	"Mary von Rostock"
+	"Nicholus von Rostock"
+}
+
+army_names = {
+	"Armee von Deutsche Hanse" "Armee von $PROVINCE$" 
+}
+
+fleet_names = {
+	"Flotte Deutsche Hanse" "$PROVINCE$ Flotte"
+}

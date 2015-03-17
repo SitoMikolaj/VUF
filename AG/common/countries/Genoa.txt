@@ -1,0 +1,137 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 218  215  56 }
+
+historical_score = 850
+
+historical_idea_groups = {
+	trade_ideas
+	plutocracy_ideas
+	administrative_ideas
+	maritime_ideas
+	innovativeness_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Andrea #0" = 80
+	"Giovanni Andrea #0" = 80
+	"Ceva #0" = 20
+	"Francesco #0" = 20
+	"Giovanni Davide #0" = 20
+	"Pagano #0" = 20
+	"Giorgio #0" = 15
+	"Luigi #0" = 15
+	"Antonio Maria #0" = 10
+	"Camillo #0" = 10
+	"Carlo #0" = 10
+	"Federico #0" = 10
+	"Filippo #0" = 10
+	"Giannettino #0" = 10
+	"Giuseppe #0" = 10
+	"Adriano #0" = 2
+	"Alessandro #0" = 2
+	"Ambrogio #0" = 2
+	"Antonio #0" = 2
+	"Barnaba #0" = 2
+	"Battista #0" = 2
+	"Benedetto #0" = 2
+	"Cesare #0" = 2
+	"Domenico #0" = 2
+	"Donato #0" = 2
+	"Gianpiero #0" = 2
+	"Giacomo #0" = 2
+	"Giovanni #0" = 2
+	"Giovanni Battista #0" = 2
+	"Girolamo #0" = 2
+	"Isnardo #0" = 2
+	"Leonardo #0" = 2
+	"Lorenzo #0" = 2
+	"Luca #0" = 2
+	"Matteo #0" = 2
+	"Niccolò #0" = 2
+	"Pantaleone #0" = 2
+	"Paolo #0" = 2
+	"Pietro #0" = 2
+	"Prospero #0" = 2
+	"Rinaldo #0" = 2
+	"Tommasso #0" = 2
+	"Vitale #0" = 2
+	
+	"Milena #0" = -1
+	"Priscilla #0" = -1
+	"Teodora #0" = -1
+}
+
+leader_names = {	
+	Acquaviva Agostini Albertini Angeli Appietto Astolfi Adorno "Arborio Mella" Alberti
+	Bartoli Batesti Biancchini Buonaparte Balbi Bracelli Brignole "di Busca"
+	Cardi Castelli Ceccaldi Cesari Cipriani Colonna Corsofieru Cucchi Campi "di Campofregoso" "del Carreto" Cattaneo Cebá Centurione Chiavari Clavarezza Cybo Colombo
+	"Doria di Melfi" "Doria-Landi" Durazzo Doria
+	Franceschetti Franceschini "de Ferrari" "di Fornari" "de Franchi" Fregoso
+	Grafferi Graziani Guidoni Garbarino Gattilusio Gentile Giustiniani "Grimaldi di Busca" "di Grimaldi" Gaulli
+	Imperiale Invrea
+	Leca Lucchini Luciani Lercari Lomelli Longo
+	Mancini Marcaggi Mariani Mondolini Moracchini "de Mari"
+	Natalini Negrone "da Novi"
+	Orsini Orsoni Odoni
+	Palazzo Paoli Peretti "Paleologi Montferrato" Pallavicini Pico Pignolo Promontorio
+	Raffaeli Rivarola Rossi "della Rocca" "della Rovere"
+	Salicetti Sampiero Sanguinetti Santoni Scarbonchi "della Serra" Sale Senarega Serra Spinola Stradella
+	"della Torre" 
+	Veneroso
+	Vivaldi
+}
+
+ship_names = {
+	Amastris Ammiraglio "Andrea Doria" Assereto Ayroli 
+	Balbi Barilla Brignole Baccana "Bastarda dei Negroni" Bechignana 
+    Capitana "Capitana dei Grimaldi" "Capitana dei Lomellini" "Capitana dei Negroni" Caffa Caladda Calasetta Cambiaso Canevaro "Capitani del popolo" Capraia Carloforte Cattaneo Cembalo Centurione Chiavari "Chiavica Cibo" Chio "Cicala Zoaglio" Cipro Clavarezza Consoli Constanza Corsica "Capitana di Genova" "Capitana di Doria" "Capitana di Nicolò" Crimea
+	"Da Passano" "De Ferrari" "De Fornari" "De Franchi" "De Mari" "De Marini" "Della Rovere" "Della Torre" "Di Negro" Dogato Durazzo Diana Donzella Doria
+    Eraclea 
+	Ferreti Franzoni Frugoni Furia Fortuna
+    Galata Garbarino Gentile "Giudice Calvi" Giustiniani Gorgona Grimaldi 
+	Halopsis 
+	Ikaria Imperiale Invrea Ira 
+	Kertch 
+	"La Dominante" "La Dominante dei mari" "La Superba" Lercari Lesbos Licostomo Licovrissi Liguria "L'Oltregiogo" Lomellini 
+	"Maggior Consiglio" Matrida Montecastro "Marchese Doria" Monagina Monarca Marchesa
+    Negrona
+    Odone 
+	Pallavicini Phocea Pinelli Podestà Policromia Promontorio Padrona "Padrona dei Grimaldi" "Padrona dei Lomellini" "Padrona dei De Mari" "Padrona dei Negroni" Perla Piramide "Padrona di Genova"
+	Répubblica 
+	Saluzzo Samo "San Giorgio" Sardegna Sauli Scalanova Sebastopoli Senarega Serenissima "Simone Boccanegra"  Sinope Soldaia Soudak Spinola "San Bartolomeo" "San Vittorio"
+    Temperanza Tabarca Taman Tana 
+	Vaccari Veneroso Viale Vivaldi 
+    Urania
+	Vittoria Vittori	
+}
+
+army_names = {
+	"Armata Répubblica" "Armata Genova" "Armata Corsica"  "Armata di $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina Répubblica" "Flotta Genova" "Flotta del Golfo" "Flotta Corsica" "Flotta de Iono" "Flotta de Egeo" "Flotta Levante" "Flotta da Mare Nero" "Flotta de $PROVINCE$"
+}

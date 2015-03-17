@@ -1,0 +1,101 @@
+# Bamberg
+
+graphical_culture = westerngfx
+
+color = { 255 170 0 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ludwig #1" = 5
+	"Adalbert #1" = 5
+	"Albrecht #1" = 5
+	"Arnold #1" = 5
+	"Berthold #2" = 5
+	"Eberhard #2" = 5
+	"Egilbert #1" = 5
+	"Ekbert #1" = 5
+	"Friedrich #3" = 15
+	"Günther #1" = 5
+	"Hartwig #1" = 5
+	"Heinrich #2" = 15
+	"Hermann #2" = 5
+	"Johannes #1" = 5
+	"Konrad #2" = 5
+	"Lamprecht #1" = 5
+	"Leopold #3" = 15
+	"Otto #2" = 5
+	"Siegfried #1" = 5
+	"Thimo #1" = 5
+	"Ulrich #1" = 5
+	"Wladeslaw #1" = 5
+	"Anton #0" = 5
+	"Georg #0" = 5
+	"Philipp #0" = 5
+	"Weigand #0" = 5
+	"Johann #0" = 5
+	"Martin #0" = 5
+	"Ernst #0" = 5
+	"Neytard #0" = 5
+	"Franz #0" = 5
+	"Melchior #0" = 5
+	"Peter #0" = 5
+	"Marquard #0" = 5
+	"Lothar #0" = 5
+	"Adam #0" = 5
+	"Christoph #0" = 5
+}
+
+leader_names = {
+	Blochberger Bär 
+	Degen Dick 
+	Egelkraut 
+	Fichtelmann Färber Födisch 
+	Gäbelein 
+	Hager Hofmann	Höhrer 
+	Müntzer
+	Neumann
+	Rank
+	Sack Schelling Schwager Sell Simon Söll  "Saxe-Altenburg"
+	Wirth 
+}
+
+ship_names = {
+	Marienberg "Julius Echter" Main Höchberg
+	Rimpar Biebelried Eigelstadt Uettingen
+	Gramschatz Wern Bergtheim Kietzingen Ochsenfurth
+}
+
+army_names = {
+	"Armee Fürstliche" "Armee von $PROVINCE$"
+}
+
+fleet_names = {
+	"Herzoglichen Flotte" "$PROVINCE$ Flotte"
+}

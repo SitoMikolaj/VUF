@@ -1,0 +1,99 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 110  136  66 }
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Haria #1" = 30
+	"Jugasai #1" = 30
+	"Pratâpnayan #1" = 30
+	"Harirudra #0" = 30
+	"Anku #0" = 30
+	"Râghunâth #0" = 30
+	"Biswambhar #0" = 30
+	"Raisingh #0" = 30
+	"Dusmant #0" = 30
+	"Pratâp Deo #0" = 10
+	"Padman #0" = 10
+	"Khadag Rai #0" = 10
+	"Yuvaraj #0" = 2
+	"Birabar #0" = 2
+	"Harichandra #0" = 2
+	"Gopinath #0" = 2
+	"Raghuraj #0" = 2
+	"Haria #0" = 2
+	"Bishwanath #0" = 10
+	"Rai #0" = 2
+	"Sundar #0" = 2
+	"Krishna #0" = 2
+	"Barman #0" = 2
+	"Biwarta #0" = 2
+	"Jagannath #0" = 2
+	"Nârâyana #0" = 2
+	"Bebarta #0" = 2
+	"Chandra #0" = 2
+	"Dâmodar #0" = 2
+	"Jadunath #0" = 2
+	"Pradîp #0" = 2
+	"Giriraj #0" = -1
+	"Suratarangini Devî #0" = -1
+	"Malavika Devî #0" = -1
+}
+
+leader_names = {
+	Singh
+	Deo
+	Gangâbansî
+	Pûsapâti
+	Ghumsur
+	Parmâr
+	Pattanâyaka
+	Samant
+	Rawat
+	Deb
+	Bhanja
+	Vidyâdhar
+	Mangraj
+	Mahapatra
+	Pal
+	Janamuni
+	Narendra
+}
+
+ship_names = {
+	Baitarani Balasore Balugaon Behrampur
+	Bhubeneswar Brahmani Chandipur Chilka
+	Cuttack Durga Gopalpur Jagannath
+	Juggernaut Kalijai Konark Lakshmi
+	Mahanadi Nalabana Paradeep Parvati
+	Puri Radha Sarasvati Satapada
+}
+
+army_names = {
+	"Sultân Prtanyaa" "Garjat Prtanyaa" "$PROVINCE$ Prtanyaa"
+	}
+
+fleet_names = {
+	"Garjat Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

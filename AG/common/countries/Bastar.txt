@@ -1,0 +1,109 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 21  50  212 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Hamir Deo #0" = 20
+	"Bhaitai Deo #0" = 20
+	"Purushottam Deo #0" = 20
+	"Raj Deo #0" = 20
+	"Digpal Deo #0" = 30
+	"Rajpal Deo #0" = 20
+	"Dakhin Singh #0" = 20
+	"Dalpat Deo #0" = 20
+	"Ajmer #0" = 2
+	"Mahipal #0" = 2
+	"Kalendra #0" = 2
+	"Pratâp #0" = 2
+	"Chandra #0" = 2
+	"Ghana  #0" = 2
+	"Baijnath Shekhar #0" = 2
+	"Indra Shekhar #0" = 2
+	"Parsharam Shekhar #0" = 2
+	"Yuvaraj #0" = 2
+	"Birabar #0" = 2
+	"Harichandra #0" = 2
+	"Gopinath #0" = 2
+	"Raghuraj #0" = 2
+	"Haria #0" = 2
+	"Bishwanath #0" = 2
+	"Rai #0" = 2
+	"Sundar #0" = 2
+	"Krishna #0" = 2
+	"Barman #0" = 2
+	"Biwarta #0" = 2
+	"Jagannath #0" = 2
+	"Nârâyana #0" = 2
+	"Bebarta #0" = 2
+	"Dâmodar #0" = 2
+	"Jadunath #0" = 2
+	"Subra #0" = -1
+	"Padmalaya Devî #0" = -1
+	"Kusumlata Devî #0" = -1
+	"Prafulla Kumari Devî #0" = -1
+}
+
+leader_names = {
+	Singh
+	Deo
+	Gangâbansî
+	Pûsapâti
+	Ghumsur
+	Parmâr
+	Pattanâyaka
+	Samant
+	Rawat
+	Deb
+	Bhanja
+	Vidyâdhar
+	Mangraj
+	Mahapatra
+	Pal
+	Janamuni
+	Narendra
+}
+
+ship_names = {
+	Agni Bhim Brahma Devî Durga
+	Ganesh Gayatri Hanumaun
+	Indra Jalsena "Kâla Jahâzî"
+	Kali Kubera Krishna Lakshmi
+	"Lâl Jahâzî" Nausenâ "Nav ka Yudh"
+	"Nîla Jahâzi" Parvati Radha Ratri
+	Sâgar Sarasvati Shiva Sita Soma
+	Surya Varuna Vayu Vishnu Yama
+}
+
+army_names = {
+	"Prtanyaa Deziiya" "Prtanyaa $PROVINCE$"
+}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa" 
+}

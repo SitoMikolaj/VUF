@@ -1,0 +1,122 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = FRA
+random_nation_chance = 0
+
+color = { 139  179  207 }
+
+historical_idea_groups = {
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henri #0" = 20
+	"Jacques #0" = 20
+	"Jacques #0 Victor" = 10
+	"Louis #0" = 10
+	"Joseph #0" = 5
+	"Raymond #0" = 5
+	"Achille #0" = 2
+	"Albert #0" = 2
+	"Alexandre #0" = 2
+	"Ambroise #0" = 2
+	"Bernard #0" = 2
+	"Bruno #0" = 2
+	"Charles #0" = 2
+	"Claude #0" = 2
+	"Denis #0" = 2
+	"Édouard #0" = 2
+	"Emmanuel #0" = 2
+	"Eustache #0" = 2
+	"Fabien #0" = 2
+	"Faustin #0" = 2
+	"Félix #0" = 2
+	"Florian #0" = 2
+	"Georges #0" = 2
+	"Géraud #0" = 2
+	"Honoré #0" = 2
+	"Horace #0" = 2
+	"Jean #0 Baptiste" = 2
+	"Jean #0 Jacques" = 2
+	"Jean #0 Louis" = 2
+	"Juan #0 Pierre" = 2
+	"Marius #0" = 2
+	"Mathieu #0" = 2
+	"Maurice #0" = 2
+	"Olivier #0" = 2
+	"Pascal #0" = 2
+	"Philippe #0" = 2
+	"Renaud #0" = 2
+	"Séraphin #0" = 2
+	"Sylvain #0" = 2
+	"Vincent #0" = 2
+	
+	"Bernadette #0" = -1
+	"Camille #0" = -1
+	"Fleur #0" = -1
+}
+
+leader_names = {
+        Biassou
+        François
+        d'Aulnay
+        "de Boissieu" "de Bonnefoy"
+        "de Chambronne" "de Champmartin"
+        "des Ecures"
+        "de Galard"
+        "des Herbiers"
+        "de Marguerye" "de Maurepas"
+        "d'Ornano"
+        "de Pellefort"
+        "de Siorac"
+        "de Tréville" "Toussaint-Louverture"
+        "de Vibien" "de Vigny"
+        "Le Tellier" "Dessalines"
+}
+
+ship_names = {
+        "la Belle Poule"
+        "le Magnifique"
+        "le Neptune"
+        l'Océan
+        "la Provence" 
+        "le Robuste"
+        "le Sceptre" "la Superbe"
+        "la Trombe" "le Triton" 
+        "la Victoire" 
+}
+
+army_names = {
+	"Armée Nationale" "Garde Haïtienne" "Armée de $PROVINCE$"
+}
+
+fleet_names = {
+	"Flotte Nationale" "Flotte de $PROVINCE$"
+}

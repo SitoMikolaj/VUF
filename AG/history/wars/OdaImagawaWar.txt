@@ -1,0 +1,17 @@
+name = "Guerre des clans Oda-Imagawa"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1540.1.1 = {
+	add_attacker = ODA
+	add_defender = IMG
+}
+
+1562.1.1 = {
+	rem_attacker = ODA
+	rem_defender = IMG
+}

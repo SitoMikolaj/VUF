@@ -1,0 +1,120 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 114  154  143 } 
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Lodovico #0" = 40
+	"Carlo #0" = 10
+	"Carlotta #0" = -10
+	"Carolina #0" = -10
+	"Ferdinando #0" = 10
+	"Francesco #0" = 10
+	"Maria Antonietta #0" = -10
+	"Maria Luigia #0" = -10
+	"Adriano #0" = 2
+	"Alessandro #0" = 2
+	"Alfredo #0" = 2
+	"Amedeo #0" = 2
+	"Benedetto #0" = 2
+	"Bonifacio #0" = 2
+	"Cesare #0" = 2
+	"Claudio #0" = 2
+	"Demetrio #0" = 2
+	"Edoardo #0" = 2
+	"Enzo #0" = 2
+	"Fabio #0" = 2
+	"Fabrizio #0" = 2
+	"Filippo #0" = 2
+	"Gaspare #0" = 2
+	"Giuseppe #0" = 2
+	"Graziano #0" = 2
+	"Ilario #0" = 2
+	"Leandro #0" = 2
+	"Leonardo #0" = 2
+	"Marco #0" = 2
+	"Nestore #0" = 2
+	"Orlando #0" = 2
+	"Paolo #0" = 2
+	"Patrizio #0" = 2
+	"Pietro #0" = 2
+	"Roberto #0" = 2
+	"Ruggiero #0" = 2
+	"Salvatore #0" = 2
+	"Saverio #0" = 2
+	"Umberto #0" = 2
+	"Vicenzo #0" = 2
+}
+
+leader_names = {
+	"degli Albizzi" Allori "d'Appiani d'Aragona" "d'Asburgo"
+	Barberini Bartolini Benciveni Bizzelli Boncompagni Botta-Adorno Buontalenti Buti Butteri 
+	"di Campofregoso" Cercignani Chiastavelli Chigi Corsini "Cybo-Malaspina"
+	"di Farnese" 
+	Gori Grimaldi "Grimaldi di Busca" 
+	Lanzi Lessi	Ludovisi 
+	Malaspina Mancinetti "di Medici" "del Moro" 
+	Nasini
+	Orsini 
+	Piccolomini Pico Pierallini Pieroni Piombante Pontelli
+	Rivani Rospigliosi "del Rosso" 
+	Savaranola Soderini 
+	Tempesta Terreni Tonelli Traballesi 
+	Ulivelli
+	Vasari
+	Zucchi
+}
+
+ship_names = {
+	Arezzo
+	Bisenzio
+	"Corso Donati"
+	"Dino Compagni"
+	Firenze
+	"Francesco Petrarca"
+	Giotto
+	Impruneta
+	Medici Mugnone
+	Orsanmichele
+	Pistoia Prato
+	Ripoli
+	"San Lorenzo"
+	"Santa Trinita"
+	"Sesto Fiorentino"
+}
+
+army_names = {
+	"Armata de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marina di $PROVINCE$"
+}

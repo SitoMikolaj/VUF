@@ -1,0 +1,19 @@
+name = "Troubles d'Oei"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_shogun_annex
+}
+
+1398.12.1 = { 
+	add_attacker = JAP
+	add_defender = OUC
+	}
+	
+1400.1.15 = { 
+	rem_attacker = JAP
+	rem_defender = OUC
+	}
+
+

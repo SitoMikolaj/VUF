@@ -1,0 +1,136 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 161  139  40 }
+revolutionary_colors = { 0  4  15 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Václav #4" = 50
+	"Jirí #0" = 25
+	"Karel #5" = 40
+	"Premysl #0" = 10
+	"Premysl Otakar #3" = 25
+	"Zikmund #0" = 2
+	"Frantisek #0" = 2
+	"Jindrich #0" = 5
+	"Josef #0" = 5
+	"Frantisek Josef #0" = 2
+	"Bocek #0" = 2
+	"Jan Jirí #0" = 5
+	"Ludvík #0" = 2
+	"Vladislav #0" = 20
+	"Vladimír #0" = 10
+	"Petr #0" = 5
+	"Jan Petr #0" = 5
+	"Viktorín #0" = 2
+	"Jan Václav #0" = 2
+	"Josef Václav #0" = 2
+	"Karel Josef #0" = 2
+	"Matyáš #0" = 2
+	"Ferdinand #0" = 5
+	"Otakar #0" = 10
+	"Vratislav #3" = 5
+	"Boleslav #4" = 10
+	"Vilém #0" = 5
+	"Viktor #0" = 2
+	"Jaromír #0" = 5
+	"Jaroslav #0" = 1
+	"Anezka #0" = -1
+	"Eliska #0" = -1
+	"Katerina #0" = -1
+	"Marie #0" = -1
+	"Ludmila #0" = -1
+	"Alzbeta #0" = -1
+}
+
+leader_names = {
+	"von Anhalt"
+	Berka "ben Bezal'el" "z Brandýsa"
+	Capek 
+	"von Dietrichstein"
+	"z Falkensteina"
+	Harant "z Husi" Holý
+	Jiskra 
+	Kaspar Kolowrat Kelley Komensky Kanka Kinsky "von Kaunitz-Rietberg"
+	"ze Lvovic" "z Lobkovic" Lamormain
+	Mansfeld "z Mitrovic" "z Mohelnice" "z Martinic"
+	"z Otradovic"
+	Píka Purkyne "z Pardubic" "z Polzic" 
+	Reiner "z Rozmberka" "z Rozmitálu" Rasín
+	Schwarzenberg Sokol Syrový "ze Svamberka" "Santini-Aichel" Stamitz
+	Thurn 
+	Velen Veliký "z Vartemberka" "z Veleslavína" "van Vianen"
+	Widmann "von Wallenstein"
+	Zajíc Zelezný "ze Žerotína" "von Zinzendorf" Zizka
+}
+
+ship_names = {
+	"Svatý Vaclav"
+	"Svatá Ludmila"
+	"Svatý Jan Nepomucký"
+	"Svatý Mikulás"
+	"Svatý Jirí"
+	"Svatá Anezká"
+	"Nejsvetejsí Trojice"
+	"Král Karel"
+	"Král Boleslav"
+	"Král Premysl"
+	"Panna Maria Vitezná"
+	"Jan Hus"
+	"Jan Zizka"
+	"Prokop Holý"
+	"Kníze Bretislav"
+	"Premysl Orac"
+	Ctirad
+	Cechy
+	Morava
+	Libuse
+	Odvázný
+	Neporazitelný
+	Rychlý
+	Bystrý
+	Orel
+	Sokol
+	Slezsko
+	Sipka
+	Hvezda
+}
+
+army_names = {
+	 "Kralovska Vojsko" "Cechy Vojsko" "Bohemian Vojsko" "Cisarské Vojsko" "Expedicni Vojsko" "Namezdni Vojsko" "Zalozni Vojsko" "Zenijni Vojsko" "Vojsko $PROVINCE$"
+}
+
+fleet_names = {
+	"Kralovska Namornictvo" "Vojenské Namornictvo" "$PROVINCE$ Namornictvo" 
+}

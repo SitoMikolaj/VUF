@@ -1,0 +1,17 @@
+name = "Guerre des clans Shimazu-Otomo"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1575.1.1 = {
+	add_attacker = SMZ
+	add_defender = OTM
+}
+
+1587.5.8 = {
+	rem_attacker = SMZ
+	rem_defender = OTM
+}

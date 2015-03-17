@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "DELUGE_NAME"
+	desc = "DELUGE_DESC"
+	date = 1656.12.1
+	
+	country = PLC
+	country = RUS
+	country = SWE
+	country = HAB
+	country = BRA
+	country = DAN
+
+}

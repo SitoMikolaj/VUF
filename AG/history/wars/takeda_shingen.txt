@@ -1,0 +1,17 @@
+name = "Guerre de Shingen"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1568.9.1 = {
+	add_attacker = TKD
+	add_defender = HJO
+	}
+	
+1572.1.1 = {
+	rem_attacker = TKD
+	rem_defender = HJO
+	}

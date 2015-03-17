@@ -1,0 +1,39 @@
+name = "Guerre d'Oirat"
+
+#casus_belli
+war_goal = {
+	type = superiority_horde
+	casus_belli = cb_horde_vs_civ
+}
+
+1449.7.1 = {
+	add_attacker = OIR
+	add_attacker = KHA
+	add_defender = MNG
+}
+
+1449.9.1 = {
+	battle = {
+		name = "Tumu"
+		location = 703
+		attacker = {
+			commander = "Esen Khan"
+			cavalry = 20000
+			losses = 5	# percent
+			country = OIR
+		}
+		defender = {
+			commander = "Wang Zhen"
+			infantry = 50000
+			losses = 40	# percent
+			country = MNG
+		}
+		result = win
+	}
+}
+
+1450.1.1 = {
+	rem_attacker = OIR
+	rem_attacker = KHA
+	rem_defender = MNG
+}

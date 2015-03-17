@@ -1,0 +1,17 @@
+name = "Guerre de Shimazu"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1583.1.1 = {
+	add_attacker = SMZ
+	add_defender = RYU
+}
+
+1584.3.11 = {
+	rem_attacker = SMZ
+	rem_defender = RYU
+}

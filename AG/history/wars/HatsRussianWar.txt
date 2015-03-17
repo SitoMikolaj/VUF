@@ -1,0 +1,18 @@
+name = "Guerre des Chapeaux"
+#casus_belli = cb_core
+war_goal = {
+	type = take_core
+	casus_belli = cb_core
+	province = 30 #Viborg
+}
+
+1741.8.8 = {
+	add_attacker = SWE
+	add_defender = RUS
+}
+
+# Traité de Åbo
+1743.8.7 = {
+	rem_attacker = SWE
+	rem_defender = RUS
+}

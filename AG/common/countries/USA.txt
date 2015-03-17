@@ -1,0 +1,143 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = GBR
+random_nation_chance = 0
+
+historical_score = 200
+
+color = { 69  157  208 }
+
+historical_idea_groups = {
+	plutocracy_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	maritime_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"George #0" = 20
+	"James #0" = 20
+	"John #0" = 20
+	"Thomas #0" = 20
+	"Charles #0" = 15
+	"Daniel #0" = 15
+	"Henry #0" = 15
+	"Samuel #0" = 15
+	"Arthur #0" = 10
+	"Cyrus #0" = 10
+	"David #0" = 10
+	"Elias #0" = 10
+	"Frederick Augustus #0" = 10
+	"Nathaniel #0" = 10
+	"Peyton #0" = 10
+	"Richard #0" = 10
+	"Aaron #0" = 2
+	"Angus #0" = 2
+	"August #0" = 2
+	"Benjamin #0" = 2
+	"Calvin #0" = 2
+	"Darren #0" = 2
+	"Elbridge #0" = 2
+	"Eric #0" = 2
+	"Francis #0" = 2
+	"Frederick #0" = 2
+	"Isaac #0" = 2
+	"Jonathan #0" = 2
+	"Joseph #0" = 2
+	"Kyran #0" = 2
+	"Luke #0" = 2
+	"Milton #0" = 2
+	"Patrick #0" = 2
+	"Paul #0" = 2
+	"Philip #0" = 2
+	"Randolf #0" = 2
+	"Silvester #0" = 2
+	"Timothy #0" = 2
+	"Wilbur #0" = 2
+	"William #0" = 2
+	"Alexander #0" = 2
+    "Stephen #0" = 2
+	
+    "Deborah #0" = -1
+    "Sarah #0" = -1
+    "Anne #0" = -1
+}
+
+leader_names = {
+	Adams Arkeith Arnott Ashton Atworth "of Annapolis" Arnold
+	Boyd Burr Bradford
+	Caddock Clinton Carroll Clark
+	Dalton Dellwin Douglas Drummond Dylan Deane Dearborn
+	Floyd Franklin Freneau "de la Fayette"
+	Gates Green
+	Harrison Hopkinson Henry Hull Hampton
+	Jay Jefferson Jones
+	Kempton Kendrick Kennedy King Knox Kosciuszko
+	Lane Langdon Lindon Lyle Lee Lincoln
+	Madison Monroe Merrick Mason Morin Morris "du Motier"
+	Pickney Pulaski Perry
+	Richardson Rutledge Rittenhouse "van Rensselaer"
+	Sheldon Spencer Starbuck Steed Stetson Stover Stryder Sutcliffe Swaggert "von Steuben"
+	Thompson Thorley Trevin Trumbull
+	Unwin 
+	Vaughan 
+	Walden Ward Winston Wayne Washington Wade Wilkinson
+}
+
+ship_names = {
+	Active Adams Adelline Albacore Alfred Alliance Alligator America Anaconda Analostan "Andrew Doria" Argo Argus Armstrong Arrow Asp Aurora Axiel
+	Baltimore Beaumont Beaver Belisarius Betsey "Bonhomme Richard" Boston Bourbon Boxer Buffalo "Bunker Hill"
+	Cabot Carolina Champion Chesapeake Chippewa Columbus Comet Confederacy Congress Connecticut Conquest Constellation Constitution Curlew
+	Dart Deane Delaware Despatch Diligent Dolphin
+	Eagle Edwin Effingham Elizabeth Enterprise Epervier Erie Essex Experiment
+	"Fair American" Fame Ferret Fly Franklin Frolic
+	Ganges "General Gates" "General Greene" "General Pike" "George Washington" Georgia "Governor Tompkins" Grecian Growler Guerriere
+	Hamilton Hampden Hancock Hannah Hannibal Herald Highflyer "Horn Snake" Hornet Hussard
+	Independence "Isaac Hull"
+	Java Jefferson "John Adams" Jones Julia 
+	"Lady of the Lake" Lawrence Lee Lexington Liberty Louisiana Lottery
+	Macedonian Madison Mary Maryland Mentor Mercury Merrimack Mohawk Montezuma Montgomery "Morning Star" Mosquito
+	Nautilus Neptune "New Orleans" "New York" Niagara Nimrod Nonsuch Norfolk "North Carolina" 
+    Ohio Oneida Ontario
+	Pallas Patapsco Peacock Perseverance Pert Petapsco Philadelphia Phoenix Pickering Pigot Pinckney Polly President Prometheus Protector Providence
+	"Queen of France"
+	Racehorse Raleigh Randolph Ranger Rapid Rattlesnake Raven Reprisal Repulse Resistance Retaliation Revenge Richmond Rittenhouse "Royal Louis"
+	Sachem Sally Saratoga Scorpion Scourge "Sea Horse" Serapis Shelburne Siren Somers Spencer Spitfire Superior Surprise Sylph Syren
+	Thetis "Tom Bowline" Trippe Troup Trumbull
+	"United States"
+	Vengeance Vesuvius Victor Viper Virginia Vixen Vulcan
+	Warren Washington Wasp William "William Bayard" Winthorp 
+}
+
+army_names = {
+	"Continental Army" "U.S Army" "Confédérate Army" "Union Army" "National Guard" "U.S. Army Reserve" "U.S Army Central" "U.S. Army North" "U.S. Army South" "$PROVINCE$ U.S. Army"
+	}
+
+fleet_names = {
+	"Continental Navy" "United States Navy" "White Fleet" "Confédérate Fleet" "Union Fleet" "Atlantic Fleet" "Pacific Fleet" "Naval Forces" "Navy Reserve" "$PROVINCE$ Fleet"
+}

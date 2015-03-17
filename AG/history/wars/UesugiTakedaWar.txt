@@ -1,0 +1,17 @@
+name = "Guerre des clans Uesugi-Takeda"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1544.1.1 = {
+	add_attacker = UES
+	add_defender = TKD
+}
+
+1572.1.1 = {
+	rem_attacker = UES
+	rem_defender = TKD
+}

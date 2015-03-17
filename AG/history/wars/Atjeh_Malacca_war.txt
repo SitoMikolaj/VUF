@@ -1,0 +1,17 @@
+name = "La première guerre d'Atjeh"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+}
+
+1470.1.1 = {
+	add_attacker = ATJ
+	add_defender = MLC
+}
+
+1479.12.31 = {
+	rem_attacker = ATJ
+	rem_defender = MLC
+}

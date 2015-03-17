@@ -1,0 +1,114 @@
+# Country name see file name.
+
+graphical_culture = westerngfx
+
+color = { 193  237  85 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Feidlimidh #1" = 40
+	"Áed #16" = 20
+	"Cathal #6" = 20
+	"Toirdelbach #3" = 20
+	"Brian #1" = 20
+	"Tadhg #4" = 10
+	"Domhnall #4" = 1
+	"Aindriú #0" = 2
+	"Alaois #0" = 2
+	"Alasdair #0" = 2
+	"Aengus #0" = 2
+	"Berach #0" = 2
+	"Bradán #0" = 2
+	"Braonán #0" = 2
+	"Brody #0" = 2
+	"Brónach #0" = 2
+	"Calbhach #0" = 2
+	"Caolan #0" = 2
+	"Cearbhall #0" = 2
+	"Ceallach #0" = 2
+	"Cían #0" = 2
+	"Conán #0" = 2
+	"Conchobar #0" = 2
+	"Diarmaid #0" = 2
+	"Dubhghall #0" = 2
+	"Éamonn #0" = 2
+	"Éoghan #0" = 2
+	"Fearchar #0" = 2
+	"Fearghas #0" = 2
+	"Fionnlagh #0" = 2
+	"Flann #0" = 2
+	"Gallchobhair #0" = 2
+	"Gobán #0" = 2
+	"Grádaigh #0" = 2
+	"Lommán #0" = 2
+	"Maeleachlainn #0" = 2
+	"Murchadha #0" = 2
+	"Naomhán #0" = 2
+	"Niall #0" = 2
+	
+	"Bébhinn #0" = -1
+	"Fionnghuala #0" = -1
+	"Nóirín #0" = -1
+}
+
+leader_names = {
+	"Mac Branáin" "Mac Conraoí" "Mac Cuille" "Mac Diarmada"
+	"Mac Donnchadha" "Mac Eochaidh" "Mac Mághnais"
+	"Ó Birn" "Ó Breisléin" "Ó Cadhla" "Ó Caithniadh"
+	"Ó Cathail" "Ó Cearbhaill" "Ó Céirín" "Ó Cléirigh"
+	"Ó Coigligh" "Ó Concheannain" "Ó Conghailaigh" "Ó Cuana"
+	"Ó Doibhilin" "Ó Domhnalláin" "Ó Dorchaidhe" "Ó Dubhagáin"
+	"Ó Dúnadhaigh" "Ó Fionn" "Ó Fionnachta" "Ó Fionnagáin"
+	"Ó Fionnáin" "Ó Flaithbheartach" "Ó Gadhra" "Ó hAllmhuráin"
+	"Ó hEaghra" "Ó hUigín" "Ó Leannáin" "Ó Maoldúin" "Ó Manacháin"
+	"Ó Mughroin" "Ó Reachtagáin" "Ó Seachnasaigh" "Ó Tarpaigh"
+	"Ó Tighearnaigh" "Ó Mathghamhna"
+}
+
+ship_names = {
+	"Baile Átha Luain"
+	"Béal an Átha"
+	"Baile an Róba"
+	"Béal Átha hAmhnais"
+	"Uí Baoighill"
+	"Caisleán an Bharraigh"
+	"Gaillimh"
+	"Conamara"
+	"Maigh Eo"
+	"Ros Comáin"
+}
+
+army_names = {
+	"Arm na Connachta" "Arm Gaillimhe" "Arm Liatroma" "Arm Mhaigh Eo" "Arm Ros Comáin" "Arm Shligigh" "Garda $PROVINCE$"
+}
+
+fleet_names = {
+	"Cabhlach na Connachta" "Cabhlach na $PROVINCE$"
+}

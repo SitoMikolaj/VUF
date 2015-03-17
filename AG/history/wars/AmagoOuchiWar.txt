@@ -1,0 +1,17 @@
+name = "Guerre des clans Amago-Ouchi"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1510.1.1 = {
+	add_attacker = AMA
+	add_defender = OUC
+}
+
+1557.1.1 = {
+	rem_attacker = AMA
+	rem_defender = OUC
+}

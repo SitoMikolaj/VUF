@@ -1,0 +1,143 @@
+graphical_culture = westerngfx
+
+color = { 125  171  84 }
+
+revolutionary_colors = { 10  0  5 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	maritime_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Cosimo #0" = 60
+	"Ferdinando #0" = 60
+	"Francesco #0" = 60
+	"Lodovico #2" = 40
+	"Carlo #4 Emmanuele" = 20
+	"Carlo #4 Felice" = 20
+	"Lodovico #2 Maria" = 20
+	"Alessandre #0" = 20
+	"Francesco #0 Stefano" = 20
+	"Galeazzo Maria #0" = 20
+	"Gian Galeazzo #0" = 20
+	"Gian Gastone #0" = 20
+	"Massimiliano #0" = 20
+	"Napoleone #0" = 20
+	"Pietro Leopoldo #0" = 20
+	"Vittorio Amedeo #0" = 20
+	"Carlo #4" = 10
+	"Antonio #0" = 10
+	"Ermes #0" = 10
+	"Eugenio #0" = 10
+	"Filippo #0" = 10
+	"Gian Carlo #0" = 10
+	"Giovanni #0 Maria" = 10
+	"Pietro #0" = 10
+	"Alberto #1" = 5
+	"Rodolfo #1" = 5
+	"Ascanio Maria #0" = 5
+	"Augusto #0" = 5
+	"Benedetto #0" = 5
+	"Emmanuele Filiberto #0" = 5
+	"Filippo #0 Maria" = 5
+	"Giovanni #0" = 5
+	"Giuseppe #0" = 5
+	"Leopoldo #0" = 5
+	"Matteo #0" = 5
+	"Maurizio #0" = 5
+	"Ottaviano #0" = 5
+	"Raniero #0" = 5
+	"Sforza Maria #0" = 5
+	"Agostino #0" = 2
+	"Constanzo #0" = 2
+	"Demetrio #0" = 2
+	"Fabio #0" = 2
+	"Giordano #0" = 2
+	"Isidoro #0" = 2
+	"Niccolò #0" = 2
+	"Paolo #0" = 2
+	"Romeo #0" = 2
+	"Severino #0" = 2
+	"Vittorio #0" = 2
+	
+	"Viola #0" = -1
+	"Zaira #0" = -1
+	"Angelica #0" = -1
+}
+
+leader_names = {
+	"Appiani d'Aragona" "Arborio Mella" Acquaviva Agostini Albertini Angeli Appietto Astolfi "degli Albizzi" Allori "d'Asburgo" Adorno Alberti Amelia Adelasio Aldini Alessandri Allegri Araldini "di Ardizzone" Ariosto Avanzini Abano Adria Agno Alvise Anconna Argenta Anguissola Anvidi
+	Barberini Barzagli Boncompagni Borghese Borromeo Buonarroti "di Busca" Bartoli Batesti Biancchini Buonaparte Bartolini Benciveni Bizzelli "Botta-Adorno" Buontalenti Buti Butteri Balbi Bracelli Brignole Barone Belmonte Bibiena Boninsegna Bosio "Barbiano Belgioioso" Bargnani "Bigliori di Lava" Birago Brunetti Bacciochi Battisti Boiardo Bardolino Barilla Bassano Belfuno Belluno Bembo Brenta Brescia Bajardi Barattieri Bernini Bertorella Bianconese "di Borbone" "de Beauharnais"
+	"di Campofregoso" Carafa "di Cardé" "del Carreto" Casanova Castagna Castagnaro "di Cavour" Chigi Colonna Contarini Conti Corsini Cybo Cardi Castelli Ceccaldi Cesari Cipriani Corsofieru Cucchi Cercignani Chiastavelli "Cybo-Malaspina" Campi Cattaneo Cebá Centurione Chiavari Clavarezza "de Canal" Casabianca Cocconi Colombo Caetani Caracciolo Containi Calcagnini Catena "del Cossa" Cassandro Castiglione Cento Chiogga Commachio Corfini Corleone Cornaro Cremona "di Castrozza" Cantelli "di Castagnola" Cavagnari Cavalcabò Cella Cerati Conaccia Confallonieri
+	"Doria di Cirié" "Doria-Landi" "Doria-Pamphili" "Doria di Melfi" Durazzo Draghi
+	"d'Este" Emo Erizzo Ermelli Emanueli
+ 	"di Farnese" "di Ferrari" Franceschetti Franceschini "di Fornari" "de Franchi" Fancelli Freddi Farini Feltre Ferme Ferrara Fiume Flangini Foscarini Friuli Fumagalli
+	"Gaetani dell'Aquila" Galilei Gambacorta Gentileschi Giustiniani Gonzaga "di Grimaldi" Grafferi Graziani Guidoni Gori "Grimaldi di Busca" Garbarino Gattilusio Gentile Gatti Germano Grazioli Grosso Ghislieri "de Guzman" Giardini Grandi Graziosi Gualandelli Gucciardini Garda Gardone Giudica Giustani Gorizia Grado Grimani Gritti Gioia
+	Imperiale Invrea Idoni Innocenti Idro Iseo Isonzo
+	Juvarra
+	Ludovisi Leca Lucchini Luciani Lanzi Lessi Lercari Lomelli Longo Lori Lamberti "de Leiva" Luosi "Luserna Bigliori" "Luserna della Torre" Loschi Lando Latisana Legnago Lido Lignano Lissa Livenza Loredano Landi Lemignano Linati Lombardi
+	Malaspina "di Medici" Melzi Montefeltro Mancini Marcaggi Mariani Mondolini Moracchini Mancinetti "del Moro" "de Mari" Manfredi Mantegna Montanari "Medici di Marignano" "del Monte" Moscati Malmussi Marescalchi Menotti Mitelli Montecuccoli Magno Mantova Meduna Memmo Mestre Mincio Modigliano Molini Monfalcone Marazzani "Meli Lupi"
+	Natalini Nasini Negrone "da Novi" Neri Nardi Nobili
+	Orsini Orsoni Odoni Oddo Odescalchi Ordelaffi Oglio
+	"di Paesana" "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli Palazzo Paoli Peretti Piccolomini Pierallini Pieroni Piombante Pontelli Pignolo Promontorio Panzavecchia Pesci Piccoli "del Piero" Poggio Poma Pavironica Pio Padova Panaro Pesaro Pezzini Piave "Ponte Vechio" Pontebba Pordenone Pramaggiore Priuli Paletti Pallieri Piatti Pontremoli 
+	"dalla Rosa" "della Rovere" "della Rocca" Raffaeli Rivarola "de Rossi" Rivani Rospigliosi "del Rosso" Romano Ruga Rangoni "de Roberti" Rossetti Ragusa Rovereto Rovigo Ruzzini Riva Rivalta
+	"di Saluzzo" "de Savoie" Sfondrati Sforza Spinola "della Serra" Salicetti Sampiero Sanguinetti Santoni Scarbonchi Savaranola Soderini Sale Senarega Speri Sabbati Savoldi "della Scalla" Serbelloni Sommariva Sopransi Santarosa "di Sauli" "San Paulo" Schio Serio Sugaina Salati Sanseverino Sanvitale Schizzati 
+	"della Torre" Tempesta Terreni Tonelli Traballesi Tassoni Tazolli Tedesco Toselli Testi Tizzone "de Tolomei" Tagliamento Tartaro Tolmezzo Toscani Trento Trevisano Treviso Trieste Torelli Torrechiara
+	"della Ubaldini" Ulivelli Udine
+	Vico Visconti Vasari Veneroso Vivaldi Viridis Valieri Verona Vicenza Vittorio Ventura Verdi "dal Verme"
+	Zucchi Zaccardo Zappa Zini Zara Zustiniani
+}
+
+ship_names = {
+	Acciaio Adua Airone  Alabard Alabastro Alagi "Alberico da Barbiano" "Alberto da Giussano" Alcione Aldebaran "Alessandro Malaspina" "Alfredo Oriani" Aliseo Alpino "Alpino Bagnolini" Altair "Alvise da Mosto" Amalfi Amalia Ambra "Ammiraglio Cagni" "Ammiraglio Caracciolo" "Ammiraglio di Saint Bon" "Ammiraglio Millo" "Andrea Doria" Andromeda Antares Antelope "Antonio da Noli" "Antonio Mosto" "Antonio Pigafetta" "Antonio Sciesa" "Antoniotto Usodimare" Aquila Aquilone Aradam Archimede Ardente Ardito Aretusa Argento Argo Argonauta Ariel Ariete "Armando Diaz" Artigliere Arturo Ascari Ascaro Ascianghi Asterio Astore Atropo "Attilio Regolo" Audace "Augusto Riboti" Auriga Aviere Avorio Axum 
+	Baleno Balestra Balilla Barbarigo Bari Bario "Bartolomeo Colleoni" Basilicata Bausan Beilul "Benedetto Brin" Berillo Bersagliere Bolzano Borbone Borea Brin Bronzo
+	"Caio Duilio" Calabria Calatafimi Calipso Calliope Campania Canopo "Capitano Tarantini" Carabiniere "Carlo Alberto" "Carlo Mirabello" Cassiopea Castelfidardo Castore Centauro Cernia "Cesare Battisti" Ciclone Cigno Circe "Ciro Menotti" Climene Clio Cobalto Colonna "Comandante Cappellini" "Comandante Faà di Bruno" Confienza "Console Generale Liuzzi" "Conte di Cavour" Corallo Corazziere Cristina Curtatone 
+	Daga Dagabur Dandolo "Daniele Manin" "Dante Alighieri" Dardo Delfino Dentice "Des Geneys" Dessiè Diaspro "Dominico Millelire" Dragone "Duca d'Aosta" "Duca degli Abruzzi" Durbo 
+	Elba "Emanuele Filiberto" "Emmanuele Pessagno" Emo "Enrico Dandolo" "Enrico Tazzoli" "Enrico Toti"  Eolo Ercole Eridano Espero Etna Etruria "Ettore Fieramosca" "Eugenio de Savoie" 
+	Farnese "Ferdinando II" Ferro "Filippo Corridoni" Fionda Fiume Flutto Foca Folgore Fortunale "Francesco Crispi" "Francesco Ferruccio" "Francesco Nullo" "Fratelli Bandiera" Freccia Fuciliere Fulminante Fulmine Furia 
+	"Galileo Ferraris" "Galileo Galilei" Galvani Garibaldino Gemma "Generale Achille Papa" "Generale Antonio Cantore" "Generale Antonio Cascino" "Generale Antonio Chinotto" "Generale Carlo Montanari" "Generale Marcello Prestinari" Generoso Geniere Ghibli Giada "Giosué Carducci" "Giovanni da Procida" "Giovanni da Verazzano" "Giovanni dalle Bande Nere" "Giulio Cesare" "Giulio Germanico" "Giuseppe Cesare Abba" "Giuseppe Finzi" "Giuseppe Garibaldi" "Giuseppe Miraglia" "Giuseppe Missori" Gladio Glauco "Goffredo Mameli" Gondar Gorgo Gorizia Granatiere Granito Grecale Grongo Groppo "Guglielmo Marconi" Guglielmotti Guiscardo 
+	Impavido Impero Impetouso Indomito Insidioso Intrepido "Ippolito Nievo" Iride Irrequieto Italia 
+	Lafolè Lampo "Lancerotto Malocello" Lancia Lanciere "Leonardo da Vinci" Leone "Leone Pancaldo" Libeccio Libia Libra Liguria Lince Lira Litio Littorio Lombardia "Luca Tarigo" "Luciano Manara" "Luigi Cadorna" "Luigi Settembrini" "Luigi Torelli" Lupo 
+	Macallé Maestrale "Maggiore Baracca" Malachite "Marcantonio Bragadin" Marcello "Marco Polo" Marea "Maria Teresa" Menai Messaggero "Michele Bianchi" Miseno Mocenigo Monarca Monsone Monzambano Morosini Murena "Muzio Attendolo" 
+	Nani Napoli Narvalo Nautilo "Nazario Sauro" Neghelli Nembo Nichelio "Nicolo Zeno" "Nicoloso da Recco" Nome 
+	Onice Orione Orsa Ostro Otaria 
+	Palestro Palinuro Pallade Pantera Partenope Pegaso Peloro Perla Perseo Piemonte "Pier Capponi" "Pietro Calvi" "Pietro Micca" "Pilade Bronzetti" Piombo Pisa Platino Pleiadi Pola Polluce "Pompeo Magno" Pontiere Porfide Potassio "Principe Carlo" Procione Provana Puglia Pugnale 
+	"Quintino Sella" 
+	"Raimondo Montecuccoli" Ramb Rame "Re Umberto" Regina "Regina Elena" "Regina Isabella" "Regina Margherita" "Reginaldo Giuliani" Remo Rigel Roberto Roma Romolo Rondine "Rosolino Pilo" Ruggiero "Ruggiero di Lauria" "Ruggiero Settimo" 
+	Saetta Sagittario Salpa "San Giorgio" "San Marco" "San Martino" Sannita "Santore Santarossa" Sardegna "Scipione Africano" Sciré Scirocco "Simone Schiaffino" Sirena Sirio Sodio Solferino Spada Sparide Sparviero Spica Spigola Squalo "Stella Polare" Strale Stromboli 
+	Tancredi Taranto Tembien Tifone Tigre "Tito Speri" "Torquato Tasso" Torricelli Trento Tricheco Trieste Tritone Turbine Turchese 
+	Uarsciek "Uebi Scebeli" "Ugolino Vivaldi" "Ulpio Traiano" Uragano 
+	Valoroso Varese Vega Velella Veloce Veniero Vesuvio "Vettor Pisani" "Vincenzo Gioberti" "Vittorio Alfieri" "Vittorio Emanuele" "Vittorio Veneto" Volframio Vortice 
+	Zara Zeffiro Zinco Zoea 
+}
+
+army_names = {
+	"Regia Esercito" "Esercito Italiano" "Armata di $PROVINCE$"
+}
+
+fleet_names = {
+	"Regia Marina" "Marina Sardes" "Squadra $PROVINCE$"
+}

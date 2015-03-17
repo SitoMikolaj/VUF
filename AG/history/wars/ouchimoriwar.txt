@@ -1,0 +1,17 @@
+name = "Guerre d'Ouchi-Mori"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1554.6.1 = {
+	add_attacker = MRI
+	add_defender = OUC
+}
+
+1557.4.3 = {
+	rem_attacker = MRI
+	rem_defender = OUC
+}

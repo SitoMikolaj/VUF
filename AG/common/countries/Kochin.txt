@@ -1,0 +1,94 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = {  255  188  225  }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Unni Râma Koyikal #0" = 10
+	"Vîra Kerala Varmâ #0" = 30
+	"Ravi Varmâ #0" = 10
+	"Goda Varmâ #0" = 10
+	"Râma Varmâ #0" = 50
+	"Kerala Varmâ #0" = 30
+	"Vîra Rayira Varmâ #0" = 10
+	"Kesara Râma Varmâ #1" = 10
+	"Raman #0" = 2
+	"Shrî #0" = 2
+	"Râja #0" = 2
+	"Swathi #0" = 2
+	"Thirunâl #0" = 2
+	"Mârttânda #0" = 2
+	"Vîrarayira #0" = 2
+	"Âyilyam #0" = 2
+	"Nîlakantan #0" = 2
+	"Aravindâksha #0" = 2
+	"Mûlam #0" = 2
+	"Dharma #0" = 2
+	"Uthram #0" = 2
+	"Goda #0" = 2
+	"Sakthân  #0" = 2
+	"Râma #0" = 2
+	"Bâlâ Râma #0" = 2
+	"Kodasseri #0" = 2
+	"Koratti #0" = 2
+	"Gangâdhara Lakshmî #0" = -10
+	"Sîmâ #0" = -1
+	"Lalitha #0" = -1
+}
+
+leader_names = {
+	Kartha
+	Karthavu
+	Kaimal
+	Nedungadi
+	Thampi
+	Nampyâr
+	Varmâ
+	Vellodi
+	Kêsavadâs
+	Naduvazhi
+	Kurup
+}
+
+ship_names = {
+	Amirtha Amman Arul Chellam Devî
+	Durgâ Gâyatrî Iniyâ Kâvêri Lakshmî
+	Madhu Mînâkshî Nalinî Palar Pârvatî
+	Pennar Periyâr Ponni Râdhâ Râtri
+	Sarasvatî Sîtâ Tâmarai Vaigai
+}
+
+army_names = {
+	"Raja Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa"
+	}

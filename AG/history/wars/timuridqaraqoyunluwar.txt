@@ -1,0 +1,19 @@
+name = "Guerre Timouro-Qara Qoyunliu"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1393.8.1 = {
+	add_attacker = TIM
+	add_defender = JAI
+	add_defender = QAR
+}
+
+1405.2.20 = {
+	rem_attacker = TIM
+	rem_defender = JAI
+	rem_defender = QAR
+}

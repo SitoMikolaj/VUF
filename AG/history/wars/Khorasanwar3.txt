@@ -1,0 +1,17 @@
+name = "Troisième guerre du Khorasan"
+
+#casus_belli
+war_goal = {
+	type = take_core 
+	casus_belli = cb_core
+}
+
+1505.1.1 = {
+	add_attacker = SHY
+	add_defender = KHO
+}
+
+1507.1.1 = {
+	rem_attacker = SHY
+	rem_defender = KHO
+}

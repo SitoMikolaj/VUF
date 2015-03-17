@@ -1,0 +1,109 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 23  114  143 }
+
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	diplomatic_ideas
+	defensive_ideas
+	trade_ideas
+	aristocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Mednepal Singh #0" = 20
+	"Arjun Deo #0" = 20
+	"Malkhan Singh #0" = 20
+	"Rudra-Pratâp Singh #0" = 20
+	"Bhârtî Chandra #0" = 20
+	"Madukar #0" = 20
+	"Râm #0" = 20
+	"Bir Singh Deo #0" = 20
+	"Virsingh Dev #0" = 20
+	"Jujhar Singh #0" = 20
+	"Devî Singh #0" = 20
+	"Indramani Singh #0" = 20
+	"Jaswant Singh #0" = 20
+	"Baghwat Singh #0" = 20
+	"Udwat Singh #0" = 20
+	"Prithvî Singh #0" = 20
+	"Sawant Singh Mahendra #0" = 20
+	"Hâtisingh Mahendra #0" = 20
+	"Man Singh Mahendra #0" = 20
+	"Jujhar #0" = 20
+	"Harde Shâh #0" = 2
+	"Nirpat #0" = 2
+	"Sabha #0" = 2
+	"Hindupat #0" = 2
+	"Anirudh #0" = 2
+	"Dhokal #0" = 2
+	"Kishor #0" = 2
+	"Mahendra #0" = 2
+	"Lokpal #0" = 2
+	"Mâdho #0" = 2
+	"Malkhan #0" = 2
+	"Jayanti Devî #0" = -1
+	"Indira #0" = -1
+	"Padmini #0" = -1
+}
+
+leader_names = {
+	Singh
+	Datia
+	Mihir
+	Jasos
+	Bundelâ
+	Bâis
+	Chattari
+	Minhâs
+	Baghela
+	Pakhral
+	Pundir
+	Naru
+	Saharan
+	Mori
+	Chauhan
+	Bhaal
+	Naga
+	Tomara
+	Chandrâtreya
+	Katoch
+	Jadûn
+}
+
+ship_names = {
+	Betwâ Devi Durga Ganga Gandak
+	Gayatri Ghagra Gomti Jalsena
+	"Kâla Jahâzî" Ken Lakshmi
+	"Lâl Jahâzî" Nausenâ "Nav ka Yudh"
+	"Nîla Jahâzî" Parvati Radha
+	Ramganga Ratri Sâgar Sarasvati
+	Satluj Sita Yamunâ
+}
+
+army_names = {
+	"Dekkan Senaa" "Mâhârâdjâh Senaa" "Jaijak bhukti Senaa" "Jhansi Senaa" "Datia Senaa" "Lalitpur Senaa" "Sagar Senaa" "Damoh Senaa" "Orai Senaa" "Panna Senaa" "Mahoba Senaa" "Banda Narsinghpur Senaa"  "Chhatarpur Senaa" "Sindh Senaa" "Betwa Senaa" "Ken Senaa" "Bagahin Senaa" "Tons Senaa" "Pahuj Senaa" "Dhasan Senaa" "Chambal Senaa" "$PROVINCE$ Senaa"
+	}
+
+fleet_names = {
+	"Dekkan Nausenaa" "Mâhârâdjâh Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

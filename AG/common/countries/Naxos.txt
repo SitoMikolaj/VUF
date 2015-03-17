@@ -1,0 +1,110 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 24  50  123 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Francesco #1" = 100
+	"Giovanni #1" = 60
+	"Giacomo #0" = 60
+	"Guglielmo #1" = 20
+	"Pietro #0" = 5
+	"Antonio #0" = 5
+	"Agapios #0" = 2
+	"Akakios #0" = 2
+	"Alexandros #0" = 2
+	"Anargyros #0" = 2
+	"Anastasios #0" = 2
+	"Andreas #0" = 2
+	"Angelos #0" = 2
+	"Aniketos #0" = 2
+	"Apostolos #0" = 2
+	"Argyros #0" = 2
+	"Athanasios #0" = 2
+	"Chrysanthos #0" = 2
+	"Demetrios #0" = 2
+	"Dimosthenes #0" = 2
+	"Dionysios #0" = 2
+	"Dorotheos #0" = 2
+	"Efsthathios #0" = 2
+	"Eleftherios #0" = 2
+	"Elias #0" = 2
+	"Emmanouil #0" = 2
+	"Evangelos #0" = 2
+	"Georgios #0" = 2
+	"Gregorios #0" = 2
+	"Ioannes #0" = 2
+	"Konstantinos #0" = 2
+	"Nikodemos #0" = 2
+	"Pavlos #0" = 2
+	"Petros #0" = 2
+	"Philippos #0" = 2
+	"Photios #0" = 2
+	"Stephanos #0" = 2
+	"Theophylaktos #0" = 2
+	"Vasilis #0" = 2
+	"Vlasis #0" = 2
+	
+	"Ariadne #0" = -1
+	"Katina #0" = -1
+	"Eletheria #0" = -1
+}
+
+leader_names = { 
+	Crispo
+	"Della Carceri" d'Anoe
+	Gattilusi Gavalas Ghisi Giustiniani
+	Loredano Morosini
+	Pisani 
+	Sanudo Saudos Sommarippa
+	Zeno Zorzi
+}
+
+ship_names = {
+	Apollon
+	Crispo
+	Donoussa
+	Francis 
+	Kastraki Keros Koufonisi
+	Mesaria Moutsouna
+	Naxos
+}
+
+army_names = {
+	"Naxos Stratos" "Kykládes Stratos" "Doukatoi Stratos" "Aigaío Stratos" "$PROVINCE$ Stratos"
+}
+
+fleet_names = {
+	"Naxos Naftikó" "Kykládes Naftikón" "Aigaío Naftikó" "Doukatoi Naftikó" "$PROVINCE$ Naftikò"
+}

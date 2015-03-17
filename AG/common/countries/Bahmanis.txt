@@ -1,0 +1,131 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 49  175  191 }
+
+revolutionary_colors = { 16  9  16 }
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	administrative_ideas
+	offensive_ideas
+	quantity_ideas
+	diplomatic_ideas
+	defensive_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Tâj ud-Dîn Fîrûz #1" = 20
+	"'Alâ' ud-Dîn 'Ahmad #0" = 20
+	"Mahmûd #0" = 20
+	"'Ahmad #0" = 20
+	"'Alî #0" = 30
+	"Qâsim #0" = 30
+	"Amîr #0" = 30
+	"Muhammad #0" = 10
+	"Makhdûmah Jahân #0" = -1
+	"Ghiyâs ud-Dîn #0" = 10
+	"Shams ud-Dîn #0" = 10
+	"Dilâwar Khân #0" = 2
+	"Khwâja Hasan #0" = 2
+	"Khwâja-i Jahân #0" = 2
+	"Khalaf Hasan #0" = 2
+	"Mîr Farrukh #0" = 2
+	"Sayyid Husayn #0" = 2
+	"Jalâl Khân #0" = 2
+	"Majnûn Sultân #0" = 2
+	"Qulî Sultân #0" = 2
+	"Mahmûd Gâwân #0" = 2
+	"Sayyid Hanîf #0" = 2
+	"'Imâd al-Mulk #0" = 2
+	"Sayf Allâh #0" = 2
+	"Iftikhâr al-Mulk #0" = 2
+	"Mîr Abû 'l-Qâsim #0" = 2
+	"'Ubayd Allâh #0" = 2
+	"Sayyid Nâsir ad-Dîn #0" = 2
+	"Shâh Khalîl Allâh #0" = 2
+	"Mullâh Qutb ad-Dîn #0" = 2
+	"'Abd Allâh #0" = 2
+	"Rustam Khân #0" = 2
+	"Mîr Shams ad-Dîn #0" = 2
+	"Qâsim Beg #0" = 2
+	"Khwâja 'Imâd ad-Dîn #0" = 2
+	"Mîr 'Alî #0" = 2
+	"Khusraû #0" = 2
+	"Dâ'ûd Khân #0" = 2
+	"Mujâhid #0" = 1
+	"Quâzî Sirâj ud-Dîn #0" = 2
+	"Fûlâd Khân #0" = 2
+	"Jamâl ud-Dîn #0" = 2
+	"'Abdul #0" = 2
+	"Mâlik #0" = 2
+	"'Alâ' ud-Dîn #0" = 2
+	"Mâlik ut-Tujjâr #0" = 2
+	"Sikandar #0" = 2
+	"Hakîm #0" = 2
+	"Sâmiya #0" = -1
+	"Nasîha #0" = -1
+}
+
+leader_names = {
+	"al-Afghânî"
+	"al-Astarâbâdî"	
+	"al-Ardastânî"
+	"al-Badakhshî"
+	"al-Bukhârî"
+	"al-Changezî"
+	"al-Gîlânî"
+	"al-Ghûrî"
+	"al-Hasanâbâdî"
+	"al-Hamadânî"
+	"Jurjânî"
+	"al-Kâbulî"
+	"al-Karbalî"
+	"al-Kirmânî"
+	Kurd
+	"al-Mâzandarânî"
+	Qummî
+	Safikhân
+	"as-Simnânî"
+	"as-Sîstânî"
+	"al-Ûzbakî"
+	"al-Husaynî"
+	Qâdir
+	"'Ambar"
+	Latîf
+}
+
+ship_names = {
+	"A'âliyah" Aurangâbâd Devki Fâtima
+	Godvârî Gulbargâ Jalsena "Kâla Jahâzî"
+	Khân "Lâl Jahâzî" Nausenâ "Nav ka Yudh"
+	Nîknâz "Nîla Jahâzî" Nîlûfa Sâgar Salîma
+	Suhaliya Shamîna Yâsmin
+}
+
+army_names = {
+	"Prtanyaa Deziiya" "Prtanyaa $PROVINCE$"
+}
+
+fleet_names = {
+	"Raja Nausenaa" "$PROVINCE$ Nausenaa"
+}

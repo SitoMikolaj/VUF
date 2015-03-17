@@ -1,0 +1,43 @@
+#373 - Meath
+
+owner = ENG
+controller = ENG
+add_core = ENG
+culture = irish
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 3
+capital = "Dublin"
+citysize = 3000
+fort1 = yes
+temple = yes # St. Patrick's Cathedral, Dublin
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+1450.1.1  = { citysize = 4000 }
+1500.1.1  = { marketplace = yes } # Estimated
+1541.6.1 = { owner = IRE controller = IRE add_core = IRE } # Henri VIII Roi d'Irlande
+1550.1.1  = { citysize = 5000 }
+1580.8.25   = { revolt = { type = noble_rebels size = 1 name = "James Eustace" } controller = REB }
+1581.9.1 = { revolt = {} controller = IRE } 
+1592.1.1  = { university = yes } # Trinity College, Dublin
+1600.1.1  = { citysize = 10000 }
+1625.1.1  = { courthouse = yes fort2 = yes } # Estimated
+1641.10.22 = { unrest = 15 } # Confédération irlandaise
+1642.6.7 = { unrest = 0 } # Indépendance proclamée, écrasée par cromwell en 1650.6.21
+1650.1.1  = { citysize = 17000 }
+1689.3.12 = { revolt = { type = nationalist_rebels size = 1 name = "James II Stuart" } controller = REB } # James II Lands in Ireland
+1690.1.1  = { revolt = {} controller = IRE } # Battle of the Boyne
+1700.1.1  = { citysize = 60000 } #customs_house = yes # Customs House Estimated
+1707.5.12 = {	add_core = GBR remove_core = ENG } # Acte d'Union avec l'Écosse
+1750.1.1  = { citysize = 90000 regimental_camp = yes } # Estimated
+1798.6.23 = { revolt = { type = nationalist_rebels size = 2 name = "Cumann na nÉireannach Aontaithe" } controller = REB } # Republic of Connaught
+1798.9.8  = { revolt = {} controller = IRE }
+1800.1.1  = { citysize = 168000 }
+1800.8.1 = { owner = GBR controller = GBR } # Acte d'Union avec l'Irlande
+1803.7.23 = { revolt = { type = nationalist_rebels size = 2 name = "Révolte d'Emmet" } controller = REB } # Emmet's rebellion
+1803.8.25 = { revolt = {} controller = GBR }

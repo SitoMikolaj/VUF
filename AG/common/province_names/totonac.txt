@@ -1,0 +1,4 @@
+##central_american
+#totonac
+848 = "Tutunacu"
+2642 = "Nzi'batha"

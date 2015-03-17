@@ -1,0 +1,86 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 89  84  255 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Ali Muhammad Khân #0" = 20
+	"Hafiz Rahmat Khân #0" = 20
+	"Faizullah Khân #0" = 20
+	"Muhammad Ali Khân Bahadur #0" = 10
+	"Ghulam Muhammad Khân Bahadur #0" = 10
+	"Ahmad Ali Khân Bahadur #0" = 10
+	"Muhammad Sa'îd Khân Bahadur #0" = 5
+	"Saadat #0" = 2
+	"Safdarjung #0" = 2
+	"Hyder #0" = 2
+	"Birjis Qadra #0" = 2
+	"Ali #0" = 2
+	"Iqbal #0" = 2
+	"Alauddin #0" = 2
+	"Bhi #0" = 2
+	"Malik #0" = 2
+	"Narendra #0" = 2
+	"Bismillah #0" = 2
+	"Obaid #0" = 2
+	"Hazrat Mahal #0" = -5
+	"Farzana #0" = -5
+	"Fakhr-un-Nisa #0" = -1
+}
+
+leader_names = {
+	Afridi
+	Ghori
+	Sahgal
+	Bahadur
+	Bangash
+	Satsangi
+	Hindustani
+	Khân
+	Karrani
+	Yousafzai
+	Chand
+	Awadhi
+	"ud Daula"
+	Khilji
+	Lodi
+	Pundir
+	Sharqi
+	Sarwar
+	Uzbek
+	Siddiqui
+}
+
+ship_names = {
+	Alia Betwa Fatimah Gandak Ghagra
+	Gomti Jalsena "Kala Jahazi" Khân
+	"Lal Jahazi" Nausena "Nav ka Yudh"
+	Niknaz "Nila Jahazi" Niloufa Sagar
+	Satlaj Yamuna Yasmine
+}

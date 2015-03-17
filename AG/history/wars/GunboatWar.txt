@@ -1,0 +1,168 @@
+name = "Guerre des canonnières"
+#casus_belli = cb_insult
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1807.8.15 = {
+	add_attacker = GBR
+	add_defender = DAN
+}
+
+1807.8.29 = {
+	battle = {
+		name = "Køge"
+		location = 12
+		attacker = {
+			commander = "Arthur Wellesley"
+			infantry = 6000
+			cavalry = 1376
+			artillery = 12
+			losses = 3	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Generalløjtnant Castenschiold"
+			infantry = 7000
+			cavalry = 600
+			artillery = 13
+			losses = 20	# percent
+			country = DAN
+		}
+		result = win
+	}
+} # La flotte danoise entière est capturé après le bombardement
+
+1807.9.5 = {
+	battle = {
+		name = "Bombardement de Copenhague"
+		location = 1258
+		attacker = {
+			commander = "James Gambier"
+			heavy_ship = 20
+			light_ship = 4
+			losses = 1	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Ernst Peymann"
+			heavy_ship = 18
+			light_ship = 11
+			galley = 36
+			transport = 14
+			losses = 100	# percent
+			country = DAN
+		}
+		result = win
+	}
+} # La flotte danoise entière est capturé après le bombardement
+
+1808.3.22 = {
+	battle = {
+		name = "Pointe de Seeland"
+		location = 1259
+		attacker = {
+			commander = "George Parker"	# George Parker
+			heavy_ship = 3
+			light_ship = 1
+			losses = 1	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Carl Wilhelm Jessen" # C.W. Jessen
+			heavy_ship = 1
+			losses = 1	# percent
+			country = DAN
+		}
+		result = win
+	}
+}
+
+1808.6.16 = {
+	battle = {
+		name = "Alvøen"
+		location = 1266
+		attacker = {
+			commander = "Post Captain Bettersworth"
+			light_ship = 1
+			losses = 60	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Premierløytnant Bielke"
+			transport = 4
+			losses = 20	# percent
+			country = DAN
+		}
+		result = loss
+	}
+}
+
+1810.7.23 = {
+	battle = {
+		name = "Silda"
+		location = 1266
+		attacker = {
+			commander = "George Parker"
+			light_ship = 2
+			losses = 5	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Jørgen C. de Falsen"
+			transport = 80
+			losses = 1	# percent
+			country = DAN
+		}
+		result = loss
+	}
+}
+
+1811.3.27 = {
+	battle = {
+		name = "Anholt"
+		location = 1259
+		attacker = {
+			commander = "James Wilkes Maurice" 	# George Parker
+			heavy_ship = 3
+			losses = 1	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Jørgen Conrad de Falsen"	# Jørgen C. de Falsen
+			light_ship = 5
+			losses = 1	# percent
+			country = DAN
+		}
+		result = win
+	}
+}
+
+1812.7.12 = {
+	battle = {
+		name = "Lyngør"
+		location = 1259
+		attacker = {
+			commander = "James Pattison Steward"	# James Pattison Steward
+			heavy_ship = 1
+			light_ship = 3
+			losses = 1	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Hans Peter Holm" 	# Hans Peter Holm
+			heavy_ship = 1
+			light_ship = 3
+			losses = 1	# percent
+			country = DAN
+		}
+		result = win
+	}
+}
+
+# Traité de Kiel
+1814.1.15 = {
+	rem_attacker = GBR
+	rem_defender = DAN
+}

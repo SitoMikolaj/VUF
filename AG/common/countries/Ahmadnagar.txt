@@ -1,0 +1,125 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 74  87  138 }
+
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	quantity_ideas
+	aristocracy_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Husayn #0" = 20
+	"Murtazâ #0" = 20
+	"Maran Husayn #1" = 20
+	"'Ismâ'îl #0" = 20
+	"Burhân #1" = 20
+	"Ibrâhîm #0" = 20
+	"Ahmad #0" = 20
+	"Bahâdur #0" = 20
+	"Annam #0" = 20
+	"Amîr #0" = 20
+	"Mâlik #0" = 2
+	"Sa'dât #0" = 2
+	"Râjû #0" = 2
+	"Fath #0" = 2
+	"Abhang #0" = 2
+	"Mîrân #0" = 2
+	"Afzal #0" = 2
+	"Chengiz #0" = 2
+	"Mullah Muhammad #0" = 2
+	"Hafîz #0" = 2
+	"Hamza #0" = 2
+	"Hâmid #0" = 2
+	"Qâsim #0" = 2
+	"Mustafâ #0" = 2
+	"Hasan #0" = 2
+	"Dilâwar Khân #0" = 2
+	"Jahân #0" = 2
+	"Fârûq #0" = 2
+	"Jalâl #0" = 2
+	"Sultân #0" = 2
+	"Mahmûd #0" = 2
+	"Hanîf #0" = 2
+	"'Imâd al-Mulk #0" = 2
+	"Iftikhâr al-Mulk #0" = 2
+	"Nâsir #0" = 2
+	"'Abd Allâh #0" = 2
+	"Rustam #0" = 2
+	"Shams #0" = 2
+	"Khwâja #0" = 2
+	"Khusraû #0" = 2
+	"Chand Bibi #0" = -10
+	"Fâtima #0" = -1
+	"Mumtaz #0" = -1
+	"Mâlika #0" = -1
+}
+
+leader_names = {
+	"'Ambar"
+	al-Badakhshî
+	al-Bukhârî
+	al-Changezî
+	al-Gîlânî
+	al-Hasanâbâdî
+	Jurjânî
+	al-Kâbulî
+	al-Kirmânî
+	Qummî
+	al-Ûzbakî
+	Basrî
+	al-Astarâbâdi	
+	Gâwân
+	al-Ardastânî
+	Majamudâr
+	Munshi
+	Muzzafar
+	Kudhâ
+	Bânda
+	Parîkh
+	Maloji
+	Shâhjî
+	Bhonsale
+	Khân
+	Dakhni
+}
+
+ship_names = {
+	"A'âliyah" "'Arûsah" Bori Fâtima
+	Jalsena Girna "Kâla Jahâzî"
+	Khân "Lâl Jahâzî" Narmadâ Nausenâ
+	"Nav ka Yudh" Nîknâz "Nîla Jahâzî"
+	Nîlûfa Nûr Panjhra Sâgar Salîma
+	Shamîna Suhalia Tâptî Yâsmin Zâhira
+}
+
+army_names = {
+	"Mâhârâdjâh Vaahinii" "Ahmednagar Vaahinii" "Solapur Vaahinii" "Osmanabad Vaahinii" "Beed Vaahinii" "Aurangabad Vaahinii" "Nashik Vaahinii" "Thane Vaahinii" "Pune Vaahinii"  "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Ahmednagar Nausenaa" "Mâhârâdjâh Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

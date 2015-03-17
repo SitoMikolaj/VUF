@@ -1,0 +1,476 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = swahili
+religion = sunni
+technology_group = indian
+unit_type = sub_saharan
+capital = 1196	# Kilwa
+add_piety = -0.25
+
+#Sultans of Kilwa
+1392.1.1 = {
+	monarch = {
+		name = "Husayn II"
+		dynasty = "al-Mawâhib"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}
+
+1416.1.1 = {
+	monarch = {
+		name = "Muhammad II"
+		dynasty = "al-Mawâhib"
+		adm = 7
+		dip = 3
+		mil = 3
+	}
+}
+
+1425.1.1 = {
+	monarch = {
+		name = "Sulayman VII"
+		dynasty = "al-Mawâhib"
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}
+
+1442.1.1 = { #Suleimans Uncle
+	monarch = {
+		name = "Ismâ'îl"
+		dynasty = "al-Mawâhib"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+1454.1.1 = { #Emir, usurper
+	monarch = {
+		name = "Muhammad III"
+		dynasty = "al-Mawâhib"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1454.1.1 = {
+	heir = {
+		name = "'Ahmâd"
+		monarch_name = "'Ahmâd"
+		dynasty = "al-Mawâhib"
+		birth_date = 1435.1.1
+		death_date = 1456.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1455.1.1 = { 
+	monarch = {
+		name = "'Ahmâd"
+		dynasty = "al-Mawâhib"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1456.1.1 = { #Installed in a coup
+	monarch = {
+		name = "Hasan VI"
+		dynasty = "al-Mawâhib"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1456.1.1 = {
+	heir = {
+		name = "Sa'îd"
+		monarch_name = "Sa'îd"
+		dynasty = "al-Mawâhib"
+		birth_date = 1456.1.1
+		death_Date = 1476.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+1466.1.1 = {
+	monarch = {
+		name = "Sa'îd I"
+		dynasty = "al-Mawâhib"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+1476.1.1 = { #Vizier seizes power after the death of Sa'id
+	monarch = {
+		name = "Sulaymân VII"
+		dynasty = "al-Mawâhib"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1476.1.1 = {
+	heir = {
+		name = "'Abd Allâh"
+		monarch_name = "'Abd Allâh"
+		dynasty = "al-Mawâhib"
+		birth_date = 1470.1.1
+		death_Date = 1478.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1477.1.1 = {
+	monarch = {
+		name = "'Abd Allâh"
+		dynasty = "al-Mawâhib"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1477.1.1 = {
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî VI"
+		dynasty = "al-Mawâhib"
+		birth_date = 1477.1.1
+		death_Date = 1479.1.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+1478.1.1 = {
+	monarch = {
+		name = "'Alî VI"
+		dynasty = "al-Mawâhib"
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+1478.1.1 = {
+	heir = {
+		name = "Hasan"
+		monarch_name = "Hasan VII"
+		dynasty = "al-Mawâhib"
+		birth_date = 1470.1.1
+		death_date = 1490.1.1
+		claim = 45
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1479.1.1 = {
+	monarch = {
+		name = "Hasan VII"
+		dynasty = "al-Mawâhib"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1485.1.1 = {
+	monarch = {
+		name = "Hasan VII"
+		dynasty = "al-Mawâhib"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1485.6.1 = { #Hasan deposed, replaced by Muhammad
+	monarch = {
+		name = "Muhammad IV"
+		dynasty = "al-Mawâhib"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1486.1.1 = { #Reinstalled
+	monarch = {
+		name = "Hasan VII"
+		dynasty = "al-Mawâhib"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1486.1.1 = {
+	heir = {
+		name = "Ibrâhîm"
+		monarch_name = "Ibrâhîm I"
+		dynasty = "al-Mawâhib"
+		birth_date = 1470.1.1
+		death_Date = 1495.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1490.1.1 = {
+	monarch = {
+		name = "Ibrâhîm I"
+		dynasty = "al-Mawâhib"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1495.1.1 = { #Installed by Emir
+	monarch = {
+		name = "al-Fudayl"
+		dynasty = "al-Mawâhib"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1499.1.1 = { #Minister, seizes power
+	monarch = {
+		name = "Ibrâhîm II"
+		dynasty = "al-Mawâhib"
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+
+1505.7.23 = {
+	monarch = {
+		name = "Muhammad V"
+		dynasty = "al-Mawâhib"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1506.1.1 = {
+	monarch = {
+		name = "Hasan VIII"
+		dynasty = "al-Mawâhib"
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+}
+
+1507.1.1 = {
+	monarch = {
+		name = "Muhammad VI"
+		dynasty = "al-Mawâhib"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1508.1.1 = {
+	monarch = {
+		name = "Sa'îd II"
+		dynasty = "al-Mawâhib"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1513.1.1 = {
+	monarch = {
+		name = "Muhammad VII"
+		dynasty = "al-Mawâhib"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+#Portuguese occupation of Kilwa.
+#Puppets
+
+1580.1.1 = {
+	monarch = {
+		name = "Yûsuf"
+		dynasty = "al-Mawâhib"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+#Rulers of Zanzibar
+
+1653.1.1 = {
+	monarch = {
+		name = "Mwana Mwema"
+		dynasty = "az-Zanjibârî"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1653.1.1 = {
+	heir = {
+		name = "Yûsuf"
+		monarch_name = "Yûsuf"
+		dynasty = "az-Zanjibârî"
+		birth_date = 1630.1.1
+		death_Date = 1694.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1675.1.1 = {
+	monarch = {
+		name = "Yûsuf"
+		dynasty = "az-Zanjibârî"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1680.1.1 = {
+	heir = {
+		name = "Fâtimah"
+		monarch_name = "Fâtimah"
+		dynasty = "az-Zanjibârî"
+		female = yes
+		birth_date = 1680.1.1
+		death_Date = 1711.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1694.1.1 = {
+	monarch = {
+		name = "Fâtimah"
+		dynasty = "az-Zanjibârî"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1694.1.1 = {
+	heir = {
+		name = "Hasan"
+		monarch_name = "Hasan"
+		dynasty = "az-Zanjibârî"
+		female = yes
+		birth_date = 1670.1.1
+		death_Date = 1728.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1711.1.1 = {
+	monarch = {
+		name = "Hasan"
+		dynasty = "az-Zanjibârî"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1711.1.1 = {
+	heir = {
+		name = "Sultân bint Hasan"
+		monarch_name = "Sultân"
+		dynasty = "az-Zanjibârî"
+		female = yes
+		birth_date = 1687.1.1
+		death_date = 1744.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1728.1.1 = {
+	monarch = {
+		name = "Sultân"
+		dynasty = "az-Zanjibârî"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1728.1.1 = {
+	heir = {
+		name = "'Ahmâd"
+		monarch_name = "'Ahmâd"
+		dynasty = "az-Zanjibârî"
+		female = yes
+		birth_date = 1700.1.1
+		death_date = 1730.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1730.1.1 = {
+	monarch = {
+		name = "'Ahmâd"
+		dynasty = "az-Zanjibârî"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+#1730 - Annexed

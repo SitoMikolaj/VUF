@@ -1,0 +1,104 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 145  70  130 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	african_spearmen
+	bantu_tribal_warfare
+	african_hill_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+monarch_names = {
+	"Muhammad #0" = 100
+	"'Ahmâd #0" = 60
+	"Ibrâhîm #0" = 60
+	"'Ali #0" = 40
+	"Talhah #0" = 40
+	"'Abd ar-Rahmân #0" = 20
+	"'Umar ad-Dîn #0" = 20
+	"Barakât ibn 'Umar #0" = 20
+	"Batî'ah Dël Wänbära #0" = 20
+	"Nûr #0" = 20
+	"'Uthmân #0" = 20
+	"Nasr #0" = 20
+	"Sa'ad ad-Dîn #0" = 20
+	"Sabr ad-Dîn #0" = 20
+	"Sâbir ad-Dîn #0" = 20
+	"Sâdiq #0" = 20
+	"Malâq Âdan #0" = 20
+	"Hâshim #0" = 20
+	"'Abd Allâh #0" = 20
+	"Abû Bakr #0" = 20
+	"Khalaf #0" = 20
+	"Hamîd #0" = 20
+	"Yûsuf #0" = 20
+	"Qaddâf #0" = 2 
+	"Qaddâf Muhammad #0" = 2 
+	"Aydahis #0" = 2 
+	"Anfari #0" = 2
+	"Aydays #0" = 2
+	"Haqq ad-Dîn #0" = 2
+	"Jamâl ad-Dîn #0" = 2
+	"Bâdlây #0" = 2
+	"Shams ad-Dîn #0" = 2
+	"Hanfare #0" = 2
+	"Yahyâ #0" = 2
+	"'Abd ash-Shakûr #0" = 2
+	"'Abd al-Karîm #0" = 2
+	"Fakhr ad-Dîn #0" = 2
+	"Mansûr #0" = 2
+	"Husayn #0" = 2
+	"Baziwi #0" = 2
+	"Fâsîl #0" = 2
+	
+	"Nuhâ #0" = -1
+	"Sadaf #0" = -1
+}
+
+leader_names = {
+	Tsige
+	Barré
+	Bol
+	Deng
+	"'Abd ar-Rashîd"
+	Semer
+	Yagoub
+	Leta
+	Lemn
+	Teka
+}
+
+ship_names = {
+	Aura Awash Asayita Berahle Chifra
+	Dallol Dubti Dulecha Elidar Ewa Gewane
+	Koneba Mille Semera Simurobi Yalo
+}
+
+army_names = {
+	"Jaysh Adal" "Jaysh $PROVINCE$"
+}
+
+fleet_names = {
+	"Armadah Adal" "Armadah $PROVINCE$"
+}

@@ -1,0 +1,127 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 115  142  205 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Charles #0" = 80
+	"François #0" = 40
+	"René #0" = 40
+	"Charles #1 Léopold" = 20
+	"François #1 Éttiene" = 20
+	"Jean #1" = 20
+	"Antoine #0" = 20
+	"Léopold #0 Joseph" = 20
+	"Nicolas #0" = 20
+	"Stanislas #0" = 20
+	"Charles #1 Alexandre" = 15
+	"Charles #1 Joseph" = 15
+	"Claude #0" = 15
+	"Ferdinand Philippe #0" = 15
+	"Isabelle #0" = -15
+	"Léopold #0" = 15
+	"Léopold #0 Clément" = 15
+	"Louis #0" = 15
+	"Rodolphe #0" = 15
+	"Charles #1 Ferdinand" = 10
+	"Charles #1 Henri" = 10
+	"François #1 Antoine" = 10
+	"Joseph #0" = 10
+	"Joseph #0 Innocent" = 10
+	"Alfred #0" = 2
+	"Bernard #0" = 2
+	"David #0" = 2
+	"Éric #0" = 2
+	"Fernand #0" = 2
+	"Gaétan #0" = 2
+	"Gérard #0" = 2
+	"Henri #0" = 2
+	"Jacques #0" = 2
+	"Lucas #0" = 2
+	"Martin #0" = 2
+	"Maximiliem #0" = 2
+	"Olivier #0" = 2
+	"Raymond #0" = 2
+	"Serge #0" = 2
+	"Théodore #0" = 2
+		
+	"Jeanne #0" = -5
+	"Marie #0" = -5
+	"Louise #0" = -5
+	"Diane #0" = -5
+	"Élisabeth #0" = -5
+	"Catherine #0" = -5
+	"Victoire #0" = -5
+	"Christine #0" = -5
+	"Marguerite #0" = -5
+	"Charlotte #0" = -5
+	"Madeleine #0" = -5
+	"Judith #0" = -5
+	"Béatrice #0" = -5
+	"Adélaïde #0" = -5
+	"Emma #0" = -5
+	"Constance #0" = -5
+	"Anne #0" = -5
+	"Aliénor #0" = -5
+	"Blanche #0" = -5
+	"Marie-Thérèse #0" = -5
+	"Marie-Louise #0" = -5
+	"Henriette #0" = -5
+}
+
+leader_names = { 
+	Bickling Braun 
+	Detemple
+	"von Elsass" 
+	Fent Feyerabend Forthober Freymuth
+	Gellée
+	Kathrein Krogloth 
+	Limburg Neubert
+	Oberlothringen 
+	Wolferseder Waldseemüller
+}
+
+ship_names = {
+	"Emperor Lothar" "Lotharingen"
+	"Rene II Lothringen" Barrois Metz
+	Toul Verdun Warding Skirmjan
+	Bera Scoc Sekjan
+}
+
+army_names = {
+	"Armée Ducale" "Armée de Lorraine" "Armée de $PROVINCE$"
+}
+
+fleet_names = {
+	"Flotte Ducale" "Flotte de $PROVINCE$"
+}

@@ -1,0 +1,136 @@
+#Muscovy 
+
+graphical_culture = easterngfx
+
+color = { 206  181  97 }
+
+revolutionary_colors = { 0  13  5 }
+
+historical_idea_groups = {
+	expansion_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	maritime_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+leader_names = {
+	Adashev Apraksin Atlasov
+	Basmanov Baryatiski Bibikov Beketov Baranov Bagration "Barclay de Tolly" Bibikoff Bodisco Boruffsin "von Buxhoevden" Belsky Basenok
+	Chernigovets Chelyuskin Chuiski Chelyadnin
+	Dolgorukov Dubenski Dezhnev Dionysius
+	Ermolov
+	Fermor Fioravanti Fyodorov Filaret
+	Godunov Golitsyn Gagarin Grek Glinski "Gorbaty-Shuisky"
+	Iov Ignatius
+	Kasimovskiy Kurbski Khovanski Kutuzov "Koltsov-Mosalski" Khabarov Kaibula Kamenski Kolzoff Kolytchev "von Knorring" Konstantinovich Kurbsky Kholmski
+	"von Lascy" Lyapun
+	Mikulinski Menshikov Minih Mansurov Moskvitin Mustislavski Mstislavets
+	"Ovchina-Obolenski" "Osterman-Tolstoy" Orlov Otrepiev Ostrogski "Obolenski-Striga"
+	Pozharski Potemkin Petrov Poyarkov Patrikeev Paletskij Palaiologino Patrikeyev
+	Qolsärif Qosçaq
+	Romodanovski Rumyantsev Repnin Rebrov Rajevski Rublev Romanov Rurikovitch
+	Shuiski Sheremetev Skopin Shein Soltikov Spiridof Senyavin Stroganov Semenov Schuvalov Sjeremetjev Sjtjenjatvev Sorsky Söyembikä Skuratov Shemiaka Senja
+	Tottleben "de Tolly" Tomasov Tolstoy Tiesenhusen
+	Ushakov
+	Vorotinski Vishnevetski Vasiljevitj Volotsky
+	Wittgenstein
+	Yalichev Yermak
+	"Zakharyin-Yuryev"
+}
+
+monarch_names = {
+	"Vasiliy #0" = 70
+	"Ivan #2" = 40
+	"Dmitriy #5" = 20
+	"Yuriy #1" = 20
+	"Andrey #3" = 10
+	"Semen #1" = 10
+	"Fyodor #1" = 5
+	"Afanasiy #0" = 2
+	"Akim #0" = 2
+	"Aleksandr #0" = 10
+	"Aleksey #0" = 10
+	"Anatoliy #0" = 2
+	"Arkadiy #0" = 2
+	"Boris #0" = 10
+	"Daniil #1" = 10
+	"Dorofey #0" = 2
+	"Feodosiy #0" = 5
+	"Feofilakt #0" = 2
+	"Gavriil #0" = 2
+	"Innokentiy #0" = 2
+	"Iosif #0" = 2
+	"Igor #2" = 5
+	"Lavrentiy #0" = 2
+	"Makariy #0" = 2
+	"Matveiy #0" = 2
+	"Mikhail #0" = 10
+	"Nazariy #0" = 2
+	"Nikifor #0" = 2
+	"Oleg #0" = 2
+	"Onisim #0" = 2
+	"Pavel #0" = 2
+	"Prokopiy #0" = 2
+	"Pyotr #0" = 10
+	"Radomir #0" = 2
+	"Saveliy #0" = 2
+	"Sergei #0" = 10
+	"Terentiy #0" = 2
+	"Valeriy #0" = 2
+	"Vladimir #3" = 10
+	"Yakim #0" = 2
+	"Yevgeniy #0" = 2
+	
+	"Agafya #0" = -1
+	"Svetlana #0" = -1
+	"Yuliya #0" = -1
+	"Fefinia #0" = -2
+	"Maria #0" = -5
+	"Eudokia #0" = -5
+	"Feodosia #0" = -5
+	"Liuba #0" = -2
+	"Anastasia #0" = -5
+	"Vasilisa #0" = -5
+	"Elena #0" = -5
+	"Marfa #0" = -5
+	"Irina #0" = -5
+	"Tatiana #0" = -5
+}
+
+ship_names = {
+	"Dmitri Donskoi" "Vasiliy I" "D. Aleksandrovich"
+	Rurik "Ivan Kalita" Moscha Volga Schorna Coluna
+	Cortiza Mosnisk Olescho Piersek Troitzkoy Wolok
+	Klin Iausa
+}
+
+army_names = {
+	"Tsar Armijia" "Velikii Kniaz Armija" "Russkaja Armija" "Druzhina Armija" "Strel'tsy Viborniye" "Strel'tsy Gorodskiye" "Narodnoe Opolcheniye" "Strel'tsy $PROVINCE$"	
+}
+
+fleet_names = {
+	"Tsar Flot" "Velikii Kniaz Flot" "Russkaja Flot" "$PROVINCE$ Flot"
+}

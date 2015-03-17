@@ -1,0 +1,122 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 183  176  94 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Qulî #0" = 10
+	"Jamshîd #0" = 10
+	"Subhân Qulî #0" = 10
+	"Ibrâhîm #0" = 10
+	"Muhammad Qulî #0" = 10
+	"Muhammad #0" = 10
+	"'Abdullâh #0" = 10
+	"Abâ 'l-Hasan #0" = 10
+	"Kabîr #0" = 2
+	"Mir Mûsâ #0" = 2
+	"Qulî Sultân #0" = 2
+	"Mahmûd Gawân #0" = 2
+	"Sayid Hanîf #0" = 2
+	"'Imâd al-Mulk #0" = 2
+	"Sayf Allâh #0" = 2
+	"Iftikhâr al-Mulk #0" = 2
+	"Mir Abû 'l-Qâsim #0" = 2
+	"'Ubayd Allâh #0" = 2
+	"Sayid Nâsir ud-Dîn #0" = 2
+	"Shâh Khalîl Allâh #0" = 2
+	"Mullah Qutb ud-Dîn #0" = 2
+	"'Abd Allâh #0" = 10
+	"Rustam Khân #0" = 2
+	"Mir Shams ud-Dîn #0" = 2
+	"Qâsim Beg #0" = 2
+	"Khwâja 'Imâd ud-Dîn #0" = 2
+	"Mir 'Alî #0" = 2
+	"Khusraû #0" = 2
+	"Dâ'ûd Khân #0" = 2
+	"Mujâhid #0" = 2
+	"Qâzî Sirâj ud-Dîn #0" = 2
+	"Fûlâd Khân #0" = 2
+	"Jamâl ud-Dîn #0" = 2
+	"Abdûl #0" = 2
+	"Mâlik #0" = 2
+	"'Alâ' ud-Dîn #0" = 2
+	"Mâlik ut-Tujjâr #0" = 2
+	"Sikandar #0" = 2
+	"Hakîm #0" = 2
+	"Bashîr un-Nisâ #0" = -1
+	"'Umda #0" = -1
+	"Sâmiya #0" = -1
+	"Padshâh #0" = -1
+}
+
+leader_names = {
+	Khân
+	Mahaldar
+	Daw'ar
+	Bhâskar
+	Kabîr
+	Chirâg
+	Jitesh
+	Kadak
+	Kumur
+	Khot
+	Velâma
+	Vâsireddi
+	Nâyudu
+	Pûsapâti
+	Agrawâl
+	Zamîndâri
+	al-Mâzandarânî
+	Qummî
+	Safsikhân
+	as-Simnânî
+	Sîstânî
+	al-Ûzbakî
+	al-Hussaynî
+	Qâdir
+	"'Ambar"
+	Latîf
+}
+
+ship_names = {
+	"A'âliyah" Fâtima Godvârî Jalsena
+	"Kâla Jahâzî" Khân "Lâl Jahâzî"
+	Mahanadi Nausenâ "Nav ka Yudh" Nîknâz
+	"Nîla Jahâzî" Nîlûfa Sâgar Salîma
+	Suhalia Shamîna Yâsmin
+}
+
+army_names = {
+	"Sultân Prtanyaa" "Golkonda Prtanyaa" "Qutb Shâhi Prtanyaa" "Kâkâtîya Prtanyaa" "Warangal Prtanyaa" "Bahmani Prtanyaa" "$PROVINCE$ Prtanyaa"
+	}
+
+fleet_names = {
+	"Golkonda Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

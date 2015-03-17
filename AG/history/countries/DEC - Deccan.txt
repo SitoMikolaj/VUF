@@ -1,0 +1,137 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = telegu
+religion = sunni
+technology_group = indian
+capital = 545 #Aurangabad
+
+1724.1.1 = {
+	monarch = {
+		name = "Âsâf Jâh I" #Qamar-ud-din Khan
+		dynasty = "Âsâf Jâhi"
+		DIP = 4
+		ADM = 3
+		MIL = 5
+	}
+}
+
+1724.1.1 = {
+	heir = {
+		name = "Muhammad Nasr Jang"
+		monarch_name = "Muhammad Nasr Jang"
+		dynasty = "Âsâf Jâhi"
+		birth_date = 1712.2.26
+		death_date = 1750.12.16
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1748.6.2 = {
+	monarch = {
+		name = "Muhammad Nasr Jang"
+		dynasty = "Âsâf Jâhi"
+		DIP = 1
+		ADM = 2
+		MIL = 2
+	}
+}
+
+1748.6.2 = {
+	heir = {
+		name = "Âsâf ud-Dawla Jang"
+		monarch_name = "Muzaffar Jang"
+		dynasty = "Âsâf Jâhi"
+		birth_date = 1718.11.24
+		death_date = 1751.2.13
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1750.12.16 = {
+	monarch = {
+		name = "Muzaffar Jang"
+		dynasty = "Âsâf Jâhi"
+		DIP = 0
+		ADM = 0
+		MIL = 3
+	}
+}
+
+1750.12.16 = {
+	heir = {
+		name = "'Alî Khân"
+		monarch_name = "'Alî Khân"
+		dynasty = "Âsâf Jâhi"
+		birth_date = 1734.3.7
+		death_date = 1803.8.6
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1751.2.13 = {	#Installed by the French
+	monarch = {
+		name = "Salâbat Jang"
+		dynasty = "Âsâf Jâhi"
+		DIP = 0
+		ADM = 0
+		MIL = 3
+	}
+}
+
+1762.6.26 = {
+	monarch = {
+		name = "'Alî Khân"
+		dynasty = "Âsâf Jâhi"
+		DIP = 1
+		ADM = 1
+		MIL = 0
+	}
+	capital = 542	# Hyderabad
+}
+
+1768.11.11 = {
+	heir = {
+		name = "Sikandar Jâh"
+		monarch_name = "Sikandar Jâh"
+		dynasty = "Âsâf Jâhi"
+		birth_date = 1768.11.11
+		death_date = 1829.5.21
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1803.1.1 = {
+	monarch = {
+		name = "Sikandar Jâh"
+		dynasty = "Âsâf Jâhi"
+		DIP = 2
+		ADM = 1
+		MIL = 2
+	}
+}
+
+1803.1.1 = {
+	heir = {
+		name = "Nâsir ud-Dawla"
+		monarch_name = "Nâsir ud-Dawla"
+		dynasty = "Âsâf Jâhi"
+		birth_date = 1794.4.25
+		death_date = 1857.5.16
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}

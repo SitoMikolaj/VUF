@@ -1,0 +1,12 @@
+bookmark =
+{
+	name = "RUSSO_TURC_NAME"
+	desc = "RUSSO_TURC_DESC"
+	date = 1768.9.25
+	
+	country = RUS
+	country = TUR
+	country = CRI
+	country = PLC
+
+	}

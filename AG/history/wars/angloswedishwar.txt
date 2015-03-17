@@ -1,0 +1,21 @@
+name = "Guerre anglo-suédoise"
+
+# Seule guerre où il n'y eut aucun combat vu que personne ne voulait vraiment se battre.
+
+#casus_belli
+war_goal = {
+	type = humiliate
+	casus_belli = cb_humiliate
+}
+
+# Déclaration suite à l'Ultimatum imposé par Napoléon Ier
+1810.11.17  = {
+	add_attacker = SWE
+	add_defender = GBR
+}
+
+# Traité d'Örebro 
+1812.7.18 = {
+	rem_attacker = SWE
+	rem_defender = GBR
+}

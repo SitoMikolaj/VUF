@@ -1,0 +1,138 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 123  90  90 }
+
+revolutionary_colors = { 1  0  4 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Friedrich #0" = 60
+	"Albrecht #3 Achilles" = 20
+	"Friedrich Wilhelm #0" = 20
+	"Georg Wilhelm #0" = 20
+	"Joachim #0 Hector" = 20
+	"Joachim #0 Nestor" = 20
+	"Jobst #0" = 20
+	"Johann Cicero #0" = 20
+	"Johann Friedrich #0" = 20
+	"Johann Georg #0" = 20
+	"Johann Siegmund #0" = 20
+	"Siegmund #0" = 20
+	"Albrecht #3" = 15
+	"Wilhelm Friedrich #0" = 15
+	"Karl #0" = 15
+	"Johann #5" = 10
+	"Heinrich #2" = 10
+	"Albrecht Christian #0" = 10
+	"Albrecht Friedrich #0" = 10
+	"August #0" = 10
+	"Christian #0" = 10
+	"Christian Wilhelm #0" = 10
+	"Ernst #0" = 10
+	"Georg #0" = 10
+	"Georg Albrecht #0" = 10
+	"Joachim #0" = 10
+	"Joachim #0 Ernst" = 10
+	"Joachim #0 Siegmund" = 10
+	"Paul #0" = 10
+	"Adolf #0" = 2
+	"Clemens #0" = 2
+	"Diederick #0" = 2
+	"Eberhard #0" = 2
+	"Helmut #0" = 2
+	"Hermann #0" = 2
+	"Luitpold #0" = 2
+	"Markus #0" = 2
+	"Stefan #0" = 2
+	"Viktor #0" = 2
+	
+	"Miriam #0" = -1
+	"Paula #0" = -1
+	"Ulrike #0" = -1
+}
+
+leader_names = {		
+	Arnim Arnswald "von Anhalt-Dessau" Alcibiades
+	Below Billerbeck Blankensee Briesen "von Bimback" "von Bühler"
+	Casimir Cisielsky Chemnitz
+	"von Derfflinger"	"von Dessau"	"von Dossow" "von Dohna"
+	Euler
+	Finck Fichte "von Frundsberg"
+	Gerhardt "von Gentz" "de Gandino"
+	Höltzendorff "von Hohenlohe" "von Hohenzollern" "von Humboldt" Hegel Hoffmann "von Hessen-Homburg"
+	Knobelsdorf Kreytz "von Kyau" Kant Klaproth
+	Linkendorf Lessing
+	Münchov "von Mach"	"von Manstein" "von Merckatz" Mendelssohn
+	Perlkowski Posadofsky "von Plothow"	"von Preußen"
+	"von Quernheimberg" "von Quitzow"
+	Riwotzki "von Rauch" "von Rottenburg" "von Rüts"
+	Schach Schnittern Selasinky "von Schwerin" "von Seel" "von Stille" "von Schwarzenberg" "von Sayn-Wittgenstein" Stahl "von Stein" Schleiermacher "von Sparr"
+	Treskaw Truxes "von Taubeneck"
+	Ucklanski
+	"von Wermsdorff"
+	Zitzwitz "von Ziethen"
+}
+
+ship_names = {
+	Afrikaner "Albrecht II" "Albrecht III" "Albrecht der Bär" Altmark
+                  Berlin Bernsteinfänger Bielefeld "Brandenburgisch. Dragoner" Bulle 
+                  "Charlotte Louise" Clementia Cleve "Clevischer Lindenbaum"
+                  Derfflinger Diederich "Die sieben Provinzen" Dorothea 
+                  Einhorn "Engel Gabriel"
+                  "Fliegender Drache" Fortuna Friede "Friedrich I" "Friedrich II" "Friedrich III" "Fried. Wilhelm zu Pferde" "Friedrich Willem" Fuchs 
+                  "Goldener Löwe" "Grafschaft Mark" Grossfriedrichsburg "Grosse Hoffnung" "Grüner Drache" 
+                  "Heinrich I" "Heinrich II" "Herzogtum Cleve" Hoffnung 
+                  Jäger "Jobst von Mähren" "Johann I" 
+                  "König von Spanien" "Kurf. Leib und Lustyacht" "Kurfürst von Brandenburg" "Kurfürstl. grosse Yacht" 
+                  "Kurf. vergoldete Jacht" "kurfurstliche neue Jacht" "Kurprins von Brandenburg" Kurprinz Kurprinzess
+                  Leopard Liebe "Litauer Bauer" "Ludwig I" "Ludwig II"
+                  Makarele Maria "Maria Catharina" "Markgraf von Brandenburg" Mittelmark Morian 
+                  Neumark "Nordischer Löwe"
+                  "Otto I" "Otto II" "Otto III" "Otto IV" "Otto V"
+                  Pax Pierelepomp Post Potsdam Prignitz "Prinz Ludwig" "Prinz Philipp" "Prinzess Maria"
+                  Rommelpot Rosenfelde "Roter Löwe"
+                  Salamander "Schloss Oranienburg" Seeritter Sigismund Spandau "St. Peter" "St. Johannes Evangelist" "Stad Emden" Sternberg
+                  Uckermark
+                  "Vogel Greif"
+                  Waldemar "Wappen von Brandenburg" "Wappen von Cleve" Wasserhund Wenzel Windhund Wolkensäule 
+}
+
+army_names = {
+	"Kurfürstliche Garde" "Armee der Marsch" "Armee der Brandenburg" "Elbe Armee" "Oder Armee" "Altmark Armee" "Mittelmark Armee" "Prignitz Armee" "Neumark Armee" "Uckermark Armee" "Armee von Sternberg" "Armee von Custrin" "Armee von $PROVINCE$" 
+}
+
+fleet_names = {
+	"Kurfürstliche Flotte" "Küstenwache Flotte" "$PROVINCE$ Flotte" 
+}

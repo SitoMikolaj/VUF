@@ -1,0 +1,17 @@
+name = "Guerre de Malwa"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1403.1.1 = {
+	add_attacker = GUJ
+	add_defender = MLW
+}
+
+1407.1.1 = {
+	rem_attacker = GUJ
+	rem_defender = MLW
+}

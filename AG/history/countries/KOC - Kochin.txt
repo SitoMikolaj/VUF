@@ -1,0 +1,683 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = hinduism
+primary_culture = malayalam
+capital = 535	# Kochin
+fixed_capital = 535 # Cannot move capital away from this province & no power cost to move to it
+historical_friend = VIJ
+
+# Perumal Dynasty # Hard to find info before 1500
+1444.1.1 = {	#Really around 1500
+	monarch = {
+		name = "Unni Râma Koyikal I"
+		dynasty = "Perumal"
+		DIP = 3
+		ADM = 2
+		MIL = 2
+	}
+}
+
+1500.1.1 = {
+	heir = {
+		name = "Unni Râma Koyikal"
+		monarch_name = "Unni Râma Koyikal II"
+		dynasty = "Perumal"
+		birth_date = 1500.1.1
+		death_date = 1537.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1503.1.1 = {
+	monarch = {
+		name = "Unni Râma Koyikal II"
+		dynasty = "Perumal"
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1503.1.1 = {
+	heir = {
+		name = "Vîra Kerala Varmâ"
+		monarch_name = "Vîra Kerala Varmâ I"
+		dynasty = "Perumal"
+		birth_date = 1480.1.1
+		death_date = 1565.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1537.1.1 = {
+	monarch = {
+		name = "Vîra Kerala Varmâ I"
+		dynasty = "Perumal"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1537.1.1 = {
+	heir = {
+		name = "Kesara Râma Varmâ"
+		monarch_name = "Kesara Râma Varmâ II"
+		dynasty = "Perumal"
+		birth_date = 1520.1.1
+		death_date = 1601.1.1
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1565.1.1 = {
+	monarch = {
+		name = "Kesara Râma Varmâ II"
+		dynasty = "Perumal"
+		ADM = 4
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1565.1.1 = {
+	heir = {
+		name = "Vîra Kerala Varmâ"
+		monarch_name = "Vîra Kerala Varmâ II"
+		dynasty = "Perumal"
+		birth_date = 1540.1.1
+		death_date = 1615.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1601.1.1 = {
+	monarch = {
+		name = "Vîra Kerala Varmâ II"
+		dynasty = "Perumal"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1601.1.1 = {
+	heir = {
+		name = "Ravi Varmâ"
+		monarch_name = "Ravi Varmâ I"
+		dynasty = "Perumal"
+		birth_date = 1540.1.1
+		death_date = 1624.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1615.1.1 = {
+	monarch = {
+		name = "Ravi Varmâ I"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1615.1.1 = {
+	heir = {
+		name = "Vîra Kerala Varmâ"
+		monarch_name = "Vîra Kerala Varmâ III"
+		dynasty = "Perumal"
+		birth_date = 1580.1.1
+		death_date = 1624.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1624.1.1 = {
+	monarch = {
+		name = "Vîra Kerala Varmâ III"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1624.1.1 = {
+	heir = {
+		name = "Goda Varmâ"
+		monarch_name = "Goda Varmâ I"
+		dynasty = "Perumal"
+		birth_date = 1600.1.1
+		death_date = 1645.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1637.1.1 = {
+	monarch = {
+		name = "Goda Varmâ I"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1637.1.1 = {
+	heir = {
+		name = "Vîra Rayira Varmâ"
+		monarch_name = "Vîra Rayira Varmâ I"
+		dynasty = "Perumal"
+		birth_date = 1600.1.1
+		death_date = 1646.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1645.1.1 = {
+	monarch = {
+		name = "Vîra Rayira Varmâ I"
+		dynasty = "Perumal"
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1645.1.1 = {
+	heir = {
+		name = "Vîra Kerala Varmâ"
+		monarch_name = "Vîra Kerala Varmâ IV"
+		dynasty = "Perumal"
+		birth_date = 1610.1.1
+		death_date = 1650.1.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1646.1.1 = {
+	monarch = {
+		name = "Vîra Kerala Varmâ IV"
+		dynasty = "Perumal"
+		ADM = 1
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1646.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ I"
+		dynasty = "Perumal"
+		birth_date = 1620.1.1
+		death_date = 1656.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1650.1.1 = {
+	monarch = {
+		name = "Râma Varmâ I"
+		dynasty = "Perumal"
+		ADM = 2
+		DIP = 1
+		MIL = 0
+	}
+}
+
+1650.1.1 = {
+	heir = {
+		name = "Gangâdhara Lakshmî"
+		monarch_name = "Gangâdhara Lakshmî"
+		dynasty = "Perumal"
+		birth_date = 1620.1.1
+		death_date = 1656.1.1
+		claim = 95
+		female = yes
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1656.1.1 = {
+	monarch = {
+		name = "Gangâdhara Lakshmî"
+		dynasty = "Perumal"
+		female = yes
+		ADM = 3
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1656.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ II"
+		dynasty = "Perumal"
+		birth_date = 1640.1.1
+		death_date = 1662.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1658.1.1 = {
+	monarch = {
+		name = "Râma Varmâ II"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1658.1.1 = {
+	heir = {
+		name = "Goda Varmâ"
+		monarch_name = "Goda Varmâ II"
+		dynasty = "Perumal"
+		birth_date = 1644.1.1
+		death_date = 1663.1.1
+		claim = 95
+		ADM = 4
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1662.1.1 = {
+	monarch = {
+		name = "Goda Varmâ II"
+		dynasty = "Perumal"
+		ADM = 4
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1662.1.1 = {
+	heir = {
+		name = "Vîra Kerala Varmâ"
+		monarch_name = "Vîra Kerala Varmâ V"
+		dynasty = "Perumal"
+		birth_date = 1644.1.1
+		death_date = 1663.1.1
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1663.1.1 = {
+	monarch = {
+		name = "Vîra Kerala Varmâ V"
+		dynasty = "Perumal"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+	}
+}
+
+1663.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ III"
+		dynasty = "Perumal"
+		birth_date = 1654.1.1
+		death_date = 1693.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1687.1.1 = {
+	monarch = {
+		name = "Râma Varmâ III"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1687.1.1 = {
+	heir = {
+		name = "Ravi Varmâ"
+		monarch_name = "Ravi Varmâ II"
+		dynasty = "Perumal"
+		birth_date = 1674.1.1
+		death_date = 1697.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1693.1.1 = {
+	monarch = {
+		name = "Ravi Varmâ II"
+		dynasty = "Perumal"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+
+1693.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ IV"
+		dynasty = "Perumal"
+		birth_date = 1674.1.1
+		death_date = 1701.1.1
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1697.1.1 = {
+	monarch = {
+		name = "Râma Varmâ IV"
+		dynasty = "Perumal"
+		ADM = 1
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1697.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ V"
+		dynasty = "Perumal"
+		birth_date = 1682.1.1
+		death_date = 1721.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1701.1.1 = {
+	monarch = {
+		name = "Râma Varmâ V"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1701.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ V"
+		dynasty = "Perumal"
+		birth_date = 1690.1.1
+		death_date = 1731.1.1
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1721.1.1 = {
+	monarch = {
+		name = "Râma Varmâ V"
+		dynasty = "Perumal"
+		ADM = 2
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1721.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ VI"
+		dynasty = "Perumal"
+		birth_date = 1700.1.1
+		death_date = 1746.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1731.1.1 = {
+	monarch = {
+		name = "Râma Varmâ VI"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1731.1.1 = {
+	heir = {
+		name = "Kerala Varmâ"
+		monarch_name = "Kerala Varmâ I"
+		dynasty = "Perumal"
+		birth_date = 1710.1.1
+		death_date = 1749.1.1
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1746.1.1 = {
+	monarch = {
+		name = "Kerala Varmâ I"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1746.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ VII"
+		dynasty = "Perumal"
+		birth_date = 1730.1.1
+		death_date = 1760.1.1
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1749.1.1 = {
+	monarch = {
+		name = "Râma Varmâ VII"
+		dynasty = "Perumal"
+		ADM = 2
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1749.1.1 = {
+	heir = {
+		name = "Kerala Varmâ"
+		monarch_name = "Kerala Varmâ II"
+		dynasty = "Perumal"
+		birth_date = 1735.1.1
+		death_date = 1775.1.1
+		claim = 95
+		ADM = 0
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1760.1.1 = {
+	monarch = {
+		name = "Kerala Varmâ II"
+		dynasty = "Perumal"
+		ADM = 0
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1760.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ VIII"
+		dynasty = "Perumal"
+		birth_date = 1740.1.1
+		death_date = 1790.1.1
+		claim = 95
+		ADM = 0
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1775.1.1 = {
+	monarch = {
+		name = "Râma Varmâ VIII"
+		dynasty = "Perumal"
+		ADM = 0
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1775.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ IX"
+		dynasty = "Perumal"
+		birth_date = 1760.1.1
+		death_date = 1805.1.1
+		claim = 95
+		ADM = 3
+		DIP = 4
+		MIL = 2
+	}
+}
+
+1790.1.1 = {
+	monarch = {
+		name = "Râma Varmâ IX"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 4
+		MIL = 2
+	}
+}
+
+1790.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ X"
+		dynasty = "Perumal"
+		birth_date = 1770.1.1
+		death_date = 1809.1.1
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1805.1.1 = {
+	monarch = {
+		name = "Râma Varmâ X"
+		dynasty = "Perumal"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1805.1.1 = {
+	heir = {
+		name = "Kerala Varmâ"
+		monarch_name = "Kerala Varmâ III"
+		dynasty = "Perumal"
+		birth_date = 1790.1.1
+		death_date = 1828.1.1
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1809.1.1 = {
+	monarch = {
+		name = "Kerala Varmâ III"
+		dynasty = "Perumal"
+		ADM = 4
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1809.1.1 = {
+	heir = {
+		name = "Râma Varmâ"
+		monarch_name = "Râma Varmâ XI"
+		dynasty = "Perumal"
+		birth_date = 1795.1.1
+		death_date = 1837.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 0
+	}
+}

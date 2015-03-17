@@ -1,0 +1,74 @@
+name = "Guerre de Schmalkalden"
+#casus_belli = cb_religious_conformance
+war_goal = {
+	type = take_capital_conformance
+	casus_belli = cb_religious_conformance
+	tag = SAX
+}
+
+1546.7.15 = {
+	add_attacker = SPA
+	add_defender = SAX
+	add_defender = HES
+	add_defender = ANH
+	add_defender = BRE
+	add_defender = BRU
+	add_defender = LUN
+	add_defender = PAL
+	add_defender = HSA
+	add_defender = ALS
+	add_defender = ULM
+	add_defender = MAG
+	add_defender = POM
+	add_defender = BRA
+	add_defender = AUG
+	add_defender = FRN
+	add_defender = HAM
+	add_defender = HAN
+}
+
+1547.4.24 = {
+	battle = {
+		name = "Mühlberg"
+		location = 61
+		attacker = {
+			commander = "Carlos V"	# Charles V
+			infantry = 24000
+			cavalry = 5000
+			artillery = 20
+			losses = 1	#percent
+			country = SPA
+		}
+		defender = {
+			commander = "Johann Friederich I"	# John Frederick I
+			infantry = 12000
+			cavalry = 3000
+			artillery = 15
+			losses = 55	#percent
+			country = SAX
+		}
+		result = win
+	}
+}
+
+# Paix de Augsburg
+1555.9.25 = {
+	rem_attacker = SPA
+	rem_defender = SAX
+	rem_defender = HES
+	rem_defender = ANH
+	rem_defender = BRE
+	rem_defender = BRU
+	rem_defender = LUN
+	rem_defender = PAL
+	rem_defender = HSA
+	rem_defender = ALS
+	rem_defender = ULM
+	rem_defender = MAG
+	rem_defender = POM
+	rem_defender = BRA
+	rem_defender = AUG
+	rem_defender = FRN
+	rem_defender = HAM
+	rem_defender = HAN
+}

@@ -1,0 +1,17 @@
+name = "Guerre de Palembang"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1655.1.1 = {
+	add_attacker = NED
+	add_defender = ATJ
+}
+
+1659.1.1 = {
+	rem_attacker = NED
+	rem_defender = ATJ
+}

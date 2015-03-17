@@ -1,0 +1,102 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 255  151  40 }
+
+historical_idea_groups = {
+	maritime_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Umur #1" = 20
+	"Cüneyd #0" = 20
+	"Musa #0" = 20
+	"Isa #1" = 15
+	"Abdülkadir #1" = 15
+	"Muhammed #1" = 15
+	"Ali #0" = 10
+	"Ibrahim #0" = 10
+	"Aydin #0" = 5
+	"Abdulmecid #0" = 2
+	"Adil #0" = 2
+	"Bayezid #0" = 2
+	"Hizir #0" = 2
+	"Ilhami #0" = 2
+	"Ishak #0" = 2
+	"Iskender #0" = 2
+	"Kamer #0" = 2
+	"Kasim #0" = 2
+	"Korkud #0" = 2
+	"Murad #0" = 2
+	"Seyfettin #0" = 2
+	"Süleyman #0" = 2
+	"Davud #0" = 2
+	"Hasan #0" = 2
+	"Hüseyin #0" = 2
+	"Yakub #0" = 2
+	"Yusuf #0" = 2
+	
+	"Sehnaz #0" = -1
+	"Yasemin #0" = -1
+}
+
+leader_names = {
+	Avsar
+	Baykurt
+	Halis
+	Mansur
+	Alemdar Amasyali Ayas
+	Bali Barbaros Bayram
+	Cezzar Çandarli Çelebi Cerrah Çerkes Civan Çuhadar
+	Damad Dervis Defterdar
+	Gedik Gazi Gümülcineli Gürcü
+	Hadim Hekimoglu Hersekli
+	Köprülü Kemal Küçük Koca Karamanli Köse Kara Kanijeli Kemankes Kaymak Kavalali
+	Ishak Izzed
+	Lala Lefkeli
+	Malkoç Müezzinzade
+	Nevsehirli Nisanci
+	Oruç Uluç Osmancikli Ohrili Oflu
+	Rumi
+	Piri Pargali Piyale Pehlivan
+	Salih Sokullu Sari Silahdar Semiz Serdar
+	Topal Tayyar Turgut Tarhuncu
+	Veli
+	Yemisçi
+}
+
+ship_names = {
+	"Temür Yaman" Bayezid Candaroglu Isfendiyar Süleyman 
+	Kastamonu Tosya Saraydüzü Devrekani Agli Daday Bozkuri
+	Küre Arac Kargi Hanönü
+}
+
+army_names = {
+	"Aydin Ordusu" "Vilayet Ordusu" "Beylik Ordusu" "$PROVINCE$ Ordusu"
+}
+
+fleet_names = {
+	"Akdeniz Donanmasî" "Adalar Donanmasî" "Olüdeniz Donanmasî" "Karadeniz Donanmasî" "Hazar Donanmasî"
+}

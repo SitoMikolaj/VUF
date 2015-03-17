@@ -1,0 +1,17 @@
+name = "Première Guerre Uzbeck"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_annex
+}
+
+1465.1.1 = {
+	add_attacker = KZH
+	add_defender = SHY
+}
+
+1470.1.1 = { 
+	rem_attacker = KZH
+	rem_defender = SHY
+}

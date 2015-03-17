@@ -1,0 +1,117 @@
+name = "Quasi-guerre"
+#casus_belli = cb_trade_war
+war_goal = {
+	type = superiority_trade_mutual
+	casus_belli = cb_trade_war
+}
+
+1798.7.7 = {
+	add_attacker = USA
+	add_defender = FRA
+}
+
+1798.7.7 = {
+	battle = {
+		name = "USS Delaware"
+		location = 1500
+		attacker = {
+			commander = "Frédéric Lee"
+			light_ship = 1
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Jean Bordeaux"
+			light_ship = 1
+			losses = 40	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1798.11.20 = {
+	battle = {
+		name = "USS Retalation"
+		location = 1523
+		attacker = {
+			commander = "Peter Connor"
+			light_ship = 1
+			losses = 50	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Maurice Blanc"
+			light_ship = 2
+			losses = 5	# percent
+			country = FRA
+		}
+		result = loss
+	}
+}
+
+1799.2.9 = {
+	battle = {
+		name = "USS Constellation"
+		location = 1522
+		attacker = {
+			commander = "Adam Johnson"
+			light_ship = 1
+			losses = 50	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Benoît de Barjac"
+			light_ship = 1
+			losses = 65	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1800.2.2 = {
+	battle = {
+		name = "USS Constellation"
+		location = 1523
+		attacker = {
+			commander = "Simon Jackson"
+			light_ship = 1
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Thomas Joubert"
+			light_ship = 1
+			losses = 60	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+1800.4.28 = {
+	battle = {
+		name = "USS Boston"
+		location = 1522
+		attacker = {
+			commander = "Alexander Latmi"
+			light_ship = 1
+			losses = 5	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Charles Villeneuve"
+			light_ship = 1
+			losses = 50	# percent
+			country = FRA
+		}
+		result = win
+	}
+}
+
+# Traité de Mortefontaine
+1800.9.30 = {
+	rem_attacker = USA
+	rem_defender = FRA
+}

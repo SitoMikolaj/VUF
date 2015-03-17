@@ -1,0 +1,76 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+capital = 361 # Cairo
+
+1768.1.1 = {
+	monarch = {
+		name = "Alî l-Kabîr"
+		dynasty = "Beg"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1773.5.2 = {
+	monarch = {
+		name = "Mehmed"
+		dynasty = "Beg"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1775.6.11 = {
+	monarch = {
+		name = "Murad"
+		dynasty = "Beg"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1792.1.1 = { leader = {	name = "Ibrahim Bey"           	type = general	rank = 1	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1804.3.14 } }
+
+1792.1.1 = { leader = {	name = "Murad Bey"             	type = general	rank = 2	fire = 1	shock = 3	manuever = 4	siege = 0	death_date = 1801.4.22 } }
+
+1801.4.23 = {
+	monarch = {
+		name = "Osman"
+		dynasty = "Bardisi"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1804.3.14 = {
+	monarch = {
+		name = "Mehemet Ali"
+		dynasty = "Alaoui"
+		birth_date = 1769.3.4
+		adm = 6
+		dip = 4
+		mil = 6
+		leader = { name = "Mehmet Ali"		type = general	rank = 0	fire = 1	shock = 4	manuever = 5	siege = 0 }
+	}
+}
+
+1805.5.17 = {
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim I"
+		dynasty = "Alaoui"
+		birth_date = 1789.1.1
+		death_date = 1848.11.10
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

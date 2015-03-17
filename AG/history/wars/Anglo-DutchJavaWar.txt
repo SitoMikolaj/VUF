@@ -1,0 +1,62 @@
+name = "Guerre anglo-néerlandaise de Java"
+#casus_belli = cb_colonial
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 641 #Makassar
+}
+
+1810.1.1 = {
+	add_attacker = GBR
+	add_defender = NED
+}
+
+1811.8.11 = {
+	battle = {
+		name = "Batavia"
+		location = 630
+		attacker = {
+			commander = "Gilbert Elliot"
+			infantry = 5750
+			artillery = 1
+			losses = 2	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Herman Willem Daendels"
+			infantry = 9000
+			artillery = 14
+			losses = 10	# percent
+			country = NED
+		}
+		result = win
+	}
+}
+
+1811.9.17 = {
+	battle = {
+		name = "Semarang"
+		location = 630
+		attacker = {
+			commander = "Gilbert Elliot"
+			infantry = 5000
+			artillery = 1
+			losses = 2	# percent
+			country = GBR
+		}
+		defender = {
+			commander = "Herman Willem Daendels" 
+			infantry = 8000
+			artillery = 14
+			losses = 20	# percent
+			country = NED
+		}
+		result = win
+	}
+}
+
+# Truce
+1811.9.17 = {
+	rem_attacker = GBR
+	rem_defender = NED
+}

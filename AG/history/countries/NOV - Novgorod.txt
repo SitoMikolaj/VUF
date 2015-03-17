@@ -1,0 +1,185 @@
+government = merchant_republic
+#aristocracy_plutocracy = 1
+#centralization_decentralization = 3
+#innovative_narrowminded = 0
+mercantilism = 0.25
+#offensive_defensive = 2
+#land_naval = -3
+#quality_quantity = 4
+#serfdom_freesubjects = -2
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+historical_rival = MOS
+capital = 310	# Novgorod
+fixed_capital = 310 # Cannot move capital away from this province & no power cost to move to it
+
+1359.1.1 = {
+	monarch = {
+		name = "Aleksey"
+		birth_date = 1320.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "Ioann"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Simeon"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1421.1.1 = {
+	monarch = {
+		name = "Feodosy"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1423.1.1 = {
+	monarch = {
+		name = "Evfimy I"
+		birth_date = 1360.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1429.1.1 = {
+	monarch = {
+		name = "Evfimy II"
+		birth_date = 1370.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1458.3.20 = {
+	monarch = {
+		name = "Iona"
+		birth_date = 1410.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1470.11.5 = {
+	monarch = {
+		name = "Feofil"
+		birth_date = 1430.1.1
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1483.1.1 = {
+	monarch = {
+		name = "Serguei"
+		birth_date = 1440.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1484.1.1 = {
+	monarch = {
+		name = "Gennady"
+		birth_date = 1440.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1504.1.1 = {
+	monarch = {
+		name = "Serapion"
+		birth_date = 1460.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1516.1.1 = {
+	monarch = {
+		name = "Makary"
+		birth_date = 1482.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1542.1.1 = {
+	monarch = {
+		name = "Feodosii"
+		birth_date = 1500.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1551.1.1 = {
+	monarch = {
+		name = "Serapion II"
+		birth_date = 1500.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1552.1.1 = {
+	monarch = {
+		name = "Pimen"
+		birth_date = 1510.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1571.1.1 = {
+	monarch = {
+		name = "Leonid"
+		birth_date = 1510.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1576.1.1 = {
+	monarch = {
+		name = "Aleksandr"
+		birth_date = 1520.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,17 @@
+name = "Guerre de la Grande Colombie"
+
+#casus_belli
+war_goal = {
+	type = take_border
+	casus_belli = cb_border_war
+}
+
+1828.7.3 = {
+	add_attacker = PEU
+	add_defender = COL
+}
+
+1829.2.28 = {
+	rem_attacker = PEU
+	rem_defender = COL
+}

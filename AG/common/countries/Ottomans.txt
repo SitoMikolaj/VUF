@@ -1,0 +1,176 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 126  203  120 }
+
+revolutionary_colors = { 5  9  5 } #Ottoman Civil Ensign
+
+historical_score = 5500
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	quantity_ideas
+	influence_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Mehmet #0" = 80
+	"Mustafa #0" = 80
+	"Murad #1" = 60
+	"Ahmed #0" = 60
+	"Selim #0" = 60
+	"Osman #1" = 40
+	"Mahmud #0" = 40
+	"Süleyman #0" = 40
+	"Bayezid #0" = 20
+	"Orhan #1" = 20
+	"Abdülaziz #0" = 10
+	"Abdülhamid #0" = 10
+	"Ibrahim #0" = 10
+	"Abdülmecid #0" = 10
+	"Abdullah #0" = 1
+	"Cem #0" = 1
+	"Cihangir #0" = 1
+	"Alaüddin #0" = 1
+	"Isa #0" = 1
+	"Mûsa #0" = 1
+	"Ömer #0" = 1
+	"Seyfettin #0" = 1
+	"Yakub #0" = 1
+	"Yusuf #0" = 1
+	"Giyasüddin #0" = 2
+	"Numan #0" = 2
+	"Abdülmalik #0" = 2
+	"Abdülrahman #0" = 2
+	"Ali #0" = 2
+	"Davud #0" = 2
+	"Hasan #0" = 2
+	"Hüseyin #0" = 2
+	"Ishak #0" = 2
+	"Kamer #0" = 2
+	"Kasim #0" = 2
+	"Korkud #0" = 2
+	"Emin #0" = 2
+	"Iskender #0" = 2
+	"Halil #0" = 2
+	"Said #0" = 2
+	"Hamid #0" = 2
+	"Ertughrul #0" = 2
+	"Izzeddin #0" = 2
+	"Nizameddin #0" = 2
+	"Sinan #0" = 2
+	"Ferhad #0" = 2
+	"Salih #0" = 2
+	"Ismail #0" = 2
+	"Cüneyd #0" = 2
+	"Bahadir #0" = 2
+	"Hizir #0" = 2
+	"Harun #0" = 2
+	"Cemal #0" = 2
+	"Inal #0" = 2
+	"Celaleddin #0" = 2
+	"Ilyas #0" = 2
+	"Hayreddin #0" = 2
+	"Dursun #0" = 2
+	"Ramazan #0" = 2
+	"Recep #0" = 2
+
+	"Hatice #0" = -1
+	"Safiye #0" = -1
+	"Zeyneb #0" = -1
+	"Hürrem #0" = -1
+	"Mihrimah #0" = -1
+	"Nurbanu #0" = -1
+	"Handan #0" = -1
+	"Alime #0" = -1
+	"Kösem #0" = -1
+	"Hüma #0" = -1
+}
+
+leader_names = {
+	Alemdar Amasyali Ayas "al-Qushji" Abdal Aga Atayl Abazy Ahmed Adnan
+	Bali Bayram Bellini Buzuku Bâkî Baffo Budi Basarabi Bey Barbaros
+	Cezzar Çandarli Çelebi Cerrah Çerkes Civan Çuhadar Cantemir Costin Cantacuzino Çavus "Cezzar Pasha"
+	Damad Dervish Defterdar Drzic Dávid Doxaras Dimitrov Davud "Damat Ali"
+	Engjëlli Efendi
+	Frakulla
+	Gedik Gazi Gümülcineli Gürcü Gritti Graziani Gundulic Galip Gangut
+	Hadim Hekimoghlu Hersekli Hamdullah "Husrev-beg" Hayâlî Honterus Hasan Hatice Hilendarski Hayreddin Hüseyin
+	Köprülü Kemal Küçük Koca Karamanli Köse Kara Kanijeli Kemankesh Kaymak Kavalali Kinaci Kusçu Kasim Kosem Karacaoglan Kaiss
+	Ishak Izzed Isakovic "Ibrahim Pasha"
+	Jaziri
+	Lala Lefkeli Lucic Lisovska Loukaris Lupu
+	Malkoç Müezzinzade "Mahmud Pasha" Marulic Matrënga "Murat Pasha" Mitrophanovic Muteferrika Mustapha Mehmed Mahmud
+	Nevshehirli Nishanci Nasi Nurbanu Nectarius Naima Nedîm Neculce Nakic
+	Oruç Uluç Osmancikli Ohrili Oflu Ömer Osmanli Osman
+	Piri Pargali Piyale Pehlivan "Piri Reis" Pazvantoglu Pacha
+	Rumi Rozanes Relkovic Reis
+	Salih Sokollu Sari Silahdar Semiz Serdar Sükrüllah Scholarius Sinan "al-Silahi" Sokolovic "Sinan Pasha" Sadeddin Sorkocevic Sirocco Sissaou
+	Topal Tayyar Turgut Tarhuncu Trapezuntius Tranos Tayran Turhan Theophilos Theotokis
+	Urban Utjesenovic Ureche
+	Veli Variboba Vladislavov Vishanov
+	Wagner
+	Xanî
+	Yemishçi
+	Zoranic Zevi Zurmassan
+}
+
+ship_names = {
+	"Abdul Reis" "Abdullah Kapudan Sakizli" "Adagi Hasan" Adalia "Aga Ahmed" "Agdagi Reis" "Ahmed Kapudan" "Ahmed Kapudan Dedezâde" "Ahmed Kapudan Furtuna" "Ahmed Kapudan Kefeli" "Ahmed Kapudan Menemenli" "Ahmed K Nisanci Pasa Çiragi" "Ahmed Kapudan Trabluslu" "Ahmed Kapudan Tunuslu" "Ahmet Karvaz" "Ainali-Kavak" Aintab Ak-Hisar "Akd-i Süreyyâ" Akka "Akrep Basli" "Al Qasr" "Alemdar Ali" "Alemdar Hasan" "Alemdar Pasha" "Alemdar Reis" "Ali 'Genoese'" "Ali Kapudan" "Ali Kapudan Cerrâî" "Ali Reis" "Ali Uluj" "Alp Arslan" Alpoge "Amdjazade Mustafa" "Amdjazade Simian" "Amurat Reis" "Amurat Dragut Reis" Angora "Ankay i Bahri" "Araç Kapudan" "Arap Haci Bekir Kapudan" "Ârâyis-i Deryâ" "Arga Pasha" "Armad Memi" "Arnaud Ali" "Arnaud Celebi" "Arnaud Reis" "Arnaut Ferhad" Arslan "Arslan-i Bahri" "Asar-i Nusret" "Assari Shevket" "Assari Tevfik" "Ates Fesan" "Avn-i Ilah" "Ay Bagceli" "Aziz Khalifa" Aziziye Akhisar Akseki Alanya Aydin Ayvalik Amasra Adakli Ahlat Ayvacik Akyaka Ahirli Arifiye Atakum Akçaabat 	
+	"Baba Ali Kapudan" "Baba Ibrahim" "Bagdar Reis" "Bagli Serif" "Bahr-i Zafer" "Baktashi Mustafa" "Baktashi Uluj" "Bardas Celebi" "Bardas Hasan" "Bariki-Zafer" "Basaret Numa" Basra "Bayram Kapitan" "Bedi i Nusret" "Bedr-i Zafer" "Behçet-Resâ" "Berber Kali" Bereket "Berk-i Efsan" "Berk-i Satvet" "Besaretnuma" "Besir-i Zafer" "Betrâs-i Bahrî" "Beyaz At" "Beyaz Sahin" "Beyzâ-i Derya" "Bisharet" "Bisharet i Nyuma" "Boz Reiszâde" "Bul Heves" "Burc-u Zafer" "Buyuk Gul Basli" "Buyuk Riyale" Bolvadin Bigadiç Balya Bozüyük Bucak Biga Belen Bodrum Bafra Baykan Boyabat 
+	"Cali Celebi" "Caracoza Ali" Celebi "Celebi Iusuf" "Celebi Reis" "Cemmâz-i Bahrî" Cengaver "Cerid-i Zafer" "Ceylan-i Bahri" "Chender Sinan" "Chendereli Mustafa" "Chios Mehemet" "Cift Aslan" "Cift Kaplan" "Civan i Bahri" "Ciran-i Bahri" Ceyhan Çivril Çumra Canik Carsamba 	
+	"Dardagan Reis" "Dardagi Ali" "Dardagud Reis" "Dardagut Bardabey" "Darius Aga" "Darius Ali" "Darius Celebi" "Darius Haseki" "Darius Pasha" "Darius Sinan" "Darnad Ali" "Darnad Iusuf" "Deli Aga" "Deli Ali" "Deli Assan" "Deli Balta" "Deli Bey" "Deli Celebi" "Deli Chender" "Deli Dori" "Deli Ibrahim" "Deli Iusuf" "Deli Murad" "Deli Osman" "Deli Süleiman" "Demir Celebi" "Deram Uluj" "Dermat Bey" "Dernadi Piri" "Deve Kusu" "Deydi Ali" "Dink Kasai" Drach "Dragud Ali" "Drazed Sinan" "Dromus Reis" "Drusari Piri" Durazzo Dinar Dicle Dodurga Dalaman Darica Divrigi
+	"Egribozlu Hüseyin Kapudan" Ejder "Ejder-Basli" "Ejder-i Bahri" "Ekr-i Bahri" "Emir Ahmed Kapudan" "Erid-Fettul" "Esfâr-i Bahrî" "Eski-Marabut" "Esseri-Zafer" "Eyüplü Ahmed Kapudan" "Ezîn-i Deryâ" Elmali Edremit Ezine Ergani Enez Erzin Ermenek Eregli Emet
+	"Fakim-i Zafer" "Fatih-i Bahri" "Fatih Sultan Mehmed" "Fazil Ali Bey" "Fazil Memi" "Fazl-i Ilah" "Feizi-Bari" "Ferah Numa" "Ferhad Ali" "Ferhad Kara Ali" Fethiye "Fethi Bulend" "Fethü’l Fettah" "Feth-ül Islam" "Fevz-i Nusret" "Feyz-Bahsa" "Feyz-i Hûda" "Feyz-i Ma'bûd" "Feyz-i Mi'rac" "Fuean-i Bahri" Futia Feke Finike Firat Fatsa Findikli
+	Galata "Gavur Ali" "Gazal-i Bahri" Gelibolu "Ghazni Reis" Gilyom Gülsefîd "Gülbeng i Nusret" "Gûzman Ferhad" "Gvinet Hazat" Güdül Germiyan Gerede Göynük Gemlik Gürsu Görele Göce Gönen	
+	"Haci Abbas Kapudan" "Haci Ahmed Kapudan Findikli" "Haci Ahmed Kapudan Midilli" "Haci Mustafa Kapudan Cerrâî" "Haci Osman Kapudan" "Haci Saban Kapudan" "Haidar Memi" "Hajji Aga" "Hajji Ali" "Haji Bitula" "Hajji Cebebi" Haleb "Halil Reis" "Halil Kapudan Çerkez" "Hamid-Abad" "Hamid Ali" Hamidiye "Hâmûde Arab Kapudan" "Hamûde Kapudan" "Haneshi Murad" "Haneshi Ahmed" "Hûnyadi Mustafa" "Hasan Bey" "Hasan Celebi" "Hasan Kapudan" "Hasan Kapudan Izmirli" "Hasan Kapudan Zerdûs" "Hasan Mustafa" "Hasan Nabi" "Hasan Omar" "Hasan Osman" "Hasan Pasha" "Hasan Reis" "Hasan Sinan" "Hasan Uluj" "Hascedi Hassan" "Hassan Deli" "Hasseri Ali" "Hazûli Sinan" Heibetnüma "Herkes-i Bahrî" "Hertûk-i Bahrî" "Herus Reis" "Heseki Reis" "Heybet Endaz" "Hediyye-i Hakimi" "Hediyyetûl Mülk" "Hifz-i Hûda" "Hifz-i Rahman" "Hignau Mustafa" "Hilal-i Zafer" "Himmet Kapudan" "Hüsn-ü Bahri" Hüdavendigar Hujebr "Hüma-i Zafer" "Hümay-i Bahri" "Hünyadi Iusuf" "Hünyadi Hasan" "Husam Kahlim Ali" "Hüseyin Kapudan" "Hüseyin Kapudan Baldepesi" "Hüseyin Kapu. Memi Reiszâde" "Hüseyin Kapudan Pasha Reis" "Haydar Aga" "Haydar Ali" "Haydar Carai" "Haydar Deli" "Haydar Enver" "Haydar Mehmet" Heybetnüma Haymana Havran Honaz Havsa Hassa Havza Hayrat
+	"Ibrahim Kapudan Esîr" "Ibrahim Kapudan Inebolu" "Ibrahim Kapudan Kulaksiz" "Ibrahim Kapudan Tophaneli" "Ibrahim Kapudan-i Deger" "Ibrahim Reis" Idjalieh "Ihsan-i Hüda" "Ikab-i Bahri" "Iki Bagceli" "Iks-Pay" "Inayet-i Hak" "Ionas Osman" "Iosul Piyale" Irania "Ir-e Zafer" Iskenderiye Ispinoz "Iumaz Ali" "Iusuf Aga" "Iusuf Ali" "Iusuf Magyar" "Iusuf Seydi" Izmid Izmir Ihsaniye Incehisar Inegöl Iskilip Ipsala 	
+	"Jami Fazil" "Jamil Naser" "Jamil Uluj" "Janum Hoja" "Jebel Andaz"
+	"Kademli Mustafa" "Kafar Reis" "Kafir Hajji" "Kaid-i Zafer" "Kaleman Memi" "Kali Celebi" "Kalifi Memi" "Kamen Aga" "Kan Ali" "Kaplan-Basli" "Kaplan-i Bahri" Kapudane "Kara Alemdar" "Kara Bey" "Karabaszâde Mustafa Kapudan" "Kara Deli" "Kara Mustafa" "Kara Reis" "Kara Rhodi" "Karagi Reis" "Karali Reis" "Karam Bey" "Karaman Ali" "Karaman Haydar" "Karaman Ibrahim" "Karaman Pasha" "Karaman Reis" "Karaman Süleiman" "Karas Turbat" "Kara Ali" "Kara Hamat" "Kara Mora" "Karl Ali" "Kasam Reis" Kashif "Kasim Kara" "Kasim Sinian" "Kasli Khan" "Keduk Seydi" "Kemal Murad" "Kerem-i Bâri" "Keyvan-i Bahri" "Khalifa Haydar" "Khalifa Uluj" "Kiafar Bey" "Kiafi Hajji" "Kilik Reais" "Killid i Bahri" "Kilid-ul Bahir" "Kilzâde Mustafa Kapudan" "Kirmizi Kusakli" "Koda Ali" Kolozli "Kör Süleyman Kapudan" Kostantiniyye "Korc-u Zafer" "Kös Ali" "Kös Hajji" "Kös Mend" "Kosem Iusuf" Kozlu "Küre-i Deryâ" Kütahya Kûhurevan "Kumar Iusuf" "Kurtprulu Celebi" "Kûsad-i Bahri" "Kucuk Sahin" "Kutcuk Gul Basli" "Kyor Ali" Kuzlum Konstantiniyye Kozan Kahta Kazan Kalecik Kepez Korkuteli Kumluca Kusadasi Kuyucak Korgun Kelkit Kadirli Kavak Kangal Kandira
+	"Lenger Ömer Kapudan Serdar" "Lutf-i Hümayun" Lapseki Laçin Lice Ladik
+	"Macasir Ali" "Maadem-e Bahr" "Magyar Ali" "Magyar Ferhad" Mahabet "Mahmud Kapudan Inebolu" Mahmudiye "Malbaik Nesuret" "Malika-i Bahri" "Mamara Reis" Manssauriyè "Mansur el Liwa" Marabut "Marangos Suleiman" "Mavi Aslan" "Mavi Firkata" "Mayor Kik" "Maysor Ali" "Mazhar" "Mazhar-i Tevfik" Mazhar-Hidaet Meaid-Fettuh "Meal-ul Nusret Bahr" Mecidiye "Mecra-yi Zafer" "Medilli-u Cedid" "Mehmet Bey" "Meheng i Bahri" "Mehmed Bey" "Mehmed Kapudan Lüleci" "Mehmed Kapudan Molovali" "Mehmed Kapudan Selârî" "Mehmed Kapudan Üsküdarli" "Mehmet Darius" "Mehmet Julik Pasha" "Mehmet Selim" "Melek i Bahri" "Melik-ul Bahr" "Memi Bey" "Memi Hasan" "Memis Hoca Kapudan" "Meserret-i Bahri" "Mesir-i Ferah" "Mesken-i Gazi" Mesudiye "Mezamorta Kapitan" "Muhammed Ali" "Muezzinzade Ali Pasha" "Mûin-i Zafer" "Mukaddime-i Hayr" "Mukaddime-i Seref" "Mukaddami Khair" "Murad Ali" "Murad Darius" "Murad Hasan" "Murad Korosi" "Murad Mustafa" "Murad Reis" "Mûr-e Bahri" Muradiye "Murg-u Bahri" "Mûris-i Tevfîk" "Mustafa Alendi" "Mustafa Hajji" "Mustafa Kapudan" "Mustafa Kapudan Çinar" "Mustafa Kapudan Eytâmzâde" "Mustafa Kapudan Kasimpasali" "Mustafa Kapudan Morali" "Mustafa Kapudan Zerdûs" "Mustafa Kemal" "Muvanet-i Millet" Manavgat Manyas Malazgirt Milas "Maçka Çaykara" Meriç "Mehmet Alì Pasha" 
+	"Nabi Reis" "Nasir-i Bahri" "Nasir Reis" Nasr "Nasur Ferhad" "Necât-i Fer" "Necm-i Sâkib" "Necm-i Zafer" "Necim Sevket" "Nejim-e Zafer" "Nesim-i Zafer" Nessim "Nejimi Shevket" Nilüfer "Nimet-i Hûda" "Nîze-i Deryâ" "Nur Ali" "Nur Memi" Nusred "Nusret Ozdan" "Nusret-Peymâ" "Nuveydu Futuh" "Nûvid-i Derya" Nallihan Nazilli Nizip Niksar
+	"Ozcan Reis" "Ömer Kapudan Marasli" Orhaniye "Orphan Ali" "Osa Reis" "Osman Ali" "Osman Bey" "Osman Celebi" "Osman Dagli" "Osman Ozcan" "Osman Reis" "Osman Seydi" Osmaniye 
+	"Peleng-i Bahri" Perestû "Perr-i Bahri" "Peri Selim" "Pertev-Fesan" "Pertev-i Nusret" "Peyk-i Meserret" "Peyk-i Seref" "Piyale Murad" "Piyale Osman" "Piri Hamagi" "Piri Osman" "Piri Reis" "Piri Uluj Bey" "Piriman Reis" "Portasi Pasha" "Postana Uluj" "Prauil Aga" "Pulad-i Bahri" Polatli
+	"Ramazan Kapitan" "Recep Kapudan Giritli" "Rehber-i Nusret" Resadiye "Riyale" "Rûzgar-i Bahri"
+	"Saadet-i Bahsâ" "Sadd a Bahri" "Sadef-i Tevfîk" "Sadirvan Kicli" "Saika-i Bahri" "Sakal Derisi" "Salim Reis" "Salim Deli" "Sari Kusakli" "Sarmusal Reis" Samsoun "Sayyad-i bahri" "Sayyâd-i Deryâ" "Seddûl Bahir" "Sehbay-i Bahri" "Sehbaz-i Bahri" "Sehber i Zafer" "Seher-i Zafer" "Sehnâz-i Deryâ" "Sehir-i Zafer" "Sekir e Zafer" "Selamet Numa" Selimiye "Selim Basti" "Selim Kapudan" "Selim Sahi" "Selvi Bagçeli" "Semend-i Bahri" "Sepîd-i Bahrî" "Serçe Kusu" "Seref-Nümâ" "Seref-Resan" "Setagi Meni" "Setagi Osman" "Sevket Numa" "Seydi Aga" "Seydi Ali" "Seydi Arnaud" "Seydi Pasha" "Seydi Reis" "Seydi Selim" "Seyyad-i Bahri" "Shain-i Derya" "Sian Memi" "Sian Siander" "Siar-i Nusret" "Sihâm-i Adlî" "Simir-i Hidsum" "Sinaman Mustafa" "Sinan Ali" "Sinan Bektashi" "Sinan Celebi" "Sinan Darius" "Sinan Mustafa" "Sinan Reis" "Sinjji Musafa" "Sipahi Bahri" "Sirîn-i Bahr" Sivrihisar "Solak Mustafa Kapudan" "Suca-i Bahri" "Sul Agiy" "Sul Ali" "Süleiman Bey" "Süleiman Celebi" "Süleiman Reis" "Süleyman Kapitan" "Sultan Selim" Sultanhisar "Sürûr-u Âver" "Suzi Memi" Seyhan Sandikli Sultandagi Serik Saka Saruhan Söke Sögüt Solhan Seben Safranbolu Sürmene Saray
+	"Tâir-i Kulzüm" "Talatagi Reis" "Tatar Ali" "Tatar Hasan Kapudan" "Taus i Bahri" Tayyar "Tavus u Bahri" "Tevfik i Bahri" "Tevfik-i Hüda" "Tevfik-i Ilah" "Tevfik Nyuma" "Tig-i Ser-tîz" "Tilsim-i Bahri" Timsah "Tim Zafer" "Tiz Hareket" "Tohfetoul Moulouk" "Tramontana Reis" "Tursun Mustafa" "Tursun Osman" "Tursun Suleiman" Topkapi Tavas Terme
+	"Veted-i Deryâ" Vakfikebir
+	"Uluj Ali" "Uluj Piri Pasha" "Uluj Reis" "Uschiufly Memy" Ünye
+	"Yaldizli Hurma" "Yaldizli Nar" "Yaldizli Sahin" "Yali-Kiosk" "Yaver-i Tevfik" "Yildiz Bagçeli" Yunus "Yusuf Kapudan" "Yusuf Kapudan Egribozlu" Yatagan
+	Zafer "Zafer Kusa" "Zibâyis-i Deryâ" "Zînet-i Deryâ" "Ziver i Bahri" "Ziver-i-Derya" Zûhaf Zülfikar Zuhaf Zile
+}
+
+army_names = {
+	"Imparatorla Ordusu" "Kapïkulü Ordusu" "Akïndjï Ordusu" "Yenitcherï Ordusu" "Siphahi Ordusu" "Mustahfizân Ordusu" "Akaga Ordusu" "Mehterân Ordusu" "Mutafarriqa Ordusu" "Kapïdjï Koruma" "Beyliks Koruma" "Silâhdâr Koruma" "Alti Bölük Koruma" "Ulufejis Koruma" "Gurebas Koruma" "Tchavuch Koruma" "Cemaat Ordusu" "Sekban Ordusu" "Adjemï Oghlar" "'Azabân Ordusu" "Iâzab Ordusu" "Hamba Ordusu" "Tufenkdjï Ordusu" "Maghariba Ordusu" "Yerliyya Ordusu" "Delatiyya Ordusu" "Levend Ordusu" "Anadolu Ordusu" "Balkan Ordusu" "Mîsîr Ordusu" "Kîrîm Ordusu" "$PROVINCE$ Timariot"
+}
+
+fleet_names = {
+	"Imparatorla Donanmasî" "Akdeniz Donanmasî" "Adalar Donanmasî" "Olüdeniz Donanmasî" "Karadeniz Donanmasî" "Hazar Donanmasî" "Bahr el-Ahmar Donanmasî" "Khalij-e fars Donanmasî" "Adriyatik Donanmasî" "Körfez Donanmasî" "Hint Donanmasî" "Atlas Donanmasî" "Büyük Donanmasî" "Baltik Donanmasî" "Kuzey Donanmasî" "Rusumet Emaneti Teskilati" "Ege Donanmasî" "Kîzîldeniz Donanmasî" "$PROVINCE$ Donanmasî"
+}

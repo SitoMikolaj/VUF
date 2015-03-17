@@ -1,0 +1,164 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+		
+color = { 194  53  60 }
+
+random_nation_chance = 0
+
+historical_score = 500
+
+historical_idea_groups = {
+	economic_ideas
+	quality_ideas
+	expansion_ideas
+	offensive_ideas
+	administrative_ideas
+	maritime_ideas
+	trade_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+    "Motohito #0" = 20
+    "Mihito #0" = 20
+    "Hikohito #0" = 20
+    "Fusahito #0" = 20
+    "Katsuhito #0" = 20
+    "Tomohito #0" = 20
+    "Michihito #0" = 20
+    "Kazuhito #0" = 20
+    "Kotohito #0" = 20
+    "Okiko #0" = -20
+    "Tsuguhito #0" = 20
+    "Nagahito #0" = 20
+    "Satohito #0" = 20
+    "Asahito #0" = 20
+    "Toshiko #0" = -10
+    "Yasuhito #0" = 20
+    "Teruhito #0" = 20
+    "Hidehito #0" = 20
+    "Morohito #0" = 20
+    "Ayahito #0" = 20
+    "Takauji #0" = 20
+    "Yoshiakira #0" = 20
+    "Yoshimitsu #0" = 20
+    "Yoshimochi #0" = 20
+    "Yoshikazu #0" = 20
+    "Yoshinori #0" = 20
+    "Yoshikatsu #0" = 20
+    "Yoshimasa #0" = 20
+    "Yoshihisa #0" = 20
+    "Yoshitane #0" = 20
+    "Yoshizumi #0" = 20
+    "Yoshiharu #0" = 20
+    "Yoshiteru #0" = 20
+    "Yoshihide #0" = 20
+    "Yoshiaki #0" = 20
+    "Nobutada #0" = 20
+    "Hidenobu #0" = 20
+    "Hideyoshi #0" = 20
+    "Hideyori #0" = 20
+    "Ieyasu #0" = 20
+    "Hidetada #0" = 20
+    "Iemitsu #0" = 20
+    "Ietsuna #0" = 20
+    "Tsunayoshi #0" = 20
+    "Ienobu #0" = 20
+    "Ietsugu #0" = 20
+    "Yoshimune #0" = 20
+    "Ieshige #0" = 20
+    "Ieharu #0" = 20
+    "Ienari #0" = 20
+    "Ieyoshi #0" = 20
+    "Iesada #0" = 20
+    "Iemochi #0" = 20
+    "Yoshinobu #0" = 20
+    
+    "Toku #0" = -5
+    "Sen #0" = -5
+    "Tama #0" = -5
+    "Aya #0" = -5
+    "Ina #0" = -5
+}
+
+leader_names = {
+    # Clan Daimyo
+	Akamatsu Akechi Amago Asakura Asano Ashikaga Asô Andô Ashina Akizuki Azai
+	Chôsokabe 
+	Date 
+	Hachisuka Hatakeyama Hosokawa Hôjô Hatano Honganji
+	Ichijô Imagawa Isshiki Itô Ikeda
+	Jinbô 
+	Keda Kikuchi Kyôgoku Kôno Kimotuki Kasai Kitabatake Konoe
+	Maeda Matsudaira Matsunaga Mimura Miyoshi Mogami Môri Murakami
+	Nabeshima Nagao Nanbu
+	Ôda Ogasawara Ôtomo Ôuchi Ôsaki
+	Rokkaku Ryûzôji 
+	Sagara Saitô Sanada Satake Satomi Shiba Shibata Shimazu Shôni Saionji Sôma Sasaki
+	Takeda Tokugawa Toyotomi Tsutsui Tôki Togashi
+	Uesugi Uragami Utsunomiya
+	Yamana Yamauchi	Yûki Yamato Yamamoto
+	
+	# Leaders du Clan
+	Abe Amano Anekôji Aoki Asahina Adams
+	Bashô
+	Chubu	
+	Ema Endô Eitoku
+	Fuji Fukushima Fuwa 
+	Hamana Hattori Hayashi Hineno Hiraiwa Hirate Honda Horio Hashiba Hanzô Hakuseki Hokusai Hideyoshi
+	Ikoma Ina Inaba Ishikawa Itakura 
+	Kanamori Kato Katsurayama Kinoshita Kira Kuki
+	Matsushita Miki Mizuno Masanobu Masatsugu Motonobu Musashi Matabei Moronobu Okitsugu
+	Naito Natsume Niki Niwa 
+	Okabe Okubo Okudaira
+	"no Rikyû"
+	Saji Sakai Sakakibara Sakuma Sassa Sekiguchi Sena Sengoku Shiba Suganuma Shûbun Sôhô Sansa Sadanobu Shuko Sorai
+	Takenaka Takigawa Toda Tokai Torii Toyama Tôki Tôyô Tsunenaga Takakazu Tsunetomo Tadataka Todo
+	Udono Ujiie 
+	Yoshimitsu Yoshinori Yoshimasa
+	
+}
+
+ship_names = {
+	"Abe Maru" "Adachi Maru" "Akagi Maru" "Akamatsu Maru" "Akechi Maru" "Aki Maru" "Akita Maru" "Akitsuki Maru" "Akiyama Maru" "Akizuki Maru" "Amago Maru" "Amatsuke Maru" "Anayama Maru" "Ando Maru" "Asai Maru" "Asakura Maru" "Asano Maru" "Ashikaga Maru" "Ashina Maru" "Atagi Maru" "Awa Maru""Awaji Maru" "Azai Maru"
+    "Bingo Maru" "Bitchu Maru" "Bito Maru" "Bizen Maru" "Bungo Maru" "Buzen Maru" "Byakko Maru"
+    "Chiba Maru" "Chikugo Maru" "Chikuma Maru" "Chikuzen Maru" "Chousokabe Maru"
+    "Date Maru" "Dewa Maru" "Doi Maru"
+    "Echigo Maru" "Echizen Maru" "Etchu Maru" 
+    "Fubuki Maru" "Fuji Maru" "Fuji-san Maru""Fujiwara Maru" "Furutaka Maru" "Fuyutsuki Maru" 
+    "Genbu Maru"
+    "Hachisuka Maru" "Haga Maru" "Harima Maru" "Hatakeyama Maru" "Hatano Maru" "Hatsuyuki Maru" "Hayashi Maru" "Hida Maru" "Hiei Maru" "Higo Maru" "Hiki Maru" "Hirato Maru" "Hitachi Maru" "Hizen Maru" "Hojo Maru" "Hoki Maru" "Honda Maru" "Hosokawa Maru" "Hyuga Maru" 
+    "Idaten Maru" "Iga Maru" "Ii Maru" "Ikeda Maru" "Iki Maru" "Imagawa Maru" "Inaba Maru" "Inoue Maru" "Ise Maru" "Ishida Maru" "Ishikawa Maru" "Ishimaki Maru" "Ito Maru" "Iwaki Maru" "Iwami Maru" "Iwase Maru" "Iyo Maru" "Izu Maru" "Izumi Maru" "Izumo Maru" 
+    "Kaba Maru" "Kaga Maru" "Kai Maru" "Kamo Maru" "Kasagi Maru" "Kawachi Maru" "Kazusa Maru" "Kii Maru" "Kikkawa Maru" "Kinugasa Maru" "Kirishima Maru" "Kiso Maru" "Kisona Maru" "Kitabatake Maru" "Kizu Maru" "Kongo Maru" "Kozuke Maru" "Kyogoku Maru" 
+    "Maeda Maru" "Matsuda Maru" "Matsudaira Maru" "Mikawa Maru" "Mikumo Maru" "Mimasaka Maru" "Minamoto Maru" "Mino Maru" "Miura Maru" "Miyoshi Maru" "Mogami Maru" "Mori Maru" "Musashi Maru" "Mutsu Maru" 
+    "Nagato Maru" "Nanbu Maru" "Nayoro Maru" "Nihon Maru" "Niitaka Maru" "Nitta Maru" "Niwa Maru" "Noto Maru" 
+    "Ôda Maru" "Oki Maru" "Omi Maru" "Osumi Maru" "Otomo Maru" "Otowa Maru" "Ouchi Maru" "Owari Maru"
+    "Rokkaku Maru"
+    "Sado Maru" "Sagami Maru" "Sakai Maru" "Sakuma Maru" "Sakura Maru" "Sanada Maru" "Sanae Maru" "Sanuki Maru" "Satake Maru" "Satsuma Maru" "Seiryu Maru" "Settsu Maru" "Shiba Maru" "Shima Maru" "Shimakaze Maru" "Shimazu Maru" "Shimotsuke Maru" "Shimousa Maru" "Shinano Maru" "Sogo Maru" "Suo Maru" "Suruga Maru" "Suwa Maru" "Suzaku Maru"
+    "Tada Maru" "Taira Maru" "Tajima Maru" "Takachiko Maru" "Takeda Maru" "Tamba Maru" "Tane Maru" "Tango Maru" "Tenno Maru" "Toki Maru" "Tokugawa Maru" "Tone Maru" "Tosa Maru" "Totomi Maru" "Toyotomi Maru" "Tsugaru Maru" "Tsushima Maru" "Tsutsui Maru" 
+    "Uchia Maru" "Uesugi Maru" "Ukita Maru" "Unebi Maru" 
+    "Wakasa Maru" 
+    "Yagyu Maru" "Yahagi Maru" "Yamana Maru" "Yamashiro Maru" "Yamato Maru" "Yoshino Maru" "Yugumo Maru"
+}
+
+army_names = {
+	"Rikugun Sumeragi" "Rikugun Nihon" "Rikugun Shogun" "Rikugun Hokkaido" "Rikugun Honshu" "Rikugun Shikoku" "Rikugun Kyushu" "Gun'tai Tohoku" "Gun'tai Chubu" "Gun'tai Hokuriku" "Gun'tai Koshinetsu" "Gun'tai Tokai" "Gun'tai Chukyo" "Gun'tai Kanto" "Gun'tai Kansai" "Gun'tai Chugoku" "Gun'tai Ashigaru" "Gun'tai Wakato" "Gun'tai Ichi" "Gun'tai Ni" "Gun'tai San" "Gun'tai Shi" "Gun'tai Go" "Gun'tai Roku" "Gun'tai Shichi" "Gun'tai Hachi" "Gun'tai Kyu" "Gun'tai Ju" "Gun'tai $PROVINCE$"  
+}
+
+fleet_names = {
+	"Kaigun Nihon" "Kaigun Sumeragi" "Kaigun Shogun" "Kan'tei Setonaikai" "Kan'tei Nihon'kai" "Kan'tei Taiheiyou"  "Kan'tei Chuuka" "Kaigun $PROVINCE$"
+}

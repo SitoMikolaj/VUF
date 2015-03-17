@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+colonial_parent = SPA
+random_nation_chance = 0
+
+color = { 101  102  163 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"José #0" = 20
+	"Juan #0 José" = 20
+	"Juan #0 Martín" = 20
+	"Nicolás #0" = 20
+	"Antonio #0" = 15
+	"Feliciano Antonio #0" = 15
+	"Gervasio Antonio #0" = 15
+	"Matías #0" = 15
+	"Carlos María #0" = 10
+	"Cornelio #0" = 10
+	"Domingo #0" = 10
+	"Ignacio #0" = 10
+	"Manuel #0" = 10
+	"Adrián #0" = 2
+	"Alfonso #0" = 2
+	"Benigno #0" = 2
+	"Bernardino #0" = 2
+	"Camilo #0" = 2
+	"Carlos #0" = 2
+	"Desiderio #0" = 2
+	"Diego #0" = 2
+	"Eduardo #0" = 2
+	"Emilio #0" = 2
+	"Federico #0" = 2
+	"Germán #0" = 2
+	"Hipólito #0" = 2
+	"Ismael #0" = 2
+	"Joaquín #0" = 2
+	"Juan #0" = 2
+	"Luis #0" = 2
+	"Marcelino #0" = 2
+	"Martín #0" = 2
+	"Ovidio #0" = 2
+	"Porfirio #0" = 2
+	"Rufino #0" = 2
+	"Sergio #0" = 2
+	"Teófilo #0" = 2
+	"Urbano #0" = 2
+	"Vicente #0" = 2
+	"Víctor #0" = 2
+	
+	"Eva #0" = -1
+	"Gloria #0" = -1
+	"Lucía #0" = -1
+}
+
+leader_names = {
+	Alberti Álvarez "de Alvear" Artigas Azcuenaga Balcarce Bazán Belgrano Brown Bustos
+	Cabral Castro Chiclana Costa Derqui Dorrego González Goyeneche Guazurary "de Güemes"
+	Heredia Jonte "Kaunitz de Holmberg" "de Laprida" Larrea "de las Heras" López
+	Mansilla Matheu Monteagudo Moreno Paso Paz Peña Pérez Planes Posadas "de Pueyrredón"
+	Ramírez Riglos Robinson Rodríguez Rondeau "de Rosas"
+	Saavedra Sáenz "de San Martín" Sarratea Urquiza Warnes
+}
+
+ship_names = {
+	"Buenos Aries"
+	"Diego Armando Maradona"
+	"El Plata"
+	"General Belgrano"
+	Independencia
+	Libertad "Los Andes"
+	Moreno 
+	Patagonia
+	Rivalda
+}
+	
+army_names = {
+	"Ejército de Argentina"  "Armada el Fijo" "Nuevo Ejército" "Ejército de Patricios" "Ejército de Milicias" "Ejército Derecha" "Ejército Centro" "Ejército Izquierda" "Ejército de Reserva"  "Ejército de $PROVINCE$"
+}
+
+fleet_names = {
+	"Armada de La Plata" "Armada Argentina" "Escuadra Nacional" "Escuadra Argentina" "Flota de Mar" "Primera Escuadrilla" "Flota $PROVINCE$"
+}

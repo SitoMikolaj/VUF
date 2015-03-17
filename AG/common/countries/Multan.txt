@@ -1,0 +1,116 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 95  139  214 }
+
+historical_idea_groups = {
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	reformed_mughal_mansabdar
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Fîrûz Shâh #0" = 25
+	"Mahmûd #0" = 25
+	"Ghâzî Khân #0" = 25
+	"Qutbudin #0" = 25
+	"Ibrâhîm #0" = 2
+	"Hassan #0" = 2
+	"Nazuk #0" = 2
+	"Yûsuf #0" = 2
+	"Ya'qub #0" = 2
+	"Muhammad #0" = 2
+	"Ali #0" = 2
+	"Ismail #0" = 2
+	"Gulâb #0" = 2
+	"Ranbir #0" = 2
+	"Hari #0" = 2
+	"Pratâp #0" = 2
+	"Kishore #0" = 2
+	"Zorawar #0" = 2
+	"Jonarâja #0" = 2
+	"Prajnâ #0" = 2
+	"Hamza #0" = 2
+	"Sher #0" = 2
+	"Muzzafar #0" = 2
+	"Khalîl #0" = 2
+	"Sikandar #0" = 2
+	"Bhenjî #0" = 2
+	"Hamirji #0" = 2
+	"Bhav #0" = 2
+	"Nâtwâr #0" = 2
+	"Sidhraj #0" = 2
+	"Ghulûm #0" = 2
+	"Hussain #0" = 20
+	"Fakir #0" = 2
+	"'Abd Allâh #0" = 2
+	"Iffatunissa #0" = -1
+	"Shahzada #0" = -1
+	"Kanwal #0" = -1
+}
+
+leader_names = {
+	Bahâdur
+	Bhalla
+	Bhâtiyâ
+	Das
+	Dev
+	Gahunia
+	Gobind
+	Granth
+	Hoora
+	Jhol
+	Jhotti
+	Krishan
+	Lohaar
+	Paramânand
+	Sheragila
+	Singh
+	Sayid
+	Sodhî
+	Sohal
+	Rai
+	Udasi
+	Shâh
+	Munshi
+	Parîkh
+	Patel
+	Patidar
+	Zamîndâri
+}
+
+ship_names = {
+	Biyâs Chanâb Devî Gayatri Guru Sindh
+	Jalsena Jhelam Lakshmi Nausenâ
+	"Nav ka Yudh" Parvati Radha Ratri
+	Ravi Sâgar Satluj Sarasvati Sita
+}
+
+army_names = {
+	"Mahârâja Vaahinii" "$PROVINCE$ Vaahinii"
+	}
+
+fleet_names = {
+	"Mahârâja Nausenaa" "$PROVINCE$ Nausenaa" 
+	}

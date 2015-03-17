@@ -1,0 +1,123 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 106  127  183 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	innovativeness_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johannes #1" = 80
+	"Petrus #2" = 60
+	"Martinus #1" = 40
+	"Antonius #0" = 40
+	"Emmanuel #0" = 40
+	"Raimundus #0" = 40
+	"Hugo #1" = 20
+	"Nicholas #1" = 20
+	"Aloysius #0" = 20
+	"Annetinus #0" = 20
+	"Antonius Emmanuel #0" = 20
+	"Claudius #0" = 20
+	"Desiderius #0" = 20
+	"Emericus #0" = 20
+	"Fabricius #0" = 20
+	"Ferdinandus #0" = 20
+	"Filibertus #0" = 20
+	"Filippus #0" = 20
+	"Franciscus #0" = 20
+	"Gregorius #0" = 20
+	"Guido #0" = 20
+	"Hadrianus #0" = 20
+	"Jacobus #0" = 20
+	"Johannes Baptista #0" = 20
+	"Johannes Paulus #0" = 20
+	"Ludovicus #0" = 20
+	"Marcus Antonius #0" = 20
+	"Petrus Raimundus #0" = 20
+	"Raphael #0" = 20
+	"Thomas #0" = 20
+	"Rogelius #2" = 10
+	"Johannes Ferdinandus #1" = 10
+	"Rupertus #1" = 10
+	"Cletus #0" = 2
+	"Dionysius #0" = 2
+	"Emidius #0" = 2
+	"Hilarius #0" = 2
+	"Lucas #0" = 2
+	"Publius #0" = 2
+	"Vivianus #0" = 2
+	
+	"Maria #0" = -1
+}
+
+leader_names = {
+	"d'Aubusson" "d'Amboise" "d'Amaral"
+	"de Blanchefort" Bottigella
+	"del Carretto" "de la Cassière" "de Clermont-Gessant" Cotoner Carafa Caracciolo "de Corneillan" "de Chambray"
+	Despuig
+	"de Fonseca"
+	Garzez "de Gozon" Giustiniani
+	"de Homedes" "von Hormpesch" "de Heredia"
+	"de Juilliac"
+	"de Lastic" "de L'Isle-Adam" "de Lascaris-Castellar" "de Lescout Romegas"
+	"de Milly" "del Monte"
+	"de Naillac"
+	Orsini
+	"del Ponte" "de Paule" "Perellos y Roccaful" "de Pins"
+	"de la Rivère" "de Redin" "de Rohan-Polduc" "de Rohan"
+	"de Saint-Jaille" "de la Sengle" Strozzi "de Saint-Tropez"
+	"de Texada"
+	"de La Vallette-Parisot" "de Verdala" "de Vasconcellos" "de Vilhena" "de Villaret" "La Valette"
+	"de Wignacourt"
+	Zacosta Zondadari
+}
+
+ship_names = {
+	"Alfonse of Portugal" "Arnaud de Comps" "Auger de Balben" 
+	"Capitana" "Capitana di Malta"
+	"Garnier de Naplous" "Gastone de Murols" "Geoffroy de Donjon" "Geoffrey le Rat" "Gilbert d'Aissailly" "Gilbert of Syria"
+	"Hélion de Villeneuve" "Hermangard d'Asp"
+	"Raymond du Puy de Provence" "Roger de Moulins"
+	"San Antonio" "San Antonio di Padua" "San Giacomo" "San Giorgio" "San Giovanni" "San Pietro" "San Raimondo" 
+	"San Salvatore" "San Vincenzo" "Santa Caterina" "Santa Croce" "Santissimo Vergine Pilar"
+	"Sanctus Bonaventura" "Sanctus Cassianus" "Sanctus Cyprianus" "Sanctus Dominicus" "Sanctus Ferdinandus"
+	"Sanctus Franciscus" "Sanctus Hieronymus" "Sanctus Hilarius" "Sanctus Hippolytus" "Sanctus Iohannes"
+	"Sanctus Iosephus" "Sanctus Isidorus" "Sanctus Iudas" "Sanctus Leo I" "Sanctus Linus" "Sanctus Lucas"
+	"Sanctus Mattheus" "Sanctus Matthias" "Sanctus Patricius" "Sanctus Paulus" "Sanctus Petronius" "Sanctus Petrus"
+	"Santa Maria della Vittoria"
+	"Le Bienheureux Gérard"
+}
+
+army_names = {
+	"Armée de Saint-Jean" "Armée de l'Ordre de l'Hopital" "Armée de $PROVINCE$"
+}
+
+fleet_names = {
+	"Flotte de Saint-Jean" "Flotte des Hospitaliers" "Flotte de $PROVINCE$"
+}

@@ -1,0 +1,105 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 168  174  133 }
+
+historical_idea_groups = {
+	economic_ideas
+	quantity_ideas
+	humanist_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Dilavar Khân #0" = 10
+	"Alp Khân Hushang #0" = 10
+	"Ghazni Khân #0" = 10
+	"Nasir Shâh #0" = 10
+	"Salim Shâh #0" = 10
+	"Baz Bahâdur #0" = 10
+	"Mali Rao #0" = 10
+	"Ahalya Bâî #0" = 10
+	"Mahmûd Shâh #0" = 20
+	"Ghîyâth Shâh #0" = 10
+	"Qadir Shâh #0" = 10
+	"Shaja'at Khân #0" = 10
+	"Bahâdur #0" = 10
+	"Mahmûd  #0" = 2
+	"Ferishta #0" = 2
+	"Ghiyâs ud-Dîn #0" = 2
+	"Qadir #0" = 2
+	"Muhammad #0" = 2
+	"Baz #0" = 2
+	"Salim #0" = 2
+	"Nasir #0" = 2
+	"Amir #0" = 2
+	"Hoshang #0" = 2
+	"Qudsia #0" = -5
+	"Hajjah #0" = -5
+	"Shahjahan Begum #0" = -5
+}
+
+leader_names = {
+	Mori
+	Haji
+	al-Ûzbakî
+	Gilani
+	Paramara
+	Bahâdur
+	Gauri
+	Jurjani
+	Khân
+	Mâlik
+	Sultan
+	Khorasani
+	Farooqi
+	Changezi
+	Turani
+	Latif
+	Bhilala
+	Solankî
+	Chattari
+	Kanjar
+	Ghuri
+	Naru
+	Chudasama
+	Pahore
+	Tomara
+	Solanki
+}
+
+ship_names = {
+	"A'âliyah" Betwâ Chambal Dhasan Fâtima
+	Ghambir Jalsena "Kâla Jahâzî" Khân
+	"Lâl Jahâzî" Mahi Narmada Nausenâ
+	"Nav ka Yudh" Nîknâz "Nîla Jahâzî"
+	Nîlûfa Sâgar Salima Suhalia Shameena
+	Shipra Yâsmin
+}
+
+army_names = {
+	"Sultân Prtanyaa" "Mâlvâ Prtanyaa" "Madhya Pradesh Prtanyaa" "Ârâvalli Prtanyaa" "Vindhya Prtanyaa" "Chambal Prtanyaa" "Kalisindh Prtanyaa" "Parbati Prtanyaa" "Ujjain Prtanyaa" "Khaljî Prtanyaa" "$PROVINCE$ Prtanyaa"
+	}
+
+fleet_names = {
+	"Mâlvâ Nausenaa" "Madhya Pradesh Nausenaa" "Ârâvalli Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" 
+	}

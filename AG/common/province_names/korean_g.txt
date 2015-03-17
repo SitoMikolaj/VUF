@@ -1,0 +1,19 @@
+##############################
+# Mod Panthéon
+##############################
+
+734 = "Chuncheon"
+1833 = "Ji'an"
+2106 = "Beulladiboseutok" OR 2106 = "Ullajibosuttokhu"
+2108 = "Hunchun"
+2109 = "Ssung-wian Si"
+2112 = "Andung"
+2114 = "Eollyenhaoteo"
+2115 = "Chaha-eol"
+2116 = "Ullanbatoleu"
+2694 = "Gang-Wondo"
+2741 = "Jeju"
+2742 = "Laseon"
+2743 = "Hamgyeongbugdo"
+2744 = "Pyeong-Anbugdo"
+2745 = "Gyeongju"

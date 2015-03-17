@@ -1,0 +1,122 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 148  30  70 }
+revolutionary_colors = { 1  8  5 } #Belgium
+
+historical_score = 650
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Philippe #1" = 80
+	"Charles #0" = 60
+	"Louis #0" = 30
+	"Jean #0" = 20
+	"Henri #1" = 10
+	"Antoine #0" = 10
+	"Richard #1" = 10
+	"Marie #0" = -10
+	"François #0" = 5
+	"Hugues #5" = 10
+	"Eudes #4" = 1
+	"Robert #2" = 1
+	"Benoît #0" = 2
+	"Bernard #0" = 2
+	"Claude #0" = 2
+	"Denis #0" = 2
+	"Étienne #0" = 2
+	"Georges #0" = 2
+	"Guy #0" = 2
+	"Guillaume #0" = 2
+	"Marc #0" = 2
+	"Maurice #0" = 2
+	"Michel #0" = 2
+	"Nicolas #0" = 2
+	"Pascal #0" = 2
+	"Pierre #0" = 2
+	"Raoul #0" = 2
+	"René #0" = 2
+	"Sébastien #0" = 2
+	"Samuel #0" = 2
+}
+
+leader_names = {
+        "d'Aban" "d'Abonde" Arbelot "d'Auxy" Assendelft
+        "de Balay" "de Bauffremont" "de Beaumont" "de Beugre" "de Boulay" "de Bourgeois" "de Bourgogne-Montaigu" "de Brachet" "de Brimeu" Bosch Bouts "de Bourgogne"
+        "de Castaing" "de Chabot" "de Châlon" "de Châlon-Arlay" "de Chandieu" "de Chastellux" "de Chin" "de Cicon" "de Coligny" "de Créquy" "de Cuiseaux" "de Commynes" Christus
+        "de Damas" "de Dammartin" "de Donzy" "de Dyo" Dufay David
+        "d'Egmont" "van Eyck"
+        "de Ferrette"
+		Gansfort "van der Goes"
+		"van Kempen"
+        "de Lalaing" "de Lannoy" "Le Corgne" "de Lugny"
+        "de Marle" "de Melun" "de Montfaucon" Memling
+        "Nagu de Varennes" "de Nanton" "de Neufchâtel" "de Noyelles"
+		Ockeghem
+        "de Pontailler" "de la Porte" "de Pressy"
+        "Pot de la Roche" "de Rochebaron" "de Rochechouart" "de Roye"
+        "de Scorailles" "de Sémur"
+        "de Ternant" "de Tonnerre" "de Toucy" "de Toulonjon" Taillevent
+        "de Vaubresson" "de Vaudrey" "de Vellexon" "de Vergy" "de Vienne" "de Villaines" "de Villiers"
+		"van der Weyden" Wielant
+}
+
+ship_names = {
+	"l'Armançon" "l'Arroux" "l'Artois" "l'Autun" "l'Avallon" "l'Auxonne" "l'Auxerre" 
+	"le Bourgogne" "le Bruges" "le Brabant" "le Bar-sur-Seine" "le Beaune" "les Bosons" "le Bon"
+	"le Cambrai" "le Castrum Divionense" "le Childebert" "le Childebert II" "le Chilpéric" "le Cîteaux" "le Clotaire" "le Cluny" "la Comtesse" "le Côte-d'Or" "le Comté de Bourgogne" "le Comté de Charolais" "le Comté-Palatinat" "le Comté de Mâcon" "le Comté d'Auxerre" "le Château-Chinon" "le Comté d'Artois" "le Comté de Boulogne" "le Comté de Flandre" "le Comté de Hainaut" "le Comté de Hollande" "le Comté de Namur" "le Comté de Ponthieu" "le Comté de Vermandois" "le Comté de Zélande" "le Comté de Zutphen" "le Châtillon" "le Chalon" "les Charolles" 
+	"le Dijon" "le Duc-de-Bourgogne" "la Duchesse" "le Duché de Bourgogne" "le Duché de Brabant" "le Duc de Lothier" "le Duché de Gueldre" "le Duché de Limbourg" "le Duché de Luxembourg" "les Dix-sept Provinces"
+	"les États bourguignons"
+	"la Flandre" "la Frise" 
+	"le Gueldre" "le Gibica" "le Giselher" "le Godégisel" "le Gondéric" "le Gondebaud" "le Gondemar" "le Gondemar II" "le Gunther" "le Gontran"
+	"la Hollande" "le Hainaut" "le Henri Ier" "le Henri le Grand" "le Hugues le Noir"
+	"le Jean-sans-Peur"
+	"la Lotharingie" "le Limbourg" "le Luxembourg" 
+	"la Marie-de-Bourgogne" "le Marquisat d'Anvers" "les Malines" "le Montbard" "le marquisat du Saint-Empire"
+	"les Nuits-Saint-Georges" 
+	"l'Overijssel"
+	"le Philippe-le-Bon" "le Philippe-le-Hardi" "la Picardie" "le Pacifique" "le Pieux"
+	"le Richard-de-Bourgogne" "le Richard le Justicier" "le Roux"
+	"la Saône" "le Sigismond" "le Salins" "le Saint-Jean-de-Losne" "le Semur" 
+	"le Théodebert" "le Theudéric II" "la Toison d'Or" "le Téméraire"
+	"l'Utrecht"
+	"le Vézelay" "les Valois" "les Villes de la Somme" "le Vieux"
+	"la Zélande" 	
+}
+
+army_names = {
+    "Armée Ducale" "Armée Comtale" "Armée du Charolais"  "Armée de Chalon"  "Armée de l'Autunois" "Armée du Mâconnais" "Armée de l'Auxerrois"  "Armée de l'Avallonnais" "Armée de Tonnerre"  "Armée de l'Auxonnois" "Armée de la Saône" "Armée de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Flotte ducale" "Flotte de Bourgogne" "Flotte Flammande" "Flotte du Nord" "Flotte de Hollande"
+}

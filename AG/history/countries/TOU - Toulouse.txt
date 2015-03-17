@@ -1,0 +1,27 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -1
+#centralization_decentralization = -5
+#innovative_narrowminded = -2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 0
+#serfdom_freesubjects = 2
+primary_culture = aquitaine
+add_accepted_culture = occitain
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 196	# Toulouse
+fixed_capital = 196 # Cannot move capital away from this province & no power cost to move to it
+
+1450.1.1 = {
+	monarch = {
+		name = "Conseil des Capitouls"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+1560.1.1 = { religion = reformed }

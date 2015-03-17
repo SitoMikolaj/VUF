@@ -1,0 +1,148 @@
+name = "Guerre Texane"
+
+#casus_belli
+war_goal = {
+	type = superiority_primitives
+	casus_belli = cb_primitives
+}
+
+1836.5.1 = {
+	add_attacker = COM
+	add_attacker = CAD
+	add_attacker = CRE
+	add_defender = USA # Techniquement, ce fut avec le Texas indépendant
+}
+
+1836.5.19 = {
+	battle = {
+		name = "Fort Parker"
+		location = 892
+		attacker = {
+			commander = "José de San Martin"
+			cavalry = 100
+			losses = 2	# percent
+			country = COM
+		}
+		defender = {
+			commander = "John Smith"
+			infantry = 15
+			losses = 100	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1839.7.16 = {
+	battle = {
+		name = "Neches"
+		location = 892
+		attacker = {
+			commander = "Chef Bowles"
+			cavalry = 1000
+			losses = 10	# percent
+			country = COM
+		}
+		defender = {
+			commander = "K.H. Douglass"
+			cavalry = 500
+			losses = 1	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1840.3.19 = {
+	battle = {
+		name = "Council House"
+		location = 887
+		attacker = {
+			commander = "Muk-wah-ruh"
+			infantry = 100
+			losses = 65	# percent
+			country = COM
+		}
+		defender = {
+			commander = "Hugh McLeod"
+			infantry = 100
+			losses = 30	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1840.8.1 = {
+	battle = {
+		name = "Great raid"
+		location = 886
+		attacker = {
+			commander = "Buffalo Hump"
+			cavalry = 2000
+			losses = 0	# percent
+			country = COM
+		}
+		defender = {
+			commander = "Matthew Caldwell"
+			infantry = 200
+			losses = 25	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1840.8.12 = {
+	battle = {
+		name = "Plum Creek"
+		location = 886
+		attacker = {
+			commander = "Buffalo Hump"
+			cavalry = 1000
+			losses = 8	# percent
+			country = COM
+		}
+		defender = {
+			commander = "Matthew Caldwell"
+			infantry = 200
+			losses = 25	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1841.7.1 = {
+	battle = {
+		name = "Bandera Pass"
+		location = 886
+		attacker = {
+			commander = "Buffalo Hump"
+			cavalry = 500
+			losses = 10	# percent
+			country = COM
+		}
+		defender = {
+			commander = "John Coffee Hays"
+			cavalry = 50
+			losses = 10	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+# Paix
+
+1842.8.1 = { rem_attacker = CAD }	
+1843.3.1 = { rem_attacker = CRE }
+
+# Trève de Sam Houston	
+
+1844.1.1 = {
+	rem_attacker = COM
+	rem_defender = USA
+} 
+
+# Ces guerres durent jusqu'en 1875 alors je me contente d'aller jusqu'aux trèves de Sam Houston

@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 124  183  151 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quantity_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Ivan #0" = 60
+	"Fedir #0" = 20
+	"Oleksander #0" = 20
+	"Mikhailo #0" = 15
+	"Yaroslav #0" = 15
+	"Danylo #0" = 10
+	"Rostislav #0" = 10
+	"Vassyl #0" = 10
+	"Volodymyr #0" = 10
+	"Yuriy #0" = 10
+	"Andriy #0" = 2
+	"Bogdan #0" = 2
+	"Bohuslav #0" = 2
+	"Borysko #0" = 2
+	"Boyko #0" = 2
+	"Demyan #0" = 2
+	"Dmytro #0" = 2
+	"Hryhoriy #0" = 2
+	"Kristiyan #0" = 2
+	"Kyrylo #0" = 2
+	"Maksym #0" = 2
+	"Marko #0" = 2
+	"Matviyko #0" = 2
+	"Mecheslav #0" = 2
+	"Mykola #0" = 2
+	"Myroslav #0" = 2
+	"Nykon #0" = 2
+	"Olek #0" = 2
+	"Oleksiy #0" = 2
+	"Pavlo #0" = 2
+	"Petro #0" = 2
+	"Pylip #0" = 2
+	"Radomyr #0" = 2
+	"Stepan #0" = 2
+	"Svyatoslav #0" = 2
+	"Symon #0" = 2
+	"Taras #0" = 2
+	"Yakiv #0" = 2
+	"Yevhevniy #0" = 2
+	"Yosip #0" = 2
+	
+	"Kalyna #0" = -1
+	"Oxana #0" = -1
+	"Zoya #0" = -1
+}
+
+leader_names = { 
+	Davydova Sydorenko Lysenko Babko Shchukarev 
+	Trfimenko Tyutyunnikov Hlushkov Filitov Kondratyuk 
+	Antonovych Horbachov Doroshenko Drahomanov Maksymovych 
+	Ohloblyn Stojko Yavornytsky Bogolyubov Bunyakovskii 
+	Chebotaryov Cholesky Hnedenko Kravchuk Fomenko Korolyuk
+	Mytropolsky Oleinik Ostrogradsky Petryshyn Pogorelov
+	Poretsky Potapow Samoilenko Shafarevich Sharkovsky
+	Shatunovsky Skorokhod Shtokalo Sleszynski Urysohn Vashchenko
+	Voronoy Avramenko Chuperchuk Dmytrenko Krivokhyzha Pryma
+	Shekera Vantukh Vasylenko Verkhovynets 
+}
+
+ship_names = {
+	Kiev Kherson Lutsk Ghernigiv Vinnitsya Kremenchuk
+	Tsyurupynsk Uman Pryluky Kahovka Hmelnieckiy
+	Melitopol Mariupol Slavutych Kolomiya Kremenets
+	Korets Izyaslav Kovel Balta Noviy Bug Shostka Alchevsk
+	Sudak "Kriviy Rig" Svitlovods'k  Khersones Tovaristsch
+}
+
+army_names = {
+	"Ukrayiny Viys'ka" "Vnutrisni Viys'ka" "Hetmanate Vijs'ko" "Halyts'ka Viys'ka" "Povstans'ka Viys'ka" "Koshovyi Otaman Viys'ko" "Polkovnyk Viys'ko" "$PROVINCE$ Viys'ko" 
+}
+
+fleet_names = {
+	"Ukrayiny Mors'ki" "Chorne More Mors'ki" "Mors'ka Okhorona" "$PROVINCE$ Mors'ki"
+}

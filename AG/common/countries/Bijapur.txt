@@ -1,0 +1,119 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 40  121  66 }
+
+historical_idea_groups = {
+	defensive_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+	offensive_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Yûsuf #0" = 20
+	"'Ismâ'îl #0" = 20
+	"Mâlik #0" = 20
+	"'Ibrâhîm #0" = 40
+	"'Alî #0" = 20
+	"Muhammad #0" = 20
+	"Sikandar #0" = 40
+	"Mallu #0" = 5
+	"'Abdullâh #0" = 10
+	"Taham #0" = 5
+	"'Ahmed #0" = 5
+	"Sulaymân #0" = 5
+	"Kizr #0" = 5
+	"Burhân #0" = 5
+	"Hussayn #0" = 5
+	"Fâtima #0" = -2
+	"Yâqût #0" = 2
+	"Shivâjî #0" = 2
+	"Kâlidâsa #0" = 2
+	"Ziyâ' ud-Dîn #0" = 2
+	"Hâfiz #0" = 2
+	"Hamza #0" = 2
+	"Hamîd #0" = 2
+	"Qâsim #0" = 2
+	"Mustafâ #0" = 2
+	"Hasan #0" = 2
+	"Dilawar Khân #0" = 2
+	"Jahân #0" = 2
+	"Farrukh #0" = 2
+	"Jalâl #0" = 2
+	"Sultân #0" = 2
+	"Mahmûd #0" = 2
+	"Hanîf #0" = 2
+	"'Imâd al-Mulk #0" = 2
+	"Iftikhâr al-Mulk #0" = 2
+	"Nâsir #0" = 2
+	"'Abd Allâh #0" = 2
+	"Rustam #0" = 2
+	"Shams #0" = 2
+	"Khwâja #0" = 2
+	"Khusraû #0" = 2
+	"Chand Bibi #0" = -10
+	"'Ahmadî #0" = -1
+	"Mumtâz #0" = -1
+	"Mâlika #0" = -1
+}
+
+leader_names = {
+	al-Badakhshî
+	al-Bukhârî
+	al-Changezî
+	al-Gîlânî
+	al-Hasanâbâdî
+	Jurjânî
+	al-Kâbulî
+	al-Kirmânî
+	al-Qummî
+	al-Ûzbakî
+	Basrî
+	al-Astarâbâdî
+	Gâwân
+	al-Ardastânî
+	Madhu
+	Ghaznavî
+	Qadarî
+	as-Sadhwânî
+	Bhonsale
+}
+
+ship_names = {
+	"A'âliyah" Fâtima Godvârî Jalsena
+	"Kâla Jahâzî" Khân "Lâl Jahâzî"
+	Mahânadî Nausenâ "Nav ka Yudh"
+	Nîknâz "Nîla Jahâzî" Nîlûfa
+	Sâgar Salîma Suhaliya Shamîna
+	Yâsmin
+}
+
+army_names = {
+	"Rashtriya Sena" "Azad Sena" "Bijapur Sena" "$PROVINCE$ Sena"
+}
+
+fleet_names = {
+	"Rashtriya Nausena" "Azad Nausena" "Bijapur Nausena" "$PROVINCE$ Nausena" 
+}

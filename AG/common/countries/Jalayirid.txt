@@ -1,0 +1,115 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 79  89  182 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	durrani_swivel
+	durrani_rifled_musketeer
+	durrani_dragoon
+}
+
+monarch_names = {
+	"Husayn #1" = 20
+	"'Uways #1" = 20
+	"Ahmad #0" = 20
+	"Mahmûd #0" = 20
+	"Muhammad #0" = 20
+	"Shâh Walad #0" = 20
+	"Hasan #1" = 15
+	"Rashîd #0" = 15
+	"Ismâ'îl #0" = 10
+	"Qâsim #0" = 10
+	"'Abbâs #0" = 2
+	"'Abd al-Karîm #0" = 2
+	"'Abd al-Rahmân #0" = 2
+	"Anwar #0" = 2
+	"'Atûf #0" = 2
+	"Bakr #0" = 2
+	"Fahd #0" = 2
+	"Fârûq #0" = 2
+	"Fu'âd #0" = 2
+	"Hakîm #0" = 2
+	"Hârûn #0" = 2
+	"Hikmat #0" = 2
+	"Hishâm #0" = 2
+	"Iqbâl #0" = 2
+	"Ja'far #0" = 2
+	"Jamâl #0" = 2
+	"Karîm #0" = 2
+	"Khalîl #0" = 2
+	"Mâlik #0" = 2
+	"Mîrzâ #0" = 2
+	"Najîb #0" = 2
+	"Rasûl #0" = 2
+	"Shim'ûn #0" = 2
+	"Târiq #0" = 2
+	"Usâma #0" = 2
+	"Yâsir #0" = 2
+	"Yûsuf #0" = 2
+	"Zayd #0" = 2
+	"Ziyâd #0" = 2
+	"Dhû 'l-Fiqâr #0" = 2
+	
+	"Gawâhir #0" = -1
+	"Bashîra #0" = -1
+}
+
+leader_names = {
+	Rukh
+	Jahângîr
+	"Sa'îd"
+	"'Uways"
+	Husayn
+	Ahmad
+	Mahmûd
+	Mîrzâ
+	Muhsin
+	Zamân
+}
+
+ship_names = {
+	Ardabîl
+	Bakhura Baluches Balkh
+	Herât
+	Esfâhân
+	Kermân Kish Khwârizm Kandahâr
+	Lâhôr
+	Marw
+	Nishâbûr
+	Hurmuz
+	Rustam
+	Sikandar Sabzavâr Sûrakh Samarqand
+	"Tîmûr-i Lang" Tabrîz
+	"Shâh Rukh"
+}
+
+army_names = {
+	"Ordusu Jalâyirid Ulus" "Ordusu Ilkhans Ulus" "Tumen Sultan" "Tumen Hülegü" "Tama $PROVINCE$" 
+}
+
+fleet_names = {
+	"Donanmasî Jalâyirid" "Donarnma Ilkhans" "Donarnma Sultan" "Donarnma $PROVINCE$"
+}

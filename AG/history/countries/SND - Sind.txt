@@ -1,0 +1,508 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = indian
+primary_culture = sindhi
+religion = sunni
+capital = 504	# Thatta
+
+
+#Jams of Sindh
+1393.1.1 = {
+	monarch = {
+		name = "'Alî Sher"
+		dynasty = "Samma"
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
+}
+
+1393.1.1 = {
+	heir = {
+		name = "Fath Khân"
+		monarch_name = "Fath Khân"
+		dynasty = "Samma"
+		birth_date = 1393.1.1
+		death_date = 1423.1.1
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1408.1.1 = {
+	monarch = {
+		name = "Fath Khân"
+		dynasty = "Samma"
+		ADM = 1
+		DIP = 3
+		MIL = 0
+	}
+}
+
+1408.1.1 = {
+	heir = {
+		name = "Tughluq"
+		monarch_name = "Tughluq"
+		dynasty = "Samma"
+		birth_date = 1408.1.1
+		death_date = 1449.1.1
+		claim = 95
+		ADM = 3
+		DIP = 0
+		MIL = 2 
+	}
+}
+
+1423.1.1 = {
+	monarch = {
+		name = "Tughluq"
+		dynasty = "Samma"
+		ADM = 3
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1423.1.1 = {
+	heir = {
+		name = "Sikander"
+		monarch_name = "Sikander"
+		dynasty = "Samma"
+		birth_date = 1400.1.1
+		death_date = 1449.1.1
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1449.1.1 = {
+	monarch = {
+		name = "Sikander"
+		dynasty = "Samma"
+		ADM = 1
+		DIP = 0
+		MIL = 1
+	}
+}
+
+1449.1.1 = {
+	heir = {
+		name = "Sanjar"
+		monarch_name = "Sanjar"
+		dynasty = "Samma"
+		birth_date = 1429.1.1
+		death_date = 1461.12.28
+		claim =  95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1453.1.1 = {
+	monarch = {
+		name = "Sanjar"
+		dynasty = "Samma"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1453.1.1 = {
+	heir = {
+		name = "Nizâm ad-Dîn Nandâ"
+		monarch_name = "Nizâm ad-Dîn II Nandâ"
+		dynasty = "Samma"
+		birth_date = 1453.1.1
+		death_date = 1508.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+		
+
+1461.12.28 = {
+	monarch = {
+		name = "Nizâm ad-Dîn II Nandâ"
+		dynasty = "Samma"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1490.1.1 = {
+	heir = {
+		name = "Fîrûz Salâh ad-Dîn"
+		monarch_name = "Fîrûz Salâh ad-Dîn"
+		dynasty = "Samma"
+		birth_date = 1490.1.1
+		death_date = 1520.12.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1508.1.1 = {
+	monarch = {
+		name = "Fîrûz Salâh ad-Dîn"
+		dynasty = "Samma"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1508.1.1 = {
+	heir = {
+		name = "Shâh Shujâ Beg"
+		monarch_name = "Shâh Shujâ Beg"
+		dynasty = "Arghun"
+		birth_date = 1500.1.1
+		death_date = 1533.7.18
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+1520.12.1 = {
+	monarch = {
+		name = "Shâh Shujâ Beg"
+		dynasty = "Arghun"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1520.12.1 = {
+	heir = {
+		name = "Shâh Husayn"
+		monarch_name = "Shâh Husayn"
+		dynasty = "Arghun"
+		birth_date = 1520.1.1
+		death_date = 1554.2.14
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1522.7.18 = {
+	monarch = {
+		name = "Shâh Husayn"
+		dynasty = "Arghun"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1522.7.18 = {
+	heir = {
+		name = "Mîrzâ Muhammad 'Isâ"
+		monarch_name = "Mîrzâ Muhammad 'Isâ"
+		dynasty = "Arghun"
+		birth_date = 1522.1.1
+		death_date = 1567.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1554.2.14 = {
+	monarch = {
+		name = "Mîrzâ Muhammad 'Isâ"
+		dynasty = "Arghun"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1554.2.14 = {
+	heir = {
+		name = "Mîrzâ Muhammad Bâqî"
+		monarch_name = "Miza Muhammad Bâqî"
+		dynasty = "Arghun"
+		birth_date = 1550.1.1
+		death_date = 1585.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+	
+1567.1.1 = {
+	monarch = {
+		name = "Mîrzâ Muhammad Bâqî"
+		dynasty = "Arghun"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1567.1.1 = {
+	heir = {
+		name = "Mîrzâ Jânî Beg"
+		monarch_name = "Mîrzâ Jânî Beg"
+		dynasty = "Arghun"
+		birth_date = 1550.1.1
+		death_date = 1592.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1585.1.1 = {
+	monarch = {
+		name = "Mîrzâ Jânî Beg"
+		dynasty = "Arghun"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+#Mughal Rule
+
+#1592.1.1 = {
+#	monarch = {
+#		name = "Mughal Rule"
+#		ADM = 2
+#		DIP = 2
+#		MIL = 2
+#	}
+#
+#}
+
+#Khans of Sindh
+
+1701.1.1 = {
+	monarch = {
+		name = "Yâr Muhammad Khân"
+		dynasty = "Kalhorâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1701.1.1 = {
+	heir = {
+		name = "Nûr Muhammad"
+		monarch_name = "Nûr Muhammad"
+		dynasty = "Kalhorâ"
+		birth_date = 1701.1.1
+		death_date = 1755.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1719.1.1 = {
+	monarch = {
+		name = "Nûr Muhammad"
+		dynasty = "Kalhorâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1719.1.1 = {
+	heir = {
+		name = "Muhammad Murâd"
+		monarch_name = "Muhammad Murâd"
+		dynasty = "Kalhorâ"
+		birth_date = 1719.1.1
+		death_date = 1757.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Muhammad Murâd"
+		dynasty = "Kalhorâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1755.1.1 = {
+	heir = {
+		name = "Gulâm Shâh"
+		monarch_name = "Gulâm Shâh"
+		dynasty = "Kalhorâ"
+		birth_date = 1730.1.1
+		death_date = 1772.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1757.1.1 = {
+	monarch = {
+		name = "Gulâm Shâh"
+		dynasty = "Kalhorâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1757.1.1 = {
+	heir = {
+		name = "Sarfarâz Khân"
+		monarch_name = "Sarfarâz Khân"
+		dynasty = "Kalhorâ"
+		birth_date = 1750.1.1
+		death_date = 1777.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1772.1.1 = {
+	monarch = {
+		name = "Sarfarâz Khân"
+		dynasty = "Kalhorâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1772.1.1 = {
+	heir = {
+		name = "Gulâm Nabî Khân"
+		monarch_name = "Gulâm Nabî Khân"
+		dynasty = "Kalhorâ"
+		birth_date = 1750.1.1
+		death_date = 1780.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1777.1.1 = {
+	monarch = {
+		name = "Gulâm Nabî Khân"
+		dynasty = "Kalhorâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1777.1.1 = {
+	heir = {
+		name = "'Abd an-Nabî Khân"
+		monarch_name = "'Abd an-Nabî Khân"
+		dynasty = "Kalhorâ"
+		birth_date = 1750.1.1
+		death_date = 1782.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1780.1.1 = {
+	monarch = {
+		name = "'Abd an-Nabî Khân"
+		dynasty = "Kalhorâ"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1782.1.1 = {
+	monarch = {
+		name = "'Abd Allâh Khân"
+		dynasty = "Tâlpûr"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1782.1.1 = {
+	heir = {
+		name = "Mir Fath 'Alî"
+		monarch_name = "Mir Fath 'Alî"
+		dynasty = "Tâlpûr"
+		birth_date = 1760.1.1
+		death_date = 1801.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1783.1.1 = {
+	monarch = {
+		name = "Mir Fath 'Alî"
+		dynasty = "Tâlpûr"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1783.1.1 = {
+	heir = {
+		name = "Tharâ"
+		monarch_name = "Tharâ"
+		dynasty = "Tâlpûr"
+		birth_date = 1783.1.1
+		death_Date = 1829.1.1
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 1
+	}
+}
+
+1801.1.1 = {
+	monarch = {
+		name = "Tharâ"
+		dynasty = "Tâlpûr"
+		ADM = 1
+		DIP = 3
+		MIL = 1
+	}
+}

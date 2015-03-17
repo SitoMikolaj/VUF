@@ -1,0 +1,153 @@
+government = feudal_duchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 0
+#serfdom_freesubjects = -1
+technology_group = western
+religion = catholic
+primary_culture = austrian
+capital = 1863	# Graz
+
+1365.7.27 = {
+	monarch = {
+		name = "Leopold III"
+		dynasty = "von Habsburg"
+		birth_date = 1351.11.1
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1370.1.1 = {
+	heir = {
+		name = "Wilhelm"
+		monarch_name = "Wilhelm I"
+		dynasty = "von Habsburg"
+		birth_date = 1370.1.1
+		death_date = 1406.6.15
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1386.7.10 = {
+	monarch = {
+		name = "Wilhelm I"
+		dynasty = "von Habsburg"
+		birth_date = 1370.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1386.7.10 = {
+	heir = {
+		name = "Ernst"
+		monarch_name = "Ernst I"
+		dynasty = "von Habsburg"
+		birth_date = 1377.1.1
+		death_date = 1411.6.3
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1406.6.15 = {
+	monarch = {
+		name = "Ernst I"
+		dynasty = "von Habsburg"
+		birth_date = 1377.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1415.9.21 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich III"
+		dynasty = "von Habsburg"
+		birth_date = 1415.9.21
+		death_date = 1493.8.19
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1424.6.11 = {
+	monarch = {
+		name = "Friedrich III"
+		dynasty = "von Habsburg"
+		birth_date = 1415.9.21
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1424.6.11 = {
+	heir = {
+		name = "Albrecht"
+		monarch_name = "Albrecht VI"
+		dynasty = "von Habsburg"
+		birth_date = 1418.12.12
+		death_date = 1463.12.2
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+# Unification car à la mort de Ladislas Postumus, Frédéric III réunit les domaines d'Autriche et de Styrie en 1457
+
+1564.7.25 = {
+	monarch = {
+		name = "Karl II Franz"
+		dynasty = "von Habsburg"
+		birth_date = 1540.6.3
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1578.7.9 = {
+	heir = {
+		name = "Ferdinand"
+		monarch_name = "Ferdinand II"
+		dynasty = "von Habsburg"
+		birth_date = 1578.7.9
+		death_date = 1637.2.15
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1590.7.10 = {
+	monarch = {
+		name = "Ferdinand II"
+		dynasty = "von Habsburg"
+		birth_date = 1578.7.9
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+# Unification avec l'Autriche

@@ -1,0 +1,35 @@
+name = "Guerre d'indépendance bretonne"
+#casus_belli = cb_conquest type = take_capital_conquest
+war_goal = {
+	type = take_core
+	casus_belli = cb_core
+	province = 87 # Calais
+}
+
+# Traité de Redon
+1489.2.1 = {
+	add_attacker = FRA
+	add_defender = ENG
+	add_defender = BRI
+}
+ 
+# Mariage d'Anne de Bretagne et de Charles VIII de Valois
+1491.12.6 = {
+	rem_defender = BRI
+}
+
+# Maximilian déclare la guerre
+1492.7.1 = {
+	add_defender = HAB
+}
+
+# Traité d'Etaples
+1492.11.3 = {
+	rem_defender = ENG
+}
+
+# Paix de Senlis
+1493.5.23 = {
+	rem_attacker = FRA
+	rem_defender = HAB
+}

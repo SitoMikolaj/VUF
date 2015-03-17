@@ -1,0 +1,17 @@
+name = "Guerre des clans Takeda-Hojo"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1526.1.1 = {
+	add_attacker = TKD
+	add_defender = HJO
+}
+
+1580.1.1 = {
+	rem_attacker = TKD
+	rem_defender = HJO
+}

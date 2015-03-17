@@ -1,0 +1,86 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 224  146  113 }
+
+historical_idea_groups = {
+	quantity_ideas
+	spy_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	indian_archers
+	indian_arquebusier
+	sikh_hit_and_run
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Narsingh Rai #0" = 20
+	"Arjuna Simha #0" = 20
+	"Sangrama Simha #0" = 20
+	"Daipat Simha #0" = 20
+	"Vir Nârâyana #0" = 15
+	"Chandra Sahi #0" = 15
+	"Hirde #1" = 15
+	"Madhukara Sahi #0" = 20
+	"Dhundya Ram Sah #0" = 20
+	"Krasna Sah #0" = 20
+	"Bir Sah #0" = 20
+	"Hiradi #0" = 20
+	"Ram Sah #0" = 20
+	"Nilkanth Sah #0" = 20
+	"Chanda #0" = 20
+	"Bahkt Buland #0" = 20
+	"Bhuma #0" = 2
+	"Lokba #0" = 2
+	"Babji #0" = 2
+	"Dhundya #0" = 2
+	"Kondya #0" = 2
+	"Ram #0" = 2
+	"Krasna #0" = 2
+	"Durgavati #0" = -10
+	"Hirai #0" = -10
+	"Ratna Kuvar #0" = -1
+}
+
+leader_names = {
+	Garha-Mandli
+	Chandi
+	"Raj Gondi"
+	Kherli
+	Devgârhi
+	Ballar Shahi
+	Haihaya
+	Gadhi
+	Simha
+	Nârâyan
+	Palamaui
+	Raksel
+}
+
+ship_names = {
+	Amitha Amman Arul Baitarani
+	Balasore Balugaon Brahmani
+	Chellam Devî Durga Juggernaut
+	Lakshmi Mahanadi Mou Nilima
+	Paradeep Parvati Radha Sarasvati
+	Sharmistha Tuli
+}
+
+army_names = {
+	"Gonds Aniika" "Raajya Aniika" "Gondwâna Aniika" "Garha-Mandla Aniika" "Narmada Aniika" "Deogarh-Nagpur Aniika" "Kanhan Aniika" "Wainganga Aniika" "Chanda-Sirpur Aniika" "Gadchiroli Aniika" "Adilabad Aniika" "$PROVINCE$ Aniika"
+	}
+
+fleet_names = {
+	"Gond Nausenaa" "Raajya Nausenaa" "Bangal ki Khadi Nausenaa" "Mahodadhi Nausenaa" "Aaraba samudra Nausenaa" "Puurva-payodhi Nausenaa" "Andamanse Nausenaa" "Rama Nausenaa" "$PROVINCE$ Nausenaa"
+	}

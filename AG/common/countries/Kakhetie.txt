@@ -1,0 +1,96 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 240 200 190 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Adarnasé #2" = 5
+	"Stéphanos  #3" = 10
+	"Mirian #1" = 5
+	"Artchil #0" = 5
+	"Ioané #1" = 5
+	"Djouanscher #1" = 5
+	"Grigol #1" = 5
+	"Vatché #1" = 5
+	"Samuel #1" = 5
+	"Gabriel #1" = 5
+	"Phadla #2" = 5
+	"Kviriké #4" = 12
+	"David #0" = 20
+	"Gagik #1" = 5
+	"Aghsartan #2" = 6
+	"Aleksandre #0" = 20
+	"Giorgi #0" = 20
+	"Levan #0" = 20
+	"Konstantine #0" = 20
+	"Teimouraz #0" = 5
+	"Jessé #0" = 5
+	"Rostom #0" = 5
+	"Erekle #0" = 5
+}
+
+leader_names = { 
+	Andronikashvili
+	Asrenidze Avashvili 
+	Bakradze Chkheidze 
+	Chkhenkeli Devdariani
+	Gabashvili Gardapkhadze
+	Gedevanishvili Gegechkori
+	Gulisashvili Gvazava
+	Javakhishvili Karalashvili
+	Kereselidze Kvinitadze 
+	Lomtatitdze Maglakelidze
+	Mazniashvili Natadze
+	Nikoladze Robakidze
+	Sharashidze Surguladze
+	Takaishvili Tsereteli
+	Tsulukidze Vachnadze
+	Zaldastanishvili Zhordania
+}
+
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tashiri
+	Urbnisi
+}

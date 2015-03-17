@@ -1,0 +1,21 @@
+name = "Guerre du Deccan"
+
+#casus_belli
+war_goal = {
+	type = take_border
+	casus_belli = cb_border_war
+}
+
+
+1429.1.1 = {
+	add_attacker = BAH
+	add_defender = GUJ
+}
+
+1430.1.1 = { add_attacker = KHD }
+
+1431.1.1 = {
+	rem_attacker = BAH
+	rem_attacker = KHD
+	rem_defender = GUJ
+}

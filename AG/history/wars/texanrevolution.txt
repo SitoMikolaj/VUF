@@ -1,0 +1,282 @@
+name = "Révolution texane"
+
+#casus_belli
+war_goal = {
+	type = take_province_nationalist
+	casus_belli = cb_nationalist
+}
+
+1835.10.1 = {
+	add_attacker = USA # théoriquement le Texas
+	add_defender = MEX
+}
+
+1835.10.2 = {
+	battle = {
+		name = "Gonzales"
+		location = 887
+		attacker = {
+			commander = "John Henry Moore"
+			infantry = 150			
+			losses = 0	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Francisco de Castañeda"
+			cavalry = 100
+			losses = 1	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1835.10.10 = {
+	battle = {
+		name = "Goliad"
+		location = 884
+		attacker = {
+			commander = "George Collingsworth"
+			infantry = 125			
+			losses = 0	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Juan López Sandoval"
+			cavalry = 50
+			losses = 10	# percent			
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1835.10.28 = {
+	battle = {
+		name = "Concepción"
+		location = 883
+		attacker = {
+			commander = "James Bowie"
+			infantry = 90			
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Domingo Ugartechea"
+			infantry = 200
+			cavalry = 75
+			artillery = 2
+			losses = 27	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1835.11.4 = {
+	battle = {
+		name = "Lipantitlán"
+		location = 884
+		attacker = {
+			commander = "Ira Westover"
+			infantry = 70			
+			losses = 1	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Nicolás Rodríguez"
+			infantry = 90
+			losses = 22	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1835.11.26 = {
+	battle = {
+		name = "Grass Fight"
+		location = 883
+		attacker = {
+			commander = "James Bowie"
+			cavalry = 140			
+			losses = 4	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Nicolás Rodríguez"
+			cavalry = 150
+			losses = 12	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1835.12.11 = {
+	battle = {
+		name = "Béxar"
+		location = 883
+		attacker = {
+			commander = "Stephen F. Austin"
+			infantry = 600			
+			losses = 6	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Martín Perfecto de Cos"
+			infantry = 1200
+			losses = 12	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1836.2.27 = {
+	battle = {
+		name = "San Patricio"
+		location = 884
+		attacker = {
+			commander = "Frank Johnson"
+			infantry = 60			
+			losses = 90	# percent
+			country = USA
+		}
+		defender = {
+			commander = "José de Urrea"
+			infantry = 500
+			losses = 1	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1836.3.2 = {
+	battle = {
+		name = " Agua Dulce Creek"
+		location = 884
+		attacker = {
+			commander = "James Grant "
+			infantry = 27			
+			losses = 95	# percent
+			country = USA
+		}
+		defender = {
+			commander = "José de Urrea"
+			infantry = 60
+			losses = 0	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1836.3.6 = {
+	battle = {
+		name = "Fort Alamo"
+		location = 883
+		attacker = {
+			commander = "James Bowie"
+			infantry = 260			
+			losses = 100	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 2400
+			losses = 12	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1836.3.14 = {
+	battle = {
+		name = "Refugio"
+		location = 884
+		attacker = {
+			commander = "Amon Butler King"
+			infantry = 148			
+			losses = 48	# percent
+			country = USA
+		}
+		defender = {
+			commander = "José de Urrea"
+			infantry = 1500
+			losses = 5	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1836.3.20 = {
+	battle = {
+		name = "Coleto"
+		location = 884
+		attacker = {
+			commander = "James W. Fannin, Jr"
+			infantry = 300
+			artillery = 9			
+			losses = 25 # percent
+			country = USA
+		}
+		defender = {
+			commander = "José de Urrea"
+			infantry = 1260
+			cavalry = 80
+			losses = 20	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1836.4.3 = {
+	battle = {
+		name = "Brazos Santiago"
+		location = 1509
+		attacker = {
+			commander = "John Henry Moore"
+			light_ship = 1
+			losses = 25 # percent
+			country = USA
+		}
+		defender = {
+			commander = "José de Urrea"
+			heavy_ship = 1
+			losses = 100	# percent
+			country = MEX
+		}
+		result = win
+	}
+}
+
+1836.4.22 = {
+	battle = {
+		name = "San Jacinto"
+		location = 883
+		attacker = {
+			commander = "Sam Houston"
+			infantry = 800
+			artillery = 2
+			losses = 100	# percent
+			country = USA
+		}
+		defender = {
+			commander = "Antonio López de Santa Anna"
+			infantry = 1400
+			losses = 60	# percent
+			country = MEX
+		}
+		result = loss
+	}
+}
+
+1836.5.14 = {
+	rem_attacker = USA
+	rem_defender = MEX
+}

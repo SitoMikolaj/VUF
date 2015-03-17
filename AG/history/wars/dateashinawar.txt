@@ -1,0 +1,18 @@
+name = "Guerre d'Ashina"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1589.1.1 = {
+	add_attacker = DTE
+	add_defender = IMG # Ashina joué par les imagawa
+}
+
+1589.6.5 = {
+	rem_attacker = DTE
+	rem_defender = IMG
+}
+

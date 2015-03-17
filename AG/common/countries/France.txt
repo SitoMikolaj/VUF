@@ -1,0 +1,150 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 20  50  210 }
+
+revolutionary_colors = { 15  0  16 }
+
+historical_score = 6700
+
+historical_idea_groups = {
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas
+	administrative_ideas
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Louis #10" = 160
+	"Charles #5" = 80
+	"Henri #1" = 60
+	"François #0" = 60
+	"Philippe #6" = 40
+	"Jean #2" = 20
+	"Thierry #4" = 10
+	"Gaston #0" = 2
+	"Nicolas #0 " = 10
+	"Louis-Philippe #0" = 10
+	"Jacques #0" = 10
+	"Joachim #0" = 5
+	"Xavier #0" = 2
+	"Robert #2" = 5
+	"Hugues #1" = 5
+	"Eudes #1" = 5
+	"Rodolphe #1" = 5
+	"Alexandre #0" = 10
+	"Alphonse #0" = 2
+	"Ambroise #0" = 2
+	"Auguste #0" = 5
+	"Albert #0" = 5
+	"Barthélémy #0" = 2
+	"Benoît #0" = 2
+	"Bernard #0" = 2
+	"Clément #0" = 2
+	"Ferdinand #0" = 5
+	"Étienne #0" = 5
+	"Georges #0" = 5
+	"Guillaume #0" = 10
+	"Jean-Philippe #0" = 5
+	"Joseph #0" = 5
+	"Julien #0" = 5
+	"Marc #0" = 5
+	"Maximiliem #0" = 2
+	"Michel #0" = 5
+	"Pascal #0" = 5
+	"Pierre #0" = 5
+	"Sébastien #0" = 5
+	"Carloman #2" = 5
+	"Lothaire #4" = 10
+	"Samuel #0" = 2
+	"Thomas #0" = 10
+	"Christian #0" = 5	
+	"Vincent #0" = 5	
+	"Richard #0" = 10
+	"Antoine #0" = 5
+	"Geoffroy #0" = 5
+	"Stanislas #0" = 5
+}
+
+leader_names = {
+	"d'Ambleteuse" "d'Aulnay" "d'Ailly" Ango "d'Angoulême" "d'Artagnan" Arnauld Abauzit "d'Argenson" "d'Alembert" "de l'Averdy" Alamanni "d'Aubigné" "d'Abancourt" "d'Arc" "d'Armagnac" "d'Albret" "d'Annebault" "d'Amblimont" "d'Aiguillon"
+	"de Beauharnais" "de Bercy" "de Béthune" "de Boissieu" "de Bonnefoy" "de Bonneuil" "du Bosquet" "de la Bretonnière" "de Broglie" Bourré "de Beaune" Budé "du Bellay" "de Baïf" Bodin "de Béthune-Sully" Broussel Bouthillier Bossuet "de Buffon" "du Barry" "de Brienne" "de Breteuil" "de Beaumarchais" "de Béthencourt" "de Bayard" "le Brun" Boileau Bayle Bailly Boucher "de Bienville" Bureau "de Bidoux" "de Bourbon" "de Bonne" Beaulieu Bernard Bart "de Boufflers" "de Berwick" "de Bourgmont" "de Belle-Isle" "de la Bourdonnais" "de Bougainville" "de Bussy-Castelnau"
+	"de Castaing" "de Caumartin" "de Chambly" "de Chambronne" "de Champmartin" "de Chevigny" "des Coulons" "de Crèvecœur" "de Crussol" Cœur Chevalier Chuquet Castellion Charron Corneille Concini Colbert Cassini Condillac "de Condorcet" Clouet "de Champaigne" Chamillart "du Châtelet" Cherubini "de Condé" "de Chabot" Cartier "de Coligny" "de Champlain" "Chevalier Paul" "de Châteaurenault" "de Coëtlogon" "de Catinat" Cassard "de Contade" "de Chevert" "de Conflans" "de Castelnau"
+	"de Dampierre" Desgouttes Duquesne Dufay Delisle Diderot Donnacona "Dugua de Mons" "de Dunois" "Dugay-Trouin" Dumas Dupleix Dieskau Dufresne
+	"des Écures" "d'Entraigues" "d'Estrées" Estienne "d'Éon" Esnambuc "d'Estaing" "d'Entrecasteaux"
+	"du Fournay" Fernel "de Fermat" Fouquet "de La Fontaine" Furetière "de Fontenelle" "de Frontenac" "de Foix" "de la Feuillade" Forbin
+	"de Galard" "de Gerson" Gassendi "de Gribeauval" Geban Gringoire "de Genouillac" Gellée "de la Garde" "de Gonneville" "de Guise" "de Gabaret" "des Groseilliers" "de Guiche" "de Guichen" "de Grasse"
+	"des Herbiers" "de l'Hospital" Hébert "d'Harcourt" Hertel "d'Hostun"
+	"d'Iberville"
+	"de Kerguelen"
+	Jeannin "de Jussieu" Jolliet Jourdan
+	"de La Barthe" "de La Ferrandie" "de La Galissonière" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lhéry" "de Luynes" Lefèvre "Le Primatice" "de Laffemas" "de Lionne" Lully "de Louvois" "de Lauriston" Lavoisier Legendre "de La Rochefoucauld" Lemaire Languet "de Laplace" "de Lamarck" Lagrange "de Longvilliers" "Le Prestre" "de Luxembourg" "du Luth" "de Lally-Tollendal" "de Langle"
+	"de Marguerye" "de Maurepas" "de Montaigne" Mazarin Melani "de Montesquieu" Mollien Molinet Marot Mariotte Martinet "de Morveau" "Le Moyne" "de Montmorency" "de Maillé" "de Marsin" "de la Motte" "de Montcalm" "de Moncey" "Mac Donald"
+	"de Neufchâtel" "de Nostredame" Necker Navarro Nicollet "de Noailles" "de Nesmond"
+	"d'Ornano" "d'Orléans" "de l'Olive" Olivier "d'Orvilliers" Oudinot
+	"de Pellefort" Paré Palissy "Peletier du Mans" "du Plessis" Poussin "de Pujols" Pascal Poquelin "de Pompadour" "Prud'hon" Parmentier "de Paul" Papin Pestalozzi "de Poincy" "de la Palice" "de Primauguet" "de la Pérouse" Perrin
+	Quesnay Quarton
+	"de Richemont" "de Rochechouart" "de Rochemaure" "de Rieu" Rabelais "de la Ramée" "de Ronsard" "de Richelieu" "de Rhodes" Racine Rameau "de Rohan" Riquet "de Rigaud" "de Rais" "de Roberval" Ribault "de Relingue" "de Rouville" "de Rohan-Soubise" "de Rochambeau"
+	"de Saint-Chamond" "de Saint-Esprit" "de Saint-Germain" "de Saint-Omer" "de Siorac" "de Sade" Scève "de Saint-Gelais" Sarrazin "de Sourdis" "de Saxe-Weimar" "de La Salle" "de Saxe" "de Soubise" "de Suffren"
+	"de Tocqueville" "de La Tour d'Auvergne" "de Tréville" Taillevent Turgot "de Talleyrand" "de Torcy" Talon "de la Trémoille" "de Turenne" "de Tourville" "de Ternay"
+	"d'Usson" "des Ursins"
+	"du Valentinois" "de Vergennes" "de Vibien" "de Vigny" "de Villeneuve" Villon Viète "de Vauban" Voltaire "de Vic" "de Voyer" "de Vaudreuil" "de Verteuil" "de Vignolles" "de Valois" "de Verrazane" "de Villegagnon" "de Vendôme" "de Valbelle" "de Villeroy" "de Vivonne" "de la Vérendrye"
+	"de Xaintrailles"
+	Watteau
+}
+
+ship_names = {
+        "l'Achille" "l'Actéon" "l'Actif" "l'Actionnaire" "l'Adélaide" "l'Admirable" "l'Adroit" "l'Affronteur" "l'Agamemnon" "l'Aglaia" "l'Agréable" "l'Agricola" "l'Aigle" "l'Aigrette" "l'Aimable" "l'Ajax" "l'Albanais" "l'Alceste" "l'Alcide" "l'Alcmène" "l'Alcyon" "l'Alerte" "l'Alexandre" "l'Alliance" "l'Almirante" "l'Alsace" "l'Altier" "l'Amazone" "l'Ambitieux" "l'América" "l'Amérique" "l'Amiral" "l'Amphion" "l'Amphitrite" "l'Anjou" "l'Anne" "l'Annibal" "l'Anti-Breton" "l'Anversois" "l'Apollon" "l'Aquilon" "l'Arabe" "l'Arc-en-Ciel" "l'Arcole" "l'Ardent" "l'Aréthuse" "l'Ariel" "l'Argonaute" "l'Argus" "l'Arrogant" "l'Arrogante" "l'Artémise" "l'Artésien" "l'Artois" "l'Assuré" "l'Astrée" "l'Athénien" "l'Atlante" "l'Atlas" "l'Audacieux" "l'Auguste" "l'Aurore" "l'Aventurier"
+        "la Babet" "le Bacchante" "la Baleine" "la Barricade" "le Basque" "la Bayonnaise" "le Beaumont" "le Beau Parterre" "la Belle-Isle" "la Belle-Poule" "le Belliqueux" "la Bellone" "le Berryer" "le Bertin" "le Bien-Aimé" "le Bienfaisant" "le Bienvenu" "le Bizarre" "la Blanche" "le Bon" "la Bonne Espérance" "la Bonne Marseille" "le Bordelais" "la Borée" "la Boulogne" "le Bourbon" "la Bourbonnaise" "la Bourgogne" "le Brabançon" "le Brabant" "le Brave" "la Bretagne" "le Breton" "le Brézé" "le Brillant" "le Brusque" "le Brutus" "le Bucentaure"
+        "le Ça-Ira" "la Calypso" "le Canopus" "le Capable" "le Capricieux" "le Cardinal" "la Caroline" "le Cassard" "le Caton" "le Célèbre" "le Censeur" "le Centaure" "le Céres" "le César" "la Charente" "le Charlemagne" "le Cheval Marin" "le Chevert" "la Chimère" "le Cimeterre" "le Cisalpin" "le Clairvoyant" "la Cléopâtre" "la Clorinde" "la Colombe" "le Colosse" "le Commerce" "le Commerce de Bordeaux" "le Commerce de Lyon" "le Commerce de Marseille" "le Commerce de Paris" "le Comte" "le Comte d'Argenson" "le Comte d'Artois" "le Comte de Morville" "la Comtesse d'Ayen" "la Concorde" "le Condé" "le Conquérant" "la Consolante" "la Constance" "le Constant" "le Content" "le Coq" "la Coquette" "le Corps Morrant" "la Côte d'Or" "la Courageuse" "le Courageux" "le Coureur" "la Coureuse" "la Couronne" "le Courtisan" "la Cornélie" "le Crache Feu" "le Croissant" "la Curieuse" "le Cygne"
+        "le Dalmate" "la Danaé" "le Dangereux" "le D'Hautpoul" "le Dauphin" "le Dauphin Royal" "la Dauphiné" "la Découverte" "la Dédaigneuse" "le Défenseur" "le De Meric" "le Desaix" "le Destin" "le Déterminé" "la Déterminée" "le Deux-Frères" "le Diable-à-Quatre" "le Diadème" "le Diamant" "la Diane" "le Dictateur" "le Diligent" "le Diomède" "le Dragon" "le Duc" "le Duc d'Orleans" "le Duc d'Angouléme" "le Duc de Berry" "le Duc de Bordeaux" "le Duc de Bourgogne" "le Duc de Chartres" "le Duc de Choiseul" "le Duc de Duras" "le Duc de Penthièvre" "le Duguay Trouin" "le Du Guesclin" "le Duquesne"
+        "l'Écho" "l'Éclair" "l'Éclatant" "l'Écueil" "l'Égyptienne" "l'Embuscade" "l'Émeraude" "l'Émerillon" "l'Éminent" "l'Empereur" "l'Engageante" "l'Entendu" "l'Entreprenant" "l'Envieux" "l'Éole" "l'Épervier" "l'Épreuve" "l'Espérance" "l'Espiègle" "l'Espion" "l'Espoir" "l'État de Bourgogne" "l'Étoile" "l'Eugénie" "l'Éveillé" "l'Excellent" "l'Experimenté"
+        "le Fantasque" "le Fantôme" "le Faucon" "la Favorite" "le Fendant" "le Ferme" "le Fidèle" "le Fier" "le Fier Rodrigue" "le Figuières" "la Finisterre" "le Flamant" "la Flèche" "la Fleur de la Mer" "la Fleur de Lis" "le Fleuron" "le Flibustier" "le Florissant" "la Flore" "le Formidable" "le Fort" "la Forte" "la Fortune" "le Fortuné" "la Fortunée" "le Foudroyant" "le Fougueux" "le Français" "le François" "le Fulminant" "le Furet" "la Furieuse" "le Furieux"
+        "le Gaillard" "le Galant" "la Galathée" "le Gaulois" "le Généreux" "le Génie" "le Génois" "la Gloire" "le Glorieux" "le Goéland" "la Gracieuse" "la Gramont" "le Grand" "le Grand Chalain" "le Grand Danois" "le Grand Saint-Louis" "la Grande Hermine" "le Grand Vainqueur" "le Grand Vaisseau du Roi" "le Griffon" "le Guerrier" "la Guerrière" "le Guet-Apens" "la Guepe" "la Guirlande"
+        "l'Hameçon" "le Hardi" "l'Harmonie" "le Hasard" "le Hasardeux" "le Hébé" "le Hector" "le Henri" "le Hercule" "l'Hermione" "le Héros" "le Hervic" "l'Heureux" "l'Heureux Retour" "le Hippopotame" "l'Hirondelle" "le Hoche" "l'Hydra" "l'Hymen"
+        "l'Iéna" "l'Île de France" "l'Illustre" "l'Immortalité" "l'Impérial" "l'Impérieuse" "l'Impétueux" "l'Implacable" "l'Imprudent" "l'Incertain" "l'Inconstance" "l'Indien" "l'Indivisible" "l'Indomptable" "l'Infatiguable" "l'Inflexible" "l'Inquiet" "l'Insurgente" "l'Intrépide" "l'Invincible" "l’Iphigénie" "l'Iris" "l'Irrésistible"
+        "la Jalouse" "le Jaseur" "le Jason" "le Jean Bart" "la Jeanne d'Arc" "le Jemmapes" "le Jersey" "les Jeux" "le Joli" "la Junon" "le Jupiter" "le Juste" "la Justice"
+		"le Languedoc" "le Laurier" "le Lechefraye" "la Légère" "le Léopard" "le Ligournois" "la Liberté" "la Licorne" "le Lion" "la Loire" "le Louis XIV" "le Louvre" "le Loyaliste" "la Lune" "la Lunette" "la Lutine" "le Lynx" "le Lys"
+        "la Machine" "la Madame" "La Magicienne" "le Magnanime" "le Magnifique" "le Majestueux" "le Marchault" "la Marie Catherine" "le Marquis" "la Marquise de Seignelay" "le Mars" "le Marseillais" "la Mathilde" "le Maure" "la Médée" "la Ménagère" "le Mercure" "le Merveilleux" "le Mignon" "la Mignonne" "la Minerve" "le Minotaure" "le Modéré" "le Modeste" "le Monarque" "le Montagnard" "la Montagne" "le Montblanc" "le Mont Saint-Bernard" "la Morne Fortunée" "la Moselle" "le Moucheron" "la Musette" "le Musquito" "le Mutin" "la Mutine"
+        "la Naiade" "le Navarrais" "la Navarre" "le Neptune" "la Néréide" "le Nestor" "le Neuf Thermidor" "le Nisus" "le Normand" "le Bon Voyage" "la Notre Dame de Hunieres" "la Notre Dame du Rosaire" "la Notre Dame des Lumières" "la Nouvelle Entreprise" "la Nymphe"
+        "l'Observateur" "l'Océan" "l'Oiseau" "l'Opiniatre" "l'Orage" "l'Oranger" "l'Orgueilleux" "l'Orient" "l'Oriflamme" "l'Orignal" "l'Orion" "l'Orphée"
+        "le Pacificateur" "la Paix" "le Palinure" "la Pallas" "le Palmier" "le Pandour" "le Papillon" "le Parfait" "la Parfaite" "le Paris" "le Patriote" "le Pégase" "le Pélican" "le Pelletier" "la Pénélope" "le Percante" "la Perdrix" "la Perle" "le Phaeton" "le Phenix" "le Phocion" "la Piedmontaise" "la Pilade" "le Pilote" "la Pique" "le Pluton" "le Poisson Volant" "le Polonais" "le Polyphème" "le Pomone" "le Pompée" "le Pompeux" "le Portefaix" "le Postillion" "la Pourvoyeuse" "le Précieux" "le Prévoyant" "le Prince" "le Prince Noir" "la Princesse" "le Prompt" "la Prosperpine" "le Protecteur" "le Prothée" "la Provence" "le Prudent" "le Puissant" "le Pyrrhus"
+        "les Quatre Frères"
+        "le Railleur" "la Railleuse" "le Raisonnable" "le Ranger" "le Redoutable" "le Réfléchi" "le Régénérateur" "la Régénérée" "la Régente" "la Régine" "le Régulus" "la Reine" "le Renard" "la Rencontre" "la Renommée" "le Requin" "la Résistance" "la Résolue" "la Revanche" "le Robuste" "le Rochefort" "le Roland" "le Romulus" "le Rostan" "le Rouen" "le Royal" "la Royale" "le Royal Duc" "le Royal Louis" "la Royale Thérèse" "le Rubis"
+		"le Sage" "la Sagesse" "le Sagittaire" "le Saint-Antoine" "le Saint-Cosme" "le Saint-Esprit" "le Saint-François de Paul" "le Saint-Jacques" "le Saint-Jean" "le Saint-Joseph" "le Saint-Laurent" "le Saint-Louis" "le Saint-Michel" "le Saint-Philippe" "le Saint-Pierre" "le Saint-Sébastien" "le Saint-Thomas d'Aquin" "la Sainte-Anne" "la Salamine" "le Sans Culotte" "le Sans Pareil" "la Sardine" "le Saturne" "le Sceptre" "le Scipion" "le Séduisant" "le Seigneur Chat" "la Seine" "la Sémillante" "la Sensible" "la Sérieuse" "le Sérieux" "le Serpent" "le Sévère" "la Sibille" "la Sirène" "le Six Corps" "le Soleil" "le Soleil d'Afrique" "le Soleil Hercule" "le Soleil Royal" "le Solide" "le Solitaire" "la Sophie" "le Souverain" "le Spartiate" "le Sphynx" "la Subtile" "le Suffisant" "la Suffisante" "le Suffren" "la Superbe" "la Supérieure" "la Surveillante" "la Sybille" "la Sylphe"
+        "la Tamise" "le Tape-à-l'Oeil" "le Tartu" "le Téméraire" "la Thémis" "le Thémistocle" "la Terpsichore" "le Terrible" "la Teulie" "la Thérèse" "le Thésée" "le Tibre" "le Tigre" "le Timoléon" "le Tonnant" "le Tonnerre" "la Topaze" "la Toulouse" "le Toulon" "la Tourterelle" "la Tourville" "le Trajan" "le Trident" "le Triomphant" "le Triomphe" "le Triton" "la Trombe" "la Trompeuse" "le Trudaine" "le Trydent" "le Tyrannicide"
+        "l'Ulysse" "l'Union" "l'Unité" "l'Utile"
+        "le Vaillant" "la Vaillante" "le Vainqueur" "le Vaisseau du Roi" "la Valeur" "la Valentine" "le Vencedor" "le Vendôme" "le Vénitien" "la Vengeance" "le Vengeur" "la Ventura" "la Vénus" "le Vermandois" "la Vestale" "le Vétéran" "la Victoire" "le Victor" "la Victorieuse" "le Victorieux" "la Vierge" "la Vierge de Santé" "le Vigilant" "la Vigilante" "la Ville de Marseille" "la Ville de Paris" "le Vieux Grand Port" "la Virginie" "le Volage" "le Voltigeur" "le Volontaire" "le Vulcain" "le Volcan"
+        "le Xénophon" "le Zélé" "le Zodiaque"
+}
+
+army_names = {
+	"Armée Royale" "Armée des Flandres" "Armée du Midi" "Armée de l'Est" "Armée du Nord" "Armée du Jura" "Armée du Rhône" "Armée des Alpes" "Armée des Pyrenées" "Armée de l'Atlantique" "Armée de Bretagne" "Armée d'Italie" "Armée de Nouvelle France" "Garde Royale" "Mousquetaires du Roi" "Garde Lorraine" "Garde Française" "Garde Suisse" "Garde Irlandaise" "Garde des Hussards" "Garde des Chasseurs" "Garde des Dragons du Roi" "Armée de $PROVINCE$"
+}
+
+fleet_names = {
+	"La Royale" "Flotte du Ponant" "Flotte du Levant" "La Réale" "Escadre Bleue" "Escadre Rouge" "Escadre Blanche" "Escadre des Antilles" "Escadre des Amériques" "Escadre des Indes" "Escadre Océane" "Escadre de Méditerranée" "Escadre du Nord" "Escadre du Golfe du Lion" "Escadre de Gascogne" "Escadre d'Iroise" "Escadre de $PROVINCE$"
+}

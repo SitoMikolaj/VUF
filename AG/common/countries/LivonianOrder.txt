@@ -1,0 +1,139 @@
+#Livonia Order
+
+graphical_culture = westerngfx
+
+color = { 125  30  100 }
+
+revolutionary_colors = { 5  9  0 } #Livonian Governate
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	diplomatic_ideas
+	quality_ideas
+	administrative_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Johann #0" = 80
+	"Heinrich #2" = 60
+	"Dietrich #2" = 20
+	"Wilhelm #2" = 20
+	"Hermann #1" = 20
+	"Walter #1" = 20
+	"Wennemar #1" = 20
+	"Bernhard #0" = 20
+	"Cysse #0" = 20
+	"Franz #0" = 20
+	"Gotthard #0" = 20
+	"Konrad #2" = 20
+	"Siegfried #0" = 20
+	"Gerhard #2" = 15
+	"Arnold #1" = 15
+	"Robin #1" = 15
+	"Eberhard #3" = 10
+	"Burkhard #1" = 10
+	"Gottfried #1" = 10
+	"Adolf #0" = 2
+	"Albrecht #0" = 2
+	"Andreas #0" = 2
+	"Ferdinand #0" = 2
+	"Friedrich #0" = 2
+	"Georg #0" = 2
+	"Jakob #0" = 2
+	"Karl #0" = 2
+	"Lorenz #0" = 2
+	"Ludwig #0" = 2
+	"Lukas #0" = 2
+	"Markus #0" = 2
+	"Matthias #0" = 2
+	"Michael #0" = 2
+	"Nicolaus #0" = 2
+	"Paul #0" = 2
+	"Rudolf #0" = 2
+	"Sigmund #0" = 2
+	"Stephan #0" = 2
+	"Thomas #0" = 2
+	"Wenzel #0" = 2
+	
+	"Maria #0" = -1
+}
+
+leader_names = {
+	"von Aderkas" "von Albedyll" "von Altenburg" "von Ampringen" "von Arfberg" "von Altenbockum" Ascheberg
+	"von Bassenheim" "von Bobenhausen" "von Bremen" "von Buchholtz" "von Buxhoeveden" "von Bach" Behr Bilderling Blomberg "von Boetticher" Borch Brincken  Brüggen Buchholtz
+	"von Campenhausen" "von Cronberg" "von Cube"
+	"von Dellinghausen" "von Drachenfels" Derschau Drachenfels Düsterlohe
+	"von Ekesparre" "von Erlichshausen" Engelhardt
+	"von Freymann" "Freytag von Loringhoven" Fircks Fölkersam Funck
+	Grotthuss
+	"von Hehn" "von Helbrungen" "von Howen" "von Hunnius" "von Hoyningen" Haaren Hahn Heyking "von Hoerner" Howen
+    "von Jungingen"
+	"von Keyserling" "von Koskull" "von Kniprode" "von Klot-Heydenfeldt" "von Krusenstiern" Kleist Klopmann Komorowski Koskull
+    "von Lilienfeld" Lambsdorff "von der Launitz" "von Lysander"
+	Mirbach
+    Nettelhorst Nolcken
+    Oelsen Offenberg Osten-Sacken
+    Pahlen "von Patkul" "von Poll" Plettenberg
+	"von Rennenkampff" "von Rothstein" "von Ruszdorf" "von Richtenberg" "von Roth-Rösthof" Raczynski Recke Ropp Rosenberg "von Rummel"
+	"von Sass" "von Schubert" "von Sangershausen" "von Schwanden" Schlippenbach "von Schroeders" Seefeld Stackelberg Stromberg
+    "von Tieffen" Taube "von Timroth"
+	"von Uexküll" "von Ungern-Sternberg" "von Urenbach"
+	"von Wrangel" "von Wistinghausen" "von Wattzau" "von Wallenrode" Wilhelm
+}
+
+ship_names = {
+	Blumentopf Dame "Das Wappen der Herzogin von Kurland" "Drei Heringe"
+	Hoffnung Krokodil "Lynn kurländische Möwe" Düna Aa Bruno
+	Seeburg Hasenpoth Tukums "von Grüningen" "von Stierland"
+	"von Hornhausen" "von Breithausen" "von Mandern"
+	"von Lutterberg" "von Nortecken" "von Rassburg" "von Endorp" "Herzogenstein" "von Hohembach" "von dinkelaghe" "von Rogga"
+	"von Jocke" "Johannes Ungenade" "Reimar Hane" "von Monheim" "von Dreileben"
+	"von Hercke" "von Vietinghof" "von Vrymersheim" "von Eltz" "von Bürggeneye"
+	"Diderick Tork" "von Spanheim" "von Rutenberg" "Franco Kerskorff"
+	"von Bockenvorde" "von Overbergen" "von Mengede" "von Herse" "von der Borch"
+	"von Loringhofe" "von Plettenberg" "von der Recke" "von Galen" "von Fürstenberg"
+	Danzig
+	Elbing
+	Gottersweder
+	Königsberg
+	Marienburg Mittenburg Mitau
+	Thorn
+	Windau
+	Goldingen
+	"von Bassenheim" "Otto von Kerpen" "Heinrich von Tunna" "Hermann von Salza" "Konrad von Thüringen"
+	"Gerhard von Malberg" "von Hohenlohe" "von Wüllersleben" "Poppo von Osterna"
+	"von Sangershausen" "von Heldrungen" "Burkhard von Schwanden" "von Feuchtwangen"
+	"von Trier" "Werner von Orseln" "von Braunschweig" "Dietrich von Altenburg" "von Wattzau"
+	"von Arfberg" "Winrich von Kniprode" "von Rotenstein" "von Wallenrode" "Konrad V von Jungingen"
+	"Ulrich von Jungingen" "Heinrich von Plauen" "von Sternberg" "von Wetzhausen"
+	"Johann von Tiefen" "Walter von Cronberg"
+}
+
+army_names = {
+	"Armee Ritter Tür Schwert" "Schwertbrüderorden Armee" "Fratres miliciae Christi" "Brüder der Ritterschaft Christi" "Armee Fürstliche" "Armee Herzoglichen" "Armee von Söldnern" "Milizarmee" "Armee von $PROVINCE$" 
+}
+
+fleet_names = {
+	"Herzoglichen Flotte" "$PROVINCE$ Flotte"
+}

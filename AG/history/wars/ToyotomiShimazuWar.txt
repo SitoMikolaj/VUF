@@ -1,0 +1,17 @@
+name = "Guerre des clans Toyotomi-Shimazu"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_shogun_annex
+}
+
+1583.1.1 = {
+	add_attacker = JAP
+	add_defender = SMZ
+}
+
+1586.10.17 = {
+	rem_attacker = JAP
+	rem_defender = SMZ
+}

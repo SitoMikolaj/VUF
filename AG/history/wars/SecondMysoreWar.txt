@@ -1,0 +1,20 @@
+name = "Seconde guerre de Mysore"
+#casus_belli = cb_conquest
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 1949 # Cuddapah
+}
+
+1780.1.1 = {
+	add_attacker = MYS
+	add_defender = DEC
+	add_defender = GBR
+}
+
+# Peace
+1784.1.1 = {
+	rem_attacker = MYS
+	rem_defender = DEC
+	rem_defender = GBR
+}

@@ -1,0 +1,146 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 199  175  12 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	Adam Alexander "of Argyll" "of Albany" "of Ayrshire"
+	Bruce Beaton Boyd Burns Barclay
+	Cameron Campbell Cochrane Crichton Cunynghame Crawford Carnegie Colyear
+	Douglas Duncan "of Dunbar" Dalzell Drummond
+	Erskine
+	Forbes Ferguson Fletcher Fleming Fitzjames
+	Gordon Graham Gilchrist Gregory
+	Hume Hepburn Hamilton Hutcheson Hutton
+	Johnstone
+	Knox Keith Kerr
+	Law Leslie Livingston Lindsay
+	MacKenzie MacDonald MacGregor Malise "MacTaggart" Montgomerie Maxwell Murray Maitland Melville Murdoch Malcolm
+	Nasmyth
+	Ogilvy
+	Playfair Paterson
+	"of Queensberry"
+	Raeburn Randolph Ruthven
+	Selkirk Strathbogie Sinclair Stewart Seton Smith Scott "of Stirling"
+	Wilkie Wishart Wemyss Watt Wood Wariston
+}
+
+monarch_names = {
+	"James #0" = 120
+	"Robert #2" = 20
+	"Henry #0" = 20
+	"Alexander #3" = 10
+	"Arthur #0" = 10
+	"Mary #0" = -10
+	"Margaret #1" = -5
+	"Walter #0" = 10
+	"John #1" = 5
+	"Charles #0" = 10
+	"Malcolm #4" = 10
+	"Donald #3" = 5
+	"David #2" = 10
+	"Duncan #2" = 10
+	"Edgar #1" = 5
+	"Constantin #3" = 10
+	"Kenneth #3" = 10
+	"William #1" = 5
+	"Áed #1" = 5
+	"Eochaid #1" = 5
+	"Culen #1" = 5
+	"Dudh #1" = 2
+	"Andrea #0" = 2
+	"Alan #0" = 2
+	"Ailpein #0" = 2
+	"Archibald #0" = 2
+	"Barclay #0" = 2
+	"Beathan #0" = 2
+	"Bruce #0" = 2
+	"Cameron #0" = 2
+	"Cináed #0" = 2
+	"Conall #0" = 2
+	"Douglas #0" = 2
+	"Edan #0" = 2
+	"Evander #0" = 2
+	"Fraser #0" = 2
+	"Garry #0" = 2
+	"Glen #0" = 2
+	"Ian #0" = 2
+	"Keir #0" = 2
+	"Kennedy #0" = 2
+	"Lennox #0" = 2
+	"Logan #0" = 2
+	"Micheil #0" = 2
+	"Mungo #0" = 2
+	"Munroe #0" = 2
+	"Scott #0" = 2
+	"Thomas #0" = 5
+	"Wallace #0" = 2
+	"Katherine #0" = -5
+	"Isabel #0" = -5
+	"Elizabeth #0" = -5
+	"Eleanor #0" = -5
+	"Joan #0" = -5
+	"Sophia #0" = -10
+}
+
+ship_names = {
+	Advantage "Alexander Gaily" Annandale "Ann of Anstruther"
+	Bonaventure Bruce
+	Calydona Charles "Christian of Boness" Christopher Cuckoo
+    "Dogarvine of Ldnderry" "Dumbarton Castle"
+	Elizabeth
+	Flower Fortune
+	"Good Fortune" "Great Michael" Green-tree
+	Instauration
+	James "James of Queensferry" Janet "Jenny Pirwin"
+	"King's Caravel"
+	"Lamb of Glasgow" "Lamb of Leith" Lesley Lion
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+	Pelican "Phoenix of Glasgow" "Prince Rupert" "Providence of Dundee" "Providence of Kirkcaldy"
+	"Rainbow of Dundee" "Reid Lyon of Q'ferry" "Rising Sun" Rothes "Royal Mary" "Royal William"
+	Salamander "St. Salvator"
+	Thistle
+	Unicorn Union
+	Venture
+	Wemyss "William and George" "William and Mary"
+	"Yellow Caravel"
+}
+
+army_names = {
+	"Exercitus Scoticanus" "Exercitus militaris" "Airmy na Alba" "Airmy Ryal" "Airmy Scots" "Airmy Keeng" "Scots Guards" "Scots Greys" "Airmy na Strathalcluith" "Airmy Dal Riada"  "Airmy Rheged" "Airmy na Galwyddel"  "Airmy na Gàidhealtachd" "Airmy na Ghalldachd" "Airmy na $PROVINCE$"
+}
+
+fleet_names = {
+	"Fleet na Alba" "Fleet Ryal" "Fleet na Scots" "Fleet Keeng" "Fleet $PROVINCE$"
+}

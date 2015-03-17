@@ -1,0 +1,115 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -1
+#quality_quantity = -1
+#serfdom_freesubjects = -1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 145	# Nafplio
+fixed_capital = 145 # Cannot move capital away from this province & no power cost to move to it
+
+# Despots of Morea #
+1383.1.1 = {
+	monarch = {
+		name = "Theodoros I"
+		dynasty = "Palaiologos"
+		birth_date = 1355.1.1
+		dip = 1
+		adm = 2
+		mil = 1
+	}
+}
+
+1396.1.1 = {
+	heir = {
+		name = "Theodoros"
+		monarch_name = "Theodoros II"
+		dynasty = "Palaiologos"
+		birth_date = 1396.1.1
+		death_date = 1448.6.26
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1407.1.1 = {
+	monarch = {
+		name = "Theodoros II"
+		dynasty = "Palaiologos"
+		birth_date = 1396.1.1
+		dip = 2
+		adm = 2
+		mil = 3
+	}
+}
+
+1443.1.1 = {
+	monarch = {
+		name = "Konstantinos XI"
+		dynasty = "Palaiologos"
+		birth_date = 1405.2.8
+		adm = 3
+		dip = 2
+		mil = 2
+		leader = {	name = "Konstantinos XI"	type = general	rank = 0	fire = 3	shock = 3	manuever = 4	siege = 0 }
+	}
+}
+
+1443.1.1 = {
+	heir = {
+		name = "Thomas"
+		monarch_name = "Thomas I"
+		dynasty = "Palaiologos"
+		birth_date = 1409.1.1
+		death_date = 1465.5.12
+		claim = 75
+		dip = 5
+		adm = 7
+		mil = 3
+	}
+}
+
+1449.1.1 = {
+	monarch = {
+		name = "Thomas I"
+		dynasty = "Palaiologos"
+		birth_date = 1409.1.1
+		dip = 5
+		adm = 7
+		mil = 3
+	}
+}
+
+1449.1.1 = {
+	heir = {
+		name = "Demetrios"
+		monarch_name = "Demetrios II"
+		dynasty = "Palaiologos"
+		birth_date = 1407.1.1
+		death_date = 1470.1.1
+		claim = 75
+		dip = 5
+		adm = 7
+		mil = 3
+	}
+}
+
+1465.5.12 = {
+	monarch = {
+		name = "Demetrios II"
+		dynasty = "Palaiologos"
+		birth_date = 1407.1.1
+		dip = 0
+		adm = 1
+		mil = 0
+	}
+}
+
+# Conquered by the Ottomans 1460

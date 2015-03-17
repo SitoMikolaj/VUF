@@ -1,0 +1,104 @@
+#Polotsk
+
+graphical_culture = easterngfx
+
+color = { 16  113  155 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Andrei #1" = 20
+	"Lubko #1" = 20
+	"Olgierd #1" = 20
+	"Bryachislav #2" = 15
+	"Vasiliy #2" = 15
+	"Svyatoslav #1" = 15
+	"Vladimir #1" = 15
+	"Izyaslav #2" = 10
+	"Vseslav #2" = 10
+	"Boris #1" = 10
+	"Aleksandr #0" = 2
+	"Adrian #0" = 2
+	"Afanasiy #0" = 2
+	"Daniil #0" = 2
+	"Dmitriy #0" = 2
+	"Dorofey #0" = 2
+	"Faddey #0" = 2
+	"Feodosiy #0" = 2
+	"Feofil #0" = 2
+	"Foma #0" = 2
+	"Fyodor #0" = 2
+	"Gavriil #0" = 2
+	"Grigoriy #0" = 2
+	"Igor #0" = 2
+	"Ivan #0" = 2
+	"Mefodiy #0" = 2
+	"Mikhail #0" = 2
+	"Naum #0" = 2
+	"Nikita #0" = 2
+	"Nikolai #0" = 2
+	"Pankrati #0" = 2
+	"Prokhor #0" = 2
+	"Pyotr #0" = 2
+	"Radoslav #0" = 2
+	"Ruslan #0" = 2
+	"Semen #0" = 2
+	"Serafim #0" = 2
+	"Sevastian #0" = 2
+	"Stanislav #0" = 2
+	"Timofeiy #0" = 2
+	"Varfolomeiy #0" = 2
+	"Vikentiy #0" = 2
+	"Yaroslav #0" = 2
+	
+	"Gavriila #0" = -1
+	"Larisa #0" = -1
+}
+
+leader_names = { 
+	Vitebsky Izyaslavsky Dursky Galisky Borovsky Vereisky Volotsky Galitsky
+	Mozhaisky Uglisky Shemyakin Satin Aladyin Beznosov Bokeev Burukhin Vnukov Korobyin
+	Zabolotsky Dalmatov Kisleevsky Travin Tsyplyatev Shukalovsky
+}
+
+ship_names = {
+	Velikaya Chudskoye Pskovskoye Polotsk
+	Rakovor Bolotovo Kulikovo Ostrov Izborsk
+	Pechory Porhov "Velikiye Luki" Sebezh
+}
+
+army_names = {
+	"Polockoe Knjazestvo Armija" "Vélikii Knjaz Armija" "Voïvode Armija" "Narodnoe Opolcheniye" "Strel'tsy $PROVINCE$"	
+}
+
+fleet_names = {
+	"Polockoe Flot" "Knjazestvo Flot" "$PROVINCE$ Flot"
+	}

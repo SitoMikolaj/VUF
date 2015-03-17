@@ -1,0 +1,26 @@
+583 = "Saen Wi"
+587 = "Chiang Tung"
+591 = "Thawai"
+1823 = "Chiang Taeng"
+2404 = "Marit"
+
+##########################################
+# Mod Panthéon
+##########################################
+
+584 = "Kyaukse" OR 584 = "Ava"
+593 = "Nakhon Si Thammarat"
+603 = "Nakhon Thung Yai"
+609 = "Siem Reap" OR 609 = "Angkor"
+2383 = "Xaphex Khukhanth"
+2384 = "Hnxngkhay"
+2385 = "Hnxngbawlaphu"
+2386 = "Chayphumi"
+2387 = "Phechrburi"
+2388 = "Phis'nulok"
+2389 = "Mæ' Wngk"
+2390 = "Chiya"
+2391 = "Thlang"
+2396 = "Mong Kawng"
+2399 = "Phukam"
+2400 = "Sepaw"

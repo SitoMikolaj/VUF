@@ -1,0 +1,79 @@
+name = "Campagne suédoise de Norvège"
+#casus_belli = cb_conquest type = take_capital_conquest
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 17 # Akershus
+}
+
+1814.5.17 = {
+	add_attacker = SWE
+	add_defender = NOR
+}
+
+1814.7.26 = {
+	battle = {
+		name = "Hvaler"
+		location = 1259
+		attacker = {
+			commander = "Magnus Fredrik Ferdinand Björnstjerna" 
+			heavy_ship = 12
+			light_ship = 10
+			losses = 6	# percent
+			country = SWE
+		}
+		defender = {
+			commander = "Johannes Klingenberg Sejersted"
+			galley = 36
+			losses = 25	# percent
+			country = NOR
+		}
+		result = win
+	}
+}
+
+1814.7.26 = {
+	battle = {
+		name = "Fredrikstad"
+		location = 22
+		attacker = {
+			commander = "Magnus Fredrik Ferdinand Björnstjerna" 
+			infantry = 6000
+			losses = 5
+			country = SWE
+		}
+		defender = {
+			commander = "Johannes Klingenberg Sejersted"
+			infantry = 4000
+			losses = 20	# percent
+			country = NOR
+		}
+		result = win
+	}
+}
+
+1814.8.1 = {
+	battle = {
+		name = "Rakkestad"
+		location = 17
+		attacker = {
+			commander = "Jean-Baptiste Bernadotte"
+			infantry = 45523
+			losses = 5
+			country = SWE
+		}
+		defender = {
+			commander = "Johannes Klingenberg Sejersted"
+			infantry = 30000
+			losses = 10	# percent
+			country = NOR
+		}
+		result = win
+	}
+}
+
+# Convention de Moss
+1814.8.14 = {
+	rem_attacker = SWE
+	rem_defender = NOR
+}

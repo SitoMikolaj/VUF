@@ -1,0 +1,113 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = 1
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+technology_group = western
+religion = catholic
+primary_culture = sicilian
+capital = 125	# Palermo
+
+
+1377.1.28 = {
+	monarch = { 
+		name = "Maria I"
+		dynasty = "d'Aragó"
+		birth_date = 1363.7.2
+		dip = 3
+		mil = 4
+		adm = 2
+		female = yes
+	}
+}
+
+1398.11.17 = {
+	heir = {
+		name = "Federico"
+		monarch_name = "Pietro III"
+		dynasty = "d'Aragó"
+		birth_date = 1356.11.19
+		death_date = 1400.11.8
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1400.11.8 = {
+	heir = {
+		name = "Martí"
+		monarch_name = "Martíno I"
+		dynasty = "d'Aragó"
+		birth_date = 1374.7.25
+		death_date = 1409.7.25
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1401.5.25 = {
+	monarch = {
+		name = "Martino I"
+		dynasty = "d'Aragó"
+		birth_date = 1374.7.25
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1401.5.25 = {
+	heir = {
+		name = "Martí"
+		monarch_name = "Martino II"
+		dynasty = "d'Aragó"
+		birth_date = 1356.7.29
+		death_date = 1410.5.31
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+# Union avec l'Aragon
+
+# Séparation des royaumes de 1458-1504 puis retour à l'Union avec Naples et Aragon.
+# Nouvelle séparation de 1713 à 1720
+
+1713.4.12 = {
+	monarch = {
+		name = "Vittorio Amedeo II"
+		dynasty = "de Savoie"
+		birth_date = 1666.5.14
+		adm = 4
+		dip = 6
+		mil = 5
+		leader = { name = "Vittorio Amedeo II" type = general rank = 0 fire = 4 shock = 4 manuever = 2 siege = 2 }
+	}
+}
+
+# 1720.1.1 Vittorio Amedeo II becomes king of Sardinia-Piemont
+
+1759.10.7 = { government = enlightened_despotism }
+
+# Ferdinand/Ferrante flees to Sicily
+
+1759.10.7 = {
+	monarch = {
+		name = "Ferdinando IV"
+		dynasty = "de Bourbon"
+		birth_date = 1751.1.12
+		dip = 0
+		mil = 0
+		adm = 0
+	}
+}

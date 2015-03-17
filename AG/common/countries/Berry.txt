@@ -1,0 +1,144 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 85  65  215 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Jean #0" = 40
+	"Charles #0" = 40
+	"Jeanne #0" = -15
+	"François #0" = 20
+	"Pierre #0" = 5
+	"Hubert #0" = 5
+	"Étienne #0" = 5
+	"Hugues #0" = 5
+	"Robert #0" = 5
+	"Henri #0" = 5
+	"Abel #0" = 2	
+	"Adrien #0" = 2
+	"Alexandre #0" = 2
+	"Christian #0" = 2
+	"Conrad #0" = 2
+	"Denis #0" = 2
+	"Eudes #0" = 2
+	"Eugène #0" = 2
+	"Frédéric #0" = 2
+	"Gaspard #0" = 2
+	"Georges #0" = 2
+	"Germain #0" = 2
+	"Gustave #0" = 2
+	"Jules #0" = 2
+	"Léopold #0" = 2
+	"Louis #0" = 2
+	"Maurice #0" = 2
+	"Michel #0" = 2
+	"Odet #0" = 2
+	"Philippe #0" = 2
+	"Raoul #0" = 2
+	"René #0" = 2
+	"Rodolphe #0" = 2
+	"Samuel #0" = 2
+	"Séverin #0" = 2
+	"Tristan #0" = 2
+	"Valentin #0" = 2
+	"Victor #0" = 2
+		
+	"Marie #0" = -5
+	"Louise #0" = -5
+	"Diane #0" = -5
+	"Élisabeth #0" = -5
+	"Catherine #0" = -5
+	"Claude #0" = -5
+	"Victoire #0" = -5
+	"Christine #0" = -5
+	"Marguerite #0" = -5
+	"Charlotte #0" = -5
+	"Madeleine #0" = -5
+	"Judith #0" = -5
+	"Béatrice #0" = -5
+	"Adélaïde #0" = -5
+	"Emma #0" = -5
+	"Constance #0" = -5
+	"Anne #0" = -5
+	"Aliénor #0" = -5
+	"Isabelle #0" = -5
+	"Blanche #0" = -5
+	"Marie-Thérèse #0" = -5
+	"Marie-Louise #0" = -5
+	"Henriette #0" = -5
+}
+
+ship_names = {
+        Athis
+        Bel-Air Boultan Bouy
+        Chavenay Combert Courtaumont Court-sur-Couffy Cumières
+        Fontenelle
+        Gizaucourt
+        Isse
+        Jâlons Jippé Jonchery
+        "La Cheppe" "La Croisée" "Lagery" "La Grande Romanie" "La Presle" "La Salle" "Laval-sur-Tourbe" "La Grossemasse" "La Veuve" "Le Breuil" "Le Grand-Essart" "Le Moncet" "Les Cruzis" Livry-Louvercy Louvois
+        Minaucourt-le-Mesnil Montflambert Montigny Moussy
+        Neuville-en-Châlois
+        Passy-Grigny 
+        Raday
+        "Saint Hilaire" "Saint Imoges" "Saint Jean sur Tourbe" Seigneur-Klou Souain-Perthes Suippes
+        Tauxières-Mutry Toubiotte
+        Vadenay Valmy Vaudemange Vraux 
+        Wargemoulin
+   		"Val de Loire" Sologne Pays-Fort Sancerre Septaine 
+		Châteauroux Issoudun Boischaut Indre Cher Châtre Brenne 
+}
+
+leader_names = {
+        d'Alenduy d'Artigoity d'Arzillières
+        "de Balatier" "de Balayne" "de Baleine" "Beaufort de Pothemont" "de Beaurepaire" "Bellot de Ferreux" "de Brancourt" "de Brienne" "de Broye" "de Bruce"
+        "Cauchon de Vercinay" "de Charbogne" "de Chassy" "du Châtelet" "de Châtillon" Clausse "de Coucy" "de Courtenay" "de Crécy" "de Croy"
+        d'Espinoy
+        "de Failly"
+        "de Grandpré" "de Grignon"
+        "du Hamel" "de Houx"
+        "de Joigny" "de Joinville"
+        "de La Fontaine" "de Lalaing" "de Lantages" "de Lavisé" "de Lezines" "de Loménie"
+        Pérignon "de Plancy" "du Prat"
+        "de Rethel" "de Roucy" "de Rumigny"
+        "de Saint Belin" "de Saint Cheron" "de Sergine"
+        "de Vauclerois" "de Vergy" "de Verrières" "de Villeprouvée"
+}
+
+army_names = {
+    "Armée Ducale" "Armée du Berry" "Armée de Bourges" "Armée de Sologne" "Armée de l'Indre" "Armée du Cher" "Armée de $PROVINCE$" 
+}
+
+fleet_names = {
+	"Flotte Ducale" "Flotte bérichonne" "$PROVINCE$ Flotte" 
+}

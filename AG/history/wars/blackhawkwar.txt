@@ -1,0 +1,198 @@
+name = "Guerre de Black Hawk"
+
+#casus_belli
+war_goal = {
+	type = superiority_horde
+	casus_belli = cb_horde_vs_civ
+}
+
+
+1832.4.6 = {
+	add_attacker = FOX # Black Hawk dirigeait le peuple sauk et fox
+	add_defender = USA
+}
+
+1832.5.14 = {
+	battle = {
+		name = "Stillman's Run"
+		location = 915
+		attacker = {
+			commander = "Black Hawk"
+			cavalry = 50
+			losses = 1	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "Isaiah Stillman"
+			cavalry = 275
+			losses = 5	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1832.5.21 = {
+	battle = {
+		name = "Indian Creek"
+		location = 915
+		attacker = {
+			commander = "Black Hawk"
+			cavalry = 30
+			losses = 1	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "John Dement"
+			cavalry = 22
+			losses = 50	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1832.6.16 = {
+	battle = {
+		name = "Horseshoe Bend"
+		location = 915
+		attacker = {
+			commander = "Black Hawk"
+			cavalry = 11
+			losses = 100	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "Henry Dodge"
+			cavalry = 30
+			losses = 20	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1832.6.17 = {
+	battle = {
+		name = "Kellogg's Grove"
+		location = 913
+		attacker = {
+			commander = "Black Hawk"
+			cavalry = 80
+			losses = 20	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "John Dement"
+			cavalry = 300
+			losses = 10	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1832.6.20 = {
+	battle = {
+		name = "Fort Blue Mounds"
+		location = 913
+		attacker = {
+			commander = "Ho-Chunk"
+			cavalry = 100
+			losses = 10	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "John Dement"
+			cavalry = 300
+			losses = 20	# percent
+			country = USA
+		}
+		result = win
+	}
+}
+
+1832.6.24 = {
+	battle = {
+		name = "Apple River Fort"
+		location = 915
+		attacker = {
+			commander = "Black Hawk"
+			cavalry = 200
+			losses = 10	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "Clack Stone"
+			cavalry = 25
+			losses = 15	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1832.7.28 = {
+	battle = {
+		name = "Wisconsin Height"
+		location = 913
+		attacker = {
+			commander = "Black Hawk"
+			cavalry = 300
+			losses = 10	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "James Henry"
+			infantry = 750
+			losses = 5	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1832.8.1 = {
+	battle = {
+		name = "Mississipi river"
+		location = 914
+		attacker = {
+			commander = "Black Hawk"
+			cavalry = 700
+			losses = 10	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "James Henry"
+			infantry = 750
+			losses = 1	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1832.8.2 = {
+	battle = {
+		name = "Bad Axe River"
+		location = 913
+		attacker = {
+			commander = "Black Hawk"
+			cavalry = 600
+			losses = 50	# percent
+			country = FOX
+		}
+		defender = {
+			commander = "Henry Atkinson"
+			cavalry = 1300
+			losses = 1	# percent
+			country = USA
+		}
+		result = loss
+	}
+}
+
+1832.8.27  = {
+	rem_attacker = FOX
+	rem_defender = USA
+}

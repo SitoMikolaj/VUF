@@ -1,0 +1,17 @@
+name = "Guerre d'Hatakeyama"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1553.1.1 = {
+	add_attacker = HTK
+	add_defender = HSK
+}
+
+1559.1.1 = {
+	rem_attacker = HTK
+	rem_defender = HSK
+}

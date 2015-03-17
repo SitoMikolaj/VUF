@@ -1,0 +1,17 @@
+name = "Campagne de Miura"
+
+#casus_belli
+war_goal = {
+	type = annex_country
+	casus_belli = cb_independent_daimyo_annex
+}
+
+1512.1.1 = {
+	add_attacker = HJO
+	add_defender = UES
+	}
+	
+1516.1.1 = {
+	rem_attacker = HJO
+	rem_defender = UES
+	}

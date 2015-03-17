@@ -1,0 +1,110 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = {  31 49 138 }
+
+historical_idea_groups = {
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	muslim_cavalry_archers
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Qara Yülüq Osman #0" = 10
+	"Ali #0" = 20
+	"Yaqûb #0" = 20
+	"Cihangir #0" = 20
+	"Uzun Hasan #0" = 20
+	"Halîl #0" = 20
+	"Baysungur #0" = 20
+	"Rüstem #0" = 20
+	"Ahmed Gövde #0" = 20
+	"Murâd #0" = 20
+	"Elvend Mehmed #0" = 20
+	"Hamza #0" = 10
+	"Tur Ali #0" = 10
+	"Fakhr ad-Dîn Qutlu #0" = 10
+	"Hasan #0" = 10
+	"Qara Hasan #0" = 10
+	"Muhammad Mirzâ #1" = 20
+	
+	"Salwah #1" = -1
+}
+
+leader_names = {
+	Ali
+	Ahmed 
+	Cihangir
+	Elvend
+	"Fakhr ad-Dîn"
+	Gövde
+	Halil
+	Hamza
+	Hasan
+	Mirzâ
+	Muhammad
+	Murâd
+	Osman
+	Qara
+	Qutlu
+	Rüstem
+	Uzun
+	Yaqûb
+	Yülüq
+}
+
+ship_names = {
+	"Qara Yülük" Hamza Ali "Tur Ali" "Kutlu Beg" 
+	"Kara Osman" "Diyar Bakr" Akkoyunlular Dicle "Van Gölu" Kurtalan Kura 
+	"Qareh Su" Ahar Talkheh Murat Buyukzap
+	Ahlat
+	Ardabîl
+	Basra
+	Bayburt
+	Bayîndîr
+	"Diyar Baqr"
+	Erzincan
+	Esfahan
+	"Fakhr ad-Dîn Qutlu"
+	Gilan
+	Hamadan
+	Hasan
+	Hazar
+	Karbala
+	Mardin
+	Musul
+	"Qara Yülüq"
+	Sirvan
+	Sultan
+	Urfa
+	Van
+	Yazd
+}
+
+army_names = {
+	"Akgoyunly Ordusu" "Malak al-Molook Ordusu" "Oghuz Ordusu" "Bayandur Ordusu" "Khadiv Ordusu" "Jamshid Shawkat Ordusu" "$PROVINCE$ Ordusu"
+}
+
+fleet_names = {
+	"Akgoyunly Donanmasî" "Akdeniz Donanmasî" "Adalar Donanmasî" "Olüdeniz Donanmasî" "Karadeniz Donanmasî" "Oghuz Donanmasî" "Bayandur Donanmasî" "Jamshid Shawkat Donanmasî"
+}

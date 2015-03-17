@@ -1,0 +1,117 @@
+#Novgorod
+
+graphical_culture = easterngfx
+
+color = { 97  126  37 }
+
+revolutionary_colors = { 8  13  0 } #Colors of Novgorod
+
+historical_idea_groups = {
+	administrative_ideas
+	plutocracy_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Svyatoslav #7" = 20
+	"Yaroslav #6" = 20
+	"Rotislav #4" = 20
+	"Dmitriy #3" = 20
+	"Vsevolod #3" = 20
+	"Vasiliy #2" = 20
+	"Yuriy #2" = 20
+	"Aleksandr #1" = 20
+	"Andrei #1" = 20
+	"Fyodor #1" = 20
+	"Mikhail #1" = 20
+	"Mstislav #6" = 15
+	"Yaropolk #3" = 15
+	"Roman #2" = 15
+	"Rurik #2" = 15
+	"Konstantin #1" = 15
+	"David #2" = 10
+	"Afanasiy #0" = 2
+	"Akim #0" = 2
+	"Alexei #0" = 2
+	"Anatoliy #0" = 2
+	"Arkadiy #0" = 2
+	"Boris #0" = 2
+	"Daniil #0" = 2
+	"Dorofey #0" = 2
+	"Feodosiy #0" = 2
+	"Gavriil #0" = 2
+	"Iosif #0" = 2
+	"Ivan #0" = 2
+	"Matveiy #0" = 2
+	"Nazariy #0" = 2
+	"Nikifor #0" = 2
+	"Oleg #0" = 2
+	"Prokopiy #0" = 2
+	"Radomir #0" = 2
+	"Saveliy #0" = 2
+	"Semen #0" = 2
+	"Sergei #0" = 2
+	"Valeriy #0" = 2
+	"Yevgeniy #0" = 2
+	
+	"Anastasiya #0" = -1
+	"Zlata #0" = -1
+	"Marfa #0" = -1
+}
+
+leader_names = { 
+	Barashev Baryatinsky Belevsky
+	Dolgorukov
+	Gorensky Gorchakov
+	Kashin Kozelsky Koninsky Kurlyatev Khotetovsky
+	Lykov
+	Massalski Mikula
+	Nozdrevaty Nagiye
+	Obolensky
+	Posenya
+	Ryumin
+	Spyachy Shestov Strigin Spashsky Sorsky
+	Tokmakov Torussky Trostensky Turenin	Tufyakin  
+	Vorotynsky Volkonsky
+	Yeletsky
+	Zventsov Zhiznomir
+}
+
+ship_names = {
+	"Staraya Russa" Ladoga Torzhok Oreshek
+	"Alexander Nevsky" Pestrovo Valdai Kholm
+	Borovichi Luga Msta "Ozero I'lmen" Lovat
+	Polist Redja Pola Visera Volchov Selon Polomet
+}
+
+army_names = {
+	"Novgorodskaja Armijia" "Respublikaja Armija" "Knyaz Novgorodskii Armija" "Tys'atskys Armija" "Narodnoe Opolcheniye" "Strel'tsy $PROVINCE$"	
+}
+
+fleet_names = {
+	"Riespoublik Flot" "Novgorodskaja Flot" "$PROVINCE$ Flot"
+}

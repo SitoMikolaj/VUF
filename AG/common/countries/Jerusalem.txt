@@ -1,0 +1,100 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 78  75  39 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+      "Godefroy #1" = 10
+	"Baudouin #5" = 50
+	"David #1" = 30
+	"Solomon #1" = 30
+	"Israel #0" = 5
+	"Simon #0" = 30
+	"Mélisende #1" = -10
+	"Sibylle #1" = -10
+	"Amaury #1" = 10
+	"Foulque #1" = 10
+	"Raymond #1" = 10
+	"Guy #1" = 10
+	"Isabel #2" = -10
+	"Conrad #2" = 5
+	"Frédéric #0" = 5
+	"Richard #0" = 5
+	"Philippe #0" = 5
+	"Marie #1" = -5
+	"Balian #1" = 5
+}
+
+ship_names = {
+	Solomon David Israel Naomi  
+	"Judas Maccabée" "Hérode le Grand" "Saint Paul" "Saint Pierre" "Bar-Kokhba"
+	"Godefroi de Bouillon" "Bohémond Ier" "Adhémar de Monteuil" 
+	Baudoin "Richard Cœur de Lion"
+	Aaron Abdias Abel Abraham Adam Amos 
+	Daniel 
+	Elie Elisée Esaie Esdras Eve Ezéchiel 
+	Gédéon 
+	Isaac Ismaël  
+	Jacob Japhet Jérémie Job Joël Jonas Josué 
+	Laban Léa Lot 
+	Malachie Michée Moïse 
+	Nahoum Néhémie Noé 
+	Osée 
+	Rachel Rébécca Ruth 
+	Samson Samuël Sara Saül Sem Seth  
+	Zaccharie 
+}
+
+leader_names = { 
+	Bragadin 
+	Crispo
+	Doria	
+	Fadrigue
+	Lusignans
+	Melissinos 
+	Plethon
+	Rendis
+	Saraceno 
+	Tocco
+	Maxwell
+	Duncan Douglas Selkirk
+	Schrüder Sauerzapff Minucci Sulerzycki Stichsenstein Hagedorn Arenberg
+	"de La Barthe" "de La Ferrandie" "de La Galissonière" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lhéry" "de Luynes"
+	"di Paesana" "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli "dalla Rosa" "della Rovere"
+}
+
+army_names = {
+	"Ost Royale" "Ost du Christ" "Ost d'Antioche" "Ost d'Édesse" "Ost de Tripoli" "Ost d'Acre" "Ost de Jaffa" "Ost des Templiers" "Ost des Hospitaliers" "Ost de Saint-Lazare" "Ost du Saint-Sépulcre" "Ost de Saint-Thomas" "Ost de $PROVINCE$"
+}
+
+fleet_names = {
+	"Marine Royale" "Marine du Christ" "Flotte de Jérusalem" "Flotte des Croisés" "Escadre des Templiers" "Escadre des Hospitaliers" "Escadre du Saint Sépulcre" "Eescadre de $PROVINCE$"
+}

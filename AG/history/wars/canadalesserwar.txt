@@ -1,0 +1,138 @@
+name = "Rébellion des Patriotes"
+
+#casus_belli
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_colonial_independance_war
+}
+
+
+1837.10.23 = {
+	add_attacker = QUE
+	add_defender = GBR
+}
+
+1837.11.23 = {
+	battle = {
+		name = "Saint-Denis"
+		location = 993
+		attacker = {
+			commander = "Wolfred Nelson"
+			infantry = 800
+			losses = 2	# percent			
+			country = QUE
+		}
+		defender = {
+			commander = "Charles Stephen Gore"
+			infantry = 400
+			losses = 58	# percent			
+			country = GBR
+		}
+		result = win
+	}
+}
+
+1837.11.25 = {
+	battle = {
+		name = "Saint-Charles"
+		location = 993
+		attacker = {
+			commander = "Thomas Storrow Brown"
+			infantry = 200
+			losses = 65	# percent			
+			country = QUE
+		}
+		defender = {
+			commander = "George Wetherall"
+			infantry = 420
+			losses = 5	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1837.11.25 = {
+	battle = {
+		name = "Saint-Charles"
+		location = 990
+		attacker = {
+			commander = "Thomas Storrow Brown"
+			infantry = 200
+			losses = 65	# percent			
+			country = QUE
+		}
+		defender = {
+			commander = "George Wetherall"
+			infantry = 420
+			losses = 5	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1837.12.14 = {
+	battle = {
+		name = "Saint-Eustache"
+		location = 993
+		attacker = {
+			commander = "Jean-Olivier Chénier"
+			infantry = 200
+			losses = 95	# percent			
+			country = QUE
+		}
+		defender = {
+			commander = "John Colborne"
+			infantry = 1480
+			losses = 1	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1838.11.7 = {
+	battle = {
+		name = "Lacolle"
+		location = 993
+		attacker = {
+			commander = "Ferdinand-Alphonse Oklowski"
+			infantry = 170
+			losses = 5	# percent			
+			country = QUE
+		}
+		defender = {
+			commander = "John Scriver"
+			infantry = 480
+			losses = 1	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1838.11.9 = {
+	battle = {
+		name = "Odelltown"
+		location = 990
+		attacker = {
+			commander = "Robert Nelson"
+			infantry = 600
+			losses = 5	# percent			
+			country = QUE
+		}
+		defender = {
+			commander = "Lewis Odell"
+			infantry = 1000
+			losses = 1	# percent			
+			country = GBR
+		}
+		result = loss
+	}
+}
+
+1838.11.9 = {
+	rem_attacker = QUE
+	rem_defender = GBR
+}

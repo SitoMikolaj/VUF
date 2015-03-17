@@ -1,0 +1,113 @@
+#Norway 
+
+graphical_culture = westerngfx
+
+color = { 117  165  188 }
+
+historical_score = 25
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	aristocracy_ideas
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Håkon #6" = 40
+	"Olav #4" = 40
+	"Erik #2" = 20
+	"Christoffer #0" = 20
+	"Magnus #7" = 10
+	"Harald #4" = 10
+	"Margaret #0" = -10
+	"Inge #2" = 5
+	"Sigurd #2" = 5
+	"Aksel #0" = 2
+	"Alf #0" = 2
+	"Anders #0" = 2
+	"Ansgard #0" = 2
+	"Arvid #0" = 2
+	"Bernt #0" = 2
+	"Birger #0" = 2
+	"Bjørn #0" = 2
+	"Daniel #0" = 2
+	"Edvard #0" = 2
+	"Eilert #0" = 2
+	"Einar #0" = 2
+	"Elias #0" = 2
+	"Esben #0" = 2
+	"Folke #0" = 2
+	"Gunnar #0" = 2
+	"Kasper #0" = 2
+	"Kennet #0" = 2
+	"Knut #0" = 2
+	"Ludvig #0" = 2
+	"Mats #0" = 2
+	"Mikael #0" = 2
+	"Njåld #0" = 2
+	"Njord #0" = 2
+	"Oddmund #0" = 2
+	"Peder #0" = 2
+	"Rikard #0" = 2
+	"Simon #0" = 2
+	"Søren #0" = 2
+	"Tollak #0" = 2
+	"Torhild #0" = 2
+}
+
+leader_names = {
+	Arnesson Amundsen Ascanius
+	Bjelke Bolt 
+	Egilsson Eriksson Egede Engelbriktsson
+	Haraldsson Holberg
+	Larsson Leifsson 
+	Magnusson 
+	Nansen Norheim 
+	Olavsson 
+	Sverresson Sigurdsson 
+	Torgeirsson Torsson 
+}
+
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+
+army_names = {
+	"Haeren Kongelig" "Haeren Styrkar" "Haeren Heimevernets" "Haeren Norske" "Haeren Leidang" "Haeren Fylke" "Haeren Nord-Noreg" "Haeren Sørlandet" "Haeren Trøndelag" "Haeren Vestlandet" "Haeren Ostlandet" 
+}
+
+fleet_names = {
+	"Kongelig Marine" "Norske Marine" "Kongelige Vakttjeneste" "$PROVINCE$ Vakttjeneste"
+}

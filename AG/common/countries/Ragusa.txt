@@ -1,0 +1,121 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 160  82  128 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+leader_names = {
+	Bona Bosdari Boshko
+	Caboga Cerva 
+	Ghetaldi Giorgi Gondola Gozze Gradic  Gundulic
+	Luccari 
+	Pozza 
+	Reesti
+	Saraca Sorgo
+	Tudisi 
+	Vucic
+	Zamagna Zlataric
+}
+
+monarch_names = {
+	"Francesco #0" = 20
+	"Giovanni #0" = 20
+	"Segismondo #0" = 20
+	"Matteo #0" = 15
+	"Biagio #0" = 10
+	"Francesco Giuseppe #0" = 10
+	"Giulio #0" = 10
+	"Hyeronimus #0" = 10
+	"Niccolò #0" = 10
+	"Rogerio #0" = 10
+	"Vittorio #0" = 10
+	"Adriano #0" = 2
+	"Alessandro #0" = 2
+	"Amedeo #0" = 2
+	"Antonio #0" = 2
+	"Cesare #0" = 2
+	"Cipriano #0" = 2
+	"Danilo #0" = 2
+	"Demetrio #0" = 2
+	"Domenico #0" = 2
+	"Edoardo #0" = 2
+	"Ercole #0" = 2
+	"Gaetano #0" = 2
+	"Gaspare #0" = 2
+	"Giacomo #0" = 2
+	"Giorgio #0" = 2
+	"Girolamo #0" = 2
+	"Giuseppe #0" = 2
+	"Guido #0" = 2
+	"Ladislao #0" = 2
+	"Ludovico #0" = 2
+	"Marcello #0" = 2
+	"Mario #0" = 2
+	"Nero #0" = 2
+	"Isidoro #0" = 2
+	"Ottavio #0" = 2
+	"Orazio #0" = 2
+	"Paolo #0" = 2
+	"Renato #0" = 2
+	"Timoteo #0" = 2
+	
+	"Nedeljka #0" = -1
+	"Tamara #0" = -1
+	"Vedrana #0" = -1
+}
+
+ship_names = {
+	Ragusa
+	Dubac
+	Rozat
+	Komlac
+	Mokosica
+	Kolocap
+	Zanton
+	Orasac
+	Gromaca
+	Trsteno
+	Kupari
+	"Santa Maria di Montenegro"
+	"Giovanni Battista"
+	"Santa Maria di Gracia"
+	"La Trinita"
+	"Nostra Signiora di Loreto"
+}
+
+army_names = {
+	"Republika Armata" "Dubrovacka Armata" "Dux Armata" "Rettore Armata"
+}
+
+fleet_names = {
+	"Ragusa Classis" "Classis $PROVINCE$"
+}

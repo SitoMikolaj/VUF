@@ -1,0 +1,171 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 229  222  20 }
+
+revolutionary_colors = { 5  8  13 } #Inspired by the Five Color Flag
+
+historical_score = 350
+
+historical_idea_groups = {
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	expansion_ideas
+	humanist_ideas
+	quantity_ideas
+	influence_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Cungshan #0" = 10
+	"Sibeoci Fiyanggû #0" = 10	
+	"Fuman #0" = 10
+	"Taksi #0" = 10
+	"Tianmìng #0" = 10
+	"Tiancong #0" = 10
+	"Shunzhi #0" = 10
+	"Kangxi #0" = 10
+	"Guang'e #0" = 10
+	"Daisan #0" = 10
+	"Nurhaci #0" = 10
+	"Hong Taiji #0" = 10
+	"Dorgon #0" = 10
+	"Yongzheng #0" = 10
+	"Qianlong #0" = 10
+	"Jiaqing #0" = 10
+	"Daoguang #0" = 10
+	"Xianfeng #0" = 10
+	"Tongzhi #0" = 10
+	"Guangxu #0" = 10
+	"Xuantong #0" = 10
+	"Abatai #0" = 10
+	"Ajige #0" = 10
+	"Babutai #0" = 10
+	"Cangsu #0" = 10
+	"Changhua #0" = 10
+	"Changsheng #0" = 10
+	"Chenghu #0" = 10
+	"Cuyen #0" = 10
+	"Fuhui #0" = 10
+	"Fulin #0" = 10
+	"Fupei #0" = 10
+	"Honghui #0" = 10
+	"Hongpan #0" = 10
+	"Hongshi #0" = 10
+	"Hongyan #0" = 10
+	"Jiezhi #0" = 10
+	"Kexi #0" = 10
+	"Lobohoi #0" = 10
+	"Manggultai #0" = 10
+	"Miankai #0" = 10
+	"Mianmu #0" = 10
+	"Mianxin #0" = 10
+	"Qinmin #0" = 10
+	"Qishou #0" = 10
+	"Sayinchahun #0" = 10
+	"Tangguldai #0" = 10
+	"Tong #0" = 10
+	"Wanpu #0" = 10
+	"Xiaoshurui #0" = 10
+	"Xuanye #0" = 10
+	"Yinqi #0" = 10
+	"Yinreng #0" = 10
+	"Yintao #0" = 10
+	"Yinyou #0" = 10
+	"Yongcheng #0" = 10
+	"Yonglu #0" = 10
+	"Yongxuan #0" = 10
+	"Zhong #0" = 10
+	}
+
+leader_names = {
+	"Aisin Gioro" Aihui Arakta Baica Boduri Cemgun Cibukinut Dagiya Donggiya Ecolo Ergi
+	Feiya Futa Gingciri Git Hegiya Heseri Io "Irgen Gioro" Jakuta Jurk Keyere Kuicelik
+	Ledi Lu Moketo Namutu Niohuru Pan Po Rao Ruburi Si Socoro Taicut Tukdun U Ula
+	Wang Wenggit Yan Yehe Amura "Ayan gioro" Asuri "Aha gioro" Akjan Aisin 
+	Borjigin Bayot Bayara Boheri Be Bugirgen Besut Biru Buyaci Bohori Busai
+	Bulca Busa Buhi Bira Botis Borjik Baige Besu Bari
+	Carala Cakcin Cygiya Cui 
+	Daigiya Donggo Dunggiya Dagiya Dorgun Dedure Dukta Duktari
+	Elge Esuri Ertut Fuca Foimo Fiya Fujuri
+	Guwalgiya Gioro Giorca "Gioro Hala" Giorcan Gejile Guwalca Gorlo "Giranggi Warka"
+	Gerungioro Gin Gioroi Gorben Gocir Giri Gour Gijile Guwanggiyara
+	Hitara Hunggoco Hunggo Hoiho Hurhasu Hasara Hulhu "Huk Sahari" Hunggiri
+	Hinggiyan Hushari Hinggiya Han Hurha Hunglo Hoggo Huya Huilo
+	Menu Ilara Itari "Iork Ule" Iokuri "Irgen Baturu" Ituma Ira
+	Joogiya Jalari Janggiya Jangci Jerde Jathe "Jash Uri" Jebe
+	Jugiya Jusu Jinggeri Jaruca Julgen Juge Juru Jot Jodomu 
+	Ki Kerde Kuyala Kocili Karla Kardasu Kubulu
+	Ligiya Laibu Lumburi Lei "Lak Ule" Lubui
+	Magiya Monggori Mu Murcan Monggo Meng Menggoro Murca 
+	Muljire Manja Morci Monggoro Muyan
+	Nara Ningguta Nimaca Namduru Nikiri Nisa Niowanggiya Noyan
+	Nahata Nimaha Nata Naya Namdolu Omoto Oji
+	Sumuru Sakda "Sirin gioro" Sioheri Sartu Semira Sikteri Saca Samargi Sakdaholo 
+	Sanggiya Sitara Sunggiya Sugiya Samara Suigiya Sikteli Sakca Socara Sahajiri
+	Socor Sorgi Sogiya Sorgiya Sigiya Saimire Surtu Seheri Sadara Suru Sikda
+	Tatara Tunggiya Tajagiorca Tokoro Tsanggiya Tomo Tooli Tuseri Tomu Tuktan 
+	Tunggi Tumen Tolote Taicuru Untahe Ujala Urgucan Unuhucin Usin Ulu Usu Uya Undu
+	Urguca Ujaku Unggiot Uncehen Unggirgin Urda Ukuri Ulingga Uksun Usujan Usila Use
+	Wanggiya Weikutu Wei Weigute Were Wase Wangjab Wali Yonoto Yanja Yanggiya Yeher Yanji
+	Yukuri Yunde Yur Yasu
+	Zhu Wu Geng Shang Zheng Zhao Li Shi Liu Guo Yang Qian Ma Gao 
+	Chen Sun Sima Cao Xiao Qi Zu Zhou Huang Bai Qiu Tang Xu Chang 
+	Feng Deng Hua Gu Fei Fu Hu Mei Xue Liao Jin Ye He Lan Du Fang Mao Hao 
+	Kong Jiao Zuo Ding Bao Tan Luo Xie Yuan Qin Ruan Niu Zeng
+	Dong Lin Shen Ouyang Su Yu Ren Chai Xia Mo Dai Jiang Yue Jia Xiong
+	"Ou'yang" "Huangfu" "Dongfang" "Linghu" 
+}
+
+ship_names = {
+	Anhui "Aisin Gioro"
+	Beijing "Bo Qian" "Baochuan" Bei "Bei Song" Bohai Beipan "Bao Jiang" "Bei Lao-ye"
+	Chendo "Chang Jiang" "Cao Xu" "Cheng Ho" Chun Chishui "Chi You" "Can Nü" "Cao Guojiu"
+	"Dantai Mieming" "Da Ming Guo" "Dong Zhou" "Dong Han" "Dong Jin" Dadu Dong "Dong Hai" "Di Jun"
+	Fuzhou "Fu Buji" "Fan Xu" Fuxi Fujian "Feng Meng" Fengtian
+	Gaodi Guilin Guangzhou Guiyang "Gungye Chang" "Gongxi Ai" "Gao Chai" "Gongbo Liao" "Gongxi Chi" "Gongsun Long" Guo Gonggong Gansu Guangdong Guangxi Guizhou Gui Gu Goku "Guan Yin" Guwalgiya "Gong Jin'ou"
+	Huidi Hangzhou "Huang Di" Henan Hubei Hunan "Heilong Jiang" "Huang He" "Hai He" Hongshui He Hainan "Huang Hai" "He Bo" "Heng'e" "Hei Lao-Ye" "Han Xiang" "He Xiangu" Heshen Hata Haixi Hoifa Heilongjiang
+	louchuan
+	Jinan Jin Jiangsu Jiangxi Jialing "Jing Wei" Janggiya "Ji'nan" Jilin
+	"Kong Fuzi" Ku Kunlun "Kua Fu" "Kui Xing" "Kung-fu tzu"
+	"Liang Zhan" Liao Liu Long Lian "Li Tieguai" "Lü Tongbin" "Lan Caihe" Liaoning
+	"Meng Zi" "Min Sun" Ming Magiya Mencius
+	Nanjing Nanchang "Nangong Kuo" "Nan Bei Chao" Nan "Nan Song" "Nán Hai" Nuwa Nanpan Nugua	Niohuru
+	"Qidiao Kai" Qiu Qin "Qin Pi" Qilin
+	"Ran Geng" "Ran Yong" "Ran Ru" Rong
+	"Sima Geng" "Shang Zhu" Sui "San Huang Wudì" Shang "San Guo" "Shi Guó" Shennong Shun Shaohao Shaanxi Shandong Shanxi Sichuan "Shen Nong" "Shou Lao"
+	Taiyuan Tang Taihao Taishan Tunggiya
+	Uya Ula
+	Wendi Wuchang "Wuma Shi" "Wu Dai" Waliuha
+	"Xi'an" "Xijiang" "Xun Zi" Xia "Xi Zhou" "Xi Han" Xin "Xi Jin" "Xi Jiang" Xun Xi "Xi Wang Mu" "Xuan Nü" "Xing Tian" "Xi He" "Xiang Yao" "Xuan Zang" Xinjiang
+	Yai Yunnan "Yan Hui" "Yuan Xian" "Yan Xing" "Yu Ruo" "Yan Wuyao" "Yang Guang" Yuan "Yu Di" Yao Yandi "Yangzi Jiang" You Yong Yu "Yan Di" Yi "Ying Long" "Yue Fei" Yehe "Yan Yan"
+	"Zeng He" Zhaodi Zhangdi Ziyu Zilu Zigong Zixia Zizhang "Zeng Shen" "Zeng Dian" Zhou Zhan Zhurong Zhuanxu Zhejiang Zhili "Zhu Jiang" Zuo "Zao Jun" "Zhongli Quan" "Zhang Guolao" "Zi-Yu" "Zi-Lu" "Zi-Wo" "Zi-Gong" "Zi-Xia" "Zi-Zhang"
+}
+
+army_names = {
+	"Zhenghuangqi" "Xianghuangqi" "Zhengbaiqi" "Xiangbaiqi"	"Zhenghongqi" 	"Xianghongqi" "Zhenglanqi" "Xianglanqi" "Lüying"  "Shi Wei" "Shi Jun" "Zhongguo Jun" "Qing Cháo Jun" "Pi Xiu Jun" "Xiong Shi" "San Jun" "Zhong Jun" "Bu Dui Jun" "Bing Tuan Jun" "Lu Jun" "Dui Jun" "Biao Kè Jun" "Hou Wei Jun" "Liu Shou Jun" "Yi Jun" "Er Jun" "Sì Jun" "Wu Jun" "Liù Jun" "Qi Jun" "Ba Jun" "Jiu Jun" "$PROVINCE$ Jun"
+}
+
+fleet_names = {
+	"Shi Hai Jun" "Hua xia Hai Jun" "Zhong Hua Hai Jun" "Zhong guo Hai Jun" "Jian dui" "Chuan dui" "Jin Hai Jun" "Bo Hai Jun" "$PROVINCE$ Hai Jun"
+}
