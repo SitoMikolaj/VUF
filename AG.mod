@@ -1,6 +1,6 @@
 name="Ad Gloriam"
 path="mod/AG"
-supported_version="1.11"
+supported_version="1.12"
 tags=
 {
  "Historical"

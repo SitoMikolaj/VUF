@@ -1,6 +1,6 @@
 name="J'ai failli attendre"
 path="mod/JFA"
-supported_version="1.11"
+supported_version="1.12"
 tags=
 {
  "Historical"
