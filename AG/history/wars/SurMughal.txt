@@ -1,5 +1,4 @@
 name = "Campagne de Sher Shâh Sûrî sur Humâyûn"
-#casus_belli = cb_conquest
 war_goal = {
 	type = superiority_punitive
 	casus_belli = cb_super_badboy

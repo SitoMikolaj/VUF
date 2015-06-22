@@ -9,8 +9,9 @@ religion = totemism
 capital = "Salish"
 trade_goods = fur
 hre = no
-base_tax = 3
-manpower = 1
+base_tax = 3 
+base_production = 1
+base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 6 
@@ -18,17 +19,13 @@ discovered_by = north_american
 
 1543.1.1 = { discovered_by = SPA } # Sighted by Spanish explorers
 1741.1.1 = { discovered_by = RUS } # Vitus Bering & Aleksei Chirikov
-1800.1.1 = { citysize = 1644 }
 1811.1.1 = {	owner = USA
 		controller = USA
-		citysize = 350
 		trade_goods = fur
 		religion = protestant
 		culture = american } #Fort Okanogan
 1814.12.24 = {	owner = GBR
 		controller = GBR
-		citysize = 200
 		culture = english
-		religion = protestant
 } # British control after the War of 1812
 1815.1.1 = { add_core = GBR }

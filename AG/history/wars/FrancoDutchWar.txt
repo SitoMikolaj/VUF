@@ -1,5 +1,4 @@
 name = "Guerre de Hollande"
-#casus_belli = cb_dishonored_call
 war_goal = {
 	type = superiority_insult
 	casus_belli = cb_dishonored_call
@@ -32,7 +31,7 @@ war_goal = {
 			losses = 1		# percent 
 			country = NED
 		} 
-		result = loss
+		result = no
 	} 
 }
 
@@ -55,7 +54,7 @@ war_goal = {
 			losses = 20		# percent 
 			country = NED
 		} 
-		result = win
+		result = yes
 	} 
 } 
 
@@ -97,7 +96,7 @@ war_goal = {
 			losses = 18		# percent 
 			country = NED
 		} 
-		result = win
+		result = yes
 	} 
 }
 
@@ -126,7 +125,7 @@ war_goal = {
 			losses = 9		# percent 
 			country = BRA
 		} 
-		result = loss
+		result = no
 	} 
 }
 
@@ -148,7 +147,7 @@ war_goal = {
 			losses = 3		# percent 
 			country = DAN
 		} 
-		result = win 
+		result = yes 
 	} 
 }
 
@@ -170,7 +169,7 @@ war_goal = {
 			losses = 55		# percent 
 			country = DAN
 		} 
-		result = win 
+		result = yes 
 	} 
 }
 
@@ -192,7 +191,7 @@ war_goal = {
 			losses = 21		# percent 
 			country = DAN
 		} 
-		result = win
+		result = yes
 	} 
 }
 

@@ -5,38 +5,30 @@ controller = MNS
 culture = irish
 religion = catholic
 hre = no
-base_tax = 4
+base_tax = 4 
+base_production = 4
 trade_goods = fish
-manpower = 2
+base_manpower = 2
 capital = "Cork"
-citysize = 1800
+is_city = yes
 add_core = MNS
-fort1 = yes
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1450.1.1  = { citysize = 2000 }
 1541.6.1 = { owner = IRE controller = IRE add_core = IRE add_core = ENG } # Henri VIII Roi d'Irlande
 1569.6.1   = { revolt = { type = noble_rebels size = 1 name = "Gerald Fitzgerald" } controller = REB } # Rébellion des Géraldines de Desmond
 1573.2.23 = { revolt = {} controller = IRE } 
 1579.7.18 = { revolt = { type = noble_rebels size = 1 name = "Fitzgmaurice" } controller = REB } # Rébellion des Géraldines de Desmond
 1583.11.2 = { revolt = {} controller = IRE } 
 1595.8.1   = { revolt = { type = nationalist_rebels size = 0 name = "Révolte d'Hugh O'Neill" } controller = REB }
-1600.1.1  = { citysize = 2000 }
 1601.8.1 = { revolt = {} controller = IRE } # Fin de la "Guerre de 9 ans" en Munster
 1641.10.22 = { unrest = 15 } # Confédération irlandaise
 1642.6.7 = { unrest = 0 } # Indépendance proclamée, écrasée par cromwell en 1650.6.21
-1655.1.1  = { fort2 = yes }
-1670.1.1  = { citysize = 10000 }
-1675.1.1  = { courthouse = yes } # Estimated
 1689.3.12 = { revolt = { type = nationalist_rebels size = 1 name = "James II Stuart" } controller = REB } # James II Lands in Ireland
 1690.9.15 = { revolt = {} controller = IRE }
-1700.1.1  = { citysize = 25000 marketplace = yes } # Marketplace Estimated
 1707.5.12 = {	add_core = GBR remove_core = ENG } # Acte d'Union avec l'Écosse
-1750.1.1  = { citysize = 58000 }
 1798.6.23 = { revolt = { type = nationalist_rebels size = 2 name = "Cumann na nÉireannach Aontaithe" } controller = REB } # Republic of Connaught
 1798.9.8  = { revolt = {} controller = IRE }
-1800.1.1  = { citysize = 75000 }
 1800.8.1 = { owner = GBR controller = GBR } # Acte d'Union avec l'Irlande

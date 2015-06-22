@@ -1,5 +1,4 @@
 name = "Révolte de Sten Sture le Vieil"
-#casus_belli = cb_independence_war
 war_goal = {
 	type = defend_capital_independence
 	casus_belli = cb_independence_war

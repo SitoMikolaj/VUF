@@ -1,15 +1,8 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = 1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = lombard
+primary_culture = romagnan
 capital = 106	# Modena
 fixed_capital = 106 # Cannot move capital away from this province & no power cost to move to it
 
@@ -140,6 +133,8 @@ fixed_capital = 106 # Cannot move capital away from this province & no power cos
 	}
 }
 
+1662.7.6 = { government = absolute_monarchy }
+
 1674.3.6 = {
 	monarch = {
 		name = "Francesco II"
@@ -228,7 +223,9 @@ fixed_capital = 106 # Cannot move capital away from this province & no power cos
 	}
 }
 
-1796.10.16 = {
+1796.10.16 = { government = constitutional_republic }
+
+1796.12.28 = {
 	monarch = {
 		name = "(Repubblica Cispadana)"
 		adm = 2
@@ -236,8 +233,9 @@ fixed_capital = 106 # Cannot move capital away from this province & no power cos
 		mil = 0
 		regent = yes
 	}
-	 government = constitutional_republic
 }
+
+1806.12.25 = { government = enlightened_despotism }
 
 1806.12.25 = {
 	monarch = {
@@ -248,5 +246,4 @@ fixed_capital = 106 # Cannot move capital away from this province & no power cos
 		dip = 0
 		mil = 1
 	}
-	government = feudal_duchy
 }

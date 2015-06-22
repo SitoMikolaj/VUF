@@ -1,7 +1,8 @@
-government = administrative_republic
-mercantilism = 0.2
+government = imperial_city
+government_rank = 1
+mercantilism = 0.25
 technology_group = western
-primary_culture = bavarian
+primary_culture = franconian
 religion = catholic
 capital = 67 # Nürnberg
 fixed_capital = 67 # Cannot move capital away from this province & no power cost to move to it

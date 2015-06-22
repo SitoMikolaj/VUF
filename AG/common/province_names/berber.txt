@@ -2,4 +2,3 @@
 339 = "Tamurt Leqbayel" 
 354 = "Trables"
 337 = "Wehran"
-2453 = "Syphax"

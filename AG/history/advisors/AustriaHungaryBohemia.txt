@@ -401,16 +401,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3319
-	name = "Elizabeth B·thory" #Infamous mistress of Cachtice Castle. The Blood Countess
-	location = 129 #Krain
-	skill = 2
-	type = spymaster
-	date = 1580.1.1 #20 years old
-	death_date = 1614.8.21 #died
-}
-
-advisor = {
 	advisor_id = 147
 	name = "Wolfgang Rumpf von Wullroﬂ" #chief minister and long-time companion of Rudolf II 
 	location = 134 #Wien
@@ -513,7 +503,7 @@ advisor = {
 advisor = {
 	advisor_id = 157
 	name = "Guillaume Lamormain" #Jesuit priest, confessor of Ferdinand II and instrumental in the conspiracy against Wallenstein
-	location = 266 #Bohemia
+	location = 153 #Pecs
 	skill = 2
 	type = spymaster
 	date = 1605.1.1 #31 years old, became priest
@@ -592,16 +582,6 @@ advisor = {
 	type = artist  
 	date = 1646.10.11 #30 years old
 	death_date = 1664.7.16 #died
-}
-
-advisor = {
-	advisor_id = 3320
-	name = "Katharina Galler" #Katharina Elisabeth Freifrau von Galler. Freewoman and Heiress
-	location = 132 #Steiermark
-	skill = 1
-	type = treasurer
-	date = 1648.1.1 #41 years old
-	death_date = 1672.2.12 #died
 }
 
 advisor = {

@@ -1,13 +1,6 @@
-government = feudal_county
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = 0
-#serfdom_freesubjects = -4
-primary_culture = rheinlaender
+government = feudal_monarchy
+government_rank = 1
+primary_culture = hessian
 religion = catholic
 elector = yes
 technology_group = western
@@ -181,8 +174,6 @@ capital = 77	# Pfalz
 
 1481.1.1 = { leader = {	name = "Franz von Sickingen"	type = general	rank = 0	fire = 2	shock = 3	manuever = 2	siege = 3	death_date = 1523.5.7 } }
 
-1505.1.1 = { government = feudal_duchy }
-
 1508.2.27 = {
 	monarch = {
 		name = "Ludwig V"
@@ -221,6 +212,7 @@ capital = 77	# Pfalz
 		mil = 0
 	}
 }
+
 
 1544.3.6 = {
 	monarch = {
@@ -409,9 +401,10 @@ capital = 77	# Pfalz
 
 1621.1.1 = { elector = no leave_league = protestant }
 
+
 # Maximilian of Bavaria personal union
 
-1648.1.1 = { elector = yes }
+1648.10.25 = { elector = yes }
 
 1648.10.25 = {
 	monarch = {

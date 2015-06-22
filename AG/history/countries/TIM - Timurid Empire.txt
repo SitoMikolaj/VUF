@@ -1,18 +1,10 @@
 #######################################
 # Timurid Empire
 #######################################
-government = steppe_horde
-#aristocracy_plutocracy = -4
-#centralization_decentralization = 5
-#innovative_narrowminded = 2
-mercantilism = 0.1
-#offensive_defensive = -1
-#land_naval = -1
-#quality_quantity = 3
-#serfdom_freesubjects = -5
 technology_group = nomad_group
 primary_culture = uzbehk
 religion = sunni
+government = steppe_horde
 capital = 454 # Samarkand
 historical_rival = MAM
 historical_rival = TUR
@@ -241,7 +233,7 @@ historical_rival = TUR
 
 1453.1.1 = { set_country_flag = total_war_series set_country_flag = total_war }
 
-1458.12.22 = { capital = 446 } # Herat
+1458.12.23 = { capital = 446 } # Herat
 
 # Timurid dynasty in Samarkand
 

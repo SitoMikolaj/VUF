@@ -1,17 +1,8 @@
 government = feudal_monarchy
-#aristocracy_plutocracy = -4
-#centralization_decentralization = 3
-#innovative_narrowminded = -1
-mercantilism = 0.1
-#offensive_defensive = -2
-#land_naval = -2
-#quality_quantity = -1
-#serfdom_freesubjects = -2
 primary_culture = cosmopolitan_french
 culture_group_union = french
 religion = catholic
 technology_group = western
-historical_rival = BUR
 capital = 183 # Paris
 national_focus = DIP
 
@@ -213,6 +204,8 @@ national_focus = DIP
 		mil = 6
 	}
 }
+
+1475.8.29 = { set_country_flag = had_end_of_HYW_france }
 
 1477.1.6 = { add_accepted_culture = burgundian }
 
@@ -748,8 +741,6 @@ national_focus = DIP
 
 1654.1.1 = { leader = {	name = "Médard des Groseilliers"	type = conquistador	rank = 13	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1669.1.1 } }
 
-1655.1.1 = { leader = {	name = "Bernard"	type = general		rank = 7	fire = 2	shock = 1	manuever = 2	siege = 0	death_date = 1660.6.10 } }
-
 1658.1.1 = { leader = {	name = "Sébastien Le Prestre de Vauban"	type = general		rank = 2	fire = 1	shock = 1	manuever = 1	siege = 6	death_date = 1707.1.1 } }
 
 1660.1.1 = { leader = {	name = "François de Vendôme"	type = admiral		rank = 3	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1669.6.25 } }
@@ -766,7 +757,7 @@ national_focus = DIP
 	}
 }# prise personnel du pouvoir à la mort de Mazarin, sa mère étant écartée
  
-1661.3.9 = { government = enlightened_despotism }
+1661.3.9 = { government = absolute_monarchy }
 
 1661.11.1 = {
 	heir = {
@@ -834,7 +825,7 @@ national_focus = DIP
 
 1689.1.1 = { leader = {	name = "Anne-Jules de Noailles"	type = general		rank = 0	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1708.10.2 } }
 
-1690.1.1 = { leader = {	name = "Anne Costentin de Tourville"	type = admiral		rank = 1	fire = 3	shock = 5	manuever = 4	siege = 0	death_date = 1697.9.20 } }
+1690.1.1 = { leader = {	name = "Anne de Tourville"	type = admiral		rank = 1	fire = 3	shock = 5	manuever = 4	siege = 0	death_date = 1697.9.20 } }
 
 1690.1.1 = { leader = {	name = "Pierre Belain d'Esnambuc"	type = general		rank = 7	fire = 2	shock = 2	manuever = 1	siege = 0	death_date = 1705.6.10 } }
 
@@ -931,6 +922,8 @@ national_focus = DIP
 		mil = 3
 	}
 }
+
+1715.9.1 = { government = enlightened_despotism }
 
 1723.2.15 = {
 	monarch = {
@@ -1046,15 +1039,12 @@ national_focus = DIP
 	}
 }
 
-1775.1.1 = { leader = {	name = "André Masséna"		type = general		rank = 1	fire = 4	shock = 5	manuever = 4	siege = 2 	death_date = 1814.4.6 } }
-
 1776.1.1 = { leader = {	name = "Luc de Guichen"		type = admiral		rank = 3	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1790.1.13 } }
 
 1776.1.1 = { leader = {	name = "Francois de Grasse"	type = admiral		rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1782.4.1 } }
 
 1777.1.1 = { leader = {	name = "Charles Henri d'Estaing"	type = admiral		rank = 1	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1794.4.28 } }
 
-1778.1.1 = { leader = {	name = "Pierre Charles de Villeneuve" type = admiral	rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1805.10.21 } }
 
 1780.1.1 = { leader = {	name = "Jean-Baptiste de Rochambeau"	type = general		rank = 0	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1792.1.1 } }
 
@@ -1084,11 +1074,7 @@ national_focus = DIP
 
 1785.8.1 = { leader = {	name = "Jean-François de La Pérouse"	type = explorer		rank = 10	fire = 1	shock = 1	manuever = 5	siege = 0	death_date = 1788.1.26 } }
 
-1786.1.1 = { mercantilism = 0.1 } # The Eden Agreement
-
 1786.5.5 = { set_country_flag = financial_crisis }
-
-1787.1.1 = { leader = {	name = "Michel Ney"		type = general		rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1815.12.7 } }
 
 1788.12.27 = { set_country_flag = road_to_bankruptcy }
 
@@ -1116,24 +1102,22 @@ national_focus = DIP
 
 1791.1.1 = { leader = {	name = "Bon-Adrien Jeannot de Moncey"	type = general		rank = 1	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1842.4.20 } }
 
-1791.1.1 = { leader = {	name = "Jean Victor Moreau"	type = general		rank = 1	fire = 4	shock = 3	manuever = 4	siege = 0	death_date = 1813.9.2 } }
-
 1791.1.1 = { leader = {	name = "Louis-Alexandre Berthier"	type = general		rank = 1	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1814.4.11 } }
 
 1791.1.1 = { decision = abolish_slavery_act }
-
-1792.1.1 = { leader = {	name = "Nicolas Oudinot"	type = general		rank = 1	fire = 5	shock = 3	manuever = 3	siege = 1	death_date = 1847.9.13 } }
-
-1792.1.1 = { leader = {	name = "Emmanuel Grouchy"	type = general		rank = 1	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1847.5.29 } }
-
-1792.1.1 = { leader = {	name = "Louis-Gabriel Suchet"	type = general		rank = 1	fire = 5	shock = 5	manuever = 4	siege = 2	death_date = 1826.1.23 } }
-
-1792.1.1 = { leader = {	name = "Louis-Nicolas Davout"	type = general		rank = 1	fire = 5	shock = 5	manuever = 5	siege = 2	death_date = 1817.1.1 } }
 
 1792.4.1 = { leader = {	name = "François-Christophe Kellermann"	type = general		rank = 1	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1814.4.6 } }
 
 # 21 septembre : Ière République, Convention Nationale dominée par les Girondins, modérés.
 
+
+1792.9.21 = { government = revolutionary_republic revolution_target = yes government_rank = 3 } # The establishment of the First Republic
+1792.9.21 = { leader = {	name = "André Masséna"		type = general		rank = 1	fire = 4	shock = 5	manuever = 4	siege = 2 	death_date = 1814.4.6 } }
+1792.9.21 = { leader = {	name = "Jean Victor Moreau"	type = general		rank = 1	fire = 4	shock = 3	manuever = 4	siege = 0	death_date = 1813.9.2 } }
+1792.9.21 = { leader = {	name = "Nicolas Oudinot"	type = general		rank = 1	fire = 5	shock = 3	manuever = 3	siege = 1	death_date = 1814.4.6 } }
+1792.9.21 = { leader = {	name = "Emmanuel Grouchy"	type = general		rank = 1	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1847.5.29 } }
+1792.9.21 = { leader = {	name = "Louis-Gabriel Suchet"	type = general		rank = 1	fire = 5	shock = 5	manuever = 4	siege = 2	death_date = 1826.1.23 } }
+1792.9.21 = { leader = {	name = "Louis-Nicolas Davout"	type = general		rank = 1	fire = 5	shock = 5	manuever = 5	siege = 2	death_date = 1817.1.1 } }
 1792.9.21 = {
 	monarch = {
 		name = "La Convention Girondine"
@@ -1141,8 +1125,6 @@ national_focus = DIP
 		dip = 3
 		mil = 0
 	}
-	government = revolutionary_republic
-	revolution_target = yes 	
 }
 
 1793.1.1 = { leader = {	name = "Jean-Baptiste Jourdan"	type = general		rank = 1	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1833.11.23 } }
@@ -1187,13 +1169,17 @@ national_focus = DIP
 	monarch = {
 		name = "Le Directoire"
 		adm = 3
-		dip = 1
+		dip = 0
 		mil = 4
+		regent = yes
 	}
-	government = revolutionary_republic
 }
 
-1797.1.1 = { leader = {	name = "Étienne MacDonald"	type = general		rank = 1	fire = 3	shock = 3	manuever = 4	siege = 1	death_date = 1840.9.7 } }
+1796.1.1 = { leader = {	name = "Pierre Charles Villeneuve" type = admiral	rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1805.10.21 } }
+
+1796.8.1 = { leader = {	name = "Michel Ney"		type = general		rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1815.12.7 } }
+
+1797.1.1 = { leader = { name = "Étienne MacDonald"	type = general		rank = 1	fire = 3	shock = 3	manuever = 4	siege = 1	death_date = 1814.4.11 } }
 
 1797.1.1 = { leader = { name = "François Lefebvre"	type = general		rank = 1	fire = 3	shock = 3	manuever = 3	siege = 2	death_date = 1807.7.9 } }
 
@@ -1240,6 +1226,8 @@ national_focus = DIP
 }
 
 1814.4.11 = {
+	government = administrative_monarchy
+	government_rank = 2
 	monarch = {
 		name = "Louis XVIII"
 		dynasty = "de Bourbon"

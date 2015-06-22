@@ -1,5 +1,4 @@
 name = "La première guerre du Nord (Déluge)"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -35,7 +34,7 @@ war_goal = {
 			losses = 5	# percent
 			country = PLC
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -57,7 +56,7 @@ war_goal = {
 			losses = 15	# percent
 			country = PLC
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -79,7 +78,7 @@ war_goal = {
 			losses = 35	# percent
 			country = PLC
 		}
-		result = loss
+		result = no
 	}
 }
 

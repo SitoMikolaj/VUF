@@ -1,12 +1,5 @@
-government = feudal_county
-#aristocracy_plutocracy = -1
-#centralization_decentralization = 2
-#innovative_narrowminded = -1
-mercantilism = 0.1
-#offensive_defensive = 3
-#land_naval = -3
-#quality_quantity = 2
-#serfdom_freesubjects = -4
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = occitain
@@ -199,6 +192,8 @@ capital = 204	# Grenoble
 	}
 }
 
+1515.1.1 = { government = despotic_monarchy }
+
 1518.9.28 = {
 	monarch = {
 		name = "François III" #1° dauphin
@@ -287,6 +282,8 @@ capital = 204	# Grenoble
 	}
 }
 
+1589.8.3 = { government = administrative_monarchy }
+
 1601.9.27 = { 
 	monarch = {
 		name = "Louis IV" # Roi de France Louis XIII
@@ -308,6 +305,8 @@ capital = 204	# Grenoble
 		mil = 6
 	}
 }
+
+1661.3.9 = { government = absolute_monarchy }
 
 1661.11.1 = {
 	monarch = {

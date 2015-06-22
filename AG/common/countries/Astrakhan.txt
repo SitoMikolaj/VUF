@@ -102,7 +102,7 @@ monarch_names = {
 	"Yadigar Muhammad #0" = 20
 	"Yamghurchi #0" = 20
 	
-	"Fatima #0" = -1
+	"Fâtima #0" = -1
 	"Ibtisam #0" = -1
 	"Jalila #0" = -1
 	"Janan #0" = -1

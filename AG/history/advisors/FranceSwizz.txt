@@ -308,16 +308,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3323
-	name = "Marguerite d'Angoulême" #Marguerite d'Angoulême, queen consort of King Henry II of Navarre and an author in her own right
-	location = 176 #Bearn (assuming the province history file places this in Navarre)
-	skill = 1
-	type = artist #patron of humanists and reformers, so could also be treasurer
-	date = 1525.1.1 #33 years old, marries Henry II of Navarre
-	death_date = 1549.12.21 #dies
-}
-
-advisor = {
 	advisor_id = 405
 	name = "Robert Estienne" #important bookprinter
 	location = 183 #Ile-de-France
@@ -1011,18 +1001,8 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3324
-	name = "Marquise de Pompadour" #mistress of King Louis XV of France, patron of arts
-	location = 183 #Ile-de-France
-	skill = 1
-	type = treasurer 
-	date = 1751.12.29 #30 years old
-	death_date = 1764.4.15 #died
-}
-
-advisor = {
 	advisor_id = 473
-	name = "François de l'Averdy" #Clément Charles François de Laverdy, controller-general of the finances under Louis XV
+	name = "François de L'Averdy" #Clément Charles François de Laverdy, controller-general of the finances under Louis XV
 	location = 183 #Ile-de-France
 	skill = 1
 	type = treasurer
@@ -1302,7 +1282,6 @@ advisor = {
 #Hubert Languet, French diplomat, 1548.1.1
 #Joost Bürgi, Swiss clockmaker and mathematician, 1582.2.28 #30 years old
 #Charles Le Brun, one of the dominant artists in 17th century France, 1649.2.24 
-#Émilie du Châtelet, French mathematician, physicist, and author, woman. Marquise du Chastellet, 1736.12.17 
 #Adrien-Marie Legendre, French mathematician. He made important contributions to math, 1782.9.18 
 #Lagrange" #Joseph Louis Lagrange, one of the greatest mathematicians of the 18th century, 1787 starts too late
 #Clément Marot, French poet of Marguerite de France, known for his élégant badinage, 1519.1.1 -1544.1.1
@@ -1531,7 +1510,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 3138
-	name = "St François de Sales" # illustre théologien
+	name = "St. François de Sales" # illustre théologien
 	location = 205 # Savoie	
 	skill = 3
 	type = theologian 
@@ -1747,16 +1726,6 @@ advisor = {
 	type = natural_scientist 
 	date = 1709.1.1
 	death_date = 1758.4.22
-}
-	
-advisor = {
-	advisor_id = 3160
-	name = "Émilie du Châtelet" #Grande physicienne et mathématicienne, amante de voltaire
-	location = 189 #Lorraine
-	skill = 3
-	type = natural_scientist 
-	date = 1736.12.17
-	death_date = 1749.9.10
 }
 
 advisor = {

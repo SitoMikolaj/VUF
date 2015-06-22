@@ -86,10 +86,6 @@ alliance = {
 	end_date = 1526.1.14
 }
 
-
-
-
-
 # Aragon and England (Treaty of Westminster)
 alliance = {
 	first = ARA

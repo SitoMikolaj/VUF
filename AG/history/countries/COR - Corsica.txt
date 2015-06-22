@@ -1,12 +1,5 @@
 government = feudal_monarchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 5
-#innovative_narrowminded = 3
-mercantilism = 0.1
-#offensive_defensive = 3
-#land_naval = 4
-#quality_quantity = -1
-#serfdom_freesubjects = 2
+government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = lombard
@@ -24,6 +17,10 @@ capital = 1247	# Bastia
 		leader = {	name = "Théodore de Neuhoff"	type = general	rank = 0	fire = 3	shock = 3	manuever = 2	siege = 1 }
 	}
 }
+
+1736.4.16 = { government = administrative_monarchy }
+
+1753.10.1 = { government = administrative_republic }
 
 1753.10.1 = {
 	monarch = {

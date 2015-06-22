@@ -1,5 +1,4 @@
 name = "Guerre birmano-chinoise"
-#casus_belli = cb_fabricated_claims province
 war_goal = {
 	type = take_capital_fabricated_claims
 	casus_belli = cb_fabricated_claims

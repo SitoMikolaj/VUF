@@ -1,5 +1,4 @@
 name = "Seconde guerre anglo-marathe"
-#casus_belli = cb_liberation
 war_goal = {
 	type = superiority_overseas
 	casus_belli = cb_overseas
@@ -28,7 +27,7 @@ war_goal = {
 			losses = 40	# percent
 			country = MAR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -48,7 +47,7 @@ war_goal = {
 			losses = 40	# percent
 			country = GWA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -70,7 +69,7 @@ war_goal = {
 			losses = 56	# percent
 			country = MAR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -92,7 +91,7 @@ war_goal = {
 			losses = 32	# percent
 			country = GWA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -114,7 +113,7 @@ war_goal = {
 			losses = 82	# percent
 			country = GWA
 		}
-		result = win
+		result = yes
 	}
 }
 

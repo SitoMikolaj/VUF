@@ -1,5 +1,4 @@
 name = "Grande guerre du Nord"
-#casus_belli = cb_super_badboy
 war_goal = {
 	type = superiority_punitive
 	casus_belli = cb_super_badboy
@@ -40,7 +39,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -62,7 +61,7 @@ war_goal = {
 			losses = 5	#percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -84,7 +83,7 @@ war_goal = {
 			losses = 4	#percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -112,7 +111,7 @@ war_goal = {
 			losses = 3	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -134,7 +133,7 @@ war_goal = {
 			losses = 48	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -157,7 +156,7 @@ war_goal = {
 			losses = 45	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -208,7 +207,7 @@ war_goal = {
 			losses = 21	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -230,7 +229,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -256,7 +255,7 @@ war_goal = {
 			losses = 7	#percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -276,7 +275,7 @@ war_goal = {
 			losses = 100	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 

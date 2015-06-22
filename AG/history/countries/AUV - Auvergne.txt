@@ -1,17 +1,10 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -4
-#centralization_decentralization = 5
-#innovative_narrowminded = 2
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -3
-#quality_quantity = 0
-#serfdom_freesubjects = -3
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 primary_culture = aquitaine
 religion = catholic
 capital = 199	# Clermont
-fixed_capital = 199 # Cannot move capital away from this province & no power cost to move to it
+#fixed_capital = 199 # Cannot move capital away from this province & no power cost to move to it
 
 1361.11.21 = {
 	monarch = {
@@ -244,6 +237,9 @@ fixed_capital = 199 # Cannot move capital away from this province & no power cos
 	}
 }
 
+1531.3.28 = { government = despotic_monarchy }
+
+
 1551.9.19 = {
 	heir = {
 		name = "Henri"
@@ -259,3 +255,7 @@ fixed_capital = 199 # Cannot move capital away from this province & no power cos
 }
 
 1560.1.1 = { religion = reformed }
+
+1562.11.18 = { government = administrative_monarchy }
+
+1661.3.9 = { government = absolute_monarchy }

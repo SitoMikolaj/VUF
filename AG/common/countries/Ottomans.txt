@@ -129,7 +129,7 @@ leader_names = {
 	Malkoç Müezzinzade "Mahmud Pasha" Marulic Matrënga "Murat Pasha" Mitrophanovic Muteferrika Mustapha Mehmed Mahmud
 	Nevshehirli Nishanci Nasi Nurbanu Nectarius Naima Nedîm Neculce Nakic
 	Oruç Uluç Osmancikli Ohrili Oflu Ömer Osmanli Osman
-	Piri Pargali Piyale Pehlivan "Piri Reis" Pazvantoglu Pacha
+	Piri Pargali Piyale Pehlivan "Piri Reis" Pazvannoglu Pacha
 	Rumi Rozanes Relkovic Reis
 	Salih Sokollu Sari Silahdar Semiz Serdar Sükrüllah Scholarius Sinan "al-Silahi" Sokolovic "Sinan Pasha" Sadeddin Sorkocevic Sirocco Sissaou
 	Topal Tayyar Turgut Tarhuncu Trapezuntius Tranos Tayran Turhan Theophilos Theotokis

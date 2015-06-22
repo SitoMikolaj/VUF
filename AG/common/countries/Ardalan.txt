@@ -58,17 +58,22 @@ monarch_names = {
 }
 
 leader_names = {
-	Mohammad
-	Abdolla
-	Kulos
-	Husayn
-	Ahmad
-	Tîmûr
-	Isa
-	Bawa
-	Fatemi
-	Sabet
-	Ansari
+	Sanjâbi
+	Bukhti
+	Ferozkohi
+	Feyli
+	Gewirk
+	Rekani
+	Hadhabani
+	"Ali Sherwan"
+	Herki
+	Jalilavand
+	Zafaranlu
+	Zarrinkafsh
+	Mangur
+	Jaff
+	Sheylanli
+	Barzani
 }
 
 ship_names = {

@@ -1,5 +1,4 @@
 name = "Guerre de la Ligue de Cognac"
-#casus_belli = cb_border_war
 war_goal = {
 	type = take_border
 	casus_belli = cb_border_war
@@ -36,7 +35,7 @@ war_goal = {
 			losses = 10	# percent
 			country = GEN
 		}
-		result = loss
+		result = no
 	}
 }
 

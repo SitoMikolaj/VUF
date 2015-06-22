@@ -1,12 +1,5 @@
 government = tribal_democracy
-#aristocracy_plutocracy = -2
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = -1
-#quality_quantity = 1
-#serfdom_freesubjects = -3
+government_rank = 2
 technology_group = eastern
 religion = orthodox
 primary_culture = ruthenian
@@ -38,6 +31,10 @@ capital = 283	# Zaporozhia
 		dip = 3		
 		mil = 3  
 	}
+}
+
+1555.1.1 = {
+	government_rank = 1
 }
 
 1563.1.1 = {	
@@ -472,6 +469,11 @@ capital = 283	# Zaporozhia
 		dip = 6
 		mil = 5
 	}
+	government_rank = 2
+}
+
+1654.1.8 = {
+	government_rank = 1
 }
 
 1657.1.1 = {
@@ -546,4 +548,8 @@ capital = 283	# Zaporozhia
 		dip = 1
 		mil = 3
 	}
+}
+
+1775.8.3 = {
+	government_rank = 2
 }

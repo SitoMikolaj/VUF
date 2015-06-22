@@ -1,7 +1,6 @@
 # No previous file for Mossi
 
 government = tribal_kingdom
-mercantilism = 0.1
 primary_culture = mossi
 religion = animism
 technology_group = sub_saharan

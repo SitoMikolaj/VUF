@@ -1,4 +1,5 @@
 government = shogunate
+government_rank = 2
 primary_culture = japanese
 religion = shinto
 technology_group = chinese
@@ -409,8 +410,6 @@ capital = 1020	# Kyoto
 
 # Bakufu des Tokugawa
 
-1603.3.24   = { capital = 1028 } # Musashi (Edo)
-
 1603.3.24 = { 
 	monarch = {
 		name = "Ieyasu"
@@ -435,6 +434,8 @@ capital = 1020	# Kyoto
 		mil = 4
 	}
 }
+
+1603.3.24   = { capital = 1028 } # Musashi (Edo)
 
 1607.6.2 = {
 	heir = {

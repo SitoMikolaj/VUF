@@ -1,5 +1,4 @@
-government = feudal_monarchy
-mercantilism = 0.1
+government = iqta
 primary_culture = panjabi
 religion = sunni
 technology_group = indian
@@ -117,6 +116,10 @@ fixed_capital = 506 # Cannot move capital away from this province & no power cos
 }
 
 #Mirranis
+
+1553.1.1 = {
+	government_rank = 1
+}
 
 1555.1.1 = {
 	monarch = {

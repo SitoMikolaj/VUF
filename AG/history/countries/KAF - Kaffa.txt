@@ -1,5 +1,4 @@
 government = despotic_monarchy
-mercantilism = 0.1
 primary_culture = sidamo
 religion = coptic
 technology_group = muslim
@@ -51,6 +50,7 @@ capital = 2757		# Kaffa
 		dip = 1
 		mil = 2
 	}
+	capital = 2756
 }
 1565.1.1 = {
 	monarch = {

@@ -1,12 +1,5 @@
-government = feudal_county
-#aristocracy_plutocracy = -1
-#centralization_decentralization = -1
-#innovative_narrowminded = 2
-mercantilism = 0.1
-#offensive_defensive = 4
-#land_naval = -4
-#quality_quantity = -1
-#serfdom_freesubjects = 1
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = gascon
@@ -170,6 +163,8 @@ fixed_capital = 176 # Cannot move capital away from this province & no power cos
 	}
 }
 
+1512.9.1 = { government = despotic_monarchy }
+
 1517.2.12 = {
 	monarch = {
 		name = "Henri II"
@@ -195,6 +190,9 @@ fixed_capital = 176 # Cannot move capital away from this province & no power cos
 		female = yes
 	}
 }
+
+1555.5.25 = { government = administrative_monarchy }
+
 
 1555.5.25 = {
 	monarch = {
@@ -236,5 +234,7 @@ fixed_capital = 176 # Cannot move capital away from this province & no power cos
 		leader = {	name = "Henri IV"	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0 }
 	}
 }
+
+1661.3.9 = { government = absolute_monarchy }
 
 #Union with Navarra from 1472

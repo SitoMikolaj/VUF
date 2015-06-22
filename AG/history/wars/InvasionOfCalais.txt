@@ -1,5 +1,4 @@
 name = "Invasion de Calais"
-#casus_belli = cb_defender_of_the_faith
 war_goal = {
 	type = defend_country_faith
 	casus_belli = cb_defender_of_the_faith

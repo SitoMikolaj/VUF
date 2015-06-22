@@ -1,5 +1,4 @@
 name = "Guerre de Tostenson"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_core
 	casus_belli = cb_core

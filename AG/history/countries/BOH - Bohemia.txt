@@ -1,18 +1,12 @@
 government = elective_monarchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.2
-#offensive_defensive = 0
-#land_naval = -3
-#quality_quantity = 0
-#serfdom_freesubjects = -4
+government_rank = 2
+mercantilism = 0.25
 primary_culture = czech
 religion = catholic
 elector = yes
 capital = 266 # Praha
 technology_group = western
-
+add_accepted_culture = saxon
 
 1378.11.29 = {
 	monarch = {
@@ -275,7 +269,6 @@ technology_group = western
 }
 
 #Personal union with Palatinate
-
 #Personal Union with Habsburg
 
 1620.11.8 = {

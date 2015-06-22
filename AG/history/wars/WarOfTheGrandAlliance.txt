@@ -1,5 +1,4 @@
 name = "Guerre de la Ligue d'Augsbourg"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -63,7 +62,7 @@ war_goal = {
 			losses = 25	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -83,7 +82,7 @@ war_goal = {
 			losses = 40	# percent
 			country = SAV
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -105,7 +104,7 @@ war_goal = {
 			losses = 13	# percent
 			country = NED
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -129,7 +128,7 @@ war_goal = {
 			losses = 36	# percent
 			country = NED
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -153,7 +152,7 @@ war_goal = {
 			losses = 3	# percent
 			country = SAV
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -173,7 +172,7 @@ war_goal = {
 			losses = 30	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 

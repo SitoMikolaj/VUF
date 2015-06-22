@@ -1,12 +1,5 @@
 government = feudal_monarchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = 0
-#serfdom_freesubjects = -4
+government_rank = 1
 primary_culture = hannoverian
 religion = catholic
 technology_group = western
@@ -143,7 +136,7 @@ capital = 57	# Hannover
 	}
 }
 
-1692.1.1 = { elector = yes }	
+1692.12.19 = { elector = yes }	
 
 1698.1.23 = {
 	monarch = {
@@ -159,3 +152,7 @@ capital = 57	# Hannover
 1745.1.1 = { leader = {	name = "Ferdinand"     	type = general	rank = 1	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1765.1.1 } }
 
 1806.7.12 = { elector = no } # The HRE is formally abolished
+
+# Royaume de Hannovre après le congrès de Vienne
+
+1814.10.12 = { government_rank = 2 }

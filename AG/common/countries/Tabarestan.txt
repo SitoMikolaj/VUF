@@ -45,10 +45,6 @@ monarch_names = {
 }
 
 leader_names = { 
-	Pertrezok
-	Verzacht
-	Belzebuk
-	Parsabok
 	Mazyar
 	Quhyar
 	Shahriyar

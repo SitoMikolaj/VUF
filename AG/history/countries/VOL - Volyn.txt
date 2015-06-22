@@ -1,7 +1,5 @@
-government = feudal_duchy
-mercantilism = 0.1
+government = feudal_monarchy
 technology_group = eastern
-historical_friend = POL
 religion = catholic
 primary_culture = ruthenian
 capital = 279	# Volhynia

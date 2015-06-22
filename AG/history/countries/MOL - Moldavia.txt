@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = -1
-#quality_quantity = 1
-#serfdom_freesubjects = -5
+government = feudal_monarchy
+government_rank = 1
 primary_culture = romanian
 religion = orthodox
 technology_group = eastern
@@ -235,7 +228,7 @@ capital = 268 # Suceava
 
 1451.10.16 = {
 	monarch = {
-		name = "Petru Aron"
+		name = "Petru III Aron"
 		dynasty = "Musati"
 		birth_date = 1421.1.1
 		adm = 1
@@ -257,7 +250,7 @@ capital = 268 # Suceava
 
 1454.8.1 = {
 	monarch = {
-		name = "Petru Aron"
+		name = "Petru III Aron"
 		dynasty = "Musati"
 		birth_date = 1421.1.1
 		adm = 1

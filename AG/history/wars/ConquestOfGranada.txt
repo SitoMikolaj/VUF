@@ -1,5 +1,4 @@
 name = "Conquête de Grenade"
-#casus_belli = cb_crusade
 war_goal = {
 	type = superiority_crusade
 	casus_belli = cb_crusade

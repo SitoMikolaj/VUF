@@ -1,5 +1,4 @@
 name = "Dévastation Kabyle de Mitidja"
-#casus_belli = cb_colonial
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest

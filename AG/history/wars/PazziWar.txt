@@ -1,5 +1,4 @@
 name = "Guerre des Pazzi"
-#casus_belli = cb_claim_throne
 war_goal = {
 	type = take_capital_throne
 	casus_belli = cb_claim_throne

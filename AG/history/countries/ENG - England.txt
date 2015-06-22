@@ -1,12 +1,5 @@
-government = feudal_monarchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 2
-#innovative_narrowminded = 3
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = 0
-#quality_quantity = -2
-#serfdom_freesubjects = -2
+government = english_monarchy
+mercantilism = 0.25
 technology_group = western
 primary_culture = english
 add_accepted_culture = gascon
@@ -272,8 +265,7 @@ national_focus = DIP
 }
 
 1471.4.11 = { leader = {	name = "Richard Plantagenet"	type = general	rank = 0	fire = 2	shock = 4	manuever = 4	siege = 1	death_date = 1483.6.25 } }
-
-1475.8.29 = { remove_accepted_culture = gascon remove_accepted_culture = normand } # Treaty of Picuigny
+1475.8.29 = { remove_accepted_culture = gascon remove_accepted_culture = normand set_global_flag = eng_had_end_of_hundred_years_war } # Treaty of Picuigny
 
 1478.1.18 = { leader = {	name = "Thomas Howard"	type = general	rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1513.10.1 } }
 
@@ -384,7 +376,7 @@ national_focus = DIP
 	}
 }
 
-1509.4.22 = { government = absolute_monarchy }
+#1509.4.22 = { government = absolute_monarchy }
 
 1512.1.1 = { leader = {	name = "Charles Brandon"               	type = general	rank = 0	fire = 3	shock = 2	manuever = 2	siege = 0	death_date = 1545.8.24 } }
 
@@ -427,6 +419,7 @@ national_focus = DIP
 		mil = 1
 	}
 }
+
 
 1547.1.28 = {
 	monarch = {
@@ -663,7 +656,7 @@ national_focus = DIP
 	
 	# Cromwell and the Republic
 	religion = reformed
-	government = republican_dictatorship
+	#government = republican_dictatorship
 }
 
 1649.1.29 = { leader = { name = "Robert Blake"		type = admiral	rank = 0	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1657.8.17 } }	
@@ -697,7 +690,7 @@ national_focus = DIP
 		regent = yes
 	}
 	religion = protestant
-	government = noble_republic
+	#government = noble_republic
 } # The protectorate is Abolished
 
 1660.5.29 = {
@@ -711,7 +704,7 @@ national_focus = DIP
 	}
 	
 	# The Restoration of the Stuarts
-	government = absolute_monarchy
+	#government = absolute_monarchy
 }
 
 1660.5.29 = {
@@ -778,7 +771,6 @@ national_focus = DIP
 		female = yes
 	}
 }
-
 1685.2.6 = { religion = catholic }
 
 1686.1.1 = { leader = {	name = "James Fitzjames"	type = general	rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1688.12.11 } }
@@ -798,8 +790,7 @@ national_focus = DIP
 		mil = 1
 	}
 }
-
-1688.12.11 = { religion = protestant government = noble_republic }
+1688.12.11 = { religion = protestant }
 
 1688.12.11 = {
 	monarch = {
@@ -853,8 +844,9 @@ national_focus = DIP
 		mil = 5
 		leader = {	name = "William III"		type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 1 }
 	}
+
 	# The Glorious Revolution
-	government = constitutional_monarchy
+	#government = constitutional_monarchy
 }
 
 1694.12.28 = {

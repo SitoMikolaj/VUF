@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 0 20 130 }
+color = { 91 83 203 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -88,18 +88,17 @@ monarch_names = {
 }
 
 leader_names = {
-	Arnsberg
-	Bebra
-	"von Darmstadt"   
-	Eder
-	Fulda
-	Gauss
-	Hamm "von Hesse" "von Hutten"
-	Kassel "von Knyphausen"
-	Lippstadt Lichtenberg
-	Münden
-	Paderborn
-	"von Scheideck"
+	"von Gagern"
+	"von Bieberstein"
+	"von Walderdorff"
+	"von Bock und Hemsdorf"
+	"von Dungern"
+	"Hergenhahn"
+	"von Winzingerode"
+	"zu Sayn-Wittgeinstein"
+	"von Usingen"
+	"von Weilburg"
+	"von Idstein"
 }
 
 ship_names = {

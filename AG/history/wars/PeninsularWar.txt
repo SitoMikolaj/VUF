@@ -1,6 +1,5 @@
 name = "Guerre de la Péninsule"
 # Seule les trois campagnes contre le Portugal sont prises en compte
-#casus_belli = cb_imperial
 war_goal = {
 	type = take_capital_imperial
 	casus_belli = cb_imperial
@@ -45,7 +44,7 @@ war_goal = {
 			losses = 3	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -67,7 +66,7 @@ war_goal = {
 			losses = 4	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -88,7 +87,7 @@ war_goal = {
 			losses = 40	# percent
 			country = POR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -108,7 +107,7 @@ war_goal = {
 			losses = 2	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -129,7 +128,7 @@ war_goal = {
 			losses = 2	# percent
 			country = POR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -151,7 +150,7 @@ war_goal = {
 			losses = 17	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -175,7 +174,7 @@ war_goal = {
 			losses = 70	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -195,7 +194,7 @@ war_goal = {
 			losses = 2	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -217,7 +216,7 @@ war_goal = {
 			losses = 2	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -237,7 +236,7 @@ war_goal = {
 			losses = 10	# percent			
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -257,7 +256,7 @@ war_goal = {
 			losses = 3	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -281,7 +280,7 @@ war_goal = {
 			losses = 4	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -301,7 +300,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -324,7 +323,7 @@ war_goal = {
 			losses = 17	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -346,7 +345,7 @@ war_goal = {
 			losses = 10	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 

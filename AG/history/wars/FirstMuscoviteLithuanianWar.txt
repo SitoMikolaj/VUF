@@ -1,5 +1,4 @@
 name = "Première guerre moscovito-lithuanienne"
-#casus_belli = cb_nationalist
 war_goal = {
 	type = take_province_nationalist
 	casus_belli = cb_nationalist

@@ -1,5 +1,4 @@
 name = "Guerre des Moutons noirs et blancs"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 45	# percent
 			country = QAR
 		}
-		result = win	#Qara Koyunlu routed, Jahân Shâh killed
+		result = yes	#Qara Koyunlu routed, Jahân Shâh killed
 	}
 }
 

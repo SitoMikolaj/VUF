@@ -1,5 +1,4 @@
 name = "Guerre de Livonie"
-#casus_belli = cb_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -45,7 +44,7 @@ war_goal = {
 			losses = 5	#percent
 			country = PLC
 		}
-		result = win
+		result = yes
 	}
 }
 

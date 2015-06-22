@@ -1,9 +1,8 @@
-government = feudal_duchy
-mercantilism = 0.1
+government = feudal_monarchy
+government_rank = 1
 primary_culture = burgundian
 religion = catholic
 technology_group = western
-historical_rival = FRA
 capital = 192	# Dijon
 
 
@@ -182,6 +181,8 @@ capital = 192	# Dijon
 	}
 }
 
+1506.9.26 = { government = despotic_monarchy }
+
 1506.9.26 = {
 	monarch = {
 		name = "Charles II"
@@ -192,3 +193,9 @@ capital = 192	# Dijon
 		mil = 5
 	}
 }
+
+
+1589.8.3 = { government = administrative_monarchy }
+
+
+1661.3.9 = { government = absolute_monarchy }

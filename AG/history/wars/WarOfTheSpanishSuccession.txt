@@ -45,7 +45,7 @@ war_goal = {
 			losses = 12		# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	} 
 }
 
@@ -67,7 +67,7 @@ war_goal = {
 			losses = 1		# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	} 
 }
 
@@ -88,7 +88,7 @@ war_goal = {
 			losses = 10		# percent 
 			country = SPA
 		}
-		result = loss
+		result = no
 	} 
 }
 
@@ -112,7 +112,7 @@ war_goal = {
 			losses = 21		# percent 
 			country = FRA
 		} 
-		result = loss
+		result = no
 	} 
 }
 
@@ -134,7 +134,7 @@ war_goal = {
 			losses = 10		# percent 
 			country = FRA
 		}
-		result = win
+		result = yes
 	} 
 } 
 
@@ -162,7 +162,7 @@ war_goal = {
 			losses = 42		# percent 
 			country = BAV
 		} 
-		result = win
+		result = yes
 	} 
 } 
 
@@ -186,7 +186,7 @@ war_goal = {
 			losses = 25		# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	} 
 }  
 
@@ -208,7 +208,7 @@ war_goal = {
 			losses = 25		# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	} 
 } 
 
@@ -232,7 +232,7 @@ war_goal = {
 			losses = 14		# percent 
 			country = FRA
 		}
-		result = loss
+		result = no
 	} 
 }
 
@@ -259,7 +259,7 @@ war_goal = {
 			losses = 15		# percent 
 			country = FRA
 		}
-		result = win
+		result = yes
 	} 
 } 
 
@@ -283,7 +283,7 @@ war_goal = {
 			losses = 14		# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	} 
 } 
 
@@ -303,7 +303,7 @@ war_goal = {
 			losses = 11		# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	} 
 } 
 
@@ -325,7 +325,7 @@ war_goal = {
 			losses = 40		# percent 
 			country = SPA
 		}
-		result = win
+		result = yes
 	} 
 } 
 
@@ -347,7 +347,7 @@ war_goal = {
 			losses = 5		# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	} 
 } 
 
@@ -367,7 +367,7 @@ war_goal = {
 			losses = 12		# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	} 
 } 
 
@@ -389,7 +389,7 @@ war_goal = {
 			losses = 1		# percent 
 			country = FRA
 		}
-		result = loss
+		result = no
 	} 
 }
 

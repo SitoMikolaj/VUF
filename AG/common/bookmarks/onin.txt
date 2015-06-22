@@ -1,0 +1,15 @@
+bookmark =
+{
+	name = "ONIN_NAME"
+	desc = "ONIN_DESC"
+	date = 1467.5.27
+	
+	country = YMN
+	country = OUC
+	country = SBA
+	country = JAP
+	country = HSK
+	country = TKD
+	country = HTK
+	
+}

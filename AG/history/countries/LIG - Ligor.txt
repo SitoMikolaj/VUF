@@ -1,5 +1,5 @@
 government = despotic_monarchy
-mercantilism = 0.1
+government_rank = 1
 primary_culture = malayan
 religion = sunni
 technology_group = chinese
@@ -57,6 +57,10 @@ capital = 593	# Nakhon Si Thammarat
 		dip = 2
 		mil = 2
 	}
+}
+
+1570.1.1 = {
+	government_rank = 2
 }
 
 1590.1.1 = {

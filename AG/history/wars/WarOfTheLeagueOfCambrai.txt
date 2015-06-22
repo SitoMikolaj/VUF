@@ -1,5 +1,4 @@
 name = "Guerre de la Ligue de Cambrai"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -37,7 +36,7 @@ war_goal = {
 			losses = 28	# percent
 			country = VEN
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -58,7 +57,7 @@ war_goal = {
 			losses = 8	# percent
 			country = VEN
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -104,7 +103,7 @@ war_goal = {
 			losses = 75	# percent
 			country = CAS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -131,7 +130,7 @@ war_goal = {
 			losses = 8	# percent
 			country = ENG
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -164,7 +163,7 @@ war_goal = {
 			losses = 42	# percent
 			country = MLO
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -186,7 +185,7 @@ war_goal = {
 			losses = 10	# percent
 			country = ENG
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -208,7 +207,7 @@ war_goal = {
 			losses = 10	# percent
 			country = CAS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -236,7 +235,7 @@ war_goal = {
 			losses = 50	# percent
 			country = SWI
 		}
-		result = win
+		result = yes
 	}
 }
 

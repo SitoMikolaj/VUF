@@ -716,16 +716,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3328
-	name = "Artemisia Gentileschi" #Artemisia Gentileschi, one of the most accomplished Early Baroque painters. Woman.
-	location = 118 #Rome
-	skill = 2
-	type = artist 
-	date = 1627.7.8	#30 years old
-	death_date = 1653.1.1
-}
-
-advisor = {
 	advisor_id = 841
 	name = "Bonaventura Cavalieri" #Bonaventura Francesco Cavalieri, mathematician best known today for Cavalieri's principle
 	location = 115 #Pisa
@@ -1042,15 +1032,6 @@ advisor = {
 	date = 1767.12.4	#30 years old
 	death_date = 1798.12.4
 }
-
-#advisor = {
-#	name = "Carolina d'Austria" #Queen of Naples, de facto ruler instead of her husband Ferrante IV
-#	location = 121 #Napoli
-#	skill = 2
-#	type = statesman
-#	date = 1768.5.12	#15 years old, became Queen of Naples
-#	death_date = 1814.9.8
-#}
 
 advisor = {
 	advisor_id = 872
@@ -1429,14 +1410,4 @@ advisor = {
 	type = artist 
 	date = 1758.1.16 
 	death_date = 1800.3.7
-}
-
-advisor = {
-	advisor_id = 3084
-	name = "Carolina d'Austria" #Queen of Naples, de facto ruler instead of her husband Ferrante IV
-	location = 121 #Napoli
-	skill = 4
-	type = statesman
-	date = 1768.5.12	#15 years old, became Queen of Naples
-	death_date = 1814.9.8
 }

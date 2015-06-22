@@ -27,7 +27,7 @@ war_goal = {
 			losses = 1	# percent
 			country = MEX
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -47,7 +47,7 @@ war_goal = {
 			losses = 10	# percent			
 			country = MEX
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -69,7 +69,7 @@ war_goal = {
 			losses = 27	# percent
 			country = MEX
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -89,7 +89,7 @@ war_goal = {
 			losses = 22	# percent
 			country = MEX
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -109,7 +109,7 @@ war_goal = {
 			losses = 12	# percent
 			country = MEX
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -129,7 +129,7 @@ war_goal = {
 			losses = 12	# percent
 			country = MEX
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -149,7 +149,7 @@ war_goal = {
 			losses = 1	# percent
 			country = MEX
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -169,7 +169,7 @@ war_goal = {
 			losses = 0	# percent
 			country = MEX
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -189,7 +189,7 @@ war_goal = {
 			losses = 12	# percent
 			country = MEX
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -209,7 +209,7 @@ war_goal = {
 			losses = 5	# percent
 			country = MEX
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -231,7 +231,7 @@ war_goal = {
 			losses = 20	# percent
 			country = MEX
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -251,7 +251,7 @@ war_goal = {
 			losses = 100	# percent
 			country = MEX
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -272,7 +272,7 @@ war_goal = {
 			losses = 60	# percent
 			country = MEX
 		}
-		result = loss
+		result = no
 	}
 }
 

@@ -1,5 +1,4 @@
 name = "Invasion du Jawnpur par Giyâth ad-Dîn Jalâl"
-#casus_belli = cb_core
 war_goal = {
 	type = take_core
 	casus_belli = cb_core

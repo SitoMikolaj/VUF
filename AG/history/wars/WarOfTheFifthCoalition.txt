@@ -1,5 +1,4 @@
 name = "Guerre de la Cinquième Coalition"
-#casus_belli = cb_imperial
 war_goal = {
 	type = take_capital_revolution
 	casus_belli = cb_crush_the_revolution
@@ -47,7 +46,7 @@ war_goal = {
 			losses = 25	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -70,7 +69,7 @@ war_goal = {
 			losses = 33	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -90,7 +89,7 @@ war_goal = {
 			losses = 16	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -110,7 +109,7 @@ war_goal = {
 			losses = 14	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -134,7 +133,7 @@ war_goal = {
 			losses = 7	# percent
 			country = POL
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -154,7 +153,7 @@ war_goal = {
 			losses = 6	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -174,7 +173,7 @@ war_goal = {
 			losses = 10	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -194,7 +193,7 @@ war_goal = {
 			losses = 2	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -215,7 +214,7 @@ war_goal = {
 			losses = 10	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -235,7 +234,7 @@ war_goal = {
 			losses = 4	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -255,7 +254,7 @@ war_goal = {
 			losses = 14	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -277,7 +276,7 @@ war_goal = {
 			losses = 5	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -297,7 +296,7 @@ war_goal = {
 			losses = 23	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -318,7 +317,7 @@ war_goal = {
 			losses = 11	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -338,7 +337,7 @@ war_goal = {
 			losses = 19	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -358,7 +357,7 @@ war_goal = {
 			losses = 10	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -378,7 +377,7 @@ war_goal = {
 			losses = 20	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -399,7 +398,7 @@ war_goal = {
 			losses = 45	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -419,7 +418,7 @@ war_goal = {
 			losses = 23	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 

@@ -28,7 +28,7 @@ war_goal = {
 			losses = 58	# percent
 			country = TRP
 		}
-		result = win
+		result = yes
 	}
 }
 

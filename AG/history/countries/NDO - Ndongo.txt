@@ -1,5 +1,5 @@
-government = tribal_despotism
-mercantilism = 0.1
+government = tribal_kingdom
+government_rank = 1
 primary_culture = kongolese
 religion = shamanism
 technology_group = sub_saharan
@@ -149,9 +149,9 @@ capital = 1171
 		name = "Veronica"
 		dynasty = "Guterres"
 		female = yes
-		DIP = 7
-		ADM = 7
-		MIL = 7
+		DIP = 3
+		ADM = 2
+		MIL = 3
 	}
 }
 

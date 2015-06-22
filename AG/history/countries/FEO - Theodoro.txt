@@ -1,5 +1,6 @@
 government = despotic_monarchy
-mercantilism = 0.2
+government_rank = 1
+mercantilism = 0.25
 primary_culture = goths
 religion = orthodox
 technology_group = eastern

@@ -1,5 +1,4 @@
 name = "Quatrième guerre turco-Séfévide"
-#casus_belli = cb_border_war
 war_goal = {
 	type = take_border
 	casus_belli = cb_border_war

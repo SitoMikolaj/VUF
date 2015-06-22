@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -1
-#centralization_decentralization = 2
-#innovative_narrowminded = 2
-mercantilism = 0.1
-#offensive_defensive = 3
-#land_naval = 3
-#quality_quantity = 2
-#serfdom_freesubjects = -3
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 primary_culture = normand
 add_accepted_culture = cosmopolitan_french
@@ -28,3 +21,10 @@ capital = 168	# Caen
 }
 
 # Mais Charles II perd le controle du duché en 1 an
+
+
+1515.1.1 = { government = despotic_monarchy }
+
+1589.8.3 = { government = administrative_monarchy }
+
+1661.3.9 = { government = absolute_monarchy }

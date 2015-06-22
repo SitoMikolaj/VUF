@@ -1,5 +1,4 @@
 name = "3ème guerre anglo-mysorienne" #Third Anglo-Mysore War
-#casus_belli = cb_liberation
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest

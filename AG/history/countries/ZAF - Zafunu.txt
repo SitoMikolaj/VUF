@@ -1,7 +1,4 @@
-# No previous file for Zafunu (tag changed from Zafunu to Macina)
-
 government = tribal_despotism
-mercantilism = 0.1
 primary_culture = soninke #Historically Fulbe, Soninke to distinguish from the other Fula/Fulbe groups
 religion = sunni
 technology_group = sub_saharan

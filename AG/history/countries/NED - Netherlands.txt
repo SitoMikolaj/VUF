@@ -1,17 +1,12 @@
 government = feudal_monarchy
-#aristocracy_plutocracy = -1
-#centralization_decentralization = -1
-#innovative_narrowminded = -2
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = 2
-#quality_quantity = -2
-#serfdom_freesubjects = 2
 technology_group = western
 primary_culture = dutch
 religion = catholic
-capital = 97	# Amsterdam
+capital = 92 # Brabant
 
+1477.1.5 = {
+	government_rank = 1
+}
 
 1559.1.1 = {
 	monarch = {
@@ -36,6 +31,10 @@ capital = 97	# Amsterdam
 1575.1.1 = { religion = reformed }
 
 1579.1.1 = { leader = {	name = "Willem Lodewijk van Nassau"	type = general		rank = 1	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1620.6.13 } }
+
+1579.1.23 = {
+	government_rank = 2
+}
 
 1580.1.1 = { decision = enlist_privateers }
 
@@ -275,6 +274,7 @@ capital = 97	# Amsterdam
 		mil = 2
 	}
 	government = revolutionary_republic
+	government_rank = 1
 }
 
 1799.1.1 = { leader = { name = "David Hendrik Chassé"		type = general	rank = 0	fire = 2	shock = 2	manuever = 3 siege = 0	death_date = 1841.1.1 } }
@@ -301,6 +301,7 @@ capital = 97	# Amsterdam
 		mil = 2
 	}
 	government = constitutional_monarchy # Napoleonic monarchy
+	government_rank = 2
 }
 
 1810.7.1 = {

@@ -1,5 +1,4 @@
 government = oligarchic_republic
-mercantilism = 0.1
 primary_culture = hakka
 technology_group = chinese
 religion = confucianism

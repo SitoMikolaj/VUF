@@ -1,5 +1,4 @@
 name = "Guerre de Finlande"
-#casus_belli = cb_trade_war
 war_goal = {
 	type = superiority_trade_mutual
 	casus_belli = cb_trade_war
@@ -35,7 +34,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 		# Historians say Russia won. Lies. All lies.
 	}
 }
@@ -56,7 +55,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -76,7 +75,7 @@ war_goal = {
 			losses = 4	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -98,7 +97,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -118,7 +117,7 @@ war_goal = {
 			losses = 3	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -138,7 +137,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -158,7 +157,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -178,7 +177,7 @@ war_goal = {
 			losses = 20	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -198,7 +197,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -218,7 +217,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -238,7 +237,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -258,7 +257,7 @@ war_goal = {
 			losses = 3	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -278,7 +277,7 @@ war_goal = {
 			losses = 16	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -298,7 +297,7 @@ war_goal = {
 			losses = 17	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -318,7 +317,7 @@ war_goal = {
 			losses = 17	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 

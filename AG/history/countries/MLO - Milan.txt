@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = 1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
+government = feudal_monarchy
+government_rank = 1
 primary_culture = lombard
 religion = catholic
 technology_group = western
@@ -123,7 +116,7 @@ fixed_capital = 104 # Cannot move capital away from this province & no power cos
 		dip = 5
 		mil = 5
 	}
-	government = feudal_duchy
+	government = feudal_monarchy
 }
 
 1450.3.27 = {

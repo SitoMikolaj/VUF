@@ -1,5 +1,4 @@
 name = "Reconquête moghole de l'Hindoustan"
-#casus_belli = cb_core
 war_goal = {
 	type = take_core
 	casus_belli = cb_core

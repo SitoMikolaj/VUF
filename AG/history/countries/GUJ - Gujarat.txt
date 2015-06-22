@@ -1,5 +1,4 @@
-government = feudal_monarchy
-mercantilism = 0.1
+government = iqta
 primary_culture = gujarati
 religion = shiite #Ismailis
 technology_group = indian
@@ -272,6 +271,14 @@ capital = 2054	# Ahmadabad
 	}
 }
 
+1544.1.1 = {
+	government_rank = 1
+}
+
+1545.1.1 = {
+	government_rank = 2
+}
+
 1554.2.14 = {
 	monarch = {
 		name = "'Ahmâd Shâh III"
@@ -331,3 +338,18 @@ capital = 2054	# Ahmadabad
 }
 
 #Mughal conquest in 1593
+
+1725.1.1 = { #Contested rule by various nobles with little influence
+	government_rank = 1
+	monarch = {
+		name = "(Mughal Governors)"
+		regent = yes
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
+}
+
+1757.1.1 = {
+	government_rank = 2
+}

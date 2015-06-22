@@ -1,5 +1,5 @@
 government = tribal_federation
-mercantilism = 0.1
+government_rank = 1
 primary_culture = circassian
 religion = orthodox
 technology_group = eastern

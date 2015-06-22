@@ -1,5 +1,4 @@
 name = "Guerre moldavo-turque"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 10	#percent
 			country = MOL
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -51,7 +50,7 @@ war_goal = {
 			losses = 65	#percent
 			country = MOL
 		}
-		result = win
+		result = yes
 	}
 }
 

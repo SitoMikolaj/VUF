@@ -14,6 +14,42 @@ union = {
 	end_date = 1469.8.27
 }
 
+#Ardalan
+vassal = {
+	first = TIM
+	second = ARD
+	start_date = 1444.1.1
+	end_date = 1449.1.1
+}
+
+vassal = {
+	first = QAR
+	second = ARD
+	start_date = 1449.1.1
+	end_date = 1469.2.4
+}
+
+vassal = {
+	first = AKK
+	second = ARD
+	start_date = 1469.2.4
+	end_date = 1504.1.1
+}
+
+vassal = {
+	first = PER
+	second = ARD
+	start_date = 1504.1.1
+	end_date = 1721.1.1
+}
+
+vassal = {
+	first = PER
+	second = ARD
+	start_date = 1730.1.1
+	end_date = 1825.1.1 #Or even longer
+}
+
 # Cyprus, a Mamluk tributary
 guarantee = {
 	first = MAM
@@ -22,10 +58,10 @@ guarantee = {
 	end_date = 1489.1.1
 }
 
-# Morocco and Granada
-#alliance = {
-#	first = MOR
-#	second = GRA
-#	start_date = 1399.1.1
-#	end_date = 1471.1.1
-#}
+#Hejaz protected by the Mamluks
+guarantee = {
+	first = MAM
+	second = HED
+	start_date = 1444.1.1
+	end_date = 1517.1.1
+}

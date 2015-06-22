@@ -1,6 +1,6 @@
 government = feudal_monarchy
 primary_culture = kashmiri
-religion = buddhism
+religion = vajrayana
 technology_group = indian
 capital = 2074	# Ladakh
 fixed_capital = 2074 # Cannot move capital away from this province & no power cost to move to it
@@ -245,6 +245,10 @@ fixed_capital = 2074 # Cannot move capital away from this province & no power co
 	}
 }
 
+1752.1.1 = {
+	government_rank = 1
+}
+
 1770.1.1 = {
 	monarch = {
 		name = "Phuntsog"
@@ -315,6 +319,10 @@ fixed_capital = 2074 # Cannot move capital away from this province & no power co
 		dip = 1
 		mil = 1
 	}
+}
+
+1809.1.1 = {
+	government_rank = 2
 }
 
 1810.1.1 = {

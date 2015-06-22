@@ -1,13 +1,7 @@
 government = oligarchic_republic
-#aristocracy_plutocracy = 1
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.2
-#offensive_defensive = 1
-#land_naval = 1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
-primary_culture = lombard
+government_rank = 1
+mercantilism = 0.25
+primary_culture = tuscan
 religion = catholic
 technology_group = western
 capital = 116 # Firenze
@@ -155,7 +149,7 @@ capital = 116 # Firenze
 	}
 }
 
-1532.1.1 = { government = feudal_duchy }
+1532.1.1 = { government = despotic_monarchy }
 
 1537.1.6 = {
 	monarch = {
@@ -397,6 +391,10 @@ capital = 116 # Firenze
 		mil = 1
 	}
 }
+
+1737.7.10 = { government = absolute_monarchy }
+
+1740.1.1 = { government = enlightened_despotism }
 
 1747.5.5 = {
 	heir = {

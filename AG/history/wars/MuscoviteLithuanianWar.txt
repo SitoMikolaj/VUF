@@ -1,5 +1,4 @@
 name = "Guerre Moscovito-lithuanienne"
-#casus_belli = cb_nationalist
 war_goal = {
 	type = take_province_nationalist
 	casus_belli = cb_nationalist
@@ -30,7 +29,7 @@ war_goal = {
 			losses = 40	# percent
 			country = LIT
 		}
-		result = loss
+		result = no
 	}
 }
 

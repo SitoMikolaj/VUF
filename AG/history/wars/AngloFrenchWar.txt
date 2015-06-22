@@ -1,5 +1,4 @@
 name = "Guerre de La Rochelle"
-#casus_belli = cb_dishonored_call
 war_goal = {
 	type = superiority_insult
 	casus_belli = cb_dishonored_call

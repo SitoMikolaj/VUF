@@ -1,5 +1,5 @@
 government = tribal_kingdom
-mercantilism = 0.1
+government_rank = 1
 primary_culture = rajput
 religion = hinduism
 technology_group = indian
@@ -413,4 +413,8 @@ fixed_capital = 512 # Cannot move capital away from this province & no power cos
 		MIL = 2
 		ADM = 2
 	}
+}
+
+1816.1.1 = {
+	government_rank = 2
 }

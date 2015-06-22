@@ -1,12 +1,6 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 1
-#innovative_narrowminded = 1
-mercantilism = 0.2
-#offensive_defensive = 1
-#land_naval = -1
-#quality_quantity = 1
-#serfdom_freesubjects = -5
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.25
 technology_group = eastern
 primary_culture = hungarian
 religion = catholic
@@ -53,6 +47,8 @@ capital = 1951	# Alba Iulia
 		mil = 2
 	}
 }
+
+1526.8.30 = { government_rank = 2 }
 
 1540.7.22 = {
 	monarch = {

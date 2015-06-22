@@ -1,5 +1,4 @@
-name = "Guerre golcondo-bastari" #Unsuccessfull attack
-#casus_belli = cb_border_war
+name = "Guerre golcondo-bastari"
 war_goal = {
 	type = take_border
 	casus_belli = cb_border_war

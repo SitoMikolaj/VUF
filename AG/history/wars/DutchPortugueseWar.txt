@@ -1,5 +1,4 @@
 name = "Guerre néerlando-portugaise"
-#casus_belli = cb_colonial
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 10	# percent
 			country = POR
 		}
-		result = loss
+		result = no
 	}
 }
 

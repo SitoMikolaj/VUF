@@ -1,5 +1,4 @@
 name = "Guerre bengalo-britannique"
-#casus_belli = cb_conquest
 war_goal = {
 	type = superiority_overseas
 	casus_belli = cb_overseas

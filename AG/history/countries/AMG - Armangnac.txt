@@ -1,5 +1,5 @@
-government = feudal_county
-mercantilism = 0.1
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 primary_culture = gascon
 religion = catholic
@@ -210,6 +210,8 @@ fixed_capital = 175 # Cannot move capital away from this province & no power cos
 	}
 }
 		
+1525.4.12 = { government = despotic_monarchy }
+
 1525.4.12 = {
 	monarch = {
 		name = "Marguerite I"
@@ -291,6 +293,8 @@ fixed_capital = 175 # Cannot move capital away from this province & no power cos
 
 1560.1.1 = { religion = reformed }
 
+1562.11.18 = { government = administrative_monarchy }
+
 1572.6.9 = {
 	monarch = {
 		name = "Henri IV"
@@ -302,3 +306,5 @@ fixed_capital = 175 # Cannot move capital away from this province & no power cos
 		leader = {	name = "Henri IV"	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0 }
 	}
 }
+
+1661.3.9 = { government = absolute_monarchy }

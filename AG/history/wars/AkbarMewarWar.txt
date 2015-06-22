@@ -1,5 +1,4 @@
 name = "Prise de Chitorgârh"
-#casus_belli = cb_vassalize_mission
 war_goal = {
 	type = take_capital_vassalize
 	casus_belli = cb_vassalize_mission

@@ -1,5 +1,4 @@
-name = "Seconde guerre de Kalpî" #Really quite a few of them
-#casus_belli = cb_border_war
+name = "Seconde guerre de Kalpî"
 war_goal = {
 	type = take_border
 	casus_belli = cb_border_war

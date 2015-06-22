@@ -1,73 +1,57 @@
 #110 - Trent
 
-owner = HAB
-controller = HAB
-add_core = STY
+owner = TTE
+controller = TTE
+add_core = TTE
 add_core = HAB
-add_core = TIR
 culture = austrian
 religion = catholic
 hre = yes
-base_tax = 4
+base_tax = 4 
+base_production = 4
 trade_goods = iron 
-manpower = 1
-fort1 = yes
+base_manpower = 1
 capital = "Trent"
-citysize = 8000
-marketplace = yes
+is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1379.9.9 = { owner = STY controller = STY }
-1406.6.15 = { owner = TIR controller = TIR remove_core = STY }
-1450.1.1 = { citysize = 10000 }
-1490.1.1 = { owner = HAB controller = HAB } # Sigismond I de Tyrolm doit abdiquer à cause d'une révolte généralisée
-1511.6.23  = { manpower = 0.5 } # Landslibell - Tyrolean's only military duty is the defence of their homeland. 
-1525.3.1 = { unrest = 8 }
-1525.9.1 = { unrest = 0 }
-1550.1.1 = { citysize = 15000 }
-1564.7.25 = {
+1511.6.23 = { base_manpower = 0.5 } # Landslibell - Tyrolean's only military duty is the defence of their homeland. 
+1525.3.1 = { revolt = { type = anti_tax_rebels size = 0 name = "Bauernkrieg" } controller = REB }
+1525.9.1 = { revolt = { } controller = TTE }
+1564.7.25 = { base_manpower = 1 } #Ferdinand I dies, Habsburgs split in 3 lines
+1567.1.1 = { owner = HAB controller = HAB } # Invasion de Ferdinand II
+1577.1.1 = { base_tax = 3 
+base_production = 3 } #Minting moves from Meran to Hall
+1578.1.1 = { owner = TTE controller = TTE } # La diète impériale rétabli l'évéché
+1602.1.1 = { base_tax = 4 
+base_production = 4 } #Maximilian's economic reforms
+1662.12.30 = { 
 	owner = TIR
 	controller = TIR
-	manpower = 1 
-	} #Ferdinand I dies, Habsburgs split in 3 lines
-1577.1.1 = { base_tax = 3 } #Minting moves from Meran to Hall
-1595.1.24 = {	
-	owner = HAB
-	controller = HAB
-}
-1600.1.1 = { workshop = yes } 
-1602.1.1 = { 
-	owner = TIR
-	controller = TIR
-	base_tax = 4
-	} #Maximilian's economic reforms
-1611.1.1 = { citysize = 14000 } #great plague
-1646.1.1 = { fort2 = yes }
-1650.1.1 = { citysize = 18000 }
+	add_core = TIR
+} # Sigismond François intègre la principauté au duché de Tyrol 
 1665.6.25  = { 
 	owner = HAB
 	controller = HAB
-	manpower = 0.5 
 	remove_core = TIR
-}# manpower decreased as Landslibell is still in effect under foreign governance
-1700.1.1 = { citysize = 20000 }
-1750.1.1 = { citysize = 22000 }
+	base_manpower = 0.5 
+}# base_manpower decreased as Landslibell is still in effect under foreign governance
 1805.12.26 = {	
 	owner = BAV
 	controller = BAV
 	add_core = BAV
 	remove_core = HAB
 } # The Treaty of Pressburg
-1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 1809.10.14 = {	owner = ITA
 	controller = ITA
 	add_core = ITA
 	remove_core = BAV
 } # Incorporated into the Kingdom of Italy after the treaty of Schönbrunn
-1814.4.11  = {	owner = HAB
+1814.4.11 = {	owner = HAB
 	controller = HAB
 	add_core = HAB
 	remove_core = ITA

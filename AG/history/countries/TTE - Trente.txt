@@ -1,0 +1,308 @@
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 110	# Trente
+
+1348.1.1 = {
+	monarch = {
+		name = "Giovanni III"
+		birth_date = 1280.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1349.1.1 = {
+	monarch = {
+		name = "Meinhard"
+		birth_date = 1300.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1363.1.1 = {
+	monarch = {
+		name = "Albrecht V"
+		birth_date = 1320.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1390.1.1 = {
+	monarch = {
+		name = "Armand I"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1422.1.1 = {
+	monarch = {
+		name = "Heinrich IV"
+		birth_date = 1350.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1423.1.1 = {
+	monarch = {
+		name = "Alexandre I"
+		birth_date = 1380.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Benoît I"
+		birth_date = 1390.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1446.1.1 = {
+	monarch = {
+		name = "Georg II"
+		birth_date =1380.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1465.1.1 = {
+	monarch = {
+		name = "Johann IV"
+		birth_date = 1410.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1486.1.1 = {
+	monarch = {
+		name = "Ulrich III"
+		birth_date = 1420.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1493.1.1 = {
+	monarch = {
+		name = "Ulrich IV"
+		birth_date = 1430.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1505.1.1 = {
+	monarch = {
+		name = "Georg III"
+		birth_date = 1450.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1514.6.1 = {
+	monarch = {
+		name = "Bernardo III"
+		birth_date = 1470.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1539.7.30 = {
+	monarch = {
+		name = "Cristoforo I"
+		birth_date = 1490.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1567.11.14 = {
+	monarch = {
+		name = "Ludovico I"
+		birth_date = 1520.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1600.4.20 = {
+	monarch = {
+		name = "Carlo I"
+		birth_date = 1560.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1630.1.4 = {
+	monarch = {
+		name = "Carlo II"
+		birth_date = 1600.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1659.2.7 = {
+	monarch = {
+		name = "Sigismund I Francis"
+		dynasty = "von Habsburg"
+		birth_date = 1630.11.27
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1665.6.25 = {
+	monarch = {
+		name = "Ernst I"
+		birth_date =1630.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1668.1.9 = {
+	monarch = {
+		name = "Sigismund II"
+		birth_date = 1630.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1677.4.3 = {
+	monarch = {
+		name = "Francesco I"
+		birth_date = 1630.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1689.4.28 = {
+	monarch = {
+		name = "Giuseppe I"
+		birth_date = 1650.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1696.3.8 = {
+	monarch = {
+		name = "Johann V"
+		birth_date = 1650.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1726.1.26  = {
+	monarch = {
+		name = "Antonius I"
+		birth_date = 1680.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1730.1.1  = {
+	monarch = {
+		name = "Antonius II"
+		birth_date = 1680.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1748.1.1 = {
+	monarch = {
+		name = "Leopold I"
+		birth_date = 1710.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1758.1.1 = {
+	monarch = {
+		name = "Franscesco II"
+		birth_date = 1720.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1763.8.22 = {
+	monarch = {
+		name = "Cristoforo II"
+		birth_date = 1720.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1776.5.29 = {
+	monarch = {
+		name = "Emanuel I"
+		birth_date = 1730.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1800.4.2 = {
+	monarch = {
+		name = "Emanuel II"
+		birth_date = 1760.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

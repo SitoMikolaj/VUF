@@ -32,7 +32,7 @@ war_goal = {
 			country = BRU
 		}
 		
-		result = loss
+		result = no
 	}
 }
 
@@ -55,7 +55,7 @@ war_goal = {
 			country = BRU
 		}
 		
-		result = loss
+		result = no
 	}
 }
 

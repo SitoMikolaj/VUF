@@ -1,5 +1,4 @@
 name = "Guerre du Bien Public"
-#casus_belli = cb_liberation
 war_goal = {
 	type = take_capital_liberation
 	casus_belli = cb_liberation
@@ -35,7 +34,7 @@ war_goal = {
 			losses = 47	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 

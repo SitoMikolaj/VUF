@@ -7,11 +7,11 @@ religion = hinduism
 capital = "Chaul"
 trade_goods = cotton
 hre = no
-base_tax = 3
-manpower = 2
+base_tax = 4 
+base_production = 3
+base_manpower = 2
 add_local_autonomy = 25
-citysize = 3000
-fort1 = yes
+is_city = yes
 add_core = BIJ
 discovered_by = indian
 discovered_by = muslim 
@@ -24,7 +24,6 @@ discovered_by = chinese
 	owner = VIJ
 } # Taken by Harihara II
 1444.1.1 = { add_core = BAH }
-1450.1.1 = { citysize = 12000 }
 1469.1.1 = { controller = BAH } # Taken by Bahmanis
 1470.1.1 = { owner = BAH } # Taken by Bahmanis
 1490.1.1 = {
@@ -33,9 +32,6 @@ discovered_by = chinese
 	remove_core = BAH
 } # The Breakup of the Bahmani sultanate
 1498.1.1 = { discovered_by = POR }
-1500.1.1 = { citysize = 15000 }
-#1521 - Portuguese first arrive here
-1550.1.1 = { citysize = 17000 }
 1558.1.1 = {
 	owner = POR #Portugese are the dominant power here
 	controller = POR
@@ -46,14 +42,8 @@ discovered_by = chinese
 	controller = JAJ
 	add_core = JAJ
 	capital = "Janjîra"
-	fort2 = yes
 }
-1600.1.1 = { citysize = 23000 }
-1650.1.1 = {
-	citysize = 25000
-	add_core = MAR #Maratha Identity
-}
-1700.1.1 = { citysize = 28000 }
+1650.1.1 = { add_core = MAR }
 1736.1.1 = {
 	owner = MAR
 	controller = MAR
@@ -63,8 +53,6 @@ discovered_by = chinese
 	remove_core = POR
 	capital = "Chaul"
 }
-1750.1.1 = { citysize = 31000 }
-1800.1.1 = { citysize = 35000 }
 1818.6.3 = {
 	owner = GBR
 	controller = GBR

@@ -1,5 +1,4 @@
 government = despotic_monarchy
-mercantilism = 0.1
 primary_culture = sumatran
 religion = sunni
 technology_group = chinese
@@ -27,6 +26,10 @@ capital = 620	# Siak
 	}
 }
 
+1445.1.1 = {
+	government_rank = 1
+}
+
 1459.1.1 = {
 	monarch = {
 		name = "Menradza" # fictional
@@ -35,6 +38,10 @@ capital = 620	# Siak
 		dip = 3
 		mil = 3
 	}
+}
+
+1471.1.1 = {
+	government_rank = 2
 }
 
 1489.1.1 = {

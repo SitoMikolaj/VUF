@@ -1,15 +1,8 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = 1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = lombard
+primary_culture = romagnan
 capital = 113	# Ferrara
 fixed_capital = 113 # Cannot move capital away from this province & no power cost to move to it
 
@@ -168,6 +161,7 @@ fixed_capital = 113 # Cannot move capital away from this province & no power cos
 		dip = 3
 		mil = 3
 	}
+	government_rank = 2
 }
 
 1476.7.21 = {
@@ -208,6 +202,8 @@ fixed_capital = 113 # Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 }
+
+1534.10.30 = { government = despotic_monarchy }
 
 1534.10.30 = {
 	monarch = {

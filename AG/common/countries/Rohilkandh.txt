@@ -78,7 +78,7 @@ leader_names = {
 }
 
 ship_names = {
-	Alia Betwa Fatimah Gandak Ghagra
+	Alia Betwa Fâtima Gandak Ghagra
 	Gomti Jalsena "Kala Jahazi" Khân
 	"Lal Jahazi" Nausena "Nav ka Yudh"
 	Niknaz "Nila Jahazi" Niloufa Sagar

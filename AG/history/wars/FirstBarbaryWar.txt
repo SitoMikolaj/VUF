@@ -1,5 +1,4 @@
 name = "Première guerre de Barbarie"
-#casus_belli = cb_insult
 war_goal = {
 	type = superiority_insult_mutual
 	casus_belli = cb_insult
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 2	# percent
 			country = USA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -50,7 +49,7 @@ war_goal = {
 			losses = 5	# percent
 			country = USA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -70,7 +69,7 @@ war_goal = {
 			losses = 3	# percent
 			country = USA
 		}
-		result = loss
+		result = no
 	}
 }
 

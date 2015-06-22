@@ -141,8 +141,8 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_combat_terrain_arctic"	
-		texturefile = "gfx//interface//combat_terrain_plains.tga"
+		name = "GFX_combat_terrain_tundra"	
+		texturefile = "gfx//interface//combat_terrain_marsh.tga"
 	}
 	
 	spriteType = {

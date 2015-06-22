@@ -64,7 +64,6 @@
 1751 = "Sebtah"
 1851 = "Qulumriya"
 1854 = "Naablus"
-2299 = "Bolu"
 2308 = "Jazirat Ibn Umar"
 2309 = "Sinjar"	
 2310 = "Tikrit"

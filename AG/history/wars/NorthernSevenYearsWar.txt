@@ -1,5 +1,4 @@
 name = "Guerre du Nord"
-#casus_belli = cb_restore_personal_union
 war_goal = {
 	type = take_capital_personal_union
 	casus_belli = cb_restore_personal_union
@@ -31,7 +30,7 @@ war_goal = {
 			losses = 14	#percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 

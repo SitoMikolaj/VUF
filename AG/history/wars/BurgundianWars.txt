@@ -1,5 +1,4 @@
 name = "Guerre de Bourgogne"
-#casus_belli = cb_border_war
 war_goal = {
 	type = take_border
 	casus_belli = cb_border_war
@@ -38,7 +37,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SWI
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -61,7 +60,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SWI
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -84,7 +83,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SWI
 		}
-		result = loss
+		result = no
 	}
 }
 

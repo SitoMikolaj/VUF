@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -3
-#quality_quantity = 0
-#serfdom_freesubjects = -4
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 primary_culture = bavarian
 religion = catholic
@@ -267,7 +260,7 @@ capital = 65	# München!
 	join_league = catholic
 }
 
-1623.1.1   = { elector = yes }	
+1623.2.25   = { elector = yes }	
 
 1630.1.1   = { leader = { name = "von Mercy"	type = general	rank = 0	fire = 3	shock = 3	manuever = 1	siege = 0	death_date = 1645.8.3 } }
 
@@ -467,4 +460,10 @@ capital = 65	# München!
 	}
 }
 
-1806.7.12 = { elector = no } # The HRE is formally abolished
+# Erection du Royaume par Napoléon
+
+1805.12.26 = {
+	government_rank = 2
+}
+
+1806.7.12 = { elector = no  } # The HRE is formally abolished 

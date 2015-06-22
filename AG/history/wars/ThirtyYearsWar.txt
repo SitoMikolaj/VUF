@@ -81,7 +81,7 @@ war_goal = {
 			losses = 34	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -110,7 +110,7 @@ war_goal = {
 			losses = 19	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -138,7 +138,7 @@ war_goal = {
 			losses = 11	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -176,7 +176,7 @@ war_goal = {
 			losses = 25	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -209,7 +209,7 @@ war_goal = {
 			losses = 3	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -233,7 +233,7 @@ war_goal = {
 			losses = 20	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -253,7 +253,7 @@ war_goal = {
 			losses = 42	# percent
 			country = BAV
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -292,7 +292,7 @@ war_goal = {
 			losses = 26	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 

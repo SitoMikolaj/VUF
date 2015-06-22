@@ -1,5 +1,4 @@
 name = "Guerre d'indépendance du Chili"
-#casus_belli = cb_independence_war
 war_goal = {
 	type = defend_capital_independence
 	casus_belli = cb_independence_war

@@ -1,15 +1,8 @@
-government = feudal_county
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = 0
-#serfdom_freesubjects = -4
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = bavarian
+primary_culture = swabian
 capital = 70	# Stuttgart
 
 
@@ -214,7 +207,7 @@ capital = 70	# Stuttgart
 	}
 }
 
-1495.1.1 = { 	government = feudal_duchy }
+1495.7.21 = { government_rank = 2 }
 
 1496.2.24 = {
 	monarch = {
@@ -316,6 +309,8 @@ capital = 70	# Stuttgart
 		mil = 2
 	}
 }
+
+1556.10.2 = { government = absolute_monarchy }
 
 1568.12.28 = {
 	monarch = {
@@ -452,7 +447,7 @@ capital = 70	# Stuttgart
 
 1677.6.23 = {
 	monarch = {
-		name = "(Regent Friedrich Carl)"
+		name = "(Regent Friedrich Karl)"
 		dynasty = "von Württemberg"
 		birth_date = 1652.9.12
 		adm = 2
@@ -528,7 +523,7 @@ capital = 70	# Stuttgart
 
 1737.3.12 = {
 	monarch = {
-		name = "(Karl Rudolf)"
+		name = "(Regent Karl Rudolf)"
 		dynasty = "von Württemberg"
 		birth_date = 1667.5.29
 		adm = 2
@@ -652,7 +647,14 @@ capital = 70	# Stuttgart
 	}
 }
 
+1803.2.25 = { elector = yes }
+
 1805.12.26 = { government = constitutional_monarchy }
+
+1806.7.12 = { elector = no } # The HRE is formally abolished
+
+# Royaume du Wurtemberg
+1806.7.12 = {  government_rank = 3 }
 
 1816.10.30 = {
 	monarch = {

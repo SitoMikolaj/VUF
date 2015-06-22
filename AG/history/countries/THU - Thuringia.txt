@@ -1,12 +1,5 @@
-government = feudal_county
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = 0
-#serfdom_freesubjects = -4
+government = feudal_monarchy
+government_rank = 1
 primary_culture = saxon
 religion = catholic
 technology_group = western
@@ -482,6 +475,8 @@ capital = 59	# Wittenberg
 	}
 }
 
+1746.1.1 = { government = absolute_monarchy }
+
 1748.1.19 = {
 	monarch = {
 		name = "(Regent Friedrich)"
@@ -538,9 +533,9 @@ capital = 59	# Wittenberg
 		name = "(Regent Anna Amalia)"
 		dynasty = "von Braunschweig"		
 		birth_date = 1739.10.24
-		adm = 2
-		dip = 2
-		mil = 2
+		adm = 4
+		dip = 5
+		mil = 3
 		regent = yes
 		female = yes
 	}
@@ -568,6 +563,7 @@ capital = 59	# Wittenberg
 		dip = 5
 		mil = 3
 	}
+	government = enlightened_despotism
 }
 
 1783.2.2 = {

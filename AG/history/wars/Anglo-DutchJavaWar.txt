@@ -1,5 +1,4 @@
 name = "Guerre anglo-néerlandaise de Java"
-#casus_belli = cb_colonial
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 10	# percent
 			country = NED
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -51,7 +50,7 @@ war_goal = {
 			losses = 20	# percent
 			country = NED
 		}
-		result = win
+		result = yes
 	}
 }
 

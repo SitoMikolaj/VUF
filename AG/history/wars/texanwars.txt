@@ -29,7 +29,7 @@ war_goal = {
 			losses = 100	# percent
 			country = USA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -49,7 +49,7 @@ war_goal = {
 			losses = 1	# percent
 			country = USA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -69,7 +69,7 @@ war_goal = {
 			losses = 30	# percent
 			country = USA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -89,7 +89,7 @@ war_goal = {
 			losses = 25	# percent
 			country = USA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -109,7 +109,7 @@ war_goal = {
 			losses = 25	# percent
 			country = USA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -129,7 +129,7 @@ war_goal = {
 			losses = 10	# percent
 			country = USA
 		}
-		result = loss
+		result = no
 	}
 }
 

@@ -1,5 +1,4 @@
 name = "Guerre de Cent Ans"
-#casus_belli = cb_claim_throne
 war_goal = {
 	type = take_capital_throne
 	casus_belli = cb_claim_throne
@@ -38,7 +37,7 @@ war_goal = {
 			losses = 32	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -64,7 +63,7 @@ war_goal = {
 			losses = 2	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -84,7 +83,7 @@ war_goal = {
 			losses = 20	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -104,7 +103,7 @@ war_goal = {
 			losses = 2	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -124,7 +123,7 @@ war_goal = {
 			losses = 10	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -144,7 +143,7 @@ war_goal = {
 			losses = 10	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -164,7 +163,7 @@ war_goal = {
 			losses = 20	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -184,7 +183,7 @@ war_goal = {
 			losses = 20	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -204,7 +203,7 @@ war_goal = {
 			losses = 2	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -224,7 +223,7 @@ war_goal = {
 			losses = 20	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -245,7 +244,7 @@ war_goal = {
 			losses = 1	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -265,7 +264,7 @@ war_goal = {
 			losses = 2	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -282,16 +281,10 @@ war_goal = {
 	rem_defender = BRI
 }
 
-#Special one day war to make sure FRA and BUR starts in truce, balance reasons
-#1441.1.1 = {
-#	add_attacker = BUR
-#	add_attacker = BRI
-#}
-
-#1441.1.2 = {
-#	rem_attacker = BUR
-#	rem_attacker = BRI
-#}
+# Prise de Guerche, entrée en guerre de la Bretagne
+1443.8.1 = {
+	add_defender = BRI
+}
 
 1450.4.15 = {
 	battle = {
@@ -309,7 +302,7 @@ war_goal = {
 			losses = 6	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -335,13 +328,14 @@ war_goal = {
 			losses = 1	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
 1453.7.18 = {
 	rem_attacker = ENG
 	rem_defender = FRA
+	rem_defender = BRI
 	rem_defender = ORL
 	rem_defender = AMG
 	rem_defender = PRO

@@ -262,7 +262,7 @@
 
 advisor = {
 	advisor_id = 941
-	name = "Ahmad ibn Hajar al-'Asqalânî" # Egyptian theologian
+	name = "Hajar al-'Asqalânî" # Egyptian theologian
 	location = 361 #Cairo
 	skill = 2
 	type = theologian
@@ -272,7 +272,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 942
-	name = "Giyâth ud-Dîn Jamshîd al-Kâshî" # Persian astronomer and mathematician
+	name = "Jamshîd al-Kâshî" # Persian astronomer and mathematician
 	location = 416 #Tabriz
 	skill = 2
 	type = natural_scientist
@@ -281,18 +281,8 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3300
-	name = "Eleni" #Regent And Counsellor Queen-Mother
-	location = 1213 #Shoa
-	skill = 3 
-	type = statesman 
-	date = 1450.1.1 #approx date of royal marriage.
-	death_date = 1480.1.1 #death date unknown, 30 years after start
-}
-
-advisor = {
 	advisor_id = 943
-	name = "Nûr ad-Dîn Abd ar-Rahmân Jâmî" #Nur ad-Din Abd ar-Rahman Jami, one of the greatest Persian poets 
+	name = "Abd ar-Rahmân Jâmî" #Nur ad-Din Abd ar-Rahman Jami, one of the greatest Persian poets 
 	location = 446 #Herat
 	skill = 2
 	type = artist
@@ -312,7 +302,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 945
-	name = "Nizâm ad-Dîn 'Alî Shîr Nawâ'î" #Persian poet, scholar and statesman
+	name = "Nizâm ad-Dîn Nawâ'î" #Persian poet, scholar and statesman
 	location = 446 #Herat
 	skill = 1
 	type = artist 
@@ -352,7 +342,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 949
-	name = "Bahâ' ad-Dawla Nûrbakhshî" #Baha' al-Dawlah ibn Siraj al-Din Shah Qasim ibn Muhammad al-Husayni Nurbakhshi, 15-16th century Persian physician who wrote a medical compendium  
+	name = "Bahâ' Nûrbakhshî" #Baha' al-Dawlah ibn Siraj al-Din Shah Qasim ibn Muhammad al-Husayni Nurbakhshi, 15-16th century Persian physician who wrote a medical compendium  
 	location = 428 #Ajam
 	skill = 1
 	type = natural_scientist
@@ -371,18 +361,8 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3301
-	name = "Naód Mogensa" #Mother of Emperor Lebna and member of Eleni's regency council
-	location = 1227 #Tigre, Ethiopia
-	skill = 1
-	type = statesman
-	date = 1507.1.1 #30 year old
-	death_date = 1537.1.1 #actual death unknown, 30 years after start
-}
-
-advisor = {
 	advisor_id = 951
-	name = "Muhammad ibn Ya'qûb al-Mutawakkil" #Muhammad al-Mutawakkil III. Last Caliph of the shadow Caliphate set up in Cairo under Mameluke patronage
+	name = "Muhammad al-Mutawakkil" #Muhammad al-Mutawakkil III. Last Caliph of the shadow Caliphate set up in Cairo under Mameluke patronage
 	location = 361 #Cairo
 	skill = 1
 	type = theologian
@@ -392,7 +372,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 952
-	name = "al-Hasan ibn Muhammad al-Wazzân al-Fâsî" #Hasan bin Muhammed al-Wazzan al-Fasi. Freed slave sent by the Pope to survey African muslim lands. Reconverted to Islam
+	name = "al-Hasan al-Wazzân al-Fâsî" #Hasan bin Muhammed al-Wazzan al-Fasi. Freed slave sent by the Pope to survey African muslim lands. Reconverted to Islam
 	location = 343 #Fez
 	skill = 2
 	type = diplomat
@@ -402,7 +382,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 953
-	name = "Muhammad ibn Sulaymân Fuzûlî" #pen name of the poet Muhammad ibn Suleyman, one of the greatest contributors to Turkish literature 
+	name = "Muhammad Fuzûlî" #pen name of the poet Muhammad ibn Suleyman, one of the greatest contributors to Turkish literature 
 	location = 410 #Iraq-i-Arab
 	skill = 2
 	type = artist
@@ -412,22 +392,12 @@ advisor = {
 
 advisor = {
 	advisor_id = 954
-	name = "Muhammad ibn Yûsuf al-Harawî" #Muhammad ibn Yusuf al-Harawi. Wrote a medical dictionary and encyclopedia.   
+	name = "ibn Yûsuf al-Harawî" #Muhammad ibn Yusuf al-Harawi. Wrote a medical dictionary and encyclopedia.   
 	location = 446 #Herat
 	skill = 1
 	type = natural_scientist
 	date = 1518.1.1 #wrote his medical dictionary
 	death_date = 1548.1.1 #death date unknown, 30 years after start
-}
-
-advisor = {
-	advisor_id = 3302
-	name = "Bati del Wambara" #Wife of Ahmad ibn Ibrihim al-Ghazi who forged a new marriage to avenge his death 
-	location = 1205 #Mogadishu, Somalia
-	skill = 1
-	type = diplomat
-	date = 1531.1.1 #~21 years old, gave birth to her first son
-	death_date = 1570.1.1 #dies
 }
 
 ##########################################################
@@ -436,7 +406,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 955
-	name = "Shihab ad-Dîn Ahmad ibn 'Abd al-Qâdir" #Sihab ad-Din Admad ibn 'Abd-al-Qadir, wrote narratives of Ahmad ibn Ibrihim al-Ghazi's conquests
+	name = "Shihab 'Abd al-Qâdir" #Sihab ad-Din Admad ibn 'Abd-al-Qadir, wrote narratives of Ahmad ibn Ibrihim al-Ghazi's conquests
 	location = 1205 #Mogadishu, Somalia
 	skill = 1
 	type = artist
@@ -456,7 +426,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 957
-	name = "Ahmed Bâbâ al-Massûfî at-Tinbuktî" #Ahmad Baba al Massufi. Brilliant scholar and last chancellor of the University of Sankore
+	name = "Ahmed Bâbâ al-Massûfî" #Ahmad Baba al Massufi. Brilliant scholar and last chancellor of the University of Sankore
 	location = 1132 #Timbuktu
 	skill = 2
 	type = philosopher
@@ -536,7 +506,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 965
-	name = "Sadr ad-Dîn Muhammad ash-Shîrâzî" #Persian philosopher, who led the Iranian cultural renaissance in the 17th century 
+	name = "Sadr ash-Shîrâzî" #Persian philosopher, who led the Iranian cultural renaissance in the 17th century 
 	location = 429 #Fars (Isfahan)
 	skill = 2
 	type = philosopher
@@ -556,7 +526,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 967
-	name = "Robert Shirley" #English traveller and adventurer, trained Persian army
+	name = "Sir Robert Shirley" #English traveller and adventurer, trained Persian army
 	location = 429 #Fars
 	skill = 2
 	type = army_reformer
@@ -580,7 +550,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 969
-	name = "Thomas Herbert" #English traveller and diplomat who served in Persia and Orient 
+	name = "Sir Thomas Herbert" #English traveller and diplomat who served in Persia and Orient 
 	location = 429 #Fars
 	skill = 1
 	type = diplomat
@@ -631,7 +601,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 974
-	name = "Ignatios Petros VI Shâhbadin" #Ignatius Peter VI Khaahbadine, the last Catholic Patriarch of Antioch until 1782
+	name = "Ignatios Petros VI" #Ignatius Peter VI Khaahbadine, the last Catholic Patriarch of Antioch until 1782
 	location = 377 #Aleppo
 	skill = 1
 	type = theologian
@@ -692,16 +662,6 @@ advisor = {
 	date = 1725.1.1 #~26 years old. Takes Mahé in Seychelles islands
 	death_date = 1753.11.10 #dies
 }	
-
-advisor = {
-	advisor_id = 3303
-	name = "Welete Bersabe" #Princess Walatta Bersebeh. Political influence over her son Emperor Iyoas first year reign
-	location = 1227 #Tigre, Ethiopia
-	skill = 1 
-	type = statesman
-	date = 1730.1.1 #20 years old, her husban Emperor Jiasu II dies
-	death_date = 1756.1.1 #dies
-}
 
 advisor = {
 	advisor_id = 980

@@ -1,10 +1,2 @@
 1823 = "Xiang Taeng"
 2371 = "Sipsongchutai"
-
-###############################
-# Mod Panthéon
-###############################
-
-593 = "Nakhon Si Thammarat"
-2381 = "Meuongruang Noatha"
-2382 = "Savannakhed"

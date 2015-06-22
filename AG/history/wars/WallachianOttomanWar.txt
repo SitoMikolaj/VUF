@@ -1,5 +1,4 @@
 name = "Guerre de Valachie"
-#casus_belli = cb_disloyal_vassal
 war_goal = {
 	type = take_capital_disloyal
 	casus_belli = cb_disloyal_vassal
@@ -30,7 +29,7 @@ war_goal = {
 			losses = 17	# percent
 			country = WAL
 		}
-		result = loss
+		result = no
 	}
 }
 

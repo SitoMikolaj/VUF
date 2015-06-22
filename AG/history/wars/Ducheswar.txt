@@ -29,7 +29,7 @@ war_goal = {
 			losses = 15	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -49,7 +49,7 @@ war_goal = {
 			losses = 1	# percent
 			country = PRU
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -69,7 +69,7 @@ war_goal = {
 			losses = 1	# percent
 			country = PRU
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -89,7 +89,7 @@ war_goal = {
 			losses = 7	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -110,7 +110,7 @@ war_goal = {
 			losses = 15	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -130,7 +130,7 @@ war_goal = {
 			losses = 5	# percent
 			country = PRU
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -150,7 +150,7 @@ war_goal = {
 			losses = 15	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -170,7 +170,7 @@ war_goal = {
 			losses = 15	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -190,7 +190,7 @@ war_goal = {
 			losses = 25	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -214,7 +214,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SHL
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -234,7 +234,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SHL
 		}
-		result = win
+		result = yes
 	}
 }
 

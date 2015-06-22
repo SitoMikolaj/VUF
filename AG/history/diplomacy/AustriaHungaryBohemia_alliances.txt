@@ -240,14 +240,6 @@ alliance = {
 }
 
 # The Quadruple Alliance
-#alliance = {
-#	first = HAB
-#	second = SPA
-#	start_date = 1674.1.1
-#	end_date = 1678.9.19
-#}
-
-# The Quadruple Alliance
 alliance = {
 	first = HAB
 	second = BRA
@@ -270,14 +262,6 @@ alliance = {
 	start_date = 1684.3.5
 	end_date = 1699.1.26
 }
-
-# The Grand alliance
-#alliance = {
-#	first = HAB
-#	second = BAV
-#	start_date = 1689.7.9
-#	end_date = 1700.1.1
-#}
 
 # The Grand alliance
 alliance = {
@@ -400,14 +384,6 @@ alliance = {
 }
 
 # Second Quadruple Alliance
-#alliance = {
-#	first = HAB
-#	second = GBR
-#	start_date = 1745.1.1
-#	end_date = 1748.10.18
-#}
-
-# Second Quadruple Alliance
 alliance = {
 	first = HAB
 	second = NED
@@ -521,10 +497,10 @@ alliance = {
 
 # Austria and Naples
 alliance = {
-        first = HAB
-        second = NAP
-        start_date = 1814.1.11
-        end_date = 1814.4.11
+	first = HAB
+	second = NAP
+	start_date = 1814.1.11
+	end_date = 1814.4.11
 }
 
 # Matthias Corvinus of Hungary and Beatrice of Naples
@@ -870,8 +846,24 @@ royal_marriage = {
 alliance = {
 	first = HAB
 	second = BOH
-	start_date = 1444.11.11
+	start_date = 1444.1.1
 	end_date = 1457.11.24
+}
+
+# Habsburg-Bohème
+royal_marriage = {
+	first = HAB
+	second = BOH
+	start_date = 1444.1.1
+	end_date = 1618.1.1
+}
+
+# Habsburg-Hungary
+royal_marriage = {
+	first = HAB
+	second = HUN
+	start_date = 1444.1.1
+	end_date = 1618.1.1
 }
 
 # Habsburg - Gorizia
@@ -920,4 +912,12 @@ royal_marriage = {
 	second = STY
 	start_date = 1564.7.25
 	end_date = 1637.2.15
+}
+
+# Habsburg - Trente
+vassal = {
+	first = HAB
+	second = TTE
+	start_date = 1425.1.1
+	end_date = 1665.6.25
 }

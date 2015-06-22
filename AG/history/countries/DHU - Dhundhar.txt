@@ -1,5 +1,5 @@
 government = feudal_monarchy
-mercantilism = 0.1
+government_rank = 1
 primary_culture = rajput
 religion = hinduism
 technology_group = indian
@@ -402,6 +402,10 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	}
 }
 
+1707.3.15 = {
+	government_rank = 2
+}
+
 1721.1.1 = {
 	heir = {
 		name = "Isri Singh"
@@ -414,6 +418,10 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		MIL = 2
 		ADM = 0
 	}
+}
+
+1740.1.1 = {
+	government_rank = 1
 }
 
 1743.9.21 = {
@@ -486,6 +494,10 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 		MIL = 2
 		ADM = 2
 	}
+}
+
+1770.1.1 = {
+	government_rank = 2
 }
 
 1778.1.1 = {

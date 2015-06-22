@@ -27,7 +27,7 @@ war_goal = {
 			losses = 20	# percent			
 			country = BRZ	
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -49,7 +49,7 @@ war_goal = {
 			losses = 20	# percent
 			country = BRZ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -69,7 +69,7 @@ war_goal = {
 			losses = 20	# percent
 			country = BRZ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -91,7 +91,7 @@ war_goal = {
 			losses = 20	# percent
 			country = BRZ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -111,7 +111,7 @@ war_goal = {
 			losses = 10	# percent
 			country = BRZ
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -131,7 +131,7 @@ war_goal = {
 			losses = 90	# percent
 			country = BRZ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -152,7 +152,7 @@ war_goal = {
 			losses = 5	# percent
 			country = BRZ
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -172,7 +172,7 @@ war_goal = {
 			losses = 10	# percent
 			country = BRZ
 		}
-		result = win
+		result = yes
 	}
 }
 

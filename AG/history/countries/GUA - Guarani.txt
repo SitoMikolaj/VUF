@@ -1,5 +1,4 @@
-government = native_council
-mercantilism = 0.1
+government = native_council government_rank = 1
 primary_culture = guarani
 religion = animism
 technology_group = south_american
@@ -8,7 +7,7 @@ capital = 2884
 
 1444.11.11 = {
 	monarch = {
-		name = "(Conseil indigène)"
+		name = "(Grand Conseil)"
 		adm = 3
 		dip = 3
 		mil = 3

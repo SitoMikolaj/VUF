@@ -1,12 +1,5 @@
-government = feudal_county
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = 0
-#serfdom_freesubjects = -4
+government = feudal_monarchy
+government_rank = 1
 primary_culture = hannoverian
 religion = catholic
 technology_group = western
@@ -483,8 +476,6 @@ fixed_capital = 55 # Cannot move capital away from this province & no power cost
 	}
 }
 
-# Traité de Tsarkoïe Selo, qui échange le duché d'Oldenbourg contre le duché d'Holstein-Gottorp
-
 1773.12.11 = {
 	monarch = {
 		name = "Paul I von Rußland"
@@ -494,8 +485,12 @@ fixed_capital = 55 # Cannot move capital away from this province & no power cost
 		dip = 2
 		mil = 1
 	}
-	government = feudal_duchy
 }
+
+# Traité de Tsarkoïe Selo, qui échange le comté d'Oldenbourg contre le duché d'Holstein-Gottorp
+# Le comté est aussi érigé en duché.
+
+1773.12.15 = { government_rank = 2 }
 
 1773.12.15 = {
 	monarch = {

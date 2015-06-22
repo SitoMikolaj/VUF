@@ -1,5 +1,4 @@
 name = "Troisième guerre turco-vénitienne"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -28,7 +27,7 @@ war_goal = {
 			losses = 13			# percent 
 			country = VEN
 		} 
-		result = win
+		result = yes
 	} 
 } 
 

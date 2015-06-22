@@ -1,5 +1,5 @@
-government = feudal_monarchy
-mercantilism = 0.1
+government = iqta
+government_rank = 1
 technology_group = indian
 religion = sunni
 primary_culture = marathi

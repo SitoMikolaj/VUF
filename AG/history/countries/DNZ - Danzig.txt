@@ -1,12 +1,6 @@
 government = oligarchic_republic
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 1
-#innovative_narrowminded = 1
-mercantilism = 0.2
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = -1
-#serfdom_freesubjects = -3
+government_rank = 1
+mercantilism = 0.25
 primary_culture = prussian
 religion = catholic
 technology_group = western

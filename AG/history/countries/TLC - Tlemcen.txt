@@ -1,5 +1,4 @@
-government = despotic_monarchy 
-mercantilism = 0.1
+government = iqta 
 technology_group = muslim
 religion = sunni
 primary_culture = berber
@@ -86,6 +85,7 @@ fixed_capital = 336 # Cannot move capital away from this province & no power cos
 		dip = 3
 		mil = 2
 	}
+	government_rank = 1
 }
 
 1505.1.1 = {
@@ -126,6 +126,9 @@ fixed_capital = 336 # Cannot move capital away from this province & no power cos
 		dip = 2
 		mil = 1
 	}
+}
+1549.1.1 = {
+	government_rank = 1
 }
 
 1550.1.1 = {

@@ -1,5 +1,4 @@
 name = "Guerre des Gorkha"
-#casus_belli = cb_liberation
 war_goal = {
 	type = superiority_punitive
 	casus_belli = cb_super_badboy

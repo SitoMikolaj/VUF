@@ -8,33 +8,24 @@ religion = nahuatl
 capital = "Tenôchtitlan" 
 trade_goods = gold
 hre = no 
-base_tax = 7
-manpower = 2 
-marketplace = yes
-citysize = 4500
+base_tax = 7 
+base_production = 7
+base_manpower = 2 
+fort_15th = yes
+is_city = yes
 discovered_by = AZT
 discovered_by = MAY
 discovered_by = ZAP
 
-1428.1.1  = { temple = yes } # The Aztec Triple Alliance
-1450.1.1  = { citysize = 5000 }
-1500.1.1  = { citysize = 5740 }
-1519.1.1  = { discovered_by = SPA }
-1521.8.13 = {	owner = SPA 
-		controller = SPA 
-		citysize = 6580
-		religion = catholic
-		culture = castillian
-		capital = "Mexico" # La Pléiade
-	    } # The last Aztec emperor surrendered, Mexico city is founded on top of the ruins 
-1546.1.1  = { add_core = SPA } 
-1550.1.1  = { citysize = 7088 }
-1600.1.1  = { citysize = 9670 } 
-1624.1.1  = { unrest = 5 } # Riots
-1626.1.1  = { unrest = 0 } 
-1650.1.1  = { citysize = 16500 } 
-1700.1.1  = { citysize = 20400 } 
-1720.1.1  = { citysize = 18000 } # Volcano eruption 
-1750.1.1  = { citysize = 54000 } 
-1800.1.1  = { citysize = 130000 }
+1519.1.1 = { discovered_by = SPA }
+1521.8.13 = {
+	owner = SPA 
+	controller = SPA
+	add_core = SPA
+	religion = catholic
+	culture = castillian
+	capital = "Mexico" # La Pléiade
+} # The last Aztec emperor surrendered, Mexico city is founded on top of the ruins 
+1624.1.1 = { unrest = 5 } # Riots
+1626.1.1 = { unrest = 0 } 
 1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence

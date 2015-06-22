@@ -1,5 +1,4 @@
 name = "Guerre de 1812"
-#casus_belli = cb_trade_war
 war_goal = {
 	type = superiority_trade_mutual
 	casus_belli = cb_trade_war
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 0	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -49,7 +48,7 @@ war_goal = {
 			losses = 30	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -69,7 +68,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SHA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -89,7 +88,7 @@ war_goal = {
 			losses = 11	# percent
 			country = SHA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -109,7 +108,7 @@ war_goal = {
 			losses = 3	# percent
 			country = SHA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -129,7 +128,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -149,7 +148,7 @@ war_goal = {
 			losses = 20	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -169,7 +168,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SHA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -189,7 +188,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SHA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -209,7 +208,7 @@ war_goal = {
 			losses = 0	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -229,7 +228,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -249,7 +248,7 @@ war_goal = {
 			losses = 20	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -269,7 +268,7 @@ war_goal = {
 			losses = 20	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -289,7 +288,7 @@ war_goal = {
 			losses = 0	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -309,7 +308,7 @@ war_goal = {
 			losses = 2	# percent
 			country = SHA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -329,7 +328,7 @@ war_goal = {
 			losses = 35	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -349,7 +348,7 @@ war_goal = {
 			losses = 100	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -369,7 +368,7 @@ war_goal = {
 			losses = 12	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -389,7 +388,7 @@ war_goal = {
 			losses = 35	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -409,7 +408,7 @@ war_goal = {
 			losses = 11	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -429,7 +428,7 @@ war_goal = {
 			losses = 100	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -449,7 +448,7 @@ war_goal = {
 			losses = 21	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -469,7 +468,7 @@ war_goal = {
 			losses = 15	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -489,7 +488,7 @@ war_goal = {
 			losses = 8	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -509,7 +508,7 @@ war_goal = {
 			losses = 20	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -529,7 +528,7 @@ war_goal = {
 			losses = 20	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -549,7 +548,7 @@ war_goal = {
 			losses = 3	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -569,7 +568,7 @@ war_goal = {
 			losses = 2	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -589,7 +588,7 @@ war_goal = {
 			losses = 10	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -609,7 +608,7 @@ war_goal = {
 			losses = 8	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -629,7 +628,7 @@ war_goal = {
 			losses = 2	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -649,7 +648,7 @@ war_goal = {
 			losses = 10	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -669,7 +668,7 @@ war_goal = {
 			losses = 100	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -690,7 +689,7 @@ war_goal = {
 			losses = 25	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -710,7 +709,7 @@ war_goal = {
 			losses = 45	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -737,7 +736,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -757,7 +756,7 @@ war_goal = {
 			losses = 4	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -777,7 +776,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -797,7 +796,7 @@ war_goal = {
 			losses = 25	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -817,7 +816,7 @@ war_goal = {
 			losses = 60	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -837,7 +836,7 @@ war_goal = {
 			losses = 100	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -857,7 +856,7 @@ war_goal = {
 			losses = 5	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -877,7 +876,7 @@ war_goal = {
 			losses = 0	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -897,7 +896,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SHA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -921,7 +920,7 @@ war_goal = {
 			losses = 90	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -941,7 +940,7 @@ war_goal = {
 			losses = 7	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -961,7 +960,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -983,7 +982,7 @@ war_goal = {
 			losses = 40	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -1003,7 +1002,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -1023,7 +1022,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -1043,7 +1042,7 @@ war_goal = {
 			losses = 3	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -1063,7 +1062,7 @@ war_goal = {
 			losses = 5	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -1083,7 +1082,7 @@ war_goal = {
 			losses = 8	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -1103,7 +1102,7 @@ war_goal = {
 			losses = 5	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -1123,7 +1122,7 @@ war_goal = {
 			losses = 12	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -1143,7 +1142,7 @@ war_goal = {
 			losses = 50	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -1163,7 +1162,7 @@ war_goal = {
 			losses = 3	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -1183,7 +1182,7 @@ war_goal = {
 			losses = 10	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -1209,7 +1208,7 @@ war_goal = {
 			losses = 1	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -1229,7 +1228,7 @@ war_goal = {
 			losses = 20	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -1249,7 +1248,7 @@ war_goal = {
 			losses = 10	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -1269,7 +1268,7 @@ war_goal = {
 			losses = 2	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 

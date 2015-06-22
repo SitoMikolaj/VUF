@@ -90,11 +90,11 @@ leader_names = {
 	Kellermann Kléber
 	"de La Barthe" "de La Ferrandie" "de Lhéry" Leclerc Lefebvre Lannes "de Laclos" Lavoisier "de Luynes" Louverture
 	"de Marguerye" "de Maurepas" Marat Maréchal Marceau Moreau Masséna Menou Murat Masséna "du Motier" "de Moncey" "Mac Donald" Murat Mortier Marmont
-	"de Neufchâtel" Ney
+	"de Neufchâtel" c
 	"d'Ornano" Oudinot
 	"de Pellefort" Pétion Pichegru
 	"de Richemont" "de Rochechouart" "de Rochemaure" "de Rieu" "de Robespierre" Roux Roland Rossignol Rivarol "Rouget de Lisle"
-	"de Saint-Chamond" "de Saint-Esprit" "de Saint-Germain" "de Saint-Omer" "de Siorac" "de Saint-just" Stendhal Sièyes "Saint-André" Santerre "de Staël" Soult "de Saint-Cyr"
+	"de Saint-Chamond" "de Saint-Esprit" "de Saint-Germain" "de Saint-Omer" "de Siorac" "de Saint-Just" Stendhal Sièyes "Saint-André" Santerre "de Staël" Soult "de Saint-Cyr"
 	"de Tocqueville" "de Tréville" "de Tailleyrand" Tallien Turreau
 	"d'Usson"
 	"de Vergennes" "de Vibien" "de Vigny" "de Villeneuve" Varlet

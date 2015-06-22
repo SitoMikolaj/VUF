@@ -70,9 +70,9 @@ ship_names = {
 }
 
 army_names = {
-	"Army of $PROVINCE$"
+	"Jaysh-al $PROVINCE$"
 }
 
 fleet_names = {
-	"Fleet of $PROVINCE$"
+	"Istawal-al $PROVINCE$"
 }

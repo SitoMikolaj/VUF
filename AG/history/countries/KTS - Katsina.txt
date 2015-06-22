@@ -1,7 +1,6 @@
 # No previous file for Katsina
 
 government = tribal_kingdom
-mercantilism = 0.1
 primary_culture = hausa
 religion = sunni
 technology_group = sub_saharan

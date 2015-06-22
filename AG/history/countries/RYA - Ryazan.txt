@@ -1,12 +1,4 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 2
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 2
-#land_naval = -3
-#quality_quantity = 2
-#serfdom_freesubjects = -5
+government = feudal_monarchy
 primary_culture = russian
 religion = orthodox
 technology_group = eastern
@@ -71,6 +63,10 @@ fixed_capital = 301 # Cannot move capital away from this province & no power cos
 		dip = 3
 		mil = 1
 	}
+}
+
+1454.1.1 = {
+	government_rank = 1
 }
 
 1456.1.1 = {

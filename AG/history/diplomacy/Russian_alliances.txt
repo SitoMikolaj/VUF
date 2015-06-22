@@ -110,14 +110,6 @@ vassal = {
 	end_date = 1477.10.9
 }
 
-# Muscovy and Crimea
-alliance = {
-	first = MOS
-	second = CRI
-	start_date = 1480.1.1
-	end_date = 1503.4.1
-}
-
 # Russia and Crimea
 alliance = {
 	first = RUS
@@ -397,30 +389,6 @@ alliance = {
 	start_date = 1813.10.18
 	end_date = 1814.11.10
 }
-
-# Vasily II pays tribute
-#tribute = {
-#	first = KAZ
-#	second = MOS
-#	start_date = 1445.10.26
-#	end_date = 1462.3.27
-#}
-#
-# Kazan pays tribte
-#tribute = {
-#	first = MOS
-#	second = KAZ
-#	start_date = 1469.9.1
-#	end_date = 1478.2.1
-#}
-#
-# Kazan pays tribte
-#tribute = {
-#	first = MOS
-#	second = KAZ
-#	start_date = 1478.9.1
-#	end_date = 1485.1.1
-#}
 
 
 #######################

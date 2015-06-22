@@ -1,5 +1,4 @@
 government = theocratic_government
-mercantilism = 0.1
 primary_culture = aimara
 religion = inti
 technology_group = andean

@@ -1,5 +1,4 @@
 name = "Croisade de Varna"
-#casus_belli = cb_crusade
 war_goal = {
 	type = superiority_crusade
 	casus_belli = cb_crusade
@@ -40,7 +39,7 @@ war_goal = {
 			losses = 25	# percent
 			country = TUR
 		}
-		result = loss
+		result = no
 	}
 }
 

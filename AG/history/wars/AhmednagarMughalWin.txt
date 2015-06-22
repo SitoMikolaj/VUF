@@ -1,5 +1,4 @@
 name = "Invasion moghole d'Ahmadnâgar"
-#casus_belli = cb_warning/defend_country
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest

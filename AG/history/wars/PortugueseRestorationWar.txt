@@ -1,5 +1,4 @@
 name = "Guerre de Restauration portugaise"
-#casus_belli = cb_restore_personal_union
 war_goal = {
 	type = take_capital_personal_union
 	casus_belli = cb_restore_personal_union
@@ -30,7 +29,7 @@ war_goal = {
 			losses = 25	# percent
 			country = POR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -53,7 +52,7 @@ war_goal = {
 			losses = 65	# percent
 			country = POR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -73,7 +72,7 @@ war_goal = {
 			losses = 5	# percent
 			country = POR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -93,7 +92,7 @@ war_goal = {
 			losses = 15	# percent
 			country = POR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -114,7 +113,7 @@ war_goal = {
 			losses = 10	# percent
 			country = POR
 		}
-		result = loss
+		result = no
 	}
 }
 

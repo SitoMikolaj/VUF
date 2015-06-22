@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -2
-#centralization_decentralization = 0
-#innovative_narrowminded = 0
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = 0
-#quality_quantity = 0
-#serfdom_freesubjects = -1
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 primary_culture = saxon
 religion = catholic
@@ -299,6 +292,8 @@ fixed_capital = 58 # Cannot move capital away from this province & no power cost
 		mil = 1
 	}
 }
+
+1806.7.12 = { government_rank = 2 }			
 
 1817.1.1 = {
 	monarch = {

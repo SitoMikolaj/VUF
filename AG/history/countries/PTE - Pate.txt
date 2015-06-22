@@ -1,5 +1,4 @@
 government = tribal_kingdom
-mercantilism = 0.1
 primary_culture = swahili
 religion = ibadi #Dominated by ibadi factions since 1408, province religion remains Sunni.
 technology_group = indian

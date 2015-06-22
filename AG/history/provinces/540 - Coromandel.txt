@@ -7,12 +7,12 @@ religion = hinduism
 capital = "Thanjâvûr"
 trade_goods = cloth
 hre = no
-base_tax = 8
-manpower = 5
-citysize = 26000
+base_tax = 8 
+base_production = 8
+base_manpower = 5
+is_city = yes
 add_core = VIJ
 add_core = MAD
-fort1 = yes
 add_local_autonomy = 25
 discovered_by = indian
 discovered_by = muslim
@@ -28,9 +28,7 @@ add_permanent_province_modifier = {
 	}
 }
 1405.1.1 = { discovered_by = chinese }
-1450.1.1 = { citysize = 28000 }
 1498.1.1 = { discovered_by = POR }
-1500.1.1 = { citysize = 31000 }
 1543.1.1 = {
 	controller = REB
 	revolt = {
@@ -39,31 +37,24 @@ add_permanent_province_modifier = {
 	}
 }
 1548.1.1 = { controller = VIJ revolt = { } }
-1550.1.1 = { citysize = 34000 }
 1565.1.26 = {
 	owner = KRK
 	controller = KRK
 	add_core = KRK
 } # The Vijayanagar empire collapses
-1600.1.1 = { citysize = 38000 }
 1649.1.1 = { controller = BIJ } # Conquered by Bijapur
 1649.12.1 = {
 	owner = BIJ
 	add_core = BIJ
 	remove_core = KRK
 } # Conquered by Bijapur
-1650.1.1 = { citysize = 32000 }
 1674.1.1 = {
 	owner = FRA
 	controller = FRA
 	add_core = FRA
 	capital = "Pondicherry"
 }
-1700.1.1 = { citysize = 35000 }
-1750.1.1 = { citysize = 65000 }
 1761.1.16 = { controller = GBR } # Third Carnatic War
 1763.2.10 = {
 	controller = FRA
-	fort1 = no	#France agrees to demilitarize it's possessions in India
 } # Returned to France
-1800.1.1 = { citysize = 25000 }

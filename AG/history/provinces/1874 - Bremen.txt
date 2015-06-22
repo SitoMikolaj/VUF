@@ -1,4 +1,4 @@
-#1874 - Cité de Bremen
+#1874 - Bremen
 
 owner = HSA
 controller = HSA
@@ -7,12 +7,13 @@ religion = catholic
 capital = "Bremen"
 trade_goods = fish
 hre = yes
-base_tax = 8
-manpower = 4
-citysize = 20500
-fort1 = yes
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes
 add_core = HSA
-temple = yes
+add_core = BRE
+fort_15th = yes
 add_local_autonomy = 50
 discovered_by = eastern
 discovered_by = western
@@ -26,30 +27,27 @@ extra_cost = 10
 		duration = -1
 	}
 }
-1450.1.1 = { citysize = 21000 }
-1500.1.1 = { citysize = 21500 }
-1510.1.1 = { fort2 = yes }
-1529.1.1 = { religion = protestant }
-1540.1.1 = { marketplace = yes }
-1550.1.1 = { citysize = 22000 constable = yes }
-1600.1.1 = { citysize = 22870 regimental_camp = yes }
-1620.1.1 = { fort3 = yes }
-1648.1.1 = { capital = "Stade" } 
-1650.1.1 = { citysize = 24600 fort4 = yes }
-1700.1.1 = { citysize = 26230 tax_assessor = yes }
-1750.1.1 = { citysize = 28000 }
-1800.1.1 = { citysize = 36000 }
+1532.1.1 = { religion = protestant }
+1563.1.1 = {
+	owner = BRE
+	controller = BRE
+} # Bremen kicked out of the Hansa due to religious conflicts
+1576.1.1 = {
+	owner = HSA
+	controller = HSA
+} # Bremen again member of the Hansa
+1627.5.1 = { controller = HAB }
+1629.5.22 = { controller = HSA }
 1803.7.5 = { controller = FRA } # French control
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1810.12.13 = {
+1811.12.13 = {
 	owner = FRA
 	controller = FRA
 	add_core = FRA
-	remove_core = WES
-} # Annexed by France
+}# Annexed by France
 1814.4.11 = {
 	owner = HAN
 	controller = HAN
 	add_core = HAN
 	remove_core = FRA
-}# Napoleon abdicated unconditionally
+}# Napoleon abdicates unconditionally

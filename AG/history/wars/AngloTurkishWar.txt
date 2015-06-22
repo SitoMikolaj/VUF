@@ -1,5 +1,4 @@
 name = "Guerre anglo-turque"
-#casus_belli = cb_warning/defend_country
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -30,7 +29,7 @@ war_goal = {
 			losses = 20	# percent
 			country = TUR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -53,7 +52,7 @@ war_goal = {
 			losses = 100	# percent
 			country = TUR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -74,7 +73,7 @@ war_goal = {
 			losses = 30	# percent
 			country = TUR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -94,7 +93,7 @@ war_goal = {
 			losses = 1	# percent
 			country = TUR
 		}
-		result = loss
+		result = no
 	}
 }
 

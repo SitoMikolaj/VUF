@@ -1,5 +1,4 @@
 name = "Guerre d'indépendance du Cooch Bihâr"
-#casus_belli = cb_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest

@@ -7,12 +7,11 @@ religion = hinduism
 capital = "Madurai"
 trade_goods = silk
 hre = no
-base_tax = 7
-manpower = 4
-citysize = 27000
+base_tax = 7 
+base_production = 7
+base_manpower = 4
+is_city = yes
 add_core = MAD
-fort1 = yes
-temple = yes #Meenakshi Temple
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -25,10 +24,8 @@ add_local_autonomy = 25
 	controller = VIJ
 }
 1405.1.1 = { discovered_by = chinese }
-1428.1.1 = { add_core = VIJ   }
-1450.1.1 = { citysize = 30000 }
+1428.1.1 = { add_core = VIJ  }
 1498.1.1 = { discovered_by = POR }
-1500.1.1 = { citysize = 33000 }
 1529.1.1 = {
 	controller = REB
 	revolt = {
@@ -47,7 +44,6 @@ add_local_autonomy = 25
 		type = nationalist_rebels
 	}
 }
-1550.1.1 = { citysize = 37000 }
 1555.1.1 = {
 	controller = VIJ
 	revolt = { }
@@ -56,9 +52,6 @@ add_local_autonomy = 25
 	owner = MAD
 	controller = MAD
 } # The Vijayanagar empire collapses, the Nayaks proclaimed themselves rulers
-1600.1.1 = { citysize = 48000 }
-1650.1.1 = { citysize = 41000 }
-1700.1.1 = { citysize = 35000 }
 1736.4.1 = {
 	owner = KRK
 	controller = KRK
@@ -74,7 +67,6 @@ add_local_autonomy = 25
 	controller = KRK
 	#Dutch traders expelled
 } #Retaken by Nizam, annexed to Carnatic
-1750.1.1 = { citysize = 31000 }
 1759.1.1 = {
 	owner = MYS
 	controller = MYS
@@ -86,4 +78,3 @@ add_local_autonomy = 25
 	add_core = GBR
 	remove_core = MYS
 } # British
-1800.1.1 = { citysize = 20000 }

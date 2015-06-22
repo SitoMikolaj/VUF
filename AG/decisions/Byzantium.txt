@@ -1,0 +1,88 @@
+country_decisions = {
+
+	reestablish_the_theme_system = {
+		potential = {
+			tag = BYZ
+			NOT = { has_country_modifier = the_theme_system }
+			OR = {
+				ai = no
+				num_of_cities = 3
+			}
+		}
+		allow = {
+			owns = 151 # Constantinople
+			owns = 149 # Edirne
+			owns = 316 # Izmit
+			owns = 317 # Hudavendigar
+			owns = 318 # Sugla (Izmir)
+			owns = 319 # Mentese
+			owns = 322 # Kütahya
+			owns = 323 # Konya
+			owns = 324 # Karaman
+			owns = 325 # Kastamonu
+			owns = 326 # Ankara
+			owns = 328 # Sinop
+			owns = 329 # Sivas
+			owns = 330 # Trebizond
+			owns = 327 # Adana
+			owns = 1846 # Amasya
+			owns = 1848 # Hamid
+			owns = 2296 # Biga
+			owns = 2297 # Saruhan
+			owns = 2298 # Tekke
+			owns = 2299 # Bolu
+			owns = 2300 # Bozok
+			owns = 2301 # Kayseri
+			owns = 2302 # Icel
+			owns = 2304 # Canik
+			owns = 2750 # Plovdiv
+		}
+		effect = {
+			149 = { change_province_name = "Adrianoúpoli" rename_capital = "Adrianoúpoli" } # CORRECTION LA PLEIADE
+			316 = { change_province_name = "Optimátoi" rename_capital = "Nikomêdeia" } # CORRECTION LA PLEIADE
+			317 = { change_province_name = "Opsíkion" rename_capital = "Proúsa" } # CORRECTION LA PLEIADE
+			318 = { change_province_name = "Smýrnê" rename_capital = "Smýrnê" } # CORRECTION LA PLEIADE
+			319 = { change_province_name = "Mylasa" rename_capital = "Moúgla" } # CORRECTION LA PLEIADE
+			322 = { change_province_name = "Kotyáeion" rename_capital = "Kotyáeion" } # CORRECTION LA PLEIADE
+			323 = { change_province_name = "Ikónion" rename_capital = "Ikónion" } # CORRECTION LA PLEIADE
+			324 = { change_province_name = "Láranda" rename_capital = "Láranda" } # CORRECTION LA PLEIADE
+			325 = { change_province_name = "Paphlagonía" rename_capital = "Ámastris" } # CORRECTION LA PLEIADE
+			326 = { change_province_name = "Boukellárion" rename_capital = "Ánkyra" } # CORRECTION LA PLEIADE
+			328 = { change_province_name = Sinôpê rename_capital = Sinôpê } # CORRECTION LA PLEIADE
+			329 = { change_province_name = "Sebásteia" rename_capital = "Sebásteia" } # CORRECTION LA PLEIADE
+			330 = { change_province_name = "Chaldía" rename_capital = "Trapezoúnta" } # CORRECTION LA PLEIADE
+			327 = { change_province_name = "Kilikía" rename_capital = "Tarsós" } # CORRECTION LA PLEIADE
+			1846 = { change_province_name = "Ármeniakón" rename_capital = "Amáseia" } # CORRECTION LA PLEIADE
+			1848 = { change_province_name = "Ánatolikón" rename_capital = "Polydórion" } # CORRECTION LA PLEIADE
+			151 = { change_province_name = "Kônstantinoúpolis" rename_capital = "Kônstantinoúpolis" } # CORRECTION LA PLEIADE
+			2296 = { change_province_name = Abydos rename_capital = Pigaí } # CORRECTION LA PLEIADE
+			2297 = { change_province_name = Thrakêsiôn rename_capital = Magnesía } # CORRECTION LA PLEIADE
+			2298 = { change_province_name = Attalía rename_capital = Attalía } # CORRECTION LA PLEIADE
+			2299 = { change_province_name = Boukellariôn rename_capital = Klaudiópol} # CORRECTION LA PLEIADE
+			2300 = { change_province_name = Kappadokía rename_capital = Tavia } # CORRECTION LA PLEIADE
+			2301 = { change_province_name = Charsianón rename_capital = Kaisáreia } # CORRECTION LA PLEIADE
+			2302 = { change_province_name = Seleúkeia rename_capital = Kermarage } # CORRECTION LA PLEIADE
+			2304 = { change_province_name = Chaldía rename_capital = Amisós} # CORRECTION LA PLEIADE
+			2750 = { change_province_name = Philippoúpolis rename_capital = Philippoúpolis}
+			if = {
+				limit = {
+					NOT = { has_global_flag = constantinople_restored }
+				}
+				151 = {
+					add_base_tax = 6
+					add_base_manpower = 5
+				}
+				set_global_flag = constantinople_restored
+			}
+						
+			add_country_modifier = {
+				name = "the_theme_system"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

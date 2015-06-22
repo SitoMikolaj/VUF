@@ -1,12 +1,5 @@
 government = merchant_republic
-#aristocracy_plutocracy = 1
-#centralization_decentralization = 3
-#innovative_narrowminded = 0
 mercantilism = 0.25
-#offensive_defensive = 2
-#land_naval = -3
-#quality_quantity = 4
-#serfdom_freesubjects = -2
 primary_culture = russian
 religion = orthodox
 technology_group = eastern
@@ -72,6 +65,10 @@ fixed_capital = 310 # Cannot move capital away from this province & no power cos
 		dip = 4
 		mil = 2
 	}
+}
+
+1456.2.1 = {
+	government_rank = 1
 }
 
 1458.3.20 = {

@@ -31,7 +31,7 @@ monarch_names = {
 	"Nûr ud-Dîn Ibrâhîm #0" = 20
 	"Yûsuf Pasaran #0" = 20
 	"Muhammad Sedo Ning Rana #0" = 20
-	"Fatima #0" = 10
+	"Fâtima #0" = 10
 	"Fath Muhammad #0" = 20
 	
 	"Arij #0" = -1

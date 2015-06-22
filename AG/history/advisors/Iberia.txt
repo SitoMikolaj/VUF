@@ -84,16 +84,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 615
-	name = "Pedro de Aviz" #The most well-travelled prince of his time, translated Seneca writings, and wrote some treaties. Considered one of the most capable statesman in the portuguese history.
-	location = 227 #Lisboa
-	skill = 2
-	type = statesman #can also be philosopher and writer
-	date = 1418.1.1 #begins voyages around european courts
-	death_date = 1449.5.20 #Battle of Alfarrobeira
-}
-
-advisor = {
 	advisor_id = 616
 	name = "João Gonçalves Zarco" #disovered Madeira
 	location = 230 #Algarve 
@@ -450,16 +440,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3325
-	name = "Teresa de Jesús" #Spanish mystic and monastic reformer
-	location = 217 #Madrid
-	skill = 2
-	type = theologian
-	date = 1545.3.28 #30 years old
-	death_date = 1582.10.4 #death
-}
-
-advisor = {
 	advisor_id = 651
 	name = "Antoine Perrenot de Granvelle" #one of the most influential of the church leaders
 	location = 193 #Franche-Comte (born there)
@@ -498,16 +478,6 @@ advisor = {
 	type = statesman #seems to be better than colonial governor
 	date = 1558.1.1 #30 years old
 	death_date = 1576.1.1 #death
-}
-
-advisor = {
-	advisor_id = 3326
-	name = "Doña Ana de Mendoza" #Doña Ana de Mendoza y Silva, Princess of Eboli
-	location = 219 #Toledo
-	skill = 1
-	type = spymaster
-	date = 1558.2.1 #18 years old
-	death_date = 1591.1.1 #Sentenced to Prison for Life
 }
 
 advisor = {
@@ -904,16 +874,6 @@ advisor = {
 	type = natural_scientist
 	date = 1709.1.1 #petition to the king
 	death_date = 1727.1.13 #death
-}
-
-advisor = {
-	advisor_id = 3327
-	name = "Isabel de Farnesio" #Wife of Phillip v effective ruler of Spain
-	location = 217 #Madrid
-	skill = 2
-	type = statesman
-	date = 1714.1.1 #21 years old, married
-	death_date = 1746.7.9 #Exiled first by his stepson, and later by her daughter in law
 }
 
 advisor = {
@@ -1373,10 +1333,9 @@ advisor = {
 # End of file
 ####################################################
 
-##################################################    
+##################################################
 # Mod Panthéon
 ##################################################
-
 advisor = {
 	advisor_id = 3085
 	name = "Bartolomé Bermejo" # Peintre

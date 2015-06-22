@@ -1,12 +1,4 @@
 government = feudal_monarchy
-#aristocracy_plutocracy = -1
-#centralization_decentralization = 3
-#innovative_narrowminded = 3
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = 4
-#quality_quantity = 0
-#serfdom_freesubjects = -1
 primary_culture = portugese
 religion = catholic
 technology_group = western
@@ -296,8 +288,6 @@ national_focus = DIP
 
 1500.1.1 = { leader = { name = "Rui Lourenço Ravasco"	type = conquistador	rank = 4	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1506.1.1 } }
 
-1500.1.1 = { mercantilism = 0.1 } # Commercial Conflict in the Indian Ocean
-
 1500.3.9 = { leader = {	name = "Pedro Álvares Cabral"  	type = explorer		rank = 6	fire = 2	shock = 2	manuever = 5	siege = 0	death_date = 1502.1.1 } }
 
 1500.5.12 = { leader = { name = "Gaspar Corte-Real" 	type = explorer		rank = 2	fire = 3	shock = 3	manuever = 5	siege = 0	death_date = 1503.1.1 } }
@@ -541,124 +531,17 @@ national_focus = DIP
 	}
 }
 
-1580.2.1 = {
-	heir = {
-		name = "Felipe"
-		monarch_name = "Felipe II"
-		dynasty = "von Habsburg"
-		birth_date = 1527.5.21
-		death_date = 1598.9.13
-		claim = 65
-		adm = 4
-		dip = 3
-		mil = 4
-	}
-}
-
-# Union personnelle avec Espagne 1580-1640
-
-1580.8.25 = {
-	monarch = {
-		name = "Felipe II"
-		dynasty = "von Habsburg"
-		birth_date = 1527.5.21
-		adm = 4
-		dip = 3
-		mil = 4
-	}
-}
-
-1580.8.28 = {
-	heir = {
-		name = "Diego Felix"
-		monarch_name = "Diego I"
-		dynasty = "von Habsburg"
-		birth_date = 1575.8.15
-		death_date = 1582.11.21
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1582.11.21 = {
-	heir = {
-		name = "Felipe"
-		monarch_name = "Felipe III"
-		dynasty = "von Habsburg"
-		birth_date = 1578.4.14
-		death_date = 1621.3.31
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
 1585.1.1 = { leader = { name = "Afonso de Castro"		type = admiral		rank = 4	fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1607.6.3 } }
 
-1595.1.1 = { leader = {	name = "Pedro Fernandes Queirós"	type = explorer		rank = 5	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1615.1.1 } }
-
-1598.9.13 = {
-	monarch = {
-		name = "Felipe III"
-		dynasty = "von Habsburg"
-		birth_date = 1578.4.14
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
+1595.1.1 = { leader = {	name = "Pedro Fernandes Queiróz"	type = explorer		rank = 5	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1615.1.1 } }
 
 1602.1.1 = { leader = {	name = "António Fernandes"     	type = explorer		rank = 9	fire = 1	shock = 1	manuever = 4	siege = 0	death_date = 1624.1.1 } }
 
-1605.4.8 = {
-	heir = {
-		name = "Felipe"
-		monarch_name = "Felipe IV"
-		dynasty = "von Habsburg"
-		birth_date = 1605.4.8
-		death_date = 1665.9.17
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 1
-	}
-}
-
-1606.1.1 = { leader = {	name = "Álvaro de Meneses"   type = admiral		rank = 1	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1620.1.1 } }
-
-1621.3.31 = {
-	monarch = {
-		name = "Felipe IV"
-		dynasty = "von Habsburg"
-		birth_date = 1578.4.14
-		adm = 2
-		dip = 3
-		mil = 1
-	}
-}
+1606.1.1 = { leader = {	name = "D. Álvaro de Meneses"   type = admiral		rank = 1	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1620.1.1 } }
 
 1624.1.1 = { leader = {	name = "Nuno Álvares Botelho"	type = admiral		rank = 1	fire = 3	shock = 2	manuever = 4	siege = 0	death_date = 1650.1.1 } }
 
-1629.10.17 = {
-	heir = {
-		name = "Baltasar Carlos"
-		monarch_name = "Baltasar I"
-		dynasty = "von Habsburg"
-		birth_date = 1629.10.17
-		death_date = 1646.10.9
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
 1637.1.1 = { leader = {	name = "Pedro Teixeira"        	type = conquistador	rank = 4	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1640.1.1 } }
-
-# Révolution et guerre d'indépendance du Portugal 
 
 1640.12.1 = {
 	monarch = {

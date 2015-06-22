@@ -1,5 +1,4 @@
 name = "Conquête des Incas"
-#casus_belli = cb_primitives
 war_goal = {
 	type = superiority_primitives
 	casus_belli = cb_primitives
@@ -27,7 +26,7 @@ war_goal = {
 			losses = 14	# percent
 			country = INC
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -49,7 +48,7 @@ war_goal = {
 			losses = 70	# percent
 			country = INC
 		}
-		result = win
+		result = yes
 	}
 }
 

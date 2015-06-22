@@ -1,5 +1,4 @@
 government = feudal_monarchy
-mercantilism = 0.1
 primary_culture = oriya
 religion = hinduism
 technology_group = indian
@@ -61,7 +60,7 @@ capital = 552	# Cuttack
 		claim = 95
 		ADM = 3
 		DIP = 2
-		MIL = 2
+		MIL = 5
 	}
 }
 
@@ -71,7 +70,7 @@ capital = 552	# Cuttack
 		dynasty = "Sûryavamshî"
 		ADM = 3
 		DIP = 2
-		MIL = 2
+		MIL = 5
 	}
 }
 
@@ -81,7 +80,7 @@ capital = 552	# Cuttack
 		dynasty = "Sûryavamshî"
 		ADM = 3
 		DIP = 2
-		MIL = 0
+		MIL = 2
 	}
 }
 
@@ -91,7 +90,7 @@ capital = 552	# Cuttack
 		dynasty = "Sûryavamshî"
 		ADM = 3
 		DIP = 2
-		MIL = 2
+		MIL = 6
 	}
 }
 

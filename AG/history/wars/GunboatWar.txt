@@ -1,5 +1,4 @@
 name = "Guerre des canonnières"
-#casus_belli = cb_insult
 war_goal = {
 	type = superiority_insult_mutual
 	casus_belli = cb_insult
@@ -30,7 +29,7 @@ war_goal = {
 			losses = 20	# percent
 			country = DAN
 		}
-		result = win
+		result = yes
 	}
 } # La flotte danoise entière est capturé après le bombardement
 
@@ -54,7 +53,7 @@ war_goal = {
 			losses = 100	# percent
 			country = DAN
 		}
-		result = win
+		result = yes
 	}
 } # La flotte danoise entière est capturé après le bombardement
 
@@ -75,7 +74,7 @@ war_goal = {
 			losses = 1	# percent
 			country = DAN
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -95,7 +94,7 @@ war_goal = {
 			losses = 20	# percent
 			country = DAN
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -115,7 +114,7 @@ war_goal = {
 			losses = 1	# percent
 			country = DAN
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -135,7 +134,7 @@ war_goal = {
 			losses = 1	# percent
 			country = DAN
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -157,7 +156,7 @@ war_goal = {
 			losses = 1	# percent
 			country = DAN
 		}
-		result = win
+		result = yes
 	}
 }
 

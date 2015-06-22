@@ -1,0 +1,591 @@
+######################################################
+# Events for testing male/female localization strings
+#
+# written by Elfryc
+######################################################
+
+
+namespace = character_events
+
+
+######################################################
+### SUMMARY EVENT ###
+######################################################
+
+country_event = {
+	id = character_events.1
+	title = character_events.1.t
+	desc = character_events.1.d
+	picture = NEW_HEIR_eventPicture
+	
+	trigger = {
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = character_events.1.a
+		define_ruler = {
+			dynasty = ROOT
+			female = yes
+		}
+	}
+	option = {
+		name = character_events.1.b
+		define_ruler = {
+			dynasty = ROOT
+		}
+	}
+	option = {
+		name = character_events.1.c
+		define_heir = {
+			dynasty = ROOT
+			female = yes
+		}
+	}
+	option = {
+		name = character_events.1.dd
+		define_heir = {
+			dynasty = ROOT
+		}
+	}
+	option = {
+		name = character_events.1.e
+		country_event = { id = character_events.2 }
+	}
+	option = {
+		name = character_events.1.f
+		country_event = { id = character_events.3 }
+	}
+	option = {
+		name = character_events.1.g
+		country_event = { id = character_events.4 }
+	}
+	option = {
+		name = character_events.1.h
+		country_event = { id = character_events.5 }
+	}
+	option = {
+		name = character_events.1.i
+		country_event = { id = character_events.6 }
+	}
+	option = {
+		name = character_events.1.j
+		country_event = { id = character_events.7 }
+	}
+	option = {
+		name = character_events.1.k
+	}
+}
+
+
+######################################################
+### ADMINISTRATIVE ADVISORS ###
+######################################################
+
+
+### FEMALE ADMINISTRATIVE ADVISORS
+country_event = {
+	id = character_events.2
+	title = character_events.2.t
+	desc = character_events.2.d
+	picture = FEMALE_SCHOLAR_eventPicture
+	
+	trigger = {
+	}
+
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			kill_advisor = philosopher
+			kill_advisor = natural_scientist
+			kill_advisor = artist
+			kill_advisor = treasurer
+			kill_advisor = theologian
+			kill_advisor = master_of_mint
+			kill_advisor = inquisitor
+		}
+	}
+
+	option = {
+		name = character_events.2.a
+		define_advisor = {
+			female = yes
+			type = philosopher
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.2.b
+		define_advisor = {
+			female = yes
+			type = natural_scientist
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.2.c
+		define_advisor = {
+			female = yes
+			type = artist
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.2.dd
+		define_advisor = {
+			female = yes
+			type = treasurer
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.2.e
+		define_advisor = {
+			female = yes
+			type = theologian
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.2.f
+		define_advisor = {
+			female = yes
+			type = master_of_mint
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.2.g
+		define_advisor = {
+			female = yes
+			type = inquisitor
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.2.h
+	}
+}
+
+
+### MALE ADMINISTRATIVE ADVISORS
+country_event = {
+	id = character_events.3
+	title = character_events.3.t
+	desc = character_events.3.d
+	picture = ADVISOR_eventPicture
+	
+	trigger = {
+	}
+
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			kill_advisor = philosopher
+			kill_advisor = natural_scientist
+			kill_advisor = artist
+			kill_advisor = treasurer
+			kill_advisor = theologian
+			kill_advisor = master_of_mint
+			kill_advisor = inquisitor
+		}
+	}
+
+	option = {
+		name = character_events.3.a
+		define_advisor = {
+			type = philosopher
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.3.b
+		define_advisor = {
+			type = natural_scientist
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.3.c
+		define_advisor = {
+			type = artist
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.3.dd
+		define_advisor = {
+			type = treasurer
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.3.e
+		define_advisor = {
+			type = theologian
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.3.f
+		define_advisor = {
+			type = master_of_mint
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.3.g
+		define_advisor = {
+			type = inquisitor
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.3.h
+	}
+}
+
+
+
+######################################################
+### DIPLOMATIC ADVISORS ###
+######################################################
+
+
+### FEMALE DIPLOMATIC ADVISORS
+country_event = {
+	id = character_events.4
+	title = character_events.4.t
+	desc = character_events.4.d
+	picture = FEMALE_RULER_eventPicture
+	
+	trigger = {
+	}
+
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			kill_advisor = statesman
+			kill_advisor = naval_reformer
+			kill_advisor = trader
+			kill_advisor = spymaster
+			kill_advisor = colonial_governor
+			kill_advisor = diplomat
+			kill_advisor = navigator
+		}
+	}
+
+	option = {
+		name = character_events.4.a
+		define_advisor = {
+			female = yes
+			type = statesman
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.4.b
+		define_advisor = {
+			female = yes
+			type = naval_reformer
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.4.c
+		define_advisor = {
+			female = yes
+			type = trader
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.4.dd
+		define_advisor = {
+			female = yes
+			type = spymaster
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.4.e
+		define_advisor = {
+			female = yes
+			type = colonial_governor
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.4.f
+		define_advisor = {
+			female = yes
+			type = diplomat
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.4.g
+		define_advisor = {
+			female = yes
+			type = navigator
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.4.h
+	}
+}
+
+
+### MALE DIPLOMATIC ADVISORS
+country_event = {
+	id = character_events.5
+	title = character_events.5.t
+	desc = character_events.5.d
+	picture = ECONOMY_eventPicture
+	
+	trigger = {
+	}
+
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			kill_advisor = statesman
+			kill_advisor = naval_reformer
+			kill_advisor = trader
+			kill_advisor = spymaster
+			kill_advisor = colonial_governor
+			kill_advisor = diplomat
+			kill_advisor = navigator
+		}
+	}
+
+	option = {
+		name = character_events.5.a
+		define_advisor = {
+			type = statesman
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.5.b
+		define_advisor = {
+			type = naval_reformer
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.5.c
+		define_advisor = {
+			type = trader
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.5.dd
+		define_advisor = {
+			type = spymaster
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.5.e
+		define_advisor = {
+			type = colonial_governor
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.5.f
+		define_advisor = {
+			type = diplomat
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.5.g
+		define_advisor = {
+			type = navigator
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.5.h
+	}
+}
+
+
+
+######################################################
+### MILITARY ADVISORS ###
+######################################################
+
+
+### FEMALE MILITARY ADVISORS
+country_event = {
+	id = character_events.6
+	title = character_events.6.t
+	desc = character_events.6.d
+	picture = FEMALE_GENERAL_eventPicture
+	
+	trigger = {
+	}
+
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			kill_advisor = army_reformer
+			kill_advisor = army_organiser
+			kill_advisor = commandant
+			kill_advisor = quartermaster
+			kill_advisor = recruitmaster
+			kill_advisor = fortification_expert
+			kill_advisor = grand_captain
+		}
+	}
+
+	option = {
+		name = character_events.6.a
+		define_advisor = {
+			female = yes
+			type = army_reformer
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.6.b
+		define_advisor = {
+			female = yes
+			type = army_organiser
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.6.c
+		define_advisor = {
+			female = yes
+			type = commandant
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.6.dd
+		define_advisor = {
+			female = yes
+			type = quartermaster
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.6.e
+		define_advisor = {
+			female = yes
+			type = recruitmaster
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.6.f
+		define_advisor = {
+			female = yes
+			type = fortification_expert
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.6.g
+		define_advisor = {
+			female = yes
+			type = grand_captain
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.6.h
+	}
+}
+
+
+### MALE MILITARY ADVISORS
+country_event = {
+	id = character_events.7
+	title = character_events.7.t
+	desc = character_events.7.d
+	picture = EXPLORERS_eventPicture
+	
+	trigger = {
+	}
+
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			kill_advisor = army_reformer
+			kill_advisor = army_organiser
+			kill_advisor = commandant
+			kill_advisor = quartermaster
+			kill_advisor = recruitmaster
+			kill_advisor = fortification_expert
+			kill_advisor = grand_captain
+		}
+	}
+
+	option = {
+		name = character_events.7.a
+		define_advisor = {
+			type = army_reformer
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.7.b
+		define_advisor = {
+			type = army_organiser
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.7.c
+		define_advisor = {
+			type = commandant
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.7.dd
+		define_advisor = {
+			type = quartermaster
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.7.e
+		define_advisor = {
+			type = recruitmaster
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.7.f
+		define_advisor = {
+			type = fortification_expert
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.7.g
+		define_advisor = {
+			type = grand_captain
+			skill = 1
+		}
+	}
+	option = {
+		name = character_events.7.h
+	}
+}

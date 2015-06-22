@@ -1,5 +1,4 @@
 name = "Guerre afghano-marathe"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = superiority_punitive
 	casus_belli = cb_super_badboy
@@ -33,7 +32,7 @@ war_goal = {
 			losses = 65	# percent
 			country = MAR
 		}
-		result = win
+		result = yes
 	}
 }
 

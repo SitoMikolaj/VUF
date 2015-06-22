@@ -283,16 +283,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3310
-	name = "Anastasia Lisovska" #Aka Roxelana, Wife of Süleyman and court schemer
-	location = 316 #Bithynia 
-	skill = 1
-	type = spymaster 
-	date = 1530.1.1 #30 years old 
-	death_date = 1558.4.17
-}
-
-advisor = {
 	advisor_id = 1195
 	name = "Seyfi Çelebi" #Traveller and  chronicler
 	location = 151 #Thrace
@@ -417,16 +407,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3311
-	name = "Safiye Baffo" #Sultana Safiye Baffo. Illegitimate Venetian captured by the Ottomans who became the power behind the thrown.
-	location = 151 #Thrace
-	skill = 2
-	type = statesman
-	date = 1560.1.1 #35 years old
-	death_date = 1618.1.1
-}
-
-advisor = {
 	advisor_id = 1207
 	name = "Sinan Pasha" #governor of Egypt, Damascus and later Grand Vizier
 	location = 151 #Thrace
@@ -434,16 +414,6 @@ advisor = {
 	type = statesman
 	date = 1569.1.1 #appointed governor of Egypt
 	death_date = 1596.4.3
-}
-
-advisor = {
-	advisor_id = 3312
-	name = "Nurbanu Valide" #Mother of Murad III and effective ruler 
-	location = 151 #Thrace
-	skill = 1
-	type = statesman
-	date = 1574.1.1 #44 years old
-	death_date = 1583.4.4
 }
 
 advisor = {
@@ -617,16 +587,6 @@ advisor = {
 }  
 
 advisor = {
-	advisor_id = 3313
-	name = "Kosem Valide" #Mother and regent of Murat IV
-	location = 151 #Thrace
-	skill = 1
-	type = statesman
-	date = 1623.1.1 #~33 years old, returned as Valide Sultan
-	death_date = 1651.9.2 #dies    
-}
- 
-advisor = {
 	advisor_id = 1225
 	name = "Karacaoglan" #Minstrel and serial seducer known as the "Bard of love"
 	location = 327 #Adana
@@ -728,16 +688,6 @@ advisor = {
 	type = theologian
 	date = 1648.1.1 #22 years old, first time he claims to be the Messiah
 	death_date = 1676.9.30
-}
-
-advisor = {
-	advisor_id = 3314
-	name = "Turhan Hatice" #Concubine to Ibrahim I and regent to her six year old son Mehmed IV. A fiery Russian red head who had her mother in law strangled
-	location = 151 #Thrace
-	skill = 1
-	type = statesman
-	date = 1648.1.1 #21 years old
-	death_date = 1682.5.5 #dies
 }
 
 advisor = {

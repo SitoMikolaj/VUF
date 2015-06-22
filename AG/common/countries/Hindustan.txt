@@ -2,18 +2,18 @@
 
 graphical_culture = indiangfx
 
-color = { 80  165  10 }
+color = { 235  255  220 }
 
 revolutionary_colors = { 6  0  10 }
 
 historical_idea_groups = {
+	humanist_ideas
 	defensive_ideas
-	offensive_ideas
 	trade_ideas
+	offensive_ideas
 	spy_ideas
 	diplomatic_ideas
 	economic_ideas
-	humanist_ideas
 	administrative_ideas
 }
 
@@ -25,106 +25,129 @@ historical_units = {
 	rajput_musketeer
 	mughal_mansabdar
 	indian_elephant
-	bhonsle_infantry
-	indian_shock_cavalry
-	maharathan_guerilla_warfare
-	sikh_rifle
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
 	tipu_sultan_rocket
 }
 
 monarch_names = {
-	"Shrîranga #0" = 60
-	"Narasimha #1" = 40
-	"Venkata #1" = 40
-	"Virûpâksha #0" = 20
-	"Dêvarâya #0" = 20
-	"Vijaya #1" = 20
-	"Praudha #0" = 20
-	"Thimma #0" = 20
-	"Vîra Narasimha #0" = 20
-	"Krishna #0" = 20
-	"Achyuta #0" = 20
-	"Sadâshiva #0" = 20
-	"Tirumala #0" = 20
-	"Râma #0" = 20
-	"Jaggâ #0" = 10
-	"Yethirâja #0" = 10
-	"Aliya Rama #0" = 5
-	"Tuluva #0" = 5
-	"Harihara #1" = 1
-	"Bukkâ #1" = 1
-	"Deva #2" = 1
-	"Râmachandra #1" = 1
-	"Vîra Vijaya Bukkâ #0" = 1
-	"Mallikarjuna #0" = 1
-	"Adarsh #0" = 2
-	"Budhil #0" = 2
-	"Chaitanya #0" = 2
-	"Devarshi #0" = 2
-	"Devilal #0" = 2
-	"Gundâ #0" = 2
-	"Hridaynath #0" = 2
-	"Koshal #0" = 2
-	"Manaprasâda #0" = 2
-	"Mârkandeya #0" = 2
-	"Pranet #0" = 2
-	"Prabuddha #0" = 2
-	"Purandaradâsa #0" = 2
-	"Rishi #0" = 2
-	"Sârasvat #0" = 2
-	"Shivappa #0" = 2
-	"Thanjâvûr #0" = 2
-	"Thirumalai #0" = 2
-	"Timma #0" = 2
-	"Utkarsh #0" = 2
-	"Vikrant #0" = 2
-	"Yachama #0" = 2
-	"Nusrat #0" = 20
-	"Sayyid Khidr #0" = 20
-	"Dawlat Khân #0" = 20
-	"Khidr Khân #0" = 20
-	"Mubârak Shâh #1" = 30
-	"Muhammad Shâh #3" = 40
-	"'Alâ' ud-Dîn 'Alam Shâh #0" = 10
-	"Bahlûl Lûdhî #0" = 20
-	"Sikander #0" = 20
-	"'Ibrâhîm #1" = 20
-	"Sher Shâh #0" = 20
-	"'Islâm Shâh #0" = 20
-	
-	"Bahîga #0" = -1
-	"Duâ #0" = -1
-	"Kânchanâ #0" = -1
+	"Taj ud-Din Firuz #0" = 20
+	"Ala ud-Din Ahmad #0" = 20
+	"Mahmud #0" = 20
+	"Ahmad #0" = 20
+	"Ali #0" = 30
+	"Qasim #0" = 30
+	"Amir #0" = 30
+	"Bahâdur Shâh #0" = 20
+	"Dâwar Bakhsh #0" = 20
+	"Farrukh-siyar #0" = 20
+	"Humâyûn #0" = 20
+	"Islâm Shâh #0" = 20
+	"Jahândâr Shâh #0" = 20
+	"Jahângîr #0" = 20
+	"Akbar #0" = 20
+	"Muhammad Shâh #0" = 20
+	"Nîkû-siyar #0" = 20
+	"Râfi' #0" = 20	
+	"Shîr Shâh #0" = 20
+	"Ibrâhim #2 Shâh" = 10
+	"'Azim-ash Sha'n #0" = 10
+	"A'zam Shâh #0" = 10
+	"Dârâ Shikûh #0" = 10
+	"Muhammad #0" = 10
+	"Makhdumah Jahan #0" = -1
+	"Ghiyas-ud-din #0" = 10
+	"Shams-ud-din #0" = 10
+	"Dilawar Khan #0" = 0
+	"Khwaja Hasan #0" = 0
+	"Khwaja -i Jahan #0" = 0
+	"Khalaf Hasan #0" = 0
+	"Mir Farrukh #0" = 0
+	"Sayid Husain #0" = 0
+	"Jalal Khan #0" = 0
+	"Majnun Sultan #0" = 0
+	"Quli Sultan #0" = 0
+	"Mahmud Gawan #0" = 0
+	"Sayid Hanif #0" = 0
+	"Imad al-Mulk #0" = 0
+	"Saif Allah #0" = 0
+	"Iftikhar al-Mulk #0" = 0
+	"Mir Abu'l-Qasim #0" = 0
+	"Ubbaid Allah #0" = 0
+	"Sayid Nasir al-Din #0" = 0
+	"Shah Khalil Allah #0" = 0
+	"Mullah Qutb al-Din #0" = 0
+	"Abd Allah #0" = 0
+	"Rustam Khan #0" = 0
+	"Mir Shams al-Din #0" = 0
+	"Qasim Beg #0" = 0
+	"Khwaja Imad al-Din #0" = 0
+	"Mir Ali #0" = 0
+	"Khusrau #0" = 0
+	"Daud Khan #0" = 0
+	"Mujahid #0" = 1
+	"Quazi Siraj-ud-din #0" = 0
+	"Fulad Khan #0" = 0
+	"Jamal-ud-din #0" = 0
+	"Abdul #0" = 0
+	"Malik #0" = 0
+	"Ala-ud-din #0" = 0
+	"Malik-ut-Tujjar #0" = 0
+	"Sikandar #0" = 0
+	"Hakim #0" = 0
+	"Samiya #0" = -1
+	"Nasiha #0" = -1
 }
 
 leader_names = {
-	Keshaw
-	Ghemawat
-	Dâsari
-	Châttârjî
-	Mâlinî
-	Mallikârjun
-	Chittûr
-	Jeûmal
-	Mayekar
-	Padmesh
-	"'Alî"
-	Âzâd
+	Afghani
+	Astarabadi	
+	Ardastani
+	Badakhshi
+	Bukhari
+	Changezi
+	Gilani
+	Ghuri
+	Hasanabadi
+	Hamadani
+	Jurjani
+	Kabuli
+	Karbali
+	Kirmani
+	Kurd
+	Mazandarani
+	Qummi
+	Safsikhan
+	Simnani
+	Sistani
+	Uzbek
+	Hussaini
+	Qadir
+	Ambar
+	Latif
+	Ameerun
+	Beg
 	Bhutto
-	Husayn
+	Chughtai
 	Jahân
+	Kamaluddin
 	Khân
-	Lûdhî
-	Lohiyâ
+	Mirza
 	Musharif
 	Nagar
-	"Nâzim ud-Dîn"
+	Nasseruddin
+	Nazirun
+	Radhidun
 	Ra'nâ
-	Sharma
+	Rumi
+	Shahabuddin
+	Sharif
 	Sinân
 	Singh
-	Sharîf
-	"Viqâr ul-Mulk"
+	Wazirun
+	Uzbek
+	Zahiruddin
 }
 
 ship_names = {

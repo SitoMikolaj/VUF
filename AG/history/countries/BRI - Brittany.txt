@@ -1,15 +1,10 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -2
-#centralization_decentralization = 2
-#innovative_narrowminded = -2
-mercantilism = 0.1
-#offensive_defensive = 2
-#land_naval = 2
-#quality_quantity = 2
-#serfdom_freesubjects = -2
+government = feudal_monarchy
+government_rank = 1
 primary_culture = breton
 religion = catholic
 technology_group = western
+historical_friend = PRO # Ajout pantheon
+historical_friend = BUR # Ajout pantheon
 capital = 172	# Nantes
 
 
@@ -323,3 +318,7 @@ capital = 172	# Nantes
 		mil = 3
 	}
 }
+
+1589.8.3 = { government = administrative_monarchy }
+
+1661.3.9 = { government = absolute_monarchy }

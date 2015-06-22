@@ -6,7 +6,6 @@ vassal = {
 	end_date = 1526.3.9
 }
 
-
 # Polish vassal
 march = {
 	first = POL
@@ -141,7 +140,7 @@ alliance = {
 #######################
 
 # Livonian Order become an autonomous branch of the Teutonic Order
-vassal = {
+alliance = {
 	first = TEU
 	second = LIV
 	start_date = 1236.1.1 #Battle of Schaulen

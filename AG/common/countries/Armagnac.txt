@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 154  182  242}
+color = { 187 206 247 }
 
 historical_idea_groups = {
 	defensive_ideas
@@ -99,7 +99,7 @@ ship_names = {
         "le Brugnens"
         "le Castera-Verduran" "le Casteljaloux" "le Castillon-Massas" "le Condom" "le Couloume-Mondebat"
         "le Duran"
-        "l'Eauze" "leEsparebent"
+        "l'Eauze" "l'Esparebent"
         "le Fleurance"
         "le Grailly"
         "le Hagetmau"

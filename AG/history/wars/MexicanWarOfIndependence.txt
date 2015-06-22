@@ -1,5 +1,4 @@
 name = "Guerre d'indépendance du Mexique"
-#casus_belli = cb_independence_war
 war_goal = {
 	type = defend_capital_independence
 	casus_belli = cb_independence_war
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 90	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -49,7 +48,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -69,7 +68,7 @@ war_goal = {
 			losses = 24	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -89,7 +88,7 @@ war_goal = {
 			losses = 12	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -109,7 +108,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -129,7 +128,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -149,7 +148,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -169,7 +168,7 @@ war_goal = {
 			losses = 20	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -189,7 +188,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -209,7 +208,7 @@ war_goal = {
 			losses = 20	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -229,7 +228,7 @@ war_goal = {
 			losses = 90	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -249,7 +248,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -269,7 +268,7 @@ war_goal = {
 			losses = 20	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -289,7 +288,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -309,7 +308,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -331,7 +330,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -351,7 +350,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -371,7 +370,7 @@ war_goal = {
 			losses = 20	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -391,7 +390,7 @@ war_goal = {
 			losses = 20	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -411,7 +410,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -431,7 +430,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -451,7 +450,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -471,7 +470,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -491,7 +490,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -511,7 +510,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -531,7 +530,7 @@ war_goal = {
 			losses = 60	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -551,7 +550,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -571,7 +570,7 @@ war_goal = {
 			losses = 45	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -591,7 +590,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -611,7 +610,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -631,7 +630,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -651,7 +650,7 @@ war_goal = {
 			losses = 25	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -671,7 +670,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -691,7 +690,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -711,7 +710,7 @@ war_goal = {
 			losses = 5	# percent
 			country = SPA
 		}
-		result = loss
+		result = no
 	}
 }
 

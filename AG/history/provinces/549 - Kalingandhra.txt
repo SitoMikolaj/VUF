@@ -7,12 +7,11 @@ religion = hinduism
 capital = "Vizianâgaram"
 trade_goods = cotton
 hre = no
-base_tax = 3
-manpower = 2
-citysize = 6000
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 add_core = ORI
-fort1 = yes
-dock = yes
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
@@ -24,7 +23,6 @@ discovered_by = chinese
 	owner = ORI
 	controller = ORI
 } # Conquered by Gajapatis
-1450.1.1 = { citysize = 8000 }
 1466.1.1 = {
 	controller = REB
 	revolt = {
@@ -35,25 +33,20 @@ discovered_by = chinese
 }
 1472.1.1 = { controller = ORI revolt = { } }
 1498.1.1 = { discovered_by = POR }
-1500.1.1 = { citysize = 10000 }
 1515.1.1 = { controller = VIJ } # Krishna raya advances along the coast
 1516.6.1 = { controller = ORI } # Orissa sues for peace
-1550.1.1 = { citysize = 12000 }
 1575.1.1 = {
 	controller = GOC
 	owner = GOC
 	add_core = GOC
 } # Conquered by Golcanda
-1600.1.1 = { citysize = 20000 }
-1650.1.1 = { citysize = 27000 }
 1686.1.1 = { controller = MUG }
 1687.1.1 = {
 	owner = MUG
 	add_core = MUG
 	remove_core = GOC
 }
-1700.1.1 = { citysize = 34000 }
-1712.1.1 = { add_core = DEC fort2 = yes }	#Viceroyalty of the Deccan
+1712.1.1 = { add_core = DEC }	#Viceroyalty of the Deccan
 1724.1.1 = {
 	owner = DEC
 	controller = DEC
@@ -63,7 +56,7 @@ discovered_by = chinese
 	owner = FRA
 	controller = FRA
 	add_core = FRA
-	citysize = 37000
+
 } # To France in exchange for aid in succession war
 1759.1.1 = { controller = GBR } # Lally withdraws all forces from the northern Circars which are then promptly seized by col. Forde
 1763.2.10 = { owner = DEC controller = DEC remove_core = FRA } #Control returned to Nizam
@@ -72,5 +65,4 @@ discovered_by = chinese
 	controller = GBR
 	add_core = GBR
 } # Northern Circars to Britain
-1800.1.1 = { citysize = 43000 }
 1823.1.1 = { remove_core = DEC } #Nizam withdraws his claims

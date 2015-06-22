@@ -1,5 +1,4 @@
 name = "Guerre folle"
-#casus_belli = cb_liberation
 war_goal = {
 	type = take_capital_liberation
 	casus_belli = cb_liberation

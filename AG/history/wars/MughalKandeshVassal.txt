@@ -1,5 +1,4 @@
 name = "Guerre entre le Khândesh et Akbar"
-#casus_belli = cb_vassalize_mission
 war_goal = {
 	type = take_capital_vassalize
 	casus_belli = cb_vassalize_mission

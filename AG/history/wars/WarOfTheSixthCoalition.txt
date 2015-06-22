@@ -1,5 +1,4 @@
 name = "Guerre de la Sixième Coalition"
-#casus_belli = cb_imperial
 war_goal = {
 	type = superiority_revolution
 	casus_belli = cb_spread_the_revolution
@@ -46,7 +45,7 @@ war_goal = {
 			losses = 8	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -66,7 +65,7 @@ war_goal = {
 			losses = 18	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -86,7 +85,7 @@ war_goal = {
 			losses = 24	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -106,7 +105,7 @@ war_goal = {
 			losses = 8	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -128,7 +127,7 @@ war_goal = {
 			losses = 33	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -148,7 +147,7 @@ war_goal = {
 			losses = 15	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -172,7 +171,7 @@ war_goal = {
 			losses = 42	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -192,7 +191,7 @@ war_goal = {
 			losses = 72	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -212,7 +211,7 @@ war_goal = {
 			losses = 3	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -232,7 +231,7 @@ war_goal = {
 			losses = 22	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -254,7 +253,7 @@ war_goal = {
 			losses = 40	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -274,7 +273,7 @@ war_goal = {
 			losses = 4	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -294,7 +293,7 @@ war_goal = {
 			losses = 7	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -314,7 +313,7 @@ war_goal = {
 			losses = 10	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -334,7 +333,7 @@ war_goal = {
 			losses = 7	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -354,7 +353,7 @@ war_goal = {
 			losses = 21	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -390,7 +389,7 @@ war_goal = {
 			losses = 27	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -410,7 +409,7 @@ war_goal = {
 			losses = 21	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -435,7 +434,7 @@ war_goal = {
 			losses = 2	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -455,7 +454,7 @@ war_goal = {
 			losses = 4	# percent
 			country = PRU
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -475,7 +474,7 @@ war_goal = {
 			losses = 18	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -495,7 +494,7 @@ war_goal = {
 			losses = 20	# percent
 			country = PRU
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -515,7 +514,7 @@ war_goal = {
 			losses = 8	# percent
 			country = SWE
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -545,7 +544,7 @@ war_goal = {
 			losses = 16	# percent
 			country = BAV
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -587,7 +586,7 @@ war_goal = {
 			losses = 21	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -618,7 +617,7 @@ war_goal = {
 			losses = 10	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -648,7 +647,7 @@ war_goal = {
 			losses = 15	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -669,7 +668,7 @@ war_goal = {
 			losses = 6	# percent
 			country = PRU
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -692,7 +691,7 @@ war_goal = {
 			losses = 66	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -714,7 +713,7 @@ war_goal = {
 			losses = 14	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -735,7 +734,7 @@ war_goal = {
 			losses = 10	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -756,7 +755,7 @@ war_goal = {
 			losses = 50	# percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -776,7 +775,7 @@ war_goal = {
 			losses = 10	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -796,7 +795,7 @@ war_goal = {
 			losses = 33 # percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -816,7 +815,7 @@ war_goal = {
 			losses = 10 # percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -836,7 +835,7 @@ war_goal = {
 			losses = 6 # percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -858,7 +857,7 @@ war_goal = {
 			losses = 5 # percent
 			country = PRU
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -878,7 +877,7 @@ war_goal = {
 			losses = 50 # percent
 			country = PRU
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -898,7 +897,7 @@ war_goal = {
 			losses = 7	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -920,7 +919,7 @@ war_goal = {
 			losses = 5	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -940,7 +939,7 @@ war_goal = {
 			losses = 8	# percent
 			country = PRU
 		}
-		result = loss
+		result = no
 	}
 }
 

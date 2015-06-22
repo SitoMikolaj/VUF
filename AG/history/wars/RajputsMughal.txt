@@ -1,5 +1,4 @@
 name = "Guerre entre les Râjpoutes et les Moghols"
-#casus_belli = cb_core
 war_goal = {
 	type = defend_capital_independence
 	casus_belli = cb_independence_war

@@ -1,12 +1,5 @@
-government = despotic_monarchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 0
-#innovative_narrowminded = 0
-mercantilism = 0.1
-#offensive_defensive = -2
-#land_naval = -1
-#quality_quantity = -1
-#serfdom_freesubjects = -1
+government = feudal_monarchy
+government_rank = 1
 technology_group = eastern
 primary_culture = greek
 religion = orthodox
@@ -71,7 +64,7 @@ fixed_capital = 145 # Cannot move capital away from this province & no power cos
 		death_date = 1465.5.12
 		claim = 75
 		dip = 5
-		adm = 7
+		adm = 6
 		mil = 3
 	}
 }
@@ -82,7 +75,7 @@ fixed_capital = 145 # Cannot move capital away from this province & no power cos
 		dynasty = "Palaiologos"
 		birth_date = 1409.1.1
 		dip = 5
-		adm = 7
+		adm = 6
 		mil = 3
 	}
 }
@@ -95,9 +88,9 @@ fixed_capital = 145 # Cannot move capital away from this province & no power cos
 		birth_date = 1407.1.1
 		death_date = 1470.1.1
 		claim = 75
-		dip = 5
-		adm = 7
-		mil = 3
+		dip = 0
+		adm = 1
+		mil = 0
 	}
 }
 

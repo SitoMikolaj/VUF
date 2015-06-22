@@ -12,6 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	quantity_ideas
 	trade_ideas
+	diplomatic_ideas
 }
 
 historical_units = {

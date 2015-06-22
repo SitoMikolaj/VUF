@@ -1,5 +1,4 @@
 name = "Guerre russo-polonaise"
-#casus_belli = cb_claim_throne
 war_goal = {
 	type = take_capital_throne
 	casus_belli = cb_claim_throne
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 20	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -52,7 +51,7 @@ war_goal = {
 			losses = 17	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -75,7 +74,7 @@ war_goal = {
 			losses = 35	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 

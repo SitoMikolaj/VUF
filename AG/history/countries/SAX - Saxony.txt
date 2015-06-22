@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = 0
-#serfdom_freesubjects = -4
+government = feudal_monarchy
+government_rank = 1
 primary_culture = saxon
 religion = catholic
 elector = yes
@@ -195,7 +188,7 @@ capital = 62 # Leipzig
 
 # Traité de Leipzig : Division du duché en deux branches. Ernest reçut la thuringe et l'électorat. Albert le duché de Saxe
 
-1485.11.11 = { elector = yes }
+1485.11.11 = { elector = no }
 
 1500.9.12 = {
 	monarch = {
@@ -716,3 +709,5 @@ capital = 62 # Leipzig
 }
 
 1806.7.12 = { elector = no } # The HRE is formally abolished
+
+1806.12.11 = { government_rank = 2 } # Création du Royaume de Saxe

@@ -1,5 +1,5 @@
-government = despotic_monarchy
-mercantilism = 0.15
+government = iqta
+government_rank = 1
 technology_group = muslim
 unit_type = sub_saharan
 religion = sunni

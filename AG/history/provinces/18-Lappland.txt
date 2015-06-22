@@ -4,9 +4,10 @@ capital = "Kien Kasjarkka"
 culture = sapmi
 religion = shamanism
 hre = no
-base_tax = 1
+base_tax = 1 
+base_production = 1
 trade_goods = unknown
-manpower = 1
+base_manpower = 1
 native_hostileness = 1
 native_size = 3
 native_ferocity = 2
@@ -15,17 +16,18 @@ discovered_by = western
 
 # Premier sceau de souveraineté réellement établit trouvé en 1550
 
-1550.1.1 = {	owner = SWE
-		controller = SWE 
-		add_core = SWE
-		is_city = yes
-		add_local_autonomy = 50
-		trade_goods = fur
-	   } 
+1550.1.1 = {
+	owner = SWE
+	controller = SWE 
+	add_core = SWE
+	is_city = yes
+	add_local_autonomy = 50
+	trade_goods = fur
+} 
 1634.1.1 = { capital = "Kengis" }
 1640.1.2 = { culture = swedish }
 1640.1.2 = { religion = protestant }
 1650.1.1 = { trade_goods = iron }
 1652.1.1 = { capital = "Kiruna" }
-1740.1.1 = { fort1 = yes }
-1800.1.1 = { fort2 = yes }
+
+

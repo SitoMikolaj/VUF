@@ -1,5 +1,4 @@
 name = "Guerre des Cent-Jours"
-#casus_belli = cb_revolutionary
 war_goal = {
 	type = war_goal_change_government_mutual
 	casus_belli = cb_revolutionary
@@ -52,7 +51,7 @@ war_goal = {
 			losses = 60	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -72,7 +71,7 @@ war_goal = {
 			losses = 17	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -92,7 +91,7 @@ war_goal = {
 			losses = 50	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -114,7 +113,7 @@ war_goal = {
 			losses = 8	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -136,7 +135,7 @@ war_goal = {
 			losses = 7	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -158,7 +157,7 @@ war_goal = {
 			losses = 5	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 

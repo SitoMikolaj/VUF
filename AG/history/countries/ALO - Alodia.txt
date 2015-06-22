@@ -1,5 +1,4 @@
-government = tribal_despotism
-mercantilism = 0.1
+government = tribal_kingdom
 primary_culture = nubian
 religion = coptic
 technology_group = muslim

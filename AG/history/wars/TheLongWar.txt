@@ -1,6 +1,5 @@
 name = "La Longue Guerre"
 
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -47,7 +46,7 @@ war_goal = {
 			losses = 65			# percent
 			country = HAB
 		} 
-		result = loss
+		result = no
 	} 
 }
 

@@ -1,12 +1,4 @@
 government = despotic_monarchy
-#aristocracy_plutocracy = -2
-#centralization_decentralization = -1
-#innovative_narrowminded = 4
-mercantilism = 0.1
-#offensive_defensive = -1
-#land_naval = 2
-#quality_quantity = -1
-#serfdom_freesubjects = -1
 primary_culture = castillian
 add_accepted_culture = sicilian
 culture_group_union = iberian
@@ -41,7 +33,7 @@ national_focus = MIL
 1516.1.23 = {
 	monarch = {
 		name = "Carlos I"
-		dynasty = "von Habsburg"		
+		dynasty = "von Habsburg"
 		birth_date = 1500.2.24
 		adm = 4
 		dip = 5
@@ -58,7 +50,7 @@ national_focus = MIL
 1519.1.12 = {
 	monarch = {
 		name = "Carlos V"	# Name change to reflect becoming Emperor of HRE
-		dynasty = "von Habsburg"		
+		dynasty = "von Habsburg"
 		birth_date = 1500.2.24
 		adm = 4
 		dip = 5
@@ -157,7 +149,7 @@ national_focus = MIL
 1556.1.16 = {
 	monarch = {
 		name = "Felipe II"
-		dynasty = "von Habsburg"		
+		dynasty = "von Habsburg"
 		birth_date = 1527.5.21
 		adm = 4
 		dip = 3
@@ -184,6 +176,13 @@ national_focus = MIL
 1568.1.1 = { leader = {	name = "Juan de Austria"    	type = general		rank = 0	fire = 4	shock = 4	manuever = 2	siege = 0	death_date = 1571.1.1 } }
 
 1568.1.1 = { leader = {	name = "Pedro Sarmiento de Gamboa" type = explorer	rank = 11	fire = 1	shock = 1	manuever = 5	siege = 0	death_date = 1584.1.1 } }
+1568.12.25 = {
+	set_country_flag = alpujarras_revolt_happened
+}
+
+1570.10.28 = {
+	set_country_flag = end_of_granada
+}
 
 1571.1.1 = { leader = {	name = "Juan Martínez de Recalde"	type = admiral	rank = 3	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1588.1.1 } }
 
@@ -218,7 +217,7 @@ national_focus = MIL
 1598.9.13 = {
 	monarch = {
 		name = "Felipe III"
-		dynasty = "von Habsburg"		
+		dynasty = "von Habsburg"
 		birth_date = 1578.4.14
 		adm = 1
 		dip = 0
@@ -546,7 +545,7 @@ national_focus = MIL
 	}
 }
 
-1808.6.6 = { government = constitutional_monarchy }
+1808.6.6 = { government = constitutional_monarchy government_rank = 1 }
 
 1808.6.6 = {
 	monarch = {
@@ -558,7 +557,7 @@ national_focus = MIL
 	}
 }
 
-1813.12.11 = { government = enlightened_despotism }
+1813.12.11 = { government = enlightened_despotism government_rank = 2 }
 
 1813.12.11 = { leader = { name = "F.J. Castaños"			type = general	rank = 1	fire = 3	shock = 4	manuever = 4	siege = 1	death_date = 1852.9.24 } }
 

@@ -106,7 +106,7 @@ leader_names = {
 }
 
 ship_names = {
-	Alia Arusa Bori Fatimah
+	Alia Arusa Bori Fâtima
 	Jalsena Girna "Kala Jahazi"
 	Khân "Lal Jahazi" Narmada Nausena
 	"Nav ka Yudh" Niknaz "Nila Jahazi"

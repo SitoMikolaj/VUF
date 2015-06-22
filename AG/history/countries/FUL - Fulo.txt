@@ -1,7 +1,4 @@
-# No previous file for Fulo
-
 government = tribal_despotism
-mercantilism = 0.1
 primary_culture = fulani
 religion = animism
 technology_group = sub_saharan

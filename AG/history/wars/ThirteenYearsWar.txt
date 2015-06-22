@@ -1,5 +1,4 @@
 name = "Guerre de Treize Ans"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 1		# percent
 			country = TEU
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -52,7 +51,7 @@ war_goal = {
 			losses = 50		# percent
 			country = TEU
 		}
-		result = win
+		result = yes
 	}
 }
 

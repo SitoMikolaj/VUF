@@ -28,7 +28,7 @@ war_goal = {
 			losses = 1	# percent			
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -48,7 +48,7 @@ war_goal = {
 			losses = 6	# percent			
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -68,7 +68,7 @@ war_goal = {
 			losses = 60	# percent			
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -88,7 +88,7 @@ war_goal = {
 			losses = 5	# percent			
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -108,7 +108,7 @@ war_goal = {
 			losses = 3	# percent			
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 

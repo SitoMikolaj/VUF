@@ -1,5 +1,4 @@
 name = "Guerre de Calicut" #many really
-#casus_belli = cb_imperial
 war_goal = {
 	type = take_colony
 	casus_belli = cb_colonial

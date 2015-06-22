@@ -1,5 +1,4 @@
 name = "Première guerre anglo-néerlandaise"
-#casus_belli = cb_trade_war
 war_goal = {
 	type = superiority_trade_mutual
 	casus_belli = cb_trade_war
@@ -26,7 +25,7 @@ war_goal = {
 			losses = 3	# percent
 			country = NED
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -46,7 +45,7 @@ war_goal = {
 			losses = 1	# percent
 			country = NED
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -66,7 +65,7 @@ war_goal = {
 			losses = 1	# percent
 			country = NED
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -86,7 +85,7 @@ war_goal = {
 			losses = 1	# percent
 			country = NED
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -106,7 +105,7 @@ war_goal = {
 			losses = 5	# percent
 			country = NED
 		}
-		result = loss
+		result = no
 	}
 }
 

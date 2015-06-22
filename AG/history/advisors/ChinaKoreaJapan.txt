@@ -290,7 +290,7 @@ advisor = {
 
 advisor = {
 	advisor_id = 349
-	name = "Li Shízhen" # Author of Ben Cao Gang Mu, Compendium of Materia Medica, among others
+	name = "Li Shizhen" # Author of Ben Cao Gang Mu, Compendium of Materia Medica, among others
 	location = 700 #Shaanxi
 	skill = 3 
 	type = natural_scientist

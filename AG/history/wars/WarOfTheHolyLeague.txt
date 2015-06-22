@@ -1,5 +1,4 @@
 name = "Guerre de la Sainte-Ligue"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -37,7 +36,7 @@ war_goal = {
 			losses = 6		# percent 
 			country = PLC
 		} 
-		result = loss
+		result = no
 	} 
 }
 
@@ -66,7 +65,7 @@ war_goal = {
 			losses = 10		# percent 
 			country = HAB
 		} 
-		result = loss
+		result = no
 	} 
 }
 
@@ -88,7 +87,7 @@ war_goal = {
 			losses = 15		# percent
 			country = HAB
 		} 
-		result = loss
+		result = no
 	} 
 }
 
@@ -112,7 +111,7 @@ war_goal = {
 			losses = 2		# percent 
 			country = HAB
 		} 
-		result = loss
+		result = no
 	} 
 }
 

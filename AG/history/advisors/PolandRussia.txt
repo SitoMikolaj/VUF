@@ -221,16 +221,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3304
-	name = "Zoe Palaiologina" # Sophia Paleologue. Second wife and influence over Ivan III. Changed the succession to her son Basil
-	location = 295 #Moskva
-	skill = 2
-	type = statesman
-	date = 1472.11.12 #17 years old, married Ivan III
-	death_date = 1503.4.7 #died
-}
-
-advisor = {
 	advisor_id = 994
 	name = "Nil Sorsky" #Nilus of Sora. Reforming cleric venerated as a saint
 	location = 306 #Nijni-Novgorod
@@ -321,16 +311,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3305
-	name = "Zalaszowska" #Catherine Zalaszowska, Religous dissident
-	location = 262 #Krakow 
-	skill = 1
-	type = theologian
-	date = 1500.1.1 #41 years old
-	death_date = 1539.1.1 #died
-}
-
-advisor = {
 	advisor_id = 1003
 	name = "Vassian Patrikeyev" #Vassian Kosoy. Leader of Boyar party and bishop of Rostov
 	location = 295 #Moskva
@@ -411,16 +391,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3306
-	name = "Elena Glinskaya" #wife of Grand Prince Vasili III and regent of Russia for 5 years 
-	location = 295 #Moskva
-	skill = 1
-	type = statesman 
-	date = 1526.1.1 #? years old, married Vasiliy III of Moscow
-	death_date = 1538.4.4
-}
-
-advisor = {
 	advisor_id = 1011
 	name = "Qolsärif" #statesman and religious leader (seid) of Khanate of Kazan, Old Tatar language-poet.
 	location = 1082 #Kazan
@@ -482,16 +452,6 @@ advisor = {
 	type = philosopher
 	date = 1541.1.1 #38 years old, returned to Poland.
 	death_date = 1572.1.1
-}
-
-advisor = {
-	advisor_id = 3307
-	name = "Söyembikä" #Tatar ruler. She was the regent of her son Kazan khan Ütämesgäräy
-	location = 1082 #Kazan
-	skill = 1
-	type = statesman
-	date = 1546.1.1 #30 years old
-	death_date = 1554.1.1 #Unknown what happened to her after this date
 }
 
 advisor = {
@@ -797,16 +757,6 @@ advisor = {
 	type = army_reformer
 	date = 1673.1.1 #30 years old
 	death_date = 1714.4.21
-}
-
-advisor = {
-	advisor_id = 3308
-	name = "Sofia Romanova" #Sister to Ivan V and Peter I, Regent for both during minority, tried to become Empress
-	location = 295 #Moskva
-	skill = 1
-	type = statesman
-	date = 1682.5.27 #24 years old, she started in politics
-	death_date = 1704.1.1
 }
 
 advisor = {
@@ -1172,16 +1122,6 @@ advisor = {
 	type = statesman 
 	date = 1776.1.1 #37 years old, Became Archbishop
 	death_date = 1794.1.1
-}
-
-advisor = {
-	advisor_id = 3309
-	name = "Y. Vorontsova" #Yekaterina Vorontsova, a major figure of the Russian Enlightenment
-	location = 295 #Moskva
-	skill = 1
-	type = artist
-	date = 1782.1.1 #38 years old, Empress had her exiled previously
-	death_date = 1810.1.4
 }
 
 advisor = { 

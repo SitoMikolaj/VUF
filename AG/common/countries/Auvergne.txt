@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 81  122  125 }
+color = { 248 207 70 }
 
 historical_idea_groups = {
 	defensive_ideas
@@ -129,7 +129,7 @@ ship_names = {
 }
 
 army_names = {
-        "Armée Ducal" "Armée d'Auvergne"  "Armée de Clermont"  "Armée de Montpensier"  "Armée du Velay"  "Armée du Brivadois" "Armée du Dauphin d'Auvergne"  "Armée de Grande Limagne" "Armée du Livradois" "Armée du Cantal" "Armée de la Margeride" "Armée de $PROVINCE$" 
+        "Armée Ducale" "Armée d'Auvergne"  "Armée de Clermont"  "Armée de Montpensier"  "Armée du Velay"  "Armée du Brivadois" "Armée du Dauphin d'Auvergne"  "Armée de Grande Limagne" "Armée du Livradois" "Armée du Cantal" "Armée de la Margeride" "Armée de $PROVINCE$" 
 }
 
 fleet_names = {

@@ -85,7 +85,7 @@ leader_names = {
 }
 
 ship_names = {
-	Alia Chambal Fatimah Jalsena Ganges
+	Alia Chambal Fâtima Jalsena Ganges
 	"Kala Jahazi" Khan "Lal Jahazi"
 	Nausena "Nav ka Yudh" Niknaz
 	"Nila Jahazi" Niloufa Noor Sagar

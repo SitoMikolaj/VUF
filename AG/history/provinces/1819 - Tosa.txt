@@ -7,11 +7,11 @@ religion = shinto
 capital = "Nakamura"
 trade_goods = fish
 hre = no
-base_tax = 2
-manpower = 3
-citysize = 5234
+base_tax = 2 
+base_production = 2
+base_manpower = 3
+is_city = yes
 add_core = HSK
-fort1 = yes
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -22,7 +22,8 @@ discovered_by = QNG
 1542.1.1 = { discovered_by = POR }
 1549.5.9 = { owner = CSK controller = CSK }
 1549.5.9 = { capital = "Ôko" }
+1549.5.9 = { fort_15th = yes } # Oko Castle, the capital of the Chosokabe clan
 1591.1.1 = { capital = "Urado" }
+1600.9.15 = { fort_15th = no } # The Chosolabe clan lost Tosa
 1600.10.21 = { add_core = DTE owner = DTE controller = DTE remove_core = CSK }
-#Battle of Sekigahara
 1614.1.1 = { capital = "Uwajima" }

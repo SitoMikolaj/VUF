@@ -1,5 +1,4 @@
 name = "Guerre austro-hongroise"
-#casus_belli = cb_loan_cancelled
 war_goal = {
 	type = superiority_loan
 	casus_belli = cb_loan_cancelled
@@ -26,7 +25,7 @@ war_goal = {
 			losses = 20	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 

@@ -1,8 +1,8 @@
 government = iqta
-mercantilism = 0.1
 technology_group = muslim
 religion = sunni
 primary_culture = tunisian
+government_rank = 1
 capital = 354	# Tripoli
 fixed_capital = 354 # Cannot move capital away from this province & no power cost to move to it
 

@@ -1,5 +1,4 @@
-government = iqta
-mercantilism = 0.1
+government = tribal_federation
 technology_group = muslim
 primary_culture = bedouin_arabic
 religion = sunni

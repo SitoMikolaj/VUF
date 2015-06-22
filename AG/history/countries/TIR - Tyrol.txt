@@ -1,12 +1,5 @@
-government = feudal_county
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = -1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = austrian
@@ -167,7 +160,7 @@ capital = 73	# Innsbruck
 
 1632.9.14 = {
 	monarch = {
-		name = "(Regent Claude)"
+		name = "(Regent Claudia)"
 		dynasty = "de'Medicis"		
 		birth_date = 1604.6.4
 		adm = 2
@@ -202,6 +195,8 @@ capital = 73	# Innsbruck
 		mil = 1
 	}
 }
+
+1646.5.17 = { government = absolute_monarchy }
 
 1646.5.17 = {
 	heir = {

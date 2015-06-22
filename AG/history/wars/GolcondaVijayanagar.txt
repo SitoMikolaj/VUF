@@ -1,5 +1,4 @@
 name = "Guerre golcondo-vijayanâgari"
-#casus_belli = cb_crusade
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest

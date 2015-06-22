@@ -2,7 +2,7 @@
 
 graphical_culture = muslimgfx
 
-color = { 98  140  84 }
+color = { 40 75 175 }
 
 historical_idea_groups = {
 	defensive_ideas
@@ -40,7 +40,7 @@ monarch_names = {
 	"Abu'l-Feiz #0" = 20
 	"Abu'l-Ghazi #0" = 20
 	"Abu'l-Khayr #0" = 20
-	"Abû 'l-Mansûr #0" = 20
+	"Abû'l-Mansûr #0" = 20
 	"Agatay #0" = 20
 	"Alim #0" = 20
 	"Anusha #0" = 20

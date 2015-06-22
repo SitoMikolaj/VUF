@@ -1,5 +1,4 @@
 name = "Guerre Dano-suédoise"
-#casus_belli = cb_restore_personal_union
 war_goal = {
 	type = take_capital_personal_union
 	casus_belli = cb_restore_personal_union

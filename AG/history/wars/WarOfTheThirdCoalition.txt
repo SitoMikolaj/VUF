@@ -1,5 +1,4 @@
 name = "Guerre de la Troisième Coalition"
-#casus_belli = cb_imperial
 war_goal = {
 	type = take_capital_revolution
 	casus_belli = cb_crush_the_revolution
@@ -54,7 +53,7 @@ war_goal = {
 			losses = 3	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -74,7 +73,7 @@ war_goal = {
 			losses = 2	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -94,7 +93,7 @@ war_goal = {
 			losses = 6	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -114,7 +113,7 @@ war_goal = {
 			losses = 16	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -134,7 +133,7 @@ war_goal = {
 			losses = 15	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -154,7 +153,7 @@ war_goal = {
 			losses = 4	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -174,7 +173,7 @@ war_goal = {
 			losses = 3	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -201,7 +200,7 @@ war_goal = {
 			losses = 22	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -221,7 +220,7 @@ war_goal = {
 			losses = 11	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -252,7 +251,7 @@ war_goal = {
 			losses = 100	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -272,7 +271,7 @@ war_goal = {
 			losses = 10	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -292,7 +291,7 @@ war_goal = {
 			losses = 22	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -312,7 +311,7 @@ war_goal = {
 			losses = 5	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -332,7 +331,7 @@ war_goal = {
 			losses = 6	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -352,7 +351,7 @@ war_goal = {
 			losses = 2	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 

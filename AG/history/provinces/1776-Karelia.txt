@@ -5,8 +5,9 @@ culture = karelian
 religion = orthodox
 hre = no
 base_tax = 1
+base_production = 1
 trade_goods = unknown
-manpower = 1
+base_manpower = 1
 discovered_by = western
 discovered_by = eastern
 
@@ -24,6 +25,5 @@ discovered_by = eastern
 	controller = MOS 
 	add_core = MOS 
 	remove_core = NOV 
-	fort1 = yes 
 	}
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }

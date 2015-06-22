@@ -7,35 +7,27 @@ religion = hinduism
 capital = "Koliabar"
 trade_goods = silk
 hre = no
-base_tax = 2
-manpower = 2
-citysize = 18000
-fort1 = yes
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 add_core = ASS
 discovered_by = indian
 discovered_by = chinese
 discovered_by = nomad_group
 
-1450.1.1 = { citysize = 20000 }
-1500.1.1 = { citysize = 21000 }
-1550.1.1 = { citysize = 23000 }
-1600.1.1 = { citysize = 25000 }
 1627.1.1 = { discovered_by = POR }
-1650.1.1 = { citysize = 27000 }
 1662.3.1 = { controller = MUG } # Mirjumla entered Gargaon
 1663.1.1 = { owner = MUG }
 1667.1.1 = { controller = ASS } # The Mughals are defeated
 1669.1.1 = { owner = ASS }	# The Mughals are defeated
-1700.1.1 = { citysize = 30000 }
-1750.1.1 = { citysize = 32000 }
 1794.12.20 = {
 	revolt = {
-		type = patriot_rebels
+		type = nationalist_rebels
 		size = 1
 		name = "Rébellion Dundiya"
 	}
 } # Dundiya rebellion
-1800.1.1 = { citysize = 35000 }
 1810.1.1 = { revolt = { } }
 1822.7.1 = { controller = TAU owner = TAU }
 1826.1.1 = { owner = GBR controller = GBR add_core = GBR }

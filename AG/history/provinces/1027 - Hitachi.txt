@@ -7,11 +7,11 @@ religion = shinto
 capital = "Ôta"
 trade_goods = fish
 hre = no
-base_tax = 2
-manpower = 2
-citysize = 15650
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
 add_core = UES
-fort1 = yes
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -21,8 +21,7 @@ discovered_by = ANU
 
 1542.1.1 = { discovered_by = POR }
 1564.1.1 = { owner = HJO controller = HJO add_core = HJO remove_core = UES}
-# Battle of Konodai
 1590.8.10 = { remove_core = HJO add_core = TKG owner = TKG controller = TKG }
 1603.3.24 = { owner = JAP controller = JAP add_core = JAP remove_core = TKG }
-# Tokugawa shogunate founded
 1609.1.1 = { capital = "Mitô" } # Mito-Tokugawa han
+1609.1.1 = { fort_15th = yes } # Mito Castle

@@ -426,16 +426,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3315
-	name = "La Malinche" #Known as Doña Marina, interpreter and mistress of Cortes
-	location = 846 #Yucatan
-	skill = 2
-	type = diplomat
-	date = 1519.1.1 #19 years old
-	death_date = 1529.1.1 #dies, some sources say 1551
-}
-
-advisor = {
 	advisor_id = 6
 	name = "Tuskaloosa" #Choctaw leader who fought off Hernando de Soto at the battle of Mabila
 	location = 919 #
@@ -650,16 +640,6 @@ advisor = {
 	type = trader 
 	date = 1610.1.1 #arrival in Jamestown following shipwreck. 25 years old.
 	death_date = 1622.1.1 #dies
-}
-
-advisor = {
-	advisor_id = 3316
-	name = "Pocahontas" #Emmisary between settlers and natives
-	location = 950 #Powhatan
-	skill = 2
-	type = diplomat
-	date = 1610.1.1 #~18 years old
-	death_date = 1617.3.21 #dies
 }
 
 advisor = {
@@ -881,16 +861,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3317
-	name = "Juana Inés de la Cruz" #Juana Inés de la Cruz, self taught Mexican scholar, nun, and writer of the baroque school
-	location = 852 #Mexico
-	skill = 2
-	type = artist #could also be philosopher
-	date = 1681.10.12 #30 years old
-	death_date = 1695.4.17 #dies
-}
-
-advisor = {
 	advisor_id = 48
 	name = "William Penn" #founded the Province of Pennsylvania
 	location = 957 #Delaware, assuming this is the correct location
@@ -1077,16 +1047,6 @@ advisor = {
 	type = diplomat 
 	date = 1755.1.1 #30 years old
 	death_date = 1763.2.10 #England owns the province
-}
-
-advisor = {
-	advisor_id = 3318
-	name = "Nanyehi" #AKA Nancy Ward. Cherokee prophetess who led warriors when at war and headed councils when at peace
-	location = 935 #Cherokee
-	skill = 1
-	type = statesman 
-	date = 1756.1.1 #18 years old
-	death_date = 1763.2.10 #Province owned by the English
 }
 
 #also present as a monarch for the Iroquois

@@ -1,5 +1,5 @@
 government = feudal_monarchy
-mercantilism = 0.1
+government_rank = 1
 primary_culture = kannada
 religion = hinduism
 technology_group = indian
@@ -22,104 +22,6 @@ fixed_capital = 533 # Cannot move capital away from this province & no power cos
 
 #Wodeyar dynasty before gaining control of Mysore:
 
-#1399.1.1 = {
-#	monarch = {
-#		name = "Yadu Raya"
-#		dynasty = "Odeyâr"
-#		ADM = 2
-#		DIP = 0
-#		MIL = 2
-#	}
-#}
-#
-#1399.1.1 = {
-#	heir = {
-#		name = "Châma"
-#		monarch_name = "Châma Râja I"
-#		dynasty = "Odeyâr"
-#		birth_date = 1399.1.1
-#		death_date = 1423.1.1
-#		claim = 95
-#		ADM = 2
-#		DIP = 3
-#		MIL = 3
-#	}
-#}
-#
-#
-#
-#1423.1.1 = {
-#	monarch = {
-#		name = "Châma Râja I"
-#		dynasty = "Odeyâr"
-#		ADM = 2
-#		DIP = 3
-#		MIL = 3
-#	}
-#}
-#
-#1423.1.1 = {
-#	heir = {
-#		name = "Timma"
-#		monarch_name = "Timma Râja I"
-#		dynasty = "Odeyâr"
-#		birth_date = 1423.1.1
-#		death_date = 1478.1.1
-#		claim = 95
-#		ADM = 1
-#		DIP = 1
-#		MIL = 1
-#	}
-#}
-#
-#1458.1.1 = {
-#	monarch = {
-#		name = "Timma Râja I"
-#		dynasty = "Odeyâr"
-#		ADM = 1
-#		DIP = 1
-#		MIL = 1
-#	}
-#}
-#
-#1458.1.1 = {
-#	heir = {
-#		name = "Châma"
-#		monarch_name = "Câma Râja II"
-#		dynasty = "Odeyâr"
-#		birth_date = 1458.1.1
-#		death_date = 1513.1.1
-#		claim = 95
-#		ADM = 2
-#		DIP = 0
-#		MIL = 0
-#	}
-#}
-#
-#1478.1.1 = {
-#	monarch = {
-#		name = "Châma Râja II"
-#		dynasty = "Odeyâr"
-#		ADM = 2
-#		DIP = 0
-#		MIL = 0
-#	}
-#}
-#
-#1478.1.1 = {
-#	heir = {
-#		name = "Châma"
-#		monarch_name = "Châma Râja III"
-#		dynasty = "Odeyâr"
-#		birth_date = 1478.1.1
-#		death_date = 1552.1.1
-#		claim = 95
-#		ADM = 3
-#		DIP = 1
-#		MIL = 2
-#	}
-#}
-#
 
 #Independent Wodeyars:
 
@@ -155,7 +57,7 @@ fixed_capital = 533 # Cannot move capital away from this province & no power cos
 		DIP = 2
 		MIL = 0
 	}
-	government = feudal_monarchy
+	government_rank = 2
 }
 
 1552.1.1 = {
@@ -457,6 +359,7 @@ fixed_capital = 533 # Cannot move capital away from this province & no power cos
 		leader = {	name = "Haydar 'Alî"          	type = general	rank = 0	fire = 4	shock = 4	manuever = 3	siege = 1 }
 	}
 	religion = sunni
+	government = iqta
 }
 
 1761.6.3 = {
@@ -495,4 +398,5 @@ fixed_capital = 533 # Cannot move capital away from this province & no power cos
 		MIL = 0
 	}
 	religion = hinduism
+	government = feudal_monarchy
 }

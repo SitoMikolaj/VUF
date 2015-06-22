@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "IMJIN_NAME"
+	desc = "IMJIN_DESC"
+	date = 1592.4.1
+	
+	country = KOR
+	country = JAP
+	country = HAB
+	country = TUR
+	country = PER
+	country = VEN
+
+}

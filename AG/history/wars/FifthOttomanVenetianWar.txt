@@ -1,5 +1,4 @@
 name = "Quatrième guerre vénéto-turque"
-#casus_belli = cb_crusade
 war_goal = {
 	type = superiority_crusade
 	casus_belli = cb_crusade
@@ -31,7 +30,7 @@ war_goal = {
 			losses = 90			# percent 
 			country = TUR
 		} 
-		result = win
+		result = yes
 	} 
 } 
 

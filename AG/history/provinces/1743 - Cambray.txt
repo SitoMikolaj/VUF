@@ -3,42 +3,30 @@
 owner = CBR
 controller = CBR
 capital = "Cambrai"
-citysize = 15500
+is_city = yes
 culture = wallonian
 religion = catholic
 hre = yes
-base_tax = 5
+base_tax = 5 
+base_production = 5
 trade_goods = grain
-manpower = 2
+base_manpower = 2
 add_core = CBR
-marketplace = yes
-fort1 = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1450.1.1 = { citysize = 27500 }
 1477.1.5 = { owner = FRA controller = FRA add_core = FRA } # Louis XI s'empare de la ville dès la mort de Charles le Téméraire
 1478.1.1 = { owner = CBR controller = CBR } # Louis XI est contraint de restituer Cambrai
-1500.1.1   = { citysize = 39000 }
-1503.1.1   = { courthouse = yes }
-1515.1.1   = { fort2 = yes }
-1550.1.1   = { citysize = 43000 }
 1559.5.12 = { owner = SPA controller = SPA add_core = SPA } # Philippe II prend le controle effectif de l'évêché mais en échange l'érige en archevéché
-1566.7.1   = { citysize = 41000 } # Famine after two harsh winters takes its toll
 1576.1.1 = { revolt = { type = heretic_rebels size = 2 } controller = REB } # Coup de force protestant de Baudoin de Gavre qui s'empare de la ville
 1579.1.6  = { revolt = {} owner = SPA unrest = 0 } # Union d'Arras
 1581.1.1 = { owner = FRA controller = FRA } # François d'Alençon s'empare de la ville
 1596.1.1 = { owner = SPA controller = SPA } # Cambrai chasse les français et se donne à l'Espagne
-1630.1.1   = { fort3 = yes }
 1657.1.1 = { controller = FRA } # Turenne réussit le siège
 1658.1.1 = { controller = SPA }
-1660.1.1   = { fort4 = yes }
 1665.9.17  = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
 1677.4.19 = { controller = FRA } # Louis XIV s'empare de la ville
 1678.8.10 = { owner = FRA controller = FRA add_core = FRA remove_core = SPA hre = no } # Traité de Nimègue
-1700.1.1   = { citysize = 50000 }
-1730.1.1   = { tax_assessor = yes }
-1789.5.5   = { base_tax = 6 } # The General Estates
-1800.1.1   = { citysize = 60000 }
+1789.5.5 = { base_tax = 6 base_production = 6 } # The General Estates

@@ -1,5 +1,4 @@
-name = "Invasion de l'Irak-i ajam"
-#casus_belli = cb_conquest
+name = "Invasion de l'Irak-i Ajam"
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest

@@ -7,28 +7,23 @@ religion = hinduism
 capital = "Jaunpur"
 trade_goods = cloth #Carpets
 hre = no
-base_tax = 6
-manpower = 3
-citysize = 65000
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
 add_core = JNP
-fort1 = yes
-fort2 = yes #Jaunpur Quilla
-temple = yes
-constable = yes
+fort_15th = yes #Jaunpur Quilla
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = chinese
 
-1450.1.1 = { citysize = 70000 }
 1486.1.1 = {
 	owner = DLH
 	controller = DLH
 	add_core = DLH
-	fort2 = no
 } # Bahlul Lodi places his eldest surviving son Barbak Shah Lodi on the throne of Jaunpur, slowly integrated into Delhi's domains after this
-1500.1.1 = { citysize = 50000 }
 1517.11.21 = {
 	controller = REB
 	revolt = {
@@ -37,11 +32,11 @@ discovered_by = chinese
 		leader = "Jalâl Khân Lûdhî"
 	}
 } #Revolt of Afghan Nobles
-1518.5.1 = { controller = DLH revolt = { } revolt_risk = 5 }
-1526.4.1  = {
+1518.5.1 = { controller = DLH revolt = { } unrest = 5 }
+1526.4.1 = {
 	controller = TIM
-	revolt_risk = 0
-	} #Conquered by Babur
+	unrest = 0
+} #Conquered by Babur
 1526.4.21 = {
 	owner = BNG
 	controller = REB
@@ -71,7 +66,6 @@ discovered_by = chinese
 	controller = BNG
 	add_core = BNG
 } # Sher Shah Conquers Delhi
-1550.1.1 = { citysize = 38000 }
 1553.1.1 = {
 	owner = JNP
 	controller = JNP
@@ -83,7 +77,6 @@ discovered_by = chinese
 1561.5.1 = { controller = MUG }
 1565.1.1 = { controller = REB revolt = { type = noble_rebels size = 2 } }	#Revolt of Uzbek commanders
 1566.6.1 = { controller = MUG revolt = { } }
-1600.1.1 = { citysize = 39000 }
 1622.10.1 = {
 	controller = REB
 	revolt = {
@@ -96,7 +89,6 @@ discovered_by = chinese
 	controller = MUG
 	revolt = { }
 } #Defeated, retreats into Bengal
-1650.1.1 = { citysize = 37000 }
 1658.1.1 = {
 	controller = REB
 	revolt = {
@@ -111,7 +103,6 @@ discovered_by = chinese
 	revolt = { }
 } # Muhammed Shuja routed in surprise raid by Suleiman Shukoh and Raja Jai Singh outside Varanasi
 1690.1.1 = { discovered_by = ENG }
-1700.1.1 = { citysize = 39000 }
 1707.5.12 = { discovered_by = GBR }
 1724.1.1 = {
 	owner = ODH
@@ -119,5 +110,3 @@ discovered_by = chinese
 	add_core = ODH
 	remove_core = MUG
 } # Foundation of the Oudh dynasty
-1750.1.1 = { citysize = 45000 }
-1800.1.1 = { citysize = 50000 }

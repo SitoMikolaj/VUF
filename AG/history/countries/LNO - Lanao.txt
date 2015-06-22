@@ -1,5 +1,4 @@
 government = noble_republic
-mercantilism = 0.1
 technology_group = chinese
 religion = sunni
 primary_culture = filipino

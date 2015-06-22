@@ -1,5 +1,4 @@
 name = "Invasion khorassane de la Transoxiane"
-#casus_belli = cb_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 10	# percent
 			country = TIM
 		}
-		result = loss	#Enemies routed, proceeds to conquer Timurid Khorasan
+		result = no	#Enemies routed, proceeds to conquer Timurid Khorasan
 	}
 }
 

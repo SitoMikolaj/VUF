@@ -1,5 +1,4 @@
 name = "Guerre de Succession d'Autriche"
-#casus_belli = cb_claim_throne
 war_goal = {
 	type = take_capital_throne
 	casus_belli = cb_claim_throne
@@ -40,7 +39,7 @@ war_goal = {
 			losses = 10	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -73,7 +72,7 @@ war_goal = {
 			losses = 1	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -117,7 +116,7 @@ war_goal = {
 			losses = 6	# percent
 			country = GBR
 		}
-		result = win
+		result = yes
 	}
 }
 

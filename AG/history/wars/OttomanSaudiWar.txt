@@ -1,5 +1,4 @@
 name = "Guerre turco-saoudienne"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -27,7 +26,7 @@ war_goal = {
 			losses = 1	# percent
 			country = NAJ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -47,7 +46,7 @@ war_goal = {
 			losses = 8	# percent
 			country = NAJ
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -67,7 +66,7 @@ war_goal = {
 			losses = 1	# percent
 			country = NAJ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -87,7 +86,7 @@ war_goal = {
 			losses = 40	# percent
 			country = NAJ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -107,7 +106,7 @@ war_goal = {
 			losses = 1	# percent
 			country = NAJ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -127,7 +126,7 @@ war_goal = {
 			losses = 83	# percent
 			country = NAJ
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -148,7 +147,7 @@ war_goal = {
 			losses = 85	# percent
 			country = NAJ
 		}
-		result = win
+		result = yes
 	}
 }
 

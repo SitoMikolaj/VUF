@@ -1,12 +1,5 @@
 government = despotic_monarchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = -1
-#quality_quantity = 1
-#serfdom_freesubjects = -5
+government_rank = 2
 primary_culture = georgian
 religion = orthodox
 technology_group = eastern
@@ -63,15 +56,20 @@ capital = 423 # T'bilisi
 	}
 }
 
+1403.1.1 = {
+	government_rank = 1
+}
+
 1405.1.1 = {
 	monarch = {
 		name = "Konstantine I"
-		dynasty = "Bagrationi"		
+		dynasty = "Bagrationi"
 		birth_date = 1369.1.1
 		adm = 1
 		dip = 1
 		mil = 1
 	}
+	government_rank = 2
 }
 
 1405.1.1 = {
@@ -770,6 +768,10 @@ capital = 423 # T'bilisi
 		dip = 0
 		mil = 2
 	}
+}
+
+1783.8.4 = {
+	government_rank = 1
 }
 
 1798.1.23 = {

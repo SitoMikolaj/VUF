@@ -1,12 +1,4 @@
 government = constitutional_monarchy
-#aristocracy_plutocracy = 5
-#centralization_decentralization = -3
-#innovative_narrowminded = 0
-mercantilism = 0.1
-#offensive_defensive = -2
-#land_naval = 0
-#quality_quantity = -4
-#serfdom_freesubjects = 1
 technology_group = western
 primary_culture = english
 add_accepted_culture = scottish
@@ -74,7 +66,6 @@ capital = 236	# London
 		female = yes
 	}
 }
-
 1707.5.12  = { changed_tag_from = ENG }
 
 1714.6.8 = {
@@ -90,7 +81,6 @@ capital = 236	# London
 		mil = 5
 	}
 }
-
 1714.8.1 = {
 	monarch = {
 		name = "George I"
@@ -236,7 +226,7 @@ capital = 236	# London
 
 1764.1.1 = { leader = {	name = "John Byron"		type = explorer	rank = 3	fire = 1	shock = 2	manuever = 1	siege = 0	death_date = 1786.4.10 } }
 
-1767.1.1 = { leader = {	name = "Samuel Hood"		type = admiral	rank = 1	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1816.1.27 } }
+1767.1.1 = { leader = {	name = "Samuel Hood" type = admiral	rank = 1	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1816.1.27 } }
 
 1768.1.1 = { leader = {	name = "James Cook"		type = explorer	rank = 7	fire = 1	shock = 1	manuever = 6	siege = 0	death_date = 1779.2.14 } }
 

@@ -1,5 +1,4 @@
 government = despotic_monarchy
-mercantilism = 0.1
 primary_culture = turkish
 add_accepted_culture = bulgarian
 add_accepted_culture = greek
@@ -9,7 +8,6 @@ historical_rival = MAM
 historical_rival = BYZ
 historical_rival = TIM
 capital = 149 # Edirne
-
 national_focus = MIL
 
 1389.6.15 = {
@@ -142,6 +140,7 @@ national_focus = MIL
 
 1459.1.1 = { 
 		decision = make_constantinople_capital
+		government_rank = 3
 		capital = 151
 } # Thrace
 
@@ -237,6 +236,8 @@ national_focus = MIL
 		leader = { name = "Süleyman I Kanuni"     type = general	rank = 0	fire = 5	shock = 3	manuever = 4	siege = 2}
 	}
 }
+
+
 
 1523.1.1 = { leader = {	name = "Ibrahim"               	type = general		rank = 0	fire = 4	shock = 3	manuever = 4	siege = 0	death_date = 1536.1.1 } }
 

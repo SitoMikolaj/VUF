@@ -1,5 +1,4 @@
 name = "Quatrième guerre anglo-mysorienne"
-#casus_belli = cb_liberation
 war_goal = {
 	type = superiority_overseas
 	casus_belli = cb_overseas
@@ -26,7 +25,7 @@ war_goal = {
 			losses = 20	# percent
 			country = MYS		
 		}
-		result = win
+		result = yes
 	}
 }
 

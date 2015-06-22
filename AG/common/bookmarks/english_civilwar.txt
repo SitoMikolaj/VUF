@@ -1,0 +1,11 @@
+bookmark =
+{
+	name = "ENGLISH_CIVILWAR_NAME"
+	desc = "ENGLISH_CIVILWAR_DESC"
+	date = 1643.9.25
+	
+	country = ENG
+	country = IRE
+	country = SCO
+
+}

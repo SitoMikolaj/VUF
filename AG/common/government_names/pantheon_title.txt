@@ -1,0 +1,357 @@
+###############################
+#
+# Ajout des titres nobliaires
+# du mod Panthéon
+#
+###############################
+
+
+transylvania_monarchy = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = PRINCIPALITY
+		3 = KINGDOM
+	}
+	ruler_male = {
+		1 = VOIVODE
+		2 = PRINCE
+		3 = KING
+	}
+	ruler_female = {
+		1 = VOJVODKINJA
+		2 = PRINCESS
+		3 = QUEEN
+	}
+	trigger = {
+		tag = TRA
+		government = monarchy
+	}
+}
+
+crete_monarchy = {
+	rank = {
+		1 = DUCHY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	ruler_male = {
+		1 = DUKE
+		2 = KING
+		3 = EMPEROR
+	}
+	ruler_female = {
+		1 = DUCHESS
+		2 = QUEEN
+		3 = EMPRESS
+	}
+	trigger = {
+		tag = CRT
+		government = monarchy
+	}
+}
+
+despotat_monarchy = {
+	rank = {
+		1 = DESPOTATE
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	ruler_male = {
+		1 = DESPOT
+		2 = AUTOKRATOR
+		3 = BASILEUS
+	}
+	ruler_female = {
+		1 = DESPOTISSA
+		2 = AUTOKRATEIRA 
+		3 = BASILISSA
+	}
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = EPI
+			tag = MOE
+		}
+	}
+}
+
+welsh_monarchy = {
+	rank = {
+		1 = DUCHY
+		2 = PRINCIPALITY
+		3 = KINGDOM
+	}
+	ruler_male = {
+		1 = DUKE
+		2 = PRINCE
+		3 = KING
+	}
+	ruler_female = {
+		1 = DUCHESS
+		2 = PRINCESS
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		primary_culture = welsh
+	}
+}
+
+limoges_monarchy = {
+	rank = {
+		1 = VISCOUNTY
+		2 = DUCHY
+		3 = KINGDOM
+	}	
+	ruler_male = {
+		1 = VISCOUNT
+		2 = DUKE
+		3 = KING
+	}	
+	ruler_female = {
+		1 = VISCOUNTESS
+		2 = DUCHESS	
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		tag = LMG
+	}
+}
+
+french_monarchy = {
+	rank = {
+		1 = COUNTY
+		2 = DUCHY
+		3 = KINGDOM
+	}	
+	ruler_male = {
+		1 = COUNT
+		2 = DUKE
+		3 = KING
+	}	
+	ruler_female = {
+		1 = COUNTESS
+		2 = DUCHESS	
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		culture_group = french
+		OR = {
+			tag = AMG
+			tag = AVI
+			tag = CHP
+			tag = COR
+			tag = DAU
+			tag = FOI
+			tag = NEV
+			tag = PIC
+			tag = TOU
+			tag = MNE
+			tag = PGD
+			tag = HAI			
+		}
+	}
+}
+
+landgrave_monarchy = {
+	rank = {
+		1 = LANDGRAVIAT
+		2 = DUCHY
+		3 = KINGDOM
+	}	
+	ruler_male = {
+		1 = LANDGRAVE
+		2 = DUKE
+		3 = KING
+	}	
+	ruler_female = {
+		1 = LANDGRAVINE
+		2 = DUCHESS	
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		culture_group = germanic
+		OR = {
+			tag = ALS
+			tag = HES
+			tag = THU
+		}
+	}
+}
+
+palatinat_monarchy = {
+	rank = {
+		1 = PALATIN
+		2 = DUCHY
+		3 = KINGDOM
+	}	
+	ruler_male = {
+		1 = PALATIN_M
+		2 = DUKE
+		3 = KING
+	}	
+	ruler_female = {
+		1 = PALATIN_F
+		2 = DUCHESS	
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		tag = PAL
+	}
+}
+
+german_monarchy = {
+	rank = {
+		1 = COUNTY
+		2 = DUCHY
+		3 = KINGDOM
+	}
+	ruler_male = {
+		1 = COUNT
+		2 = DUKE
+		3 = KING
+	}	
+	ruler_female = {
+		1 = COUNTESS
+		2 = DUCHESS	
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		culture_group = germanic
+		OR = {
+			tag = ANH
+			tag = EFR
+			tag = OLD
+			tag = SWI
+			tag = NSA
+			tag = GRZ
+			tag = WUR
+			tag = FLA
+			tag = HOL
+		}
+	}
+}
+
+margraviat_monarchy = {
+	rank = {
+		1 = MARGRAVIAT
+		2 = DUCHY
+		3 = KINGDOM
+	}	
+	ruler_male = {
+		1 = MARGRAVE
+		2 = DUCHY
+		3 = KINGDOM
+	}
+	ruler_female = {
+		1 = MARGRAVINE
+		2 = DUCHESS	
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		culture_group = germanic
+		OR = {
+			tag = ANS
+			tag = BRA
+			tag = MEI
+		}
+	}
+}
+
+margraviat_baden = {
+	rank = {
+		1 = MARGRAVIAT
+		2 = GRAND_DUCHY
+		3 = KINGDOM
+	}
+	ruler_male = {
+		1 = MARGRAVE
+		2 = GRAND_DUKE
+		3 = KING
+	}
+	ruler_female = {
+		1 = MARGRAVINE
+		2 = GRAND_DUCHESS
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		tag = BAD
+	}
+}
+
+catalan_monarchy = {
+	rank = {
+		1 = COUNTY
+		2 = PRINCIPALITY
+		3 = KINGDOM
+	}	
+	ruler_male = {
+		1 = COUNT
+		2 = PRINCE
+		3 = KING
+	}	
+	ruler_female = {
+		1 = COUNTESS
+		2 = PRINCESS
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		primary_culture = catalan
+	}
+}
+
+marquisat_monarchy = {
+	rank = {
+		1 = MARQUISAT
+		2 = DUCHY
+		3 = KINGDOM
+	}	
+	ruler_male = {
+		1 = MARQUIS
+		2 = DUCHY
+		3 = KINGDOM
+	}
+	ruler_female = {
+		1 = MARQUISE
+		2 = DUCHESS	
+		3 = QUEEN
+	}
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = MFA
+			tag = MAN
+			tag = FER
+		}
+	}
+}
+
+georgian_monarchy = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	ruler_male = {
+		1 = PRINCE
+		2 = KING
+		3 = EMPEROR
+	}
+	ruler_female = {
+		1 = PRINCESS
+		2 = QUEEN
+		3 = EMPRESS
+	}
+	trigger = {
+		government = monarchy
+		primary_culture = georgian
+	}
+}

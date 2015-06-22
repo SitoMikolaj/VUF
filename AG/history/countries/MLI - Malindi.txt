@@ -1,5 +1,4 @@
 government = tribal_kingdom
-mercantilism = 0.1
 primary_culture = swahili
 religion = sunni
 technology_group = indian

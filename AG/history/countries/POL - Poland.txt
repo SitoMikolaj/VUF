@@ -1,5 +1,4 @@
-government = elective_monarchy
-mercantilism = 0.1
+government = feudal_monarchy
 primary_culture = polish
 religion = catholic
 technology_group = eastern
@@ -145,6 +144,7 @@ national_focus = ADM
 		dip = 4
 		mil = 1
 	}
+	government = elective_monarchy
 }
 
 1458.10.3 = {
@@ -535,7 +535,9 @@ national_focus = ADM
 		dip = 1
 		mil = 3
 	}
-	government = feudal_duchy
+	government = feudal_monarchy
 }
 
-#9 juin 1815 : dissolution
+1807.7.9 = {
+	government_rank = 1
+}

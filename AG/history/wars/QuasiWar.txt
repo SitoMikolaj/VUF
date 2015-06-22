@@ -1,5 +1,4 @@
 name = "Quasi-guerre"
-#casus_belli = cb_trade_war
 war_goal = {
 	type = superiority_trade_mutual
 	casus_belli = cb_trade_war
@@ -26,7 +25,7 @@ war_goal = {
 			losses = 40	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -46,7 +45,7 @@ war_goal = {
 			losses = 5	# percent
 			country = FRA
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -66,7 +65,7 @@ war_goal = {
 			losses = 65	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -86,7 +85,7 @@ war_goal = {
 			losses = 60	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -106,7 +105,7 @@ war_goal = {
 			losses = 50	# percent
 			country = FRA
 		}
-		result = win
+		result = yes
 	}
 }
 

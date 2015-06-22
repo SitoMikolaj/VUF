@@ -1,13 +1,6 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = 1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
-primary_culture = lombard
+government = feudal_monarchy
+government_rank = 1
+primary_culture = romagnan
 religion = catholic
 technology_group = western
 capital = 105	# Parma
@@ -38,6 +31,8 @@ fixed_capital = 105 # Cannot move capital away from this province & no power cos
 		mil = 4
 	}
 }
+
+1545.10.20 = { government = despotic_monarchy }
 
 1547.9.11 = {
 	monarch = {
@@ -139,6 +134,8 @@ fixed_capital = 105 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
+
+1622.3.6 = { government = absolute_monarchy }
 
 1628.4.28 = {
 	monarch = {
@@ -252,6 +249,8 @@ fixed_capital = 105 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
+
+1731.1.21 = { government = enlightened_despotism }
 
 1731.1.21 = {
 	monarch = {
@@ -386,5 +385,15 @@ fixed_capital = 105 # Cannot move capital away from this province & no power cos
 		adm = 1
 		dip = 2
 		mil = 2
+	}
+}
+
+1814.5.30 = {
+	monarch = {
+		name = "Maria Luigia"
+		dynasty = "de Bourbon"
+		adm = 4
+		dip = 3
+		mil = 1
 	}
 }

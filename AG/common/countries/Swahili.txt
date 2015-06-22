@@ -73,7 +73,7 @@ monarch_names = {
 	"Muksedi #0" = 2
 	
 	"Mwana Mwema #0" = -10
-	"Fatima #0" = -10
+	"Fâtima #0" = -10
 }
 
 leader_names = {

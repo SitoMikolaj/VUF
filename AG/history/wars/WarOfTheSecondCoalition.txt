@@ -1,5 +1,4 @@
 name = "Guerre de la Seconde Coalition"
-#casus_belli = cb_imperial
 war_goal = {
 	type = superiority_revolution
 	casus_belli = cb_spread_the_revolution
@@ -61,7 +60,7 @@ war_goal = {
 			losses = 5	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -81,7 +80,7 @@ war_goal = {
 			losses = 1	# percent
 			country = TUR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -101,7 +100,7 @@ war_goal = {
 			losses = 3	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -121,7 +120,7 @@ war_goal = {
 			losses = 9	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -141,7 +140,7 @@ war_goal = {
 			losses = 18	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -168,7 +167,7 @@ war_goal = {
 			losses = 16	# percent
 			country = RUS
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -188,7 +187,7 @@ war_goal = {
 			losses = 37	# percent
 			country = RUS
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -212,7 +211,7 @@ war_goal = {
 			losses = 43	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -234,7 +233,7 @@ war_goal = {
 			losses = 3	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -256,7 +255,7 @@ war_goal = {
 			losses = 13	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -284,7 +283,7 @@ war_goal = {
 			losses = 20	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 

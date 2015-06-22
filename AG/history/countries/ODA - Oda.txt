@@ -1,4 +1,5 @@
 government = daimyo
+government_rank = 1
 primary_culture = japanese
 religion = shinto
 technology_group = chinese
@@ -95,9 +96,6 @@ capital = 1030	# owari
 }
 
 1568.1.1 = { leader = {	name = "Asai Nagamasa"  type = general	rank = 3 fire = 1 shock = 3	manuever = 2 siege = 0	death_date = 1570.1.1 } }
-
-1568.9.26 = { set_country_flag = yamashiro_taken }
-1568.10.18 = { set_country_flag = shogun_puppet }
 
 1569.1.1 = { leader = {	name = "Kuki Yoshitaka"  type = admiral	rank = 4 fire = 4 shock = 3	manuever = 4 siege = 0	death_date = 1582.6.21 } }
 

@@ -1,6 +1,7 @@
 government = steppe_horde
+government_rank = 1
 primary_culture = oirats
-religion = buddhism
+religion = vajrayana
 technology_group = nomad_group
 capital = 2122	# hami
 

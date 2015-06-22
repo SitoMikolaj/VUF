@@ -1,5 +1,5 @@
 government = feudal_monarchy
-mercantilism = 0.1
+government_rank = 1
 primary_culture = kanauji
 religion = hinduism
 technology_group = indian
@@ -53,6 +53,7 @@ fixed_capital = 525 # Cannot move capital away from this province & no power cos
 		ADM = 2
 	}
 	primary_culture = marathi
+	government_rank = 2
 }
 
 1731.1.1 = {

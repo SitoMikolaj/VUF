@@ -93,20 +93,6 @@ vassal = {
 	end_date = 1490.1.1
 }
 
-#vassal = {
-#	first = ZAN
-#	second = MBA
-#	start_date = 1444.1.1
-#	end_date = 1490.1.1
-#}
-
-#vassal = {
-#	first = ZAN
-#	second = MLI
-#	start_date = 1444.1.1
-#	end_date = 1490.1.1
-#}
-
 protectorate = {
 	first = POR
 	second = ZAN
@@ -173,7 +159,7 @@ march = {
 }
 
 # Le controle marinide
-vassal = {
+alliance = {
 	first = MOR
 	second = FEZ
 	start_date = 1398.1.1

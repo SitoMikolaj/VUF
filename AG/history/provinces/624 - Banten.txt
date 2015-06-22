@@ -8,10 +8,10 @@ religion = hinduism
 capital = "Bandung"
 trade_goods = spices
 hre = no
-base_tax = 4
-manpower = 3
-citysize = 12005
-fort1 = yes
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
@@ -19,18 +19,13 @@ discovered_by = ottoman
 
 1509.1.1 = { discovered_by = POR }
 1521.1.1 = { discovered_by = SPA }
-1527.1.1  = {
-		owner = BAN
-		controller = BAN
-		add_core = BAN
-		remove_core = SUN
+1527.1.1 = {
+	owner = BAN
+	controller = BAN
+	add_core = BAN
+	remove_core = SUN
 } # Conquered by the Cirebonese Army and Banten Sultanate was established
 1530.1.1 = { religion = sunni }
-1600.1.1  = { citysize = 49505 }
-1602.1.1  = { discovered_by = ENG } # English settlement
+1602.1.1 = { discovered_by = ENG } # English settlement
 1604.1.1 = { religion = sunni }
-1650.1.1  = { citysize = 11105 }
-1700.1.1  = { citysize = 12700 }
 1707.5.12 = { discovered_by = GBR }
-1750.1.1  = { citysize = 13430 } 
-1800.1.1  = { citysize = 15465 }

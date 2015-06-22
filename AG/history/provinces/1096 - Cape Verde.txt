@@ -3,27 +3,23 @@
 capital = "Santiago"
 trade_goods = unknown
 hre = no
-base_tax = 1
-manpower = 1
+base_tax = 1 
+base_production = 1
+base_manpower = 1
 native_size = 0
 native_ferocity = 0
 native_hostileness = 0
 
-1457.1.1 = {	discovered_by = POR
-	   	owner = POR
-	   	controller = POR
-	   	add_core = POR
-	   	citysize = 250
-	   	trade_goods = slaves
-	   	culture = portugese
-	   	religion = catholic
-		capital = "Ribeira Grande"
-	   }
-1500.1.1 = { citysize = 544 trade_goods = fish }
-1550.1.1 = { citysize = 690 }
-1600.1.1 = { citysize = 820 }
-1650.1.1 = { citysize = 1500 }
-1700.1.1 = { citysize = 1920 }
-1750.1.1 = { citysize = 2645 }
+1457.1.1 = {
+	discovered_by = POR
+	owner = POR
+	controller = POR
+	add_core = POR
+	is_city = yes
+	trade_goods = slaves
+	culture = portugese
+	religion = catholic
+	capital = "Ribeira Grande"
+}
+1500.1.1 = { trade_goods = fish }
 1770.1.1 = { capital = "Praia" }
-1800.1.1 = { citysize = 3122 }

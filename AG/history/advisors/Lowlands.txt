@@ -728,8 +728,6 @@ advisor = {
 #Regnier de Graaf, natural_scientist, 1671.7.30
 #Jan Palfijn, natural_scientist, 1680.1.1
 #Van Musschenbroek, natural_scientist, 1722.3.14
-#Betje Wolff, artist, 1768.7.24
-#Aagje Deken, artist, 1771.1.1
 #John Goodricke, natural_scientist, 1794.9.17
 
 # CURRENT TOTAL IS = 65
@@ -1062,26 +1060,6 @@ advisor = {
 	type = natural_scientist
 	date = 1722.3.14
 	death_date = 1761.9.19
-}
-
-advisor = {
-	advisor_id = 3329
-	name = "Betje Wolff" # femme écrivain
-	location = 97
-	skill = 3
-	type = artist
-	date = 1768.7.24
-	death_date = 1804.11.5
-}
-
-advisor = {
-	advisor_id = 3340
-	name = "Aagje Deken" # femme écrivain
-	location = 97
-	skill = 2
-	type = artist
-	date = 1771.1.1
-	death_date = 1804.11.14
 }
 
 advisor = {

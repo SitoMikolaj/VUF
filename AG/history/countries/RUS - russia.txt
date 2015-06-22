@@ -1,12 +1,5 @@
-government = imperial_government
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 3
-#innovative_narrowminded = 3
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -3
-#quality_quantity = 3
-#serfdom_freesubjects = -5
+government = feudal_monarchy
+government_rank = 3
 primary_culture = russian
 culture_group_union = east_slavic
 religion = orthodox
@@ -567,6 +560,8 @@ capital = 295 # Moskva
 	}
 }
 
+1696.2.8 = { government = absolute_monarchy }
+
 1696.2.8 = {
 	heir = {
 		name = "Aleksey"
@@ -818,6 +813,8 @@ capital = 295 # Moskva
 		mil = 1
 	}
 }
+
+1762.6.30 = { government = enlightened_despotism }
 
 1762.6.30 = { leader = { name = "Grigori Spiridov"              	type = admiral		rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1774.1.1 } }
 

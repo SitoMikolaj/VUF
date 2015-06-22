@@ -1,5 +1,4 @@
 name = "Invasion moghole de Bîjâpur"
-#casus_belli = cb_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest

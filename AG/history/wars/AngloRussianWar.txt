@@ -1,5 +1,4 @@
 name = "Guerre anglo-russe"
-#casus_belli = cb_trade_war
 war_goal = {
 	type = superiority_trade_mutual
 	casus_belli = cb_trade_war
@@ -30,7 +29,7 @@ war_goal = {
 			losses = 1	# percent
 			country = GBR
 		}
-		result = loss
+		result = no
 	}
 }
 

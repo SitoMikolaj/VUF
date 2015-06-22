@@ -12,7 +12,7 @@ union = {
 	second = PLC
 	start_date = 1574.5.30
 	end_date = 1575.1.1
-	}
+}
 
 # France-Genoa
 union = {
@@ -21,6 +21,15 @@ union = {
 	start_date = 1458.1.1
 	end_date = 1461.1.1
 }
+
+# Nevers as vassal after Burgundy
+vassal = {
+	first = BUR
+	second = NEV
+	start_date = 1477.1.5
+	end_date = 1539.1.1 
+}
+
 
 # Provence and Lorraine under René of Anjou
 alliance = { 				#1.9.2 = Vassal, changement d'elryck
@@ -60,47 +69,6 @@ alliance = {
 	end_date = 1441.1.2
 }
 
-# Foix, a French vassal
-vassal = {
-	first = FRA
-	second = FOI
-	start_date = 1399.1.1
-	end_date = 1479.2.13
-}
-
-# Orleanais, a French vassal
-vassal = {
-	first = FRA
-	second = ORL
-	start_date = 1392.1.1
-	end_date = 1498.4.7
-}
-
-
-# Armagnac, a French vassal
-vassal = {
-	first = FRA
-	second = AMG
-	start_date = 1365.1.1
-	end_date = 1549.12.22
-}
-
-# Auvergne, a French vassal
-vassal = {
-	first = FRA
-	second = AUV
-	start_date = 1399.1.1
-	end_date = 1589.1.5
-}
-
-# Bourbonnais, a French vassal
-vassal = {
-	first = FRA
-	second = BOU
-	start_date = 1399.1.1
-	end_date = 1537.1.5
-}
-
 # Lorraine, a French vassal
 vassal = {
 	first = FRA
@@ -130,7 +98,7 @@ vassal = {
 	first = FRA
 	second = NEV
 	start_date = 1465.1.1
-	end_date = 1539.1.1
+	end_date = 1477.1.5
 }
 
 # The Batavian Republic & later the kingdom of Holland
@@ -333,14 +301,6 @@ vassal = {
 	end_date = 1813.10.13
 }
 
-# The Batavian Republic & later the kingdom of Holland
-alliance = {
-	first = FRA
-	second = NED
-	start_date = 1795.1.19
-	end_date = 1813.11.30
-}
-
 # Switzerland and Austria (League of Constance)
 alliance = {
 	first = SWI
@@ -357,9 +317,7 @@ alliance = {
 	end_date = 1477.1.6
 }
 
-
 # Auld Alliance
-#alliance = {
 guarantee = {
 	first = FRA
 	second = SCO
@@ -648,27 +606,11 @@ union = {
 }
 
 # Etruria and France
-alliance = {
-	first = FRA
-	second = ETR
-	start_date = 1801.3.21
-	end_date = 1807.12.10
-}
-
-# Etruria and France
 vassal = {
 	first = FRA
 	second = ETR
 	start_date = 1801.3.21
 	end_date = 1807.12.10
-}
-
-# Cleves and France
-alliance = {
-	first = FRA
-	second = KLE
-	start_date = 1806.7.12
-	end_date = 1813.11.30
 }
 
 # Cleves and France
@@ -680,25 +622,9 @@ vassal = {
 }
 
 # Poland and France
-alliance = {
-	first = FRA
-	second = POL
-	start_date = 1807.7.9
-	end_date = 1814.4.11
-}
-
-# Poland and France
 vassal = {
 	first = FRA
 	second = POL
-	start_date = 1807.7.9
-	end_date = 1814.4.11
-}
-
-# Danzig and France
-alliance = {
-	first = FRA
-	second = DNZ
 	start_date = 1807.7.9
 	end_date = 1814.4.11
 }
@@ -734,22 +660,6 @@ vassal = {
 	start_date = 1806.3.11
 	end_date = 1814.1.11
 }
-
-# Naples
-alliance = {
-	first = FRA
-	second = NAP
-	start_date = 1806.3.11
-	end_date = 1814.1.11
-}
-
-# Charles VII and Marie of Anjou
-#royal_marriage = {
-#	first = FRA
-#	second = NAP
-#	start_date = 1422.10.22
-#	end_date = 1461.7.22
-#}
 
 # Charles VIII of France and Anne of Brittany
 royal_marriage = {
@@ -859,6 +769,47 @@ guarantee = {
 # Mod Montjoie
 #######################
 
+# Foix
+vassal = {
+	first = FRA
+	second = FOI
+	start_date = 1399.1.1
+	end_date = 1479.2.13
+}
+
+# Orleanais
+vassal = {
+	first = FRA
+	second = ORL
+	start_date = 1392.1.1
+	end_date = 1498.4.7
+}
+
+
+# Armagnac
+vassal = {
+	first = FRA
+	second = AMG
+	start_date = 1365.1.1
+	end_date = 1549.12.22
+}
+
+# Auvergne
+vassal = {
+	first = FRA
+	second = AUV
+	start_date = 1399.1.1
+	end_date = 1589.1.5
+}
+
+# Bourbonnais
+vassal = {
+	first = FRA
+	second = BOU
+	start_date = 1399.1.1
+	end_date = 1537.1.5
+}
+
 #Alençon
 vassal = {
 	first = FRA
@@ -875,7 +826,7 @@ vassal = {
 	end_date = 1584.6.10
 }
 
-# Dauphiné, a French vassal
+# Dauphiné
 vassal = {
 	first = FRA
 	second = DAU
@@ -883,15 +834,7 @@ vassal = {
 	end_date = 1456.8.30
 }
 
-#France-Burgundy
-alliance = {
-	first = FRA
-	second = BUR
-	start_date = 1435.6.11
-	end_date = 1453.1.1
-}
-
-#France-Brittany
+#Bretagne
 alliance = {
 	first = FRA
 	second = BRI
@@ -923,14 +866,6 @@ union = {
 	end_date = 1405.3.16
 }
 
-# Bourgogne et Nevers # Changement Vassal -> Alliance
-alliance = {
-	first = BUR
-	second = NEV
-	start_date = 1405.3.16
-	end_date = 1477.1.5
-}
-
 # France et Nevers
 vassal = {
 	first = FRA
@@ -939,6 +874,7 @@ vassal = {
 	end_date = 1564.1.1
 }
 
+# Provence
 royal_marriage = { 	
 	first = PRO
 	second = LOR
@@ -954,7 +890,7 @@ vassal = {
 	end_date = 1481.12.10
 }
 
-# Berry, a French vassal
+# Berry
 vassal = {
 	first = FRA
 	second = BER
@@ -962,7 +898,6 @@ vassal = {
 	end_date = 1465.10.5
 }
 
-# Berry, a French vassal
 vassal = {
 	first = FRA
 	second = BER

@@ -1,5 +1,4 @@
-government = native_council
-mercantilism = 0.1
+government = native_council government_rank = 1
 primary_culture = mapuche
 religion = animism
 technology_group = south_american
@@ -8,7 +7,7 @@ capital = 784
 
 1444.1.1 = {
 	monarch = {
-		name = "(Conseil indigène)"
+		name = "(Grand Conseil)"
 		adm = 3
 		dip = 3
 		mil = 3
@@ -72,7 +71,7 @@ capital = 784
 
 1640.1.1 = {
 	monarch = {
-		name = "(Conseil indigène)"
+		name = "(Grand Conseil)"
 		adm = 3
 		dip = 3
 		mil = 3

@@ -1,5 +1,4 @@
 #Manipur
-
 vassal = {
 	first = TAU
 	second = MLB
@@ -15,7 +14,6 @@ vassal = {
 }
 
 #Ladakh
-
 vassal = {
 	first = AFG
 	second = LDK
@@ -24,8 +22,7 @@ vassal = {
 }
 
 #Patiala
-
-vassal = {
+protectorate = {
 	first = GBR
 	second = PTA
 	start_date = 1803.1.1
@@ -33,7 +30,6 @@ vassal = {
 }
 
 #Janjira
-
 march = {
 	first = AHM
 	second = JAJ
@@ -49,14 +45,14 @@ march = {
 }
 
 #Tripura
-vassal = {
+protectorate = {
 	first = MUG
 	second = TPR
 	start_date = 1620.1.1
 	end_date = 1640.1.1
 }
 
-vassal = {
+protectorate = {
 	first = GBR
 	second = TPR
 	start_date = 1808.1.1
@@ -64,7 +60,6 @@ vassal = {
 }
 
 #Jharkhand / Chota Nagpur
-
 vassal = {
 	first = MUG
 	second = NGP
@@ -101,7 +96,8 @@ vassal = {
 	end_date = 1436.1.1
 }
 
-guarantee = {	#Tributary to Malwa
+#Tributary to Malwa
+guarantee = {
 	first = MLW
 	second = BGA
 	start_date = 1436.1.1
@@ -157,7 +153,6 @@ vassal = {
 }
 
 # Zamorins
-
 guarantee = {  #Zamorin rulers are tributary to Vijayanagara kings
 	first = VIJ
 	second = MAB
@@ -165,14 +160,16 @@ guarantee = {  #Zamorin rulers are tributary to Vijayanagara kings
 	end_date = 1540.1.1
 }
 
-vassal = {  #Zamorin favours the portuguese
+#Zamorin favours the Portuguese
+vassal = {  
 	first = POR
 	second = MAB
 	start_date = 1540.1.1
 	end_date = 1571.9.15
 }
 
-vassal = {  #Zamorin favours the dutch
+#Zamorin favours the dutch
+vassal = {
 	first = NED
 	second = MAB
 	start_date = 1604.1.1
@@ -705,16 +702,6 @@ vassal = {
 	end_date = 1531.1.1
 }
 
-#Ceylon
-
-#Vassal of China after Zeng He's visit
-#vassal = {
-#	first = MNG
-#	second = CEY
-#	start_date = 1411.1.1
-#	end_date = 1459.1.1
-#}
-
 #Suri Empire (Bengal)
 
 #Vassal of Suri Empire
@@ -1158,14 +1145,14 @@ alliance = {
 	first = MAR
 	second = BDA
 	start_date = 1721.1.1
-	end_date = 1772.1.1 #Under british influence instead
+	end_date = 1772.1.1 #Under British influence instead
 }
 
 alliance = {
 	first = MAR
 	second = GWA
 	start_date = 1721.1.1
-	end_date = 1771.12.30 #Under british influence instead
+	end_date = 1771.12.30 #Under British influence instead
 }
 
 alliance = {

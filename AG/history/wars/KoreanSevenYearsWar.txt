@@ -1,5 +1,4 @@
 name = "Guerre d'Imjin"
-#casus_belli = cb_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -30,7 +29,7 @@ war_goal = {
 			losses = 90	# percent
 			country = KOR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -50,7 +49,7 @@ war_goal = {
 			losses = 34	# percent
 			country = KOR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -70,7 +69,7 @@ war_goal = {
 			losses = 38	# percent
 			country = KOR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -92,7 +91,7 @@ war_goal = {
 			losses = 60	# percent
 			country = JAP
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -112,7 +111,7 @@ war_goal = {
 			losses = 40	# percent
 			country = KOR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -137,7 +136,7 @@ war_goal = {
 			losses = 64	# percent
 			country = JAP
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -157,7 +156,7 @@ war_goal = {
 			losses = 8	# percent
 			country = JAP
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -177,7 +176,7 @@ war_goal = {
 			losses = 35	# percent
 			country = MNG
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -197,7 +196,7 @@ war_goal = {
 			losses = 0	# percent
 			country = KOR
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -217,7 +216,7 @@ war_goal = {
 			losses = 93	# percent
 			country = KOR
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -237,7 +236,7 @@ country = JAP
 			losses = 87	# percent
 			country = MNG
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -258,7 +257,7 @@ country = JAP
 			losses = 9	# percent
 			country = JAP
 		}
-		result = loss
+		result = no
 	}
 }
 

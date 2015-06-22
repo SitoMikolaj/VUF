@@ -1,5 +1,4 @@
 name = "Guerre de Calicut"
-#casus_belli = cb_imperial
 war_goal = {
 	type = superiority_overseas
 	casus_belli = cb_overseas

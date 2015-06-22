@@ -1,5 +1,4 @@
 name = "Première guerre polono-suédoise"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -29,7 +28,7 @@ war_goal = {
 			losses = 59	# percent
 			country = SWE
 		}
-		result = win
+		result = yes
 	}
 }
 

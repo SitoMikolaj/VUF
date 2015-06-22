@@ -1,5 +1,4 @@
 name = "Guerre de Dévolution"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -30,7 +29,7 @@ war_goal = {
 			losses = 10	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 

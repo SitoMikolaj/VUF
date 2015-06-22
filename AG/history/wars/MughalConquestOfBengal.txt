@@ -1,5 +1,4 @@
 name = "Expulsion des Karrani du Bengale par les Moghols"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest

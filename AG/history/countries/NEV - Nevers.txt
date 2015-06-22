@@ -1,12 +1,5 @@
-government = feudal_county
-#aristocracy_plutocracy = -1
-#centralization_decentralization = -5
-#innovative_narrowminded = 3
-mercantilism = 0.1
-#offensive_defensive = 4
-#land_naval = -4
-#quality_quantity = 3
-#serfdom_freesubjects = -3
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = burgundian
@@ -321,3 +314,7 @@ fixed_capital = 191 # Cannot move capital away from this province & no power cos
 }
 
 # Fin ici en 1565 car comté hérité par les ducs de Mantoue puis vendu à Mazarin et ses enfants
+
+1659.7.11 = { government = administrative_monarchy } # Mazarin
+
+1661.3.9 = { government = absolute_monarchy }

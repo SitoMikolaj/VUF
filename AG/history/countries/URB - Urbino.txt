@@ -1,17 +1,10 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = 1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
+government = feudal_monarchy
+government_rank = 1
 technology_group = western
 primary_culture = umbrian
 religion = catholic
-capital = 119	# Urbino
-fixed_capital = 119 # Cannot move capital away from this province & no power cost to move to it
+capital = 2977	# Urbino
+fixed_capital = 2977 # Cannot move capital away from this province & no power cost to move to it
 
 #Dukes of Urbino
 1363.1.1 = {

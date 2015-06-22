@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -1
-#centralization_decentralization = -4
-#innovative_narrowminded = -1
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = 0
-#serfdom_freesubjects = 2
+government = feudal_monarchy
+government_rank = 1
 primary_culture = burgundian
 religion = catholic
 technology_group = western
@@ -329,6 +322,8 @@ capital = 189	# Nancy
 	}
 }
 
+1556.10.2 = { government = absolute_monarchy }
+
 1559.2.18 = {
 	monarch = {
 		name = "Charles III"
@@ -378,6 +373,7 @@ capital = 189	# Nancy
 		mil = 0
 	}
 }
+
 
 1624.1.1 = {
 	monarch = {
@@ -430,6 +426,8 @@ capital = 189	# Nancy
 		mil = 1
 	}
 }
+
+1624.9.1 = { government = administrative_monarchy }
 
 1634.1.1 = {
 	join_league = catholic
@@ -561,3 +559,5 @@ capital = 189	# Nancy
 		mil = 3
 	}
 }
+
+1766.2.22 = { government = absolute_monarchy }

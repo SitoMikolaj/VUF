@@ -1,5 +1,4 @@
 name = "Guerre napolitaine"
-#casus_belli = cb_offensive_call/wargoal defend_country
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -31,7 +30,7 @@ war_goal = {
 			losses = 5	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -51,7 +50,7 @@ war_goal = {
 			losses = 4	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -71,7 +70,7 @@ war_goal = {
 			losses = 4	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -91,7 +90,7 @@ war_goal = {
 			losses = 5	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -111,7 +110,7 @@ war_goal = {
 			losses = 10	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -131,7 +130,7 @@ war_goal = {
 			losses = 10	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -151,7 +150,7 @@ war_goal = {
 			losses = 5	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -173,7 +172,7 @@ war_goal = {
 			losses = 5	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -197,7 +196,7 @@ war_goal = {
 			losses = 8	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -218,7 +217,7 @@ war_goal = {
 			losses = 5	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -239,7 +238,7 @@ war_goal = {
 			losses = 1	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -260,7 +259,7 @@ war_goal = {
 			losses = 1	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 
@@ -280,7 +279,7 @@ war_goal = {
 			losses = 5	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 

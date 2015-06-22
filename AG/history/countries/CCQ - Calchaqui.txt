@@ -1,5 +1,4 @@
 government = tribal_kingdom
-mercantilism = 0.1
 primary_culture = diaguita
 religion = inti
 technology_group = andean

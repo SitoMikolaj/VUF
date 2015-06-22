@@ -1,5 +1,4 @@
 name = "Guerre turco-polonaise"
-#casus_belli = cb_defender_of_the_faith
 war_goal = {
 	type = defend_country_faith
 	casus_belli = cb_defender_of_the_faith
@@ -32,7 +31,7 @@ war_goal = {
 			losses = 3			# percent 
 			country = MOL
 		} 
-		result = loss
+		result = no
 	} 
 } 
 

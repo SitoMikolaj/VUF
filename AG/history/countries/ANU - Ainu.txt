@@ -1,5 +1,5 @@
 government = siberian_native_council
-mercantilism = 0.1
+government_rank = 1
 primary_culture = ainu
 religion = animism
 technology_group = chinese
@@ -8,7 +8,7 @@ capital = 1852
 
 1444.11.11 = {
 	monarch = {
-		name = "(Conseil indigène)"
+		name = "(Grand Conseil)"
 		adm = 3
 		dip = 3
 		mil = 3

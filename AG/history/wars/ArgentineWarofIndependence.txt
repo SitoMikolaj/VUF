@@ -1,5 +1,4 @@
 name = "Guerre d'indépendance de l'Argentine"
-#casus_belli = cb_independence_war
 war_goal = {
 	type = defend_capital_independence
 	casus_belli = cb_independence_war
@@ -28,7 +27,7 @@ war_goal = {
 			losses = 58	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -48,7 +47,7 @@ war_goal = {
 			losses = 90	# percent
 			country = SPA
 		}
-		result = win
+		result = yes
 	}
 }
 

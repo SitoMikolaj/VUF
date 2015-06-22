@@ -33,7 +33,7 @@ war_goal = {
 			country = ARA
 		}
 
-		result = loss
+		result = no
 	}
 }
 
@@ -55,7 +55,7 @@ war_goal = {
 			losses = 5	# percent
 			country = CAS
 		}
-		result = loss
+		result = no
 	}
 }
 

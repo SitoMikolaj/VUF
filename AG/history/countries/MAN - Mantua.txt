@@ -1,13 +1,6 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = 1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
-primary_culture = lombard
+government = feudal_monarchy
+government_rank = 1
+primary_culture = romagnan
 religion = catholic
 technology_group = western
 capital = 109	# Mantova
@@ -164,6 +157,8 @@ capital = 109	# Mantova
 	}
 }
 
+1519.5.30 = { government = despotic_monarchy }
+
 1519.5.30 = {
 	monarch = {
 		name = "Federico II"
@@ -174,6 +169,8 @@ capital = 109	# Mantova
 		mil = 3
 	}
 }
+
+1530.1.1 = { government_rank = 2 }
 
 1533.3.10 = {
 	heir = {
@@ -406,6 +403,8 @@ capital = 109	# Mantova
 		mil = 1
 	}
 }
+
+1627.12.26 = { government = absolute_monarchy }
 
 1627.12.26 = {
 	monarch = {

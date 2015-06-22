@@ -29,7 +29,7 @@ war_goal = {
 			losses = 30	# percent
 			country = HAB
 		}
-		result = win
+		result = yes
 	}
 }
 
@@ -49,7 +49,7 @@ war_goal = {
 			losses = 10	# percent
 			country = HAB
 		}
-		result = loss
+		result = no
 	}
 }
 

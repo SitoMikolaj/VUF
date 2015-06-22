@@ -1,6 +1,6 @@
 government = steppe_horde
 primary_culture = oirats
-religion = buddhism
+religion = vajrayana
 technology_group = nomad_group
 capital = 718	# Kobdo
 

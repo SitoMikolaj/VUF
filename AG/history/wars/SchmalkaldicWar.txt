@@ -1,5 +1,4 @@
 name = "Guerre de Schmalkalden"
-#casus_belli = cb_religious_conformance
 war_goal = {
 	type = take_capital_conformance
 	casus_belli = cb_religious_conformance
@@ -8,6 +7,8 @@ war_goal = {
 
 1546.7.15 = {
 	add_attacker = SPA
+	add_attacker = HAB
+	add_attacker = BOH
 	add_defender = SAX
 	add_defender = HES
 	add_defender = ANH
@@ -25,6 +26,7 @@ war_goal = {
 	add_defender = FRN
 	add_defender = HAM
 	add_defender = HAN
+	add_defender = NSA
 }
 
 1547.4.24 = {
@@ -47,13 +49,15 @@ war_goal = {
 			losses = 55	#percent
 			country = SAX
 		}
-		result = win
+		result = yes
 	}
 }
 
 # Paix de Augsburg
 1555.9.25 = {
 	rem_attacker = SPA
+	rem_attacker = HAB
+	rem_attacker = BOH
 	rem_defender = SAX
 	rem_defender = HES
 	rem_defender = ANH
@@ -71,4 +75,5 @@ war_goal = {
 	rem_defender = FRN
 	rem_defender = HAM
 	rem_defender = HAN
+	rem_defender = NSA
 }

@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -2
-#centralization_decentralization = -5
-#innovative_narrowminded = 2
-mercantilism = 0.1
-#offensive_defensive = 5
-#land_naval = -4
-#quality_quantity = -3
-#serfdom_freesubjects = -3
+government = feudal_monarchy
+government_rank = 1
 primary_culture = cosmopolitan_french
 religion = catholic
 technology_group = western
@@ -18,7 +11,7 @@ fixed_capital = 184 # Cannot move capital away from this province & no power cos
 1392.1.1 = {
 	monarch = {
 		name = "Louis I"
-		dynasty = "de Valois"		
+		dynasty = "de Valois"
 		birth_date = 1372.3.13
 		adm = 1
 		dip = 3
@@ -102,6 +95,8 @@ fixed_capital = 184 # Cannot move capital away from this province & no power cos
 	}
 }
 
+1515.1.2 = { government = despotic_monarchy }
+
 # Troisième Apanage du duché par François Ier pour son troisième fils
 
 1536.8.10 = {
@@ -150,3 +145,7 @@ fixed_capital = 184 # Cannot move capital away from this province & no power cos
 		mil = 1
 	}
 }
+
+1589.8.3 = { government = administrative_monarchy }
+
+1661.3.9 = { government = absolute_monarchy }

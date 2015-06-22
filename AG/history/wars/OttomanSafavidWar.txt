@@ -1,5 +1,4 @@
 name = "Guerre Turco-Séfévide"
-#casus_belli = cb_conquest type = take_capital_conquest
 war_goal = {
 	type = take_claim
 	casus_belli = cb_conquest
@@ -33,7 +32,7 @@ war_goal = {
 			losses = 45	# percent
 			country = TUR
 		}
-		result = loss
+		result = no
 	}
 }
 

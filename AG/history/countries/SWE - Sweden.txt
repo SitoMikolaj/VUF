@@ -1,12 +1,4 @@
 government = elective_monarchy
-#aristocracy_plutocracy = -1
-#centralization_decentralization = 3
-#innovative_narrowminded = 0
-mercantilism = 0.1
-#offensive_defensive = 0
-#land_naval = -1
-#quality_quantity = -2
-#serfdom_freesubjects = 2
 technology_group = western
 unit_type = western
 primary_culture = swedish
@@ -471,8 +463,6 @@ national_focus = MIL
 
 #1614.1.1 = { decision = judiciary_act } # The Court of Appeals
 
-1620.1.1 = { mercantilism = 0.1 } # The mercantile Reforms
-
 1623.10.16 = {
 	heir = {
 		name = "Kristina Augusta"
@@ -506,6 +496,7 @@ national_focus = MIL
 		mil = 3
 	}
 }
+
 
 1630.1.1 = { leader = {	name = "Johan Banér"		type = general	rank = 1	fire = 4	shock = 5	manuever = 5	siege = 1	death_date = 1641.5.10 } }
 
@@ -642,7 +633,7 @@ national_focus = MIL
 	government = absolute_monarchy
 }
 
-1680.1.1 = { leader = {	name = "Gustaf Armfeldt"              	type = general	rank = 4	fire = 1	shock = 1	manuever = 3	siege = 3	death_date = 1736.10.24 } }
+1680.1.1 = { leader = {	name = "Gustaf Armfeldt"              	type = general	rank = 4	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1736.10.24 } }
 
 1682.6.17 = {
 	heir = {
@@ -756,12 +747,6 @@ national_focus = MIL
 
 1722.1.1 = { leader = {	name = "Charles Lewenhaupt"	type = general	rank = 1	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1743.8.4 } }
 
-1723.1.1 = { mercantilism = 0.1 } # The Product Act
-
-1738.1.1 = { mercantilism = 0.1 } # Swedish Parliament of 1738
-
-1746.1.1 = { mercantilism = 0.1 } # Swedish Parliament of 1746
-
 1747.1.1 = { leader = {	name = "Agustin Ehrensvärd"	type = general	rank = 1	fire = 4	shock = 4	manuever = 3	siege = 2	death_date = 1772.10.4 } }
 
 1750.1.1 = { leader = {	name = "Fredrik von Fersen"	type = general	rank = 1	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1794.4.24 } }
@@ -794,8 +779,6 @@ national_focus = MIL
 
 
 1755.1.1 = { leader = {	name = "Henrik af Trolle"	type = general	rank = 2	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1784.3.11 } }
-
-1760.1.1 = { mercantilism = 0.1 } # Swedish Parliament of 1760
 
 1771.2.13 = {
 	monarch = {

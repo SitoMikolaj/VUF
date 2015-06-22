@@ -1,5 +1,4 @@
 government = theocratic_government
-mercantilism = 0.1
 technology_group = indian
 unit_type = sub_saharan
 religion = sunni

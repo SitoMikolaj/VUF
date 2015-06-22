@@ -1,5 +1,4 @@
 name = "Première guerre mogholo-persane"
-#casus_belli = cb_conquest
 war_goal = {
 	type = take_core
 	casus_belli = cb_core

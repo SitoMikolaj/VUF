@@ -1,12 +1,5 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 2
-#innovative_narrowminded = -1
-mercantilism = 0.1
-#offensive_defensive = -3
-#land_naval = 4
-#quality_quantity = -1
-#serfdom_freesubjects = -2
+government = feudal_monarchy
+government_rank = 1
 primary_culture = occitain
 add_accepted_culture = cosmopolitan_french
 religion = catholic
@@ -199,4 +192,10 @@ fixed_capital = 201 # Cannot move capital away from this province & no power cos
 	}
 }
 
+1515.1.1 = { government = despotic_monarchy }
+
 1560.1.1 = { religion = reformed }
+
+1589.8.3 = { government = administrative_monarchy }
+
+1661.3.9 = { government = absolute_monarchy }

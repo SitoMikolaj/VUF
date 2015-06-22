@@ -68,7 +68,7 @@ leader_names = {
 }
 
 ship_names = {
-	Alia Arusa Dasht Fatimah
+	Alia Arusa Dasht Fâtima
 	Hormuz Indus Kech Khan
 	Mashkaal Nihing Niknaz Niloufa
 	Noor Rakhshan Salima Shameena

@@ -1,5 +1,4 @@
 name = "Guerre anglo-espagnole"
-#casus_belli = cb_defender_of_the_faith
 war_goal = {
 	type = take_capital_throne
 	casus_belli = cb_claim_throne
@@ -28,7 +27,7 @@ war_goal = {
 			country = ENG
 		}
 
-		result = win
+		result = yes
 	}
 }
 

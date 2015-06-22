@@ -1,18 +1,10 @@
-government = feudal_duchy
-#aristocracy_plutocracy = -3
-#centralization_decentralization = 4
-#innovative_narrowminded = 1
-mercantilism = 0.1
-#offensive_defensive = 1
-#land_naval = 1
-#quality_quantity = -1
-#serfdom_freesubjects = -2
-primary_culture = lombard
+government = feudal_monarchy
+government_rank = 1
+primary_culture = piedmontese
 religion = catholic
 technology_group = western
 capital = 205 # Chambéry
 
-1027.1.1 = { government = feudal_county }
 
 1383.3.1 = {
 	monarch = {
@@ -145,7 +137,7 @@ capital = 205 # Chambéry
 	}
 }
 
-1416.2.3 = {government = feudal_duchy }
+1416.2.3 = {government = feudal_monarchy }
 
 1431.8.17 = {
 	heir = {
@@ -450,6 +442,8 @@ capital = 205 # Chambéry
 1538.6.17 = {
 	capital = 102 # Nice
 }
+
+1553.8.18 = { government = despotic_monarchy }
 
 1553.8.18 = {
 	monarch = {

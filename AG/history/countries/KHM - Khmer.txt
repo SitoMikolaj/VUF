@@ -1,12 +1,4 @@
 government = despotic_monarchy
-#aristocracy_plutocracy = -2
-#centralization_decentralization = 3
-#innovative_narrowminded = 2
-mercantilism = 0.1
-#offensive_defensive = -1
-#land_naval = 0
-#quality_quantity = 3
-#serfdom_freesubjects = -2
 primary_culture = khmer
 religion = buddhism
 technology_group = chinese
@@ -564,6 +556,7 @@ capital = 604 # Phnom Penh
 		dip = 1
 		mil = 0
 	}
+	government_rank = 1
 }
 
 1779.1.1 = {

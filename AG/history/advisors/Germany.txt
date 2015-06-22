@@ -595,16 +595,6 @@ advisor = {
 }
 
 advisor = {
-	advisor_id = 3227
-	name = "Heinrich Chajim Fürst" #merchant, became very rich
-	location = 44 #Hamburg
-	skill = 2
-	type = trader
-	date = 1622.1.1	#30 years old
-	death_date = 1653.3.26 #couldn't find info on him
-}
-
-advisor = {
 	advisor_id = 549
 	name = "Martin Opitz" #During his life regarded as the greatest German poet 
 	location = 78 #Pfalz
@@ -1451,4 +1441,14 @@ advisor = {
 	type = natural_scientist
 	date = 1788.3.9 
 	death_date = 1828.8.22 
+}
+
+advisor = {
+	advisor_id = 3227
+	name = "Heinrich Chajim Fürst" #merchant, became very rich
+	location = 44 #Hamburg
+	skill = 2
+	type = trader
+	date = 1622.1.1	#30 years old
+	death_date = 1653.3.26 #couldn't find info on him
 }
